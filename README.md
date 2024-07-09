@@ -16,7 +16,7 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 - Graphic design (static and motion, print and video)
 
 ## Join the club 
-Get involved with our community or to get us involved with yours!
+Get involved with our community or get us involved with yours!
 
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub), [Youtube](https://www.youtube.com/@ZkAv_Club)
 
