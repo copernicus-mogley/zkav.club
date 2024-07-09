@@ -8,6 +8,8 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 
 Organized by Ryan Taylor aka [adjyLeak](https://youtube.com/adjyleak) 
 
+### History 
+
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 
