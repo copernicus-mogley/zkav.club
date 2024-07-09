@@ -8,7 +8,7 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 
 Organized by Ryan Taylor aka [Adjy Leak](https://youtube.com/adjyleak) 
 
-## Live event production: On-location and Online 
+## Live event production: On-location and online 
 
 - Event hype, community interaction and support
 - Audio/Video production equipment, plus setup and operation
