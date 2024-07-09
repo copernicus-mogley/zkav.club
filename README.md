@@ -21,7 +21,7 @@ Get involved with our community or get us involved with yours.
 - Graphic design (static and motion, print and video)
 
 ## History of Zk Av Club 
-- Created and organized by [Ryan Taylor](https://bitcoinmagazine.com/authors/ryan-taylor) aka [adjyLeak](https://youtube.com/adjyleak) 
+- Created and organized by [Ryan Taylor](https://bitcoinmagazine.com/authors/ryan-taylor) aka [adjyLeak](https://youtube.com/adjyleak) aka [copernicus-mogley](https://github.com/copernicus-mogley)
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 
