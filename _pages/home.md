@@ -12,12 +12,6 @@ Organized by Ryan Taylor aka Adjy Leak (youtube.com/adjyleak)
 
 - social links, etc
 
-## Thank you to our sponsors and donors 
-
-Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
-
-(Zcash Foundation) + (Least Authority) 
-
 ## Live event production: On-location and Online 
 
 - Event hype, community interaction and support
@@ -28,6 +22,12 @@ Zk Av Club activities are made possible by contributions from organizations, com
 - Restreaming to chat platforms and social networks
 - Stream localization: Live transcription and translation rebroadcasts 
 - Extra-event content creation (stories, interviews, podcasts, etc)
+
+## Thank you to our sponsors and donors 
+
+Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
+
+(Zcash Foundation) + (Least Authority) 
 
 ### Be a patron: Donate with Zcash today <3 
 
