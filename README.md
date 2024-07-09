@@ -18,7 +18,7 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 ## Join the club 
 Get involved with our community or get us involved with yours!
 
-[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub), [Youtube](https://www.youtube.com/@ZkAv_Club)
+[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
 ## Thank you to our sponsors and donors 
 Zk Av Club activities are entirely made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
