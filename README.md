@@ -8,12 +8,6 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 
 Organized by Ryan Taylor aka [Adjy Leak](https://youtube.com/adjyleak) 
 
-## Join the club 
-
-Get involved with our community or to get us involved with yours
-
-[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), mastodon[@zeal.center](https://zeal.center/@ZFAVClub)
-
 ## Live event production: On-location and Online 
 
 - Event hype, community interaction and support
@@ -24,6 +18,12 @@ Get involved with our community or to get us involved with yours
 - Extra on-location content creation (stories, interviews, podcasts, etc)
 - Video editing, clipping and publishing
 - Graphic design (static and motion, print and video)
+
+## Join the club 
+
+Get involved with our community or to get us involved with yours!
+
+[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), mastodon[@zeal.center](https://zeal.center/@ZFAVClub)
 
 ## Thank you to our sponsors and donors 
 
