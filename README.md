@@ -20,7 +20,7 @@ Organized by Ryan Taylor aka [adjyLeak](https://youtube.com/adjyleak)
 ## Join the club 
 Get involved with our community or to get us involved with yours!
 
-[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub)
+[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub), [Youtube](https://www.youtube.com/@ZkAv_Club)
 
 ## Zero-knowledge Audiovisual Club History 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
