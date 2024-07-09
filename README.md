@@ -1,8 +1,6 @@
 # Zero-knowledge Audiovisual Club
 
-We are a collective of students and experts collaborating within cutting-edge STEM communities to create audiovisual content, both on-location and online.
-
-Our mission is to preserve and share the valuable information presented and discussed at conferences, meetups, camps, and conventions.
+We are a collective of students and experts collaborating within cutting-edge STEM communities to create audiovisual content, both on-location and online. Our mission is to preserve and share the valuable information presented and discussed at conferences, meetups, camps, and conventions.
 
 We aim to provide access to this previously exclusive knowledge to the entire world, ensuring it is available for all time. 
 
