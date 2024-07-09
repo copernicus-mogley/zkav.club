@@ -27,9 +27,11 @@ Get involved with our community or to get us involved with yours!
 
 ## Thank you to our sponsors and donors 
 
-Zk Av Club activities are entirely made possible by contributions from organizations, communities and individuals who care about preservation and privacy. **Special THANKS** to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+Zk Av Club activities are entirely made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-> ZK AV Club is a throwback to the grass roots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, ZK AV Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the ZK AV Club! – Alex, COO, Zcash Foundation
+**Special THANKS** to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+
+> Zk Av Club is a throwback to the grass roots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! – Alex, COO, Zcash Foundation
 
 ### Be a patron: Donate with Zcash today <3 
 
