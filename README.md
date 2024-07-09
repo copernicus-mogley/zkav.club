@@ -6,7 +6,7 @@ Our mission is to preserve and share the valuable information presented and disc
 
 We aim to provide access to this previously exclusive knowledge to the entire world, ensuring it is available for all time. 
 
-Organized by Ryan Taylor aka Adjy Leak (youtube.com/adjyleak) 
+Organized by Ryan Taylor aka [Adjy Leak](https://youtube.com/adjyleak) 
 
 ## Join the club 
 
@@ -29,7 +29,7 @@ Get involved with our community or to get us involved with yours
 
 Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-(Zcash Foundation) + (Least Authority) 
+[Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
 
 ### Be a patron: Donate with Zcash today <3 
 
