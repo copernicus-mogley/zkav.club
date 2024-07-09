@@ -10,7 +10,9 @@ Organized by Ryan Taylor aka Adjy Leak (youtube.com/adjyleak)
 
 ## Join the club 
 
-- social links, etc
+Get involved with our community or to get us involved with yours
+
+[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), mastodon[@zeal.center](https://zeal.center/@ZFAVClub)
 
 ## Live event production: On-location and Online 
 
