@@ -6,7 +6,7 @@ Our mission is to preserve and share the valuable information presented and disc
 
 We aim to provide access to this previously exclusive knowledge to the entire world, ensuring it is available for all time. 
 
-Organized by Ryan Taylor aka [Adjy Leak](https://youtube.com/adjyleak) 
+Organized by Ryan Taylor aka [adjyLeak](https://youtube.com/adjyleak) 
 
 ## Live event production: On-location and online 
 
