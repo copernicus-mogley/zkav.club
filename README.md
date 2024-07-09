@@ -29,7 +29,7 @@ Get involved with our community or to get us involved with yours!
 
 Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-[Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+Special THANKS to [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
 
 ### Be a patron: Donate with Zcash today <3 
 
