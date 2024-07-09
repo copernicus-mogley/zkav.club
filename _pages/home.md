@@ -15,13 +15,13 @@ Organized by Ryan Taylor aka Adjy Leak (youtube.com/adjyleak)
 ## Live event production: On-location and Online 
 
 - Event hype, community interaction and support
-- Graphic design (static and motion, print and video)
 - Audio/Video production equipment, plus setup and operation
 - Livestream equipment, plus setup and operation
-- Video editing, clipping and publishing
 - Restreaming to chat platforms and social networks
 - Stream localization: Live transcription and translation rebroadcasts 
-- Extra-event content creation (stories, interviews, podcasts, etc)
+- Extra on-location content creation (stories, interviews, podcasts, etc)
+- Video editing, clipping and publishing
+- Graphic design (static and motion, print and video)
 
 ## Thank you to our sponsors and donors 
 
