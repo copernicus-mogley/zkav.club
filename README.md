@@ -11,7 +11,7 @@ Get involved with our community or get us involved with yours.
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
 ## Live event production: On-location and online 
-- Event hype, community interaction and support
+- Event hype, community interaction and live support
 - Audio/Video production equipment, plus setup and operation
 - Livestream equipment, plus setup and operation
 - Restreaming to chat platforms and social networks
