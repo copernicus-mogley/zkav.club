@@ -28,7 +28,7 @@ Get involved with our community or get us involved with yours.
 ## Thank you to our sponsors and donors 
 Zk Av Club activities are entirely made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-**Extra Special THANKS** to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+*Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
 
 ### Become a patron <3 
 Donate with [Zcash](https://z.cash) today
