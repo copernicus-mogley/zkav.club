@@ -42,10 +42,8 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 
 – Alex, COO, Zcash Foundation 
 
----
 
 > For years, Ryan Taylor and the Zk Av Club have provided exceptional live streaming for Bitcoin and cryptocurrency events, ensuring global reach and high-quality broadcasts. Their dedication is unmatched. 
 
 – Thomas Hunt, Mad Bitcoins, World Crypto Network 
 
---- 
