@@ -18,7 +18,7 @@ Get involved with our community or get us involved with yours.
 - Stream localization: Live transcription and translation rebroadcasts 
 - Extra on-location content creation (stories, interviews, podcasts, etc)
 - Video editing, clipping and publishing
-- Graphic design (static and motion, print and video)
+- Graphic design (static and motion for web, print and video)
 
 ## History of Zk Av Club 
 - Created and organized by [Ryan Taylor](https://web.archive.org/web/20130923054857/http://bitcoinmagazine.com:80/about-us) aka [adjyLeak](https://youtube.com/adjyleak) aka [copernicus-mogley](https://github.com/copernicus-mogley) 
