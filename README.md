@@ -5,7 +5,7 @@ Our mission is to preserve and share the valuable information presented and disc
 
 We aim to provide access to this previously exclusive knowledge to the entire world, ensuring it is available for all time. 
 
-## Live event production: On-location *and* online 
+## Live production and promotion: On-location and online 
 - Event hype, community interaction and live support
 - Audio/Video production equipment, plus setup and operation
 - Livestream equipment, plus setup and operation
