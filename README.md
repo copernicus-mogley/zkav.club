@@ -6,14 +6,14 @@ Our mission is to preserve and share the valuable information presented and disc
 We aim to provide access to this previously exclusive knowledge to the entire world, ensuring it is available for all time. 
 
 ## Live production and promotion: On-location and online 
-- Event hype, community interaction and live support
+- Event hype, community interaction and live support 
 - Audio/Video production equipment, plus setup and operation
-- Livestream equipment, plus setup and operation
-- Restreaming to chat platforms and social networks
+- Livestream equipment, plus setup and operation 
+- Additional on-location content creation (interviews, podcasts, stories, etc) 
 - Stream localization: Live transcription and translation rebroadcasts 
-- Additional on-location content creation (interviews, podcasts, stories, etc)
-- Video editing, clipping and publishing
-- Graphic design (static and motion for web, print and video)
+- Restreaming to chat platforms and social networks 
+- Professional video editing: Long-format post-production and short clips for social media 
+- Graphic design for web, video and/or print 
 
 ## Join us! 
 Get involved with our community or get us involved with yours: [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
