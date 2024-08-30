@@ -20,7 +20,7 @@ Get involved with our community or get us involved with yours.
 
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
-Check the [Zk Av Club calendar](https://lu.ma/zkav)
+Subscribe to our [Zk Av Club calendar](https://lu.ma/zkav) for updates on events on our radar. 
 
 ## History of Zk Av Club 
 - Created and organized by [Ryan Taylor](https://web.archive.org/web/20130923054857/http://bitcoinmagazine.com:80/about-us) aka [adjyLeak](https://youtube.com/adjyleak) aka [copernicus-mogley](https://github.com/copernicus-mogley) 
