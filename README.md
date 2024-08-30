@@ -20,6 +20,9 @@ Get involved with our community or get us involved with yours.
 - Video editing, clipping and publishing
 - Graphic design (static and motion for web, print and video)
 
+## Upcoming events 
+Check the [Zk Av Club calendar](https://lu.ma/zkav)
+
 ## History of Zk Av Club 
 - Created and organized by [Ryan Taylor](https://web.archive.org/web/20130923054857/http://bitcoinmagazine.com:80/about-us) aka [adjyLeak](https://youtube.com/adjyleak) aka [copernicus-mogley](https://github.com/copernicus-mogley) 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
