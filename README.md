@@ -15,7 +15,7 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 - Video editing, clipping and publishing
 - Graphic design (static and motion for web, print and video)
 
-## Join the club! 
+## Join us! 
 Get involved with our community or get us involved with yours: [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
 Subscribe to our [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
