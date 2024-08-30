@@ -1,5 +1,5 @@
 # Zero-knowledge Audiovisual Club
-We are a collective of students and experts collaborating within cutting-edge STEM communities to create audiovisual content, both on-location and online.
+We are a collective of students and experts collaborating within cutting-edge STEM communities to create live and archival content, both on-location and online.
 
 Our mission is to preserve and share the valuable information presented and discussed at conferences, meetups, camps, and conventions.
 
