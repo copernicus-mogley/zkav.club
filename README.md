@@ -11,7 +11,7 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 - Livestream equipment, plus setup and operation
 - Restreaming to chat platforms and social networks
 - Stream localization: Live transcription and translation rebroadcasts 
-- Extra on-location content creation (stories, interviews, podcasts, etc)
+- Additional on-location content creation (interviews, podcasts, stories, etc)
 - Video editing, clipping and publishing
 - Graphic design (static and motion for web, print and video)
 
