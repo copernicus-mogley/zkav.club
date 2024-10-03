@@ -10,6 +10,11 @@ Get involved with our community or get us involved with yours.
 
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
+## Partners
+
+- For a list of partners that support zkav.club, check the partners folder [here](https://github.com/dismad/zkav.club/tree/main/partners).
+- If you want to add yourself as a partner, create a PR with an associated .md file with your information.
+
 ## Live event production: On-location and online 
 - Event hype, community interaction and live support
 - Audio/Video production equipment, plus setup and operation
