@@ -1,5 +1,5 @@
 # Zero-knowledge Audiovisual Club
-We are a collective of students and experts collaborating within cutting-edge STEM communities to create audiovisual content, both on-location and online.
+We are a collective of students and experts collaborating within cutting-edge STEM communities to create live and archival content, both on-location and online.
 
 Our mission is to preserve and share the valuable information presented and discussed at conferences, meetups, camps, and conventions.
 
@@ -15,15 +15,20 @@ Get involved with our community or get us involved with yours.
 - For a list of partners that support zkav.club, check the partners folder [here](https://github.com/dismad/zkav.club/tree/main/partners).
 - If you want to add yourself as a partner, create a PR with an associated .md file with your information.
 
-## Live event production: On-location and online 
-- Event hype, community interaction and live support
+## Live production and promotion: On-location and online 
+- Event hype, community interaction and live support 
 - Audio/Video production equipment, plus setup and operation
-- Livestream equipment, plus setup and operation
-- Restreaming to chat platforms and social networks
+- Livestream equipment, plus setup and operation 
+- Additional on-location content creation (interviews, podcasts, stories, etc) 
 - Stream localization: Live transcription and translation rebroadcasts 
-- Extra on-location content creation (stories, interviews, podcasts, etc)
-- Video editing, clipping and publishing
-- Graphic design (static and motion for web, print and video)
+- Restreaming to chat platforms and social networks 
+- Professional video editing: Long-format post-production and short clips for social media 
+- Graphic design for web, video and/or print 
+
+## Join us! 
+Get involved with our community or get us involved with yours: [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
+
+Subscribe to our [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
 
 ## History of Zk Av Club 
 - Created and organized by [Ryan Taylor](https://web.archive.org/web/20130923054857/http://bitcoinmagazine.com:80/about-us) aka [adjyLeak](https://youtube.com/adjyleak) aka [copernicus-mogley](https://github.com/copernicus-mogley) 
