@@ -29,7 +29,7 @@ If you want to add yourself as a partner, create a PR with an associated .md fil
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
 
 ### History of Zk Av Club 
-- Created and organized by [Ryan Taylor](https://web.archive.org/web/20130923054857/http://bitcoinmagazine.com:80/about-us) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
+- Created and organized by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 
