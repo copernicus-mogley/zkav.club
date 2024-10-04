@@ -10,7 +10,7 @@ Get involved with our community or get us involved with yours.
 
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
-### Partner communities
+### Our partner communities
 
 Mutual support and collaboration is always on-going with and within our [partner communities](/partners/).
 
