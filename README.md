@@ -14,7 +14,7 @@ Get involved with our community or get us involved with yours.
 
 Mutual support and collaboration is always on-going with and within our [partner communities](/partners/).
 
-If you want to add one of your communities as a partner, create a PR with an associated .md file with your information.
+If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated .md file with your information.
 
 ### Live production and promotion: On-location and online 
 - Audio/Video recording and livestream production equipment, plus setup and operation 
