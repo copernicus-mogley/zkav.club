@@ -12,7 +12,7 @@ Get involved with our community or get us involved with yours.
 
 ## Partners
 
-For a list of partners that support zkav.club, check the partners folder [here](https://github.com/dismad/zkav.club/tree/main/partners).
+For a list of partners who support zkav.club, check the partners section [here](/partners/).
 
 If you want to add yourself as a partner, create a PR with an associated .md file with your information.
 
