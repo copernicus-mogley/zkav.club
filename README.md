@@ -10,6 +10,8 @@ Get involved with our community or get us involved with yours.
 
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
+Subscribe to our [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
+
 ### Partners
 
 For a list of partners who support zkav.club, check the partners section [here](/partners/).
@@ -25,11 +27,6 @@ If you want to add yourself as a partner, create a PR with an associated .md fil
 - Restreaming to chat platforms and social networks 
 - Professional video editing: Long-format post-production and short clips for social media 
 - Graphic design for web, video and/or print 
-
-### Join us! 
-Get involved with our community or get us involved with yours: [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
-
-Subscribe to our [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
 
 ### History of Zk Av Club 
 - Created and organized by [Ryan Taylor](https://web.archive.org/web/20130923054857/http://bitcoinmagazine.com:80/about-us) aka [adjyLeak](https://youtube.com/adjyleak) aka [copernicus-mogley](https://github.com/copernicus-mogley) 
