@@ -12,7 +12,7 @@ Get involved with our community or get us involved with yours.
 
 ### Partners
 
-For a list of partners who support zkav.club, check the partners section [here](/partners/).
+For a list of [partners who support zkav.club](/partners/).
 
 If you want to add yourself as a partner, create a PR with an associated .md file with your information.
 
