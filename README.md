@@ -17,14 +17,13 @@ Mutual support and collaboration is always on-going with and within our [partner
 If you want to add one of your communities as a partner, create a PR with an associated .md file with your information.
 
 ### Live production and promotion: On-location and online 
-- Event hype, community interaction and live support 
-- Audio/Video production equipment, plus setup and operation
-- Livestream equipment, plus setup and operation 
+- Audio/Video production and livestream equipment, plus setup and operation
 - Additional on-location content creation (interviews, podcasts, stories, etc) 
 - Stream localization: Live transcription and translation rebroadcasts 
 - Restreaming to chat platforms and social networks 
 - Professional video editing: Long-format post-production and short clips for social media 
 - Graphic design for web, video and/or print 
+- Event hype, community interaction and live support 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
 
