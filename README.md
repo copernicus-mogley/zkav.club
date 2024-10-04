@@ -20,10 +20,11 @@ If you want to add one of your communities as a partner, create a PR with an ass
 - Audio/Video production and livestream equipment, plus setup and operation
 - Community content creation studio (interviews, podcasts, stories, etc) 
 - Stream localization: Live transcription and translation rebroadcasts 
-- Restreaming to social networks, video and chat platforms  
-- Video editing: Long-format post-production and short clips for social media 
-- Graphic design for web, video and/or print 
+- Restreaming to social networks, video and chat platforms 
 - Event hype, community interaction and live support 
+- Live clip editing contests 
+- Long-format video editing and post-production 
+- Graphic design for web, video and/or print 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
 
