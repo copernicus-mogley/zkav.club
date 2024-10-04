@@ -17,7 +17,7 @@ Mutual support and collaboration is always on-going with and within our [partner
 If you want to add one of your communities as a partner, create a PR with an associated .md file with your information.
 
 ### Live production and promotion: On-location and online 
-- Audio/Video production and livestream equipment, plus setup and operation
+- Audio/Video recording and livestream production equipment, plus setup and operation 
 - Community content creation studio (interviews, podcasts, stories, etc) 
 - Stream localization: Live transcription and translation rebroadcasts 
 - Restreaming to social networks, video and chat platforms 
