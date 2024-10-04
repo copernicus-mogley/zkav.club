@@ -1,4 +1,4 @@
-## Partners who support zkav.club 
+## Partner communities who support zkav.club 
 
 - [Zechub](zechub.md) 
 
