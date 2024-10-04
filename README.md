@@ -22,7 +22,7 @@ If you want to add one of your communities as a partner, [create a PR](https://g
 - Stream localization: Live transcription and translation rebroadcasts 
 - Restreaming to social networks, video and chat platforms 
 - Event hype, community interaction and live support 
-- Live clip editing contests 
+- Live clip editing and community contests 
 - Long-format video editing and post-production 
 - Graphic design for web, video and/or print 
 
