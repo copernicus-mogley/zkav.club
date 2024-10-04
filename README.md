@@ -32,7 +32,7 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 - Created and organized by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
-- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) 2015-06-15
+- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15
 
 ### Thank you to our sponsors and donors 
 Zk Av Club activities are entirely made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
