@@ -10,9 +10,9 @@ Get involved with our community or get us involved with yours.
 
 [𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
 
-### Partners
+### Partner communities
 
-For a list of [partners who support zkav.club](/partners/).
+Mutual support and collaboration is always on-going with and within our [partner communities](/partners/).
 
 If you want to add yourself as a partner, create a PR with an associated .md file with your information.
 
