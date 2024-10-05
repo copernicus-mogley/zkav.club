@@ -16,12 +16,12 @@ Mutual support and collaboration is always on-going with and within our [partner
 
 If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated .md file with your information.
 
-### Event production and promotion: On-location and online 
+### Event production and promotion 
 
 Empower and amplify the voices of your communities with *real* engagement! 
 
 - Audio and video recording/livestream production equipment, plus setup and operation for staged presentations 
-- Community content creation studio (interviews, podcasts, stories, etc) 
+- On-location community content creation studio (interviews, podcasts, stories, etc) 
 - Localization: Live transcription and translation rebroadcasts 
 - Restreaming to social networks, video and chat platforms 
 - Event hype, community interaction and live support 
