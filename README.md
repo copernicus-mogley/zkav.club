@@ -18,7 +18,7 @@ If you want to add one of your communities as a partner, [create a PR](https://g
 
 ### Event production and promotion: On-location and online 
 
-Empower and amplify community voices with *real* engagement! 
+Empower and amplify the voices of your communities with *real* engagement! 
 
 - Audio and video recording/livestream production equipment, plus setup and operation 
 - Community content creation studio (interviews, podcasts, stories, etc) 
