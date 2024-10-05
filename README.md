@@ -8,7 +8,7 @@ We aim to provide access to this previously exclusive knowledge to the entire wo
 ### Join the club! 
 Get involved with our community or get us involved with yours. 
 
-[𝕏](https://x.com/ZkAv_Club), [bsky.social](https://bsky.app/profile/zkavclub.bsky.social), [mastodon@zeal.center](https://zeal.center/@ZFAVClub) 
+[𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
 
 ### Our partner communities
 
