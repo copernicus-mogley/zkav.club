@@ -1,5 +1,5 @@
 ## Zero-knowledge Audiovisual Club
-We are a collective of students and experts collaborating within cutting-edge STEM communities to create live and archival content, both on-location and online.
+We are a collective of students and experts collaborating within cutting-edge STEM communities to create live and archival content, both on-location and online. 
 
 Our mission is to preserve and share the valuable information presented and discussed at conferences, meetups, camps, and conventions.
 
@@ -12,9 +12,9 @@ Get involved with our community or get us involved with yours.
 
 ### Our partner communities
 
-Mutual support and collaboration is always on-going with and within our [partner communities](/partners/).
+Mutual support and collaboration is on-going with and within our [partner communities](/partners/).
 
-If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated .md file with your information.
+If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
 
 ### Live event production and promotion services 
 
@@ -29,16 +29,16 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Long-format video editing and post-production 
 - Graphic design for web, video and/or print 
 
-Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events! 
+Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
 ### History of Zk Av Club 
-- Created and organized by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
+- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15
 
 ### Thank you to our sponsors and donors 
-Zk Av Club activities are entirely made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
+Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
 *Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
 
