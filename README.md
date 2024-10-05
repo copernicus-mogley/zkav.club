@@ -22,7 +22,7 @@ Empower and amplify the voices of your communities with *real* engagement!
 
 - Audio and video recording/livestream production equipment, plus setup and operation 
 - Community content creation studio (interviews, podcasts, stories, etc) 
-- Stream localization: Live transcription and translation rebroadcasts 
+- Localization: Live transcription and translation rebroadcasts 
 - Restreaming to social networks, video and chat platforms 
 - Event hype, community interaction and live support 
 - Live clip editing and community contests 
