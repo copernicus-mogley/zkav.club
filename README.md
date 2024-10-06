@@ -8,12 +8,12 @@ Our mission is to share and preserve the valuable information presented and disc
 
 Empower and amplify the voices of your communities with *real* engagement! 
 
-- Community hype and interaction, plus audience audio/video tech support 
 - Audio and video recording/livestreaming for staged presentations or panels 
 - Community-powered content creation studio for interviews, podcasts, stories, etc 
 - Localization: Live transcription and translation streams 
 - Restreaming to social networks, media and chat platforms 
 - Live clip-making and other community contests 
+- Hype and interaction, plus audience audio/video tech support 
 - Long-format and clip video editing post-production 
 - Graphic design for web, video and/or print 
 
