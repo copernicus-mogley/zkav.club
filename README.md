@@ -12,7 +12,7 @@ Get involved with our community or get us involved with yours.
 
 ### Our partner communities
 
-Mutual support and collaboration is on-going with and within our [partner communities](/partners/).
+Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
 
 If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
 
@@ -20,8 +20,8 @@ If you want to add one of your communities as a partner, [create a PR](https://g
 
 Empower and amplify the voices of your communities with *real* engagement! 
 
-- Event hype, community interaction and support 
-- Audio and video recording/livestreaming equipment, plus setup and operation for staged presentations 
+- Community hype, interaction and support 
+- Audio and video recording/livestreaming: Equipment, setup and operation for staged presentations 
 - On-location community content creation studio (interviews, podcasts, stories, etc) 
 - Live Localization: Transcription and translation rebroadcasts 
 - Restreaming to social networks, media and chat platforms 
