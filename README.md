@@ -14,7 +14,7 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Localization: Live transcription and translation streams 
 - Restreaming to social networks, media and chat platforms 
 - Live clip-making and other community contests 
-- Long-format and clip video editing and post-production 
+- Long-format and clip video editing post-production 
 - Graphic design for web, video and/or print 
 
 ### Join the club! 
