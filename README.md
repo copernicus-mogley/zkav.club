@@ -26,7 +26,7 @@ Mutual aid, support and collaboration is on-going with and within our partner co
 To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 ### Join the club! 
-Get involved with our community or get us involved with yours. 
+Get involved with our community or get us involved with yours: 
 
 [𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
 
