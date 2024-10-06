@@ -14,8 +14,8 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Rebroadcasting to social networks, media and chat platforms 
 - Clip making and other community contests 
 - Hype and interaction, plus audience audio/video tech support 
-- Editing and post-production 
 - Graphic design for web, video and/or print 
+- Editing and post-production 
 
 ### Join the club! 
 Get involved with our community or get us involved with yours: 
