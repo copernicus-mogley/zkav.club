@@ -17,6 +17,14 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Long-format and clip video editing post-production 
 - Graphic design for web, video and/or print 
 
+### Partner communities 
+
+Mutual aid, support and collaboration is on-going with and within our partner communities: 
+
+- [Zechub](/partners/zechub.md) 
+
+To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+
 ### Join the club! 
 Get involved with our community or get us involved with yours. 
 
@@ -29,14 +37,6 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15
-
-### Partner communities 
-
-Mutual aid, support and collaboration is on-going with and within our partner communities: 
-
-- [Zechub](/partners/zechub.md) 
-
-To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 ### Testimonials 
 
