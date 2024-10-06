@@ -6,7 +6,7 @@ Our mission is to share and preserve the valuable information presented and disc
 
 ### Live event production and promotion  
 
-Empower and amplify the voices of your communities with *real* engagement! 
+Empower and amplify the voices of our communities: 
 
 - Audio and video recording/livestreaming for staged presentations or panels 
 - Community-powered content creation studio for interviews, podcasts, stories, etc 
