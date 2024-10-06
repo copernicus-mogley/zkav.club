@@ -30,7 +30,7 @@ Mutual aid, support and collaboration is on-going with and within our partner co
 
 - [Zechub](/partners/zechub.md) 
 
-To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 ### History of Zk Av Club 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
