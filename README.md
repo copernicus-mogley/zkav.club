@@ -10,7 +10,7 @@ Empower and amplify the voices of your communities with *real* engagement!
 
 - Audio and video recording/livestreaming for staged presentations or panels 
 - Community-powered content creation studio for interviews, podcasts, stories, etc 
-- Localization: Live transcription and translation streams 
+- Localization: Live transcription and translation broadcasting  
 - Restreaming to social networks, media and chat platforms 
 - Live clip-making and other community contests 
 - Hype and interaction, plus audience audio/video tech support 
