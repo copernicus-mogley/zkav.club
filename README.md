@@ -13,8 +13,8 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Community-powered content creation studio for interviews, podcasts, stories, etc 
 - Localization: Live transcription and translation streams 
 - Restreaming to social networks, media and chat platforms 
-- Live clip editing and community contests 
-- Long-format video editing and post-production 
+- Live clip-making and other community contests 
+- Long-format and clip video editing and post-production 
 - Graphic design for web, video and/or print 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
