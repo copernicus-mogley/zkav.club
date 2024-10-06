@@ -4,7 +4,7 @@ We are a collective of students and experts collaborating within cutting-edge ST
 
 Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups, camps, and conventions – aiming to provide access to this previously exclusive knowledge to the entire world. 
 
-### Live event production and promotion services 
+### Live event production and promotion  
 
 Empower and amplify the voices of your communities with *real* engagement! 
 
