@@ -1,7 +1,7 @@
 ## Partner communities who support zkav.club 
 
-- [Zechub](zechub.md) 
+Mutual aid, support and collaboration is on-going with and within our partner communities: 
 
-Mutual support and collaboration is always on-going with and within our partner communities.
+- [Zechub](/partners/zechub.md) 
 
-If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated .md file with your information.
+To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.

@@ -32,9 +32,11 @@ Get involved with our community or get us involved with yours.
 
 ### Our partner communities 
 
-Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
+Mutual aid, support and collaboration is on-going with and within our partner communities: 
 
-To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
+- [Zechub](/partners/zechub.md) 
+
+To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 ### Thank you to our sponsors and donors 
 Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
