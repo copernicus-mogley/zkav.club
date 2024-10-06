@@ -6,7 +6,7 @@ Our mission is to share and preserve the valuable information presented and disc
 
 ### Live event production and promotion  
 
-Empower and amplify the voices of our communities: 
+Empowering and amplifying the voices of our communities  
 
 - Audio and video recording/livestreaming for staged presentations or panels 
 - Community-powered content creation studio for interviews, podcasts, stories, etc 
@@ -18,7 +18,7 @@ Empower and amplify the voices of our communities:
 - Graphic design for web, video and print 
 
 ### Join the club! 
-Get involved with our community or get us involved with yours: 
+Get involved with our community or get us involved with yours 
 
 [𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
 
@@ -26,7 +26,7 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 
 ### Partner communities 
 
-Mutual aid, support and collaboration is on-going with and within our partner communities: 
+Mutual aid, support and collaboration is on-going with and within our partner communities  
 
 - [Zechub](/partners/zechub.md) 
 
