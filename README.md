@@ -10,12 +10,12 @@ Empower and amplify the voices of your communities with *real* engagement!
 
 - Audio and video recording/livestreaming for staged presentations or panels 
 - Community-powered content creation studio for interviews, podcasts, stories, etc 
-- Language localisation: Transcription and translations  
-- Rebroadcasting to social networks, media and chat platforms 
-- Clip making and other community contests 
 - Hype and interaction, plus audience audio/video tech support 
-- Graphic design for web, video and/or print 
-- Editing and post-production 
+- Rebroadcasting to social networks, media and chat platforms 
+- Language localisation: Transcription and translations  
+- Clip making and other community contests 
+- Editing, post-production and publishing 
+- Graphic design for web, video and print 
 
 ### Join the club! 
 Get involved with our community or get us involved with yours: 
