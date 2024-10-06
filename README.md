@@ -5,17 +5,6 @@ Our mission is to preserve and share the valuable information presented and disc
 
 We aim to provide access to this previously exclusive knowledge to the entire world, ensuring it is available for all time. 
 
-### Join the club! 
-Get involved with our community or get us involved with yours. 
-
-[𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
-
-### Our partner communities
-
-Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
-
-If you want to add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
-
 ### Live event production and promotion services 
 
 Empower and amplify the voices of your communities with *real* engagement! 
@@ -30,6 +19,17 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Graphic design for web, video and/or print 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
+
+### Join the club! 
+Get involved with our community or get us involved with yours. 
+
+[𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
+
+### Our partner communities
+
+Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
+
+To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
 
 ### History of Zk Av Club 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
