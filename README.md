@@ -1,4 +1,5 @@
-## Zero-knowledge Audiovisual Club
+## Zero-knowledge Audiovisual Club 
+
 We are a collective of students and experts collaborating within cutting-edge STEM communities to create live and archival content, both on-location and online. 
 
 Our mission is to preserve and share the valuable information presented and discussed at conferences, meetups, camps, and conventions – aiming to provide access to this previously exclusive knowledge to the entire world and ensuring it's available for all time. 
@@ -29,7 +30,7 @@ Get involved with our community or get us involved with yours.
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15
 
-### Our partner communities
+### Our partner communities 
 
 Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
 
