@@ -9,7 +9,7 @@ Our mission is to preserve and share the valuable information presented and disc
 Empower and amplify the voices of your communities with *real* engagement! 
 
 - Community hype and interaction, plus audience audio/video tech support 
-- Audio and video recording/livestreaming for staged presentations and panels 
+- Audio and video recording/livestreaming for staged presentations or panels 
 - On-location community-powered content-creation studio for interviews, podcasts, stories, and more 
 - Live Localization: Transcription and translation 
 - Restreaming to social networks, media and chat platforms 
