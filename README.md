@@ -2,7 +2,7 @@
 
 We are a collective of students and experts collaborating within cutting-edge STEM communities to create live and archival content, both on-location and online. 
 
-Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups, camps, and conventions – aiming to provide access to this previously exclusive knowledge to the entire world. 
+Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups and camps – aiming to provide access to this previously exclusive knowledge to the entire world. 
 
 ### Live event production and promotion  
 
