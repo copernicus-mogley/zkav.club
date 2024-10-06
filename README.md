@@ -21,7 +21,7 @@ If you want to add one of your communities as a partner, [create a PR](https://g
 Empower and amplify the voices of your communities with *real* engagement! 
 
 - Community hype, interaction and support 
-- Audio and video recording/livestreaming: Equipment, setup and operation for staged presentations 
+- Audio and video recording/livestreaming for staged presentations 
 - On-location community content creation studio (interviews, podcasts, stories, etc) 
 - Live Localization: Transcription and translation rebroadcasts 
 - Restreaming to social networks, media and chat platforms 
