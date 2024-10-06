@@ -17,12 +17,12 @@ Empower and amplify the voices of your communities with *real* engagement!
 - Long-format and clip video editing and post-production 
 - Graphic design for web, video and/or print 
 
-Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
-
 ### Join the club! 
 Get involved with our community or get us involved with yours. 
 
 [𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
+
+Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
 ### History of Zk Av Club 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
