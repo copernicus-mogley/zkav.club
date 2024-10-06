@@ -25,17 +25,17 @@ Get involved with our community or get us involved with yours.
 
 [𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
 
-### Our partner communities
-
-Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
-
-To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
-
 ### History of Zk Av Club 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 
 - [Zcash Forum Announcement Thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15
+
+### Our partner communities
+
+Mutual aid, support and collaboration is on-going with and within our [partner communities](/partners/).
+
+To add one of your communities as a partner, [create a PR](https://github.com/copernicus-mogley/zkav.club/tree/main/partners) with an associated `.md` file with your information.
 
 ### Thank you to our sponsors and donors 
 Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
