@@ -13,8 +13,8 @@ Through this approach, we don’t just document events; we foster a network of e
 Empowering and amplifying the voices of our communities. 
 
 - Recording and livestreaming of presentations, panels and workshops 
-- Community-powered content creation 
-- Social network hype and and tech support 
+- Community-powered content creation studio 
+- Social network hype, promotion and support 
 - Restreaming to social networks, media and chat platforms 
 - Language localisation: Transcription and translation of video livestreams  
 - Clip editing and community contests 
