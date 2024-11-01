@@ -10,7 +10,7 @@ Through this approach, we don’t just document events; we foster a network of e
 
 ### Live community event engagements 
 
-Empowering and amplifying the voices of our communities:  
+Empowering and amplifying the voices of our communities. 
 
 - Recording and livestreaming of presentations, panels and workshops 
 - Community-powered content creation 
@@ -21,9 +21,9 @@ Empowering and amplifying the voices of our communities:
 - Post-production and publishing 
 - Graphic design for web, video and print 
 
-### Join the club! 
+### Join the club 
 
-Get involved with our community or get us involved with yours: 
+Get involved with our community or get us involved with yours. 
 
 [𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
 
@@ -31,7 +31,7 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 
 ### Partner communities 
 
-Mutual aid, support and collaboration is on-going with and within our partner communities: 
+Mutual aid, support and collaboration is on-going with and within our partner communities. 
 
 - [Zechub](/partners/zechub.md) 
 
