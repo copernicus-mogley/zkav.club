@@ -25,7 +25,9 @@ Empowering and amplifying the voices of our communities:
 
 Get involved with our community or get us involved with yours: 
 
-[𝕏](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), [Mastodon](https://zeal.center/@ZFAVClub) 
+- [𝕏](https://x.com/ZkAv_Club) 
+- [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
+- [Mastodon](https://zeal.center/@ZFAVClub) 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
