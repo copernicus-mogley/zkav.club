@@ -4,7 +4,9 @@ We are a collective of experts and students exploring, learning and teaching tog
 
 Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups and camps – aiming to provide access to this previously exclusive knowledge to the entire world. 
 
-In addition to livestreaming and recording, we invite curious individuals to learn alongside us, sharing our production skills and insights with those interested in amplifying their own communities. Through this approach, we don’t just document events; we foster a network of empowered creators who help grow our collective impact. 
+In addition to livestreaming and recording, we invite curious individuals to learn alongside us, sharing our production skills and insights with those interested in amplifying their own communities. 
+
+Through this approach, we don’t just document events; we foster a network of empowered creators who help grow our collective impact. 
 
 ### Live community engagement 
 
