@@ -4,17 +4,17 @@ We are a collective of experts and students exploring, learning and teaching tog
 
 Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups and camps – aiming to provide access to this previously exclusive knowledge to the entire world. 
 
-### Live event production and promotion  
+### Live community engagement 
 
 Empowering and amplifying the voices of our communities:  
 
-- Audiovisual recording and livestreaming for staged presentations and panels 
-- Community-powered content creation studio for interviews, podcasts, stories, etc 
-- Hype and interaction, plus audience audio/video tech support 
-- Rebroadcasting to social networks, media and chat platforms 
-- Language localisation: Transcription and translations  
-- Clip making and other community contests 
-- Editing, post-production and publishing 
+- Recording and livestreaming of presentations, panels and workshops 
+- Community-powered content creation 
+- Social network hype and and tech support 
+- Restreaming to social networks, media and chat platforms 
+- Language localisation: Transcription and translation of video livestreams  
+- Clip editing and community contests 
+- Post-production and publishing 
 - Graphic design for web, video and print 
 
 ### Join the club! 
