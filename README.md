@@ -8,7 +8,7 @@ In addition to livestreaming and recording, we invite curious individuals to lea
 
 Through this approach, we don’t just document events; we foster a network of empowered creators who help grow our collective impact. 
 
-### Live community engagement 
+### Live community event engagements 
 
 Empowering and amplifying the voices of our communities:  
 
