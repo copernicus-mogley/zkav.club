@@ -52,7 +52,7 @@ Zk Av Club activities are made possible by contributions from organizations, com
 
 *Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
 
-### Become a patron <3 
+### Become a patron 
 
 Donate with [Zcash](https://z.cash) today
 ```
