@@ -77,4 +77,4 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 
 > Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe like Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
 > 
-> – Andrew, Zcash Foundation 
+> – Andrew Miller, Zcash Foundation 
