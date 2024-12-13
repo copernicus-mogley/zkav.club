@@ -74,6 +74,15 @@ Empowering and amplifying the voices of our communities:
 > 
 > – @zksquirrel 
 
+> have you ever been to cozy virtual meeting space full of people who dont expect u to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for. 
+> 
+> the club is also big on experimenting. each member can use their new knowledge to start creating something they want or join forces with others to collaborate. best part is when you find a chance to be part of some on-location events or workshops with other club members. 
+> 
+> join it and find out if its something for you. 
+> 
+> – @zerodartz
+
+
 
 ### Partner communities 
 
