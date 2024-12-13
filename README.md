@@ -21,7 +21,7 @@ Empowering and amplifying the voices of our communities:
 
 - Restreaming to social networks, media and chat platforms 
 
-- Language localisation: Transcription and translation of video livestreams  
+- Language localisation: Transcription and translation of video livestreams 
 
 - Clip editing and community contests 
 - Post-production and publishing 
@@ -89,7 +89,7 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 > – Thomas Hunt (Mad Bitcoins, World Crypto Network) 
 
 
-> I've always been fascinated with how folks find things because it illustrates a unique  mapping. On its face, this might seem insignificant , but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
+> I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant , but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
 > 
 > – dismad, ZecHub 
 
@@ -98,7 +98,7 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 > 
 > – Andrew, Zcash Foundation 
 
-> Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a  grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
+> Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
 > 
 > The Club’s commitment to privacy-first principles and their use of decentralized tools perfectly aligns with Zcash's core values. Their work in producing educational content, and fostering community engagement has benefited and strengthened the entire Zcash ecosystem.
 > 
