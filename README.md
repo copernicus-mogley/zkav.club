@@ -50,17 +50,18 @@ Empowering and amplifying the voices of our communities:
 
 > For years, Ryan Taylor and the Zk Av Club have provided exceptional live streaming for Bitcoin and cryptocurrency events, ensuring global reach and high-quality broadcasts. Their dedication is unmatched. 
 > 
-> – Thomas Hunt (Mad Bitcoins, World Crypto Network) 
+> – Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins), [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork))
 
 
 > I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant , but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
 > 
-> – dismad, ZecHub 
+> – [dismad](https://x.com/dismad8), ZecHub 
 
 
 > Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe like Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
 > 
-> – Andrew, Zcash Foundation 
+> – [Andrew](https://x.com/socrates1024), Zcash Foundation 
+
 
 > Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
 > 
@@ -70,9 +71,11 @@ Empowering and amplifying the voices of our communities:
 > 
 > – Jack Gavigan, Zcash Foundation 
 
+
 > Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
 > 
-> – @zksquirrel 
+> – [@zksquirrel](https://x.com/zksquirrel) 
+
 
 > have you ever been to cozy virtual meeting space full of people who dont expect u to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for. 
 > 
@@ -80,7 +83,7 @@ Empowering and amplifying the voices of our communities:
 > 
 > join it and find out if its something for you. 
 > 
-> – @zerodartz
+> – [@zerodartz](https://x.com/zerodartz)
 
 
 
