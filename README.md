@@ -30,28 +30,6 @@ Empowering and amplifying the voices of our communities:
 - Graphic design for web, video and print 
 
 
-### Partner communities 
-
-Mutual aid, support and collaboration is on-going with and within our partner communities: 
-
-- [Zechub](/partners/zechub.md) 
-
-Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
-
-
-### Join the club 
-
-Get involved with our community or get us involved with yours: 
-
-- [𝕏](https://x.com/ZkAv_Club) 
-
-- [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
-
-- [Mastodon](https://zeal.center/@ZFAVClub) 
-
-Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
-
-
 ### History of Zk Av Club 
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
@@ -95,6 +73,28 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 > Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
 > 
 > – @zksquirrel 
+
+
+### Partner communities 
+
+Mutual aid, support and collaboration is on-going with and within our partner communities: 
+
+- [Zechub](/partners/zechub.md) 
+
+Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+
+
+### Join the club 
+
+Get involved with our community or get us involved with yours: 
+
+- [𝕏](https://x.com/ZkAv_Club) 
+
+- [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
+
+- [Mastodon](https://zeal.center/@ZFAVClub) 
+
+Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
 
 ### Thank you to our sponsors and donors 
