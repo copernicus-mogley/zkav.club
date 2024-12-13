@@ -15,7 +15,7 @@ Empowering and amplifying the voices of our communities:
 
 - Recording and livestreaming of presentations, panels and workshops 
 
-- Community-powered content creation studio 
+- On-location community-powered content creation studio 
 
 - Social network hype, promotion and support 
 
