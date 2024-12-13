@@ -34,7 +34,7 @@ Empowering and amplifying the voices of our communities:
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
-- [Announcement forum thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
+- [Announcement thread in the Zcash community forum](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) posted 2023-01-12 
 
