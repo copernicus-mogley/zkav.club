@@ -79,3 +79,12 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 > Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe like Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
 > 
 > – Andrew, Zcash Foundation 
+
+> Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a  grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
+> 
+> The Club’s commitment to privacy-first principles and their use of decentralized tools perfectly aligns with Zcash's core values. Their work in producing educational content, and fostering community engagement has benefited and strengthened the entire Zcash ecosystem.
+> 
+> The Zk Av Club serves as a great example of the power of grassroots, community-driven initiatives in advancing the Zcash mission.
+> 
+> - Jack Gavigan, Zcash Foundation 
+
