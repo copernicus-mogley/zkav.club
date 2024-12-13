@@ -62,21 +62,6 @@ Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
 
-### Thank you to our sponsors and donors 
-
-Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
-
-*Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
-
-
-### Become a patron 
-
-Donate with [Zcash](https://z.cash) today
-```
-u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlufvqrcsn9lg0582y3zkfqcvzt23puexgpd0mnjh5y8wq9rpa3sq952nxn80t9k69t7qvc5rfvc74wvvlswve34kz0s04px9vv4fkj4nwzc3elsmg8qxky5x2ehcle962jj8wfn
-``` 
-
-
 ### Testimonials 
 
 > Zk Av Club is a throwback to the grass roots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
@@ -108,4 +93,19 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 
 > Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
 > 
-> – @zksquirrel
+> – @zksquirrel 
+
+
+### Thank you to our sponsors and donors 
+
+Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
+
+*Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+
+
+### Become a patron 
+
+Donate with [Zcash](https://z.cash) today
+```
+u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlufvqrcsn9lg0582y3zkfqcvzt23puexgpd0mnjh5y8wq9rpa3sq952nxn80t9k69t7qvc5rfvc74wvvlswve34kz0s04px9vv4fkj4nwzc3elsmg8qxky5x2ehcle962jj8wfn
+``` 
