@@ -23,7 +23,8 @@ Empowering and amplifying the voices of our communities:
 
 - Language localisation: Transcription and translation of video livestreams 
 
-- Clip editing and community contests 
+- Clip contests and other real-time global community engagement 
+
 - Post-production and publishing 
 
 - Graphic design for web, video and print 
