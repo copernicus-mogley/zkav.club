@@ -100,15 +100,6 @@ Empowering and amplifying the voices of our communities:
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
 
-### Partner communities 
-
-Mutual aid, support and collaboration is on-going with and within our partner communities: 
-
-- [Zechub](/partners/zechub.md) 
-
-Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
-
-
 ### Join the club 
 
 Get involved with our community or get us involved with yours: 
@@ -120,6 +111,15 @@ Get involved with our community or get us involved with yours:
 - [Mastodon](https://zeal.center/@ZFAVClub) 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
+
+
+### Partner communities 
+
+Mutual aid, support and collaboration is on-going with and within our partner communities: 
+
+- [Zechub](/partners/zechub.md) 
+
+Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 
 ### Thank you to our sponsors and donors 
