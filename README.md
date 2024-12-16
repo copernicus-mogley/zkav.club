@@ -86,8 +86,7 @@ Empowering and amplifying the voices of our communities:
 > 
 > I hope more people join the Club and enjoy the experience!
 > 
-> Roosevelt Gordones - [gordonesTV](https://gordonestv.com/) 
-> Content Creator and Technology Educator
+> Roosevelt Gordones - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
 
 
 ### History of Zk Av Club 
