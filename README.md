@@ -30,17 +30,6 @@ Empowering and amplifying the voices of our communities:
 - Graphic design for web, video and print 
 
 
-### History of Zk Av Club 
-
-- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
-
-- [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) in the Zcash community forum 
-
-- [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) posted 2023-01-12 
-
-- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
-
-
 ### Testimonials 
 
 > Zk Av Club is a throwback to the grass roots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
@@ -89,6 +78,17 @@ Empowering and amplifying the voices of our communities:
 > The ZK Audiovisual Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual. As a member of the team I can say that every day is an opportunity to learn, grow and contribute from my knowledge as well. Long live the club!
 > 
 > – [@SoyAuraBrito](https://x.com/SoyAuraBrito) 
+
+
+### History of Zk Av Club 
+
+- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
+
+- [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) in the Zcash community forum 
+
+- [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) posted 2023-01-12 
+
+- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
 
 ### Partner communities 
