@@ -17,9 +17,9 @@ Empowering and amplifying the voices of our communities:
 
 - Restreaming to social networks, media and chat platforms 
 
-- Clip contests and other real-time global interactive community engagements 
-
 - Live internationalization: Transcription and translation of livestreams 
+
+- Clip contests and other real-time global interactive community engagements 
 
 - Event promotion, hype and support 
 
