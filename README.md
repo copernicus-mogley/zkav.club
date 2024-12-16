@@ -83,8 +83,12 @@ Empowering and amplifying the voices of our communities:
 > 
 > join it and find out if its something for you. 
 > 
-> – [@zerodartz](https://x.com/zerodartz)
+> – [@zerodartz](https://x.com/zerodartz) 
 
+
+> The ZK Audiovisual Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual. As a member of the team I can say that every day is an opportunity to learn, grow and contribute from my knowledge as well. Long live the club!
+> 
+> – [@SoyAuraBrito](https://x.com/zerodartz) 
 
 
 ### Partner communities 
