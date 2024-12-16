@@ -80,6 +80,16 @@ Empowering and amplifying the voices of our communities:
 > – [@SoyAuraBrito](https://x.com/SoyAuraBrito) 
 
 
+> The Audiovisual Club has been a space for me to connect with technology, open source and content generation geeks like me.
+> 
+> I like being part of the team because there is freedom of creativity, opinion and action. Although we all work for the same purpose (eaching and spreading privacy and free technologies), we can all have our style with freedom.
+> 
+> I hope more people join the Club and enjoy the experience!
+> 
+> Roosevelt Gordones - [gordonesTV](https://gordonestv.com/) 
+> Content Creator and Technology Educator
+
+
 ### History of Zk Av Club 
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
