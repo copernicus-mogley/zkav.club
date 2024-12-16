@@ -13,17 +13,17 @@ We don’t just document events — we foster a network of empowered creators wh
 
 Empowering and amplifying the voices of our communities: 
 
-- Recording and livestreaming of presentations, panels and workshops 
-
 - On-location community-powered content creation studio 
-
-- Social network hype, promotion and support 
 
 - Restreaming to social networks, media and chat platforms 
 
-- Language localisation: Transcription and translation of video livestreams 
+- Clip contests and other real-time global interactive community engagements 
 
-- Clip contests and other real-time global community engagement 
+- Live internationalization: Transcription and translation of livestreams 
+
+- Event promotion, hype and support 
+
+- Recording and livestreaming of presentations, panels and workshops 
 
 - Post-production and publishing 
 
