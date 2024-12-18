@@ -82,11 +82,16 @@ Empowering and amplifying the voices of our communities:
 
 > The Audiovisual Club has been a space for me to connect with technology, open source and content generation geeks like me.
 > 
-> I like being part of the team because there is freedom of creativity, opinion and action. Although we all work for the same purpose (eaching and spreading privacy and free technologies), we can all have our style with freedom.
+> I like being part of the team because there is freedom of creativity, opinion and action. Although we all work for the same purpose (eaching and spreading privacy and free technologies), we can all have our style with freedom. 
 > 
-> I hope more people join the Club and enjoy the experience!
+> I hope more people join the Club and enjoy the experience! 
 > 
 > – Roosevelt Gordones - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
+
+
+> I worked with zkAV club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come. 
+> 
+> [@therealyingtong](https://github.com/therealyingtong) 
 
 
 ### History of Zk Av Club 
