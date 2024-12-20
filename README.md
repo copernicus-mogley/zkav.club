@@ -21,9 +21,9 @@ Empowering and amplifying the voices of our communities:
 
 - Clip contests and other real-time global interactive community engagements 
 
-- Event promotion, hype and support 
-
 - Recording and livestreaming of presentations, panels and workshops 
+
+- Event promotion, hype and support 
 
 - Post-production and publishing 
 
