@@ -91,12 +91,12 @@ Empowering and amplifying the voices of our communities:
 
 > I worked with zkAV club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come. 
 > 
-> [@therealyingtong](https://github.com/therealyingtong) 
+> – [@therealyingtong](https://github.com/therealyingtong) 
 
 
 > Ryan is a pro. His production work is top shelf as evidenced by his work on Zcons through the years, and his commitment to providing engaging and informative content. With the zkAV club he continues his dedication and professionalism while also widening the tent to welcome and include new voices from all around the world and across industries. His professionalism, empathy and deep interest in the topics and people he’s engaged with shines above all. 
 > 
-> [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co) 
+> – [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co) 
 
 
 ### History of Zk Av Club 
