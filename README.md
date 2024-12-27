@@ -116,6 +116,8 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 – Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director 
 
+---
+
 
 ### History of Zk Av Club 
 
