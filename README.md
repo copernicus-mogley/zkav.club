@@ -58,7 +58,7 @@ Empowering and amplifying the voices of our communities:
 > 
 > The Zk Av Club serves as a great example of the power of grassroots, community-driven initiatives in advancing the Zcash mission.
 > 
-> – Jack Gavigan, Zcash Foundation 
+> – Jack Gavigan, [Zcash Foundation](https://zfnd.org) 
 
 
 > Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
@@ -103,7 +103,7 @@ Empowering and amplifying the voices of our communities:
 > 
 > Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
 > 
-> Danika Delano, Zcash Foundation Operations Director 
+> Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director 
 
 
 ### History of Zk Av Club 
