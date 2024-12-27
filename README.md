@@ -99,6 +99,13 @@ Empowering and amplifying the voices of our communities:
 > – [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co) 
 
 
+> The ZK AV Club is a remarkable grassroots initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit. 
+> 
+> Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
+> 
+> Danika Delano, Zcash Foundation Operations Director 
+
+
 ### History of Zk Av Club 
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
