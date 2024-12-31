@@ -7,8 +7,6 @@ Our mission is to share and preserve the valuable information presented and disc
 In addition to livestreaming and recording, we invite curious individuals to learn alongside us, sharing our production skills and insights with those interested in amplifying their own communities. 
 
 We don’t just document events — we foster a network of empowered creators who help grow our collective impact, amplifying the voices of our communities. 
-
-
  
 
 
@@ -16,27 +14,23 @@ We don’t just document events — we foster a network of empowered creators wh
 
 Zk Av Club is a throwback to the grass roots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
  
-– Alex, COO, [Zcash Foundation](https://zfnd.org) 
+– Alex, COO, [Zcash Foundation](https://zfnd.org)  
 
- 
 
 For years, Ryan Taylor and the Zk Av Club have provided exceptional live streaming for Bitcoin and cryptocurrency events, ensuring global reach and high-quality broadcasts. Their dedication is unmatched. 
  
-– Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins), [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork))
+– Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins), [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork)) 
 
- 
 
 I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant , but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
  
-– [dismad](https://x.com/dismad8), ZecHub 
+– [dismad](https://x.com/dismad8), ZecHub  
 
- 
 
 Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe like Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
  
-– [Andrew](https://x.com/socrates1024), Zcash Foundation 
+– [Andrew](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)  
 
- 
 
 Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
  
@@ -44,15 +38,13 @@ The Club’s commitment to privacy-first principles and their use of decentraliz
  
 The Zk Av Club serves as a great example of the power of grassroots, community-driven initiatives in advancing the Zcash mission.
  
-– Jack Gavigan, [Zcash Foundation](https://zfnd.org) 
+– Jack Gavigan, [Zcash Foundation](https://zfnd.org)  
 
- 
 
 Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
  
-– [@zksquirrel](https://x.com/zksquirrel) 
+– [@zksquirrel](https://x.com/zksquirrel)  
 
- 
 
 have you ever been to cozy virtual meeting space full of people who dont expect u to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for. 
  
@@ -60,15 +52,13 @@ the club is also big on experimenting. each member can use their new knowledge t
  
 join it and find out if its something for you. 
  
-– [@zerodartz](https://x.com/zerodartz) 
+– [@zerodartz](https://x.com/zerodartz)  
 
- 
 
 The ZK Audiovisual Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual. As a member of the team I can say that every day is an opportunity to learn, grow and contribute from my knowledge as well. Long live the club!
  
-– [@SoyAuraBrito](https://x.com/SoyAuraBrito) 
+– [@SoyAuraBrito](https://x.com/SoyAuraBrito)  
 
- 
 
 The Audiovisual Club has been a space for me to connect with technology, open source and content generation geeks like me.
  
@@ -76,29 +66,24 @@ I like being part of the team because there is freedom of creativity, opinion an
  
 I hope more people join the Club and enjoy the experience! 
  
-– Roosevelt Gordones - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
+– [Roosevelt Gordones](https://x.com/gordonesTV) - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator 
 
- 
 
 I worked with zkAV club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come. 
 
-– [@therealyingtong](https://github.com/therealyingtong) 
+– [@therealyingtong](https://github.com/therealyingtong)  
 
- 
 
 Ryan is a pro. His production work is top shelf as evidenced by his work on Zcons through the years, and his commitment to providing engaging and informative content. With the zkAV club he continues his dedication and professionalism while also widening the tent to welcome and include new voices from all around the world and across industries. His professionalism, empathy and deep interest in the topics and people he’s engaged with shines above all. 
 
-– [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co) 
+– [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co)  
 
- 
 
 The ZK AV Club is a remarkable grassroots initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit. 
 
 Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
 
-– Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director 
-
- 
+– Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director  
 
 
 ### Join the club 
