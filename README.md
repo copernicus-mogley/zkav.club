@@ -24,7 +24,7 @@ For years, Ryan Taylor and the Zk Av Club have provided exceptional live streami
 
 I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant , but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
  
-– [dismad](https://x.com/dismad8), ZecHub  
+– [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)  
 
 
 Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe like Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
