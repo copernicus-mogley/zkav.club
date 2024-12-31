@@ -98,17 +98,6 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 ---
 
 
-### History of Zk Av Club 
-
-- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
-
-- [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) in the Zcash community forum 
-
-- [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) posted 2023-01-12 
-
-- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
-
-
 ### Join the club 
 
 Get involved with our community or get us involved with yours: 
@@ -120,6 +109,17 @@ Get involved with our community or get us involved with yours:
 - [Mastodon](https://zeal.center/@ZFAVClub) 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
+
+
+### History of Zk Av Club 
+
+- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
+
+- [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) in the Zcash community forum 
+
+- [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) posted 2023-01-12 
+
+- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
 
 ### Partner communities 
