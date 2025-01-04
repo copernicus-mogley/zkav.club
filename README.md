@@ -87,7 +87,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 
 
-### Zk Av Club Foundry — Salon and Lab 
+### Zk Av Club Foundry 
 
 A recurring livestream event where each session dives deep into specific aspects of decentralized tech and creative collaboration. 
 
