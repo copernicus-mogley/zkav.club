@@ -95,7 +95,7 @@ Lab: Practical workshops where you can get your hands dirty with real-world appl
 
 Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
 
-Whether you're a developer, artist, journalist, or simply curious about the future of the internet, Zk Av Club invites you to join Foundry. Come learn, create, innovate, and collaborate with communities that are passionate about art, creativity and freedom. 
+Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to join Foundry. Come learn, create, innovate, and collaborate with communities that are passionate about art, creativity and freedom. 
 
 Curriculum design and production by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
 
