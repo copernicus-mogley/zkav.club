@@ -99,6 +99,16 @@ Get involved with our community or get us involved with yours:
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
 
+### Zk Av Club Foundry — Salon and Lab 
+
+A bi-weekly livestream event where each session dives deep into specific aspects of decentralized tech and creative collaboration. 
+
+Salon: Discussions with people in the field, discussing everything from peer-to-peer (p2p) technologies to community governance and privacy in decentralized ecosystems.
+
+Lab: Practical workshops where you can get your hands dirty with real-world applications, from content creation with open-source tools to understanding decentralized file sharing.
+
+
+
 ### History of Zk Av Club 
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
