@@ -89,7 +89,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Zk Av Club Foundry — Salon and Lab 
 
-A bi-weekly livestream event where each session dives deep into specific aspects of decentralized tech and creative collaboration. 
+A recurring livestream event where each session dives deep into specific aspects of decentralized tech and creative collaboration. 
 
 Salon: Discussions with people in the field, discussing everything from peer-to-peer (p2p) technologies to community governance and privacy in decentralized ecosystems.
 
