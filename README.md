@@ -20,7 +20,7 @@ For years, Ryan Taylor and the Zk Av Club have provided exceptional live streami
 — Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins), [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork)) 
 
 
-I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant , but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
+I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant, but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered AdjyLeak, and in conjunction, the zkav.club. Through the club, I experienced not only my first time connecting with *many* like minded folks through live streaming, but also a vast archive of knowledge I didn't even knew existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
  
 — [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)  
 
