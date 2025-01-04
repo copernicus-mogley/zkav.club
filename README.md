@@ -89,7 +89,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 Zk Av Club Foundry — Salon and Lab is a new recurring livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of decentralized technologies and creative collaboration. 
 
-Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, brand design, and privacy in collaborative ecosystems. 
+Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, from brand design to privacy in collaborative ecosystems. 
 
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free and open-source software (FOSS) to understanding decentralized livestreaming solutions. 
 
