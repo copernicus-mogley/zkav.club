@@ -10,7 +10,7 @@ We don’t just document events — we foster a network of empowered creators wh
  
 
 
-### Zk Av Club Speaks  
+### Zk Av Club Voices  
 
 Zk Av Club is a throwback to the grass roots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
  
