@@ -4,9 +4,7 @@ We are a collective of experts and students exploring audiovisual art and creati
 
 Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups and camps — aiming to provide access to this previously exclusive knowledge to the entire world. 
 
-In addition to livestreaming and recording, we invite curious individuals to learn alongside us, sharing our production skills and insights. 
-
-We don’t just document events — we engage with communities to foster a global network of empowered creators who help grow our collective impact and amplify our individual voices. 
+We don’t just document and livestream events — we invite curious individuals to learn alongside us. We engage with communities, sharing our production skills and insights, to foster a global network of empowered creators who help grow our collective impact and amplify our individual voices. 
  
 
 
