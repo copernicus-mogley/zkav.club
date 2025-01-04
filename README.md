@@ -109,6 +109,10 @@ Salon: Discussions with people in the field, discussing everything from peer-to-
 
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from content creation with open-source tools to understanding decentralized file sharing.
 
+Curriculum and production design by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
+
+Zk Av Club Foundry advisors are Zk Squirrel, Dan Wolande, and John Bruhling 
+
 
 
 ### History of Zk Av Club 
