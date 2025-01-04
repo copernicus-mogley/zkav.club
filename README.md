@@ -6,7 +6,7 @@ Our mission is to share and preserve the valuable information presented and disc
 
 In addition to livestreaming and recording, we invite curious individuals to learn alongside us, sharing our production skills and insights. 
 
-We don’t just document events — we foster a network of empowered creators who help grow our collective impact, amplifying the voices of our global communities. 
+We don’t just document events — we engage with communities to foster a global network of empowered creators who help grow our collective impact and amplify our individual voices. 
  
 
 
