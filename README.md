@@ -97,7 +97,7 @@ Zk Av Club Foundry isn't just about watching or listening; it's about participat
 
 Curriculum design and production by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
 
-Zk Av Club Foundry advisors include zkSquirrel, Dan Wolande, and John Bruhling 
+Zk Av Club Foundry advisors include zkSquirrel, decentralistdan, and John Bruhling 
 
 
 
