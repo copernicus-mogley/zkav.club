@@ -86,6 +86,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 – Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director  
 
 
+
 ### Join the club 
 
 Get involved with our community or get us involved with yours: 
@@ -97,6 +98,7 @@ Get involved with our community or get us involved with yours:
 - [Mastodon](https://zeal.center/@ZFAVClub) 
 
 Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
+
 
 
 ### Zk Av Club Foundry — Salon and Lab 
@@ -120,6 +122,7 @@ Lab: Practical workshops where you can get your hands dirty with real-world appl
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
 
+
 ### Partner communities 
 
 Mutual aid, support and collaboration is on-going with and within our partner communities: 
@@ -129,11 +132,13 @@ Mutual aid, support and collaboration is on-going with and within our partner co
 Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 
+
 ### Thank you to our sponsors and donors 
 
 Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
 *Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+
 
 
 ### Become a patron 
