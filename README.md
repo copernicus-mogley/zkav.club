@@ -93,7 +93,9 @@ Salon: Informative discussions with people who work in the field, covering every
 
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free and open-source software (FOSS) to understanding decentralized livestreaming solutions. 
 
-Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of digital content creation and sharing. Whether you're a developer, artist, journalist, or simply curious about the future of the internet, Zk Av Club invites you to join Foundry, learn, create, innovate, and collaborate with communities that are passionate about art, creativity and freedom. 
+Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of digital content creation and sharing. 
+
+Whether you're a developer, artist, journalist, or simply curious about the future of the internet, Zk Av Club invites you to join Foundry. Come learn, create, innovate, and collaborate with communities that are passionate about art, creativity and freedom. 
 
 Curriculum design and production by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
 
