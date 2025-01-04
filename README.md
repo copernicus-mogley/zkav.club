@@ -93,7 +93,9 @@ Salon: Discussions with people in the field, discussing everything from peer-to-
 
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from content creation with open-source tools to understanding decentralized file sharing.
 
-Curriculum, production and design by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
+Zk Av Club Foundry isn't only about listening or watching; it's about participating, learning, and shaping the future of digital content creation. Whether you're a developer, artist, or just curious about the future of the internet, Zk Av Club invites you to learn, create, and innovate within a community passionate about art and creativity while sharing the values of decentralized and open-source technologies. 
+
+Curriculum production and design by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
 
 Zk Av Club Foundry advisors include zkSquirrel, Dan Wolande, and John Bruhling 
 
