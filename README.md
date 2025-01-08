@@ -6,6 +6,9 @@ Our mission is to share and preserve the valuable information presented and disc
 
 We don’t just record and livestream events. We invite curious individuals to learn alongside us. We engage with communities, sharing skills and insights, to foster a network of empowered creators who help grow our collective impact and amplify their own individual voices. 
  
+> Why are we doing this? What's the mission in creating Zero-knowledge Audiovisual Club and our new series Zk Av Club Foundry? From an interview with [@peacemonger](https://x.com/peacemongerz) 
+> 
+> ![](https://free2z.cash/uploadz/public/karentaponte/club-audiovisual1.mp4)
 
 
 ### Zk Av Club's Voices  
