@@ -116,7 +116,7 @@ Zk Av Club Foundry advisors are autotunafish, decentralistdan and zkSquirrel
 
 ### Join the club 
 
-Get involved with our community or get us involved with yours: 
+Get involved with our community or get us involved with yours! 
 
 - [𝕏](https://x.com/ZkAv_Club) 
 
