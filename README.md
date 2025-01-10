@@ -98,7 +98,7 @@ Whether you're a developer, an artist, or simply curious about the future of the
 
 Curriculum design and production by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
 
-Zk Av Club Foundry advisors include zkSquirrel, decentralistdan, and autotunafish 
+Zk Av Club Foundry advisors are autotunafish, decentralistdan and zkSquirrel
 
 
 
