@@ -123,7 +123,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Join the Club 
 
-Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. Get involved with our community and get us involved with yours! 
+Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. 
 
 - [𝕏](https://x.com/ZkAv_Club) 
 
@@ -137,7 +137,7 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 
 ### Partner Communities 
 
-Mutual aid, support and collaboration is ongoing with and within our partner communities: 
+Mutual aid, support and collaboration is ongoing with and within our partner communities. Get involved, today! 
 
 - [Zechub](/partners/zechub.md) 
 
