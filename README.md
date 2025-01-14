@@ -40,7 +40,7 @@ The Zk Av Club serves as a great example of the power of grassroots, community-d
 
 Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
  
-— [@zksquirrel](https://x.com/zksquirrel)  
+— [@zksquirrel](https://x.com/zksquirrel), [ZecHub](https://zechub.wiki/)   
 
 
 have you ever been to cozy virtual meeting space full of people who don't expect you to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for. 
