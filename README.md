@@ -147,7 +147,7 @@ Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav
 
 ### Thank You to Our Sponsors and Donors 
 
-Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
+Zk Av Club productions and other activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
 *Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
 
