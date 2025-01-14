@@ -86,13 +86,11 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Zk Av Club Foundry 
 
-Zk Av Club Foundry — Salon and Lab is a new recurring educational livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of decentralized technologies and creative collaboration. 
+Zk Av Club Foundry — Salon and Lab is a recurring educational livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of new, often experimental, technologies. Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
 
 Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, from brand and design to privacy in collaborative ecosystems. 
 
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions. 
-
-Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
