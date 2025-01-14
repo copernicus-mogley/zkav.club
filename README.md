@@ -8,8 +8,8 @@ Whether you're a developer, an artist, or simply curious about the future of the
 
 ### Navigation 
 
-* [Zk Av Club Foundry](#zk-av-club-foundry) 
-* [Zk Av Club's Voices](#zk-av-clubs-voices) 
+* [Foundry — Salon and Lab](#zk-av-club-foundry) 
+* [Voices & Testimonials](#zk-av-clubs-voices) 
 * [History of Zk Av Club](#history-of-zk-av-club) 
 * [Join the Club](#join-the-club) 
 * [Partner Communities](#partner-communities) 
