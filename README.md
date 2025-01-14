@@ -6,6 +6,8 @@ Our mission is to share and preserve the valuable information presented and disc
 
 We don’t just record and livestream events. We invite curious individuals to learn alongside us. We engage with communities, sharing skills and insights, to foster a network of empowered creators who help grow our collective impact and amplify their own individual voices. 
 
+Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. 
+
 
 
 ### Navigation 
@@ -123,7 +125,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Join the Club 
 
-Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. Get involved with our community or get us involved with yours! 
+Get involved with our community or get us involved with yours! 
 
 - [𝕏](https://x.com/ZkAv_Club) 
 
