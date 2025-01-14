@@ -8,12 +8,12 @@ Whether you're a developer, an artist, or simply curious about the future of the
 
 ### Navigation 
 
-> 1. [Zk Av Club Foundry — Salon and Lab](#zk-av-club-foundry) 
+> 1. [Zk Av Club Foundry](#zk-av-club-foundry) 
 > 2. [Zk Av Club's Voices](#zk-av-clubs-voices) 
 > 3. [History of Zk Av Club](#history-of-zk-av-club) 
 > 4. [Join the Club](#join-the-club) 
 > 5. [Partner Communities](#partner-communities) 
-> 6. [Thank You to Our Sponsors and Donors](#thank-you-to-our-sponsors-and-donors) 
+> 6. [Thank You to Our Sponsors and Donors!](#thank-you-to-our-sponsors-and-donors) 
 > 7. [Become a Patron](#become-a-patron) 
 
 
