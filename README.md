@@ -7,6 +7,7 @@ Our mission is to share and preserve the valuable information presented and disc
 We don’t just record and livestream events. We invite curious individuals to learn alongside us. We engage with communities, sharing skills and insights, to foster a network of empowered creators who help grow our collective impact and amplify their own individual voices. 
 
 
+
 ### Navigation 
 
 * [Foundry — Salon and Lab](#zk-av-club-foundry) 
@@ -18,6 +19,7 @@ We don’t just record and livestream events. We invite curious individuals to l
 * [Become a Patron](#become-a-patron) 
 
 
+
 ### Zk Av Club Foundry 
 
 Zk Av Club Foundry — Salon and Lab is a new recurring educational livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of emerging, often experimental, technologies. Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
@@ -27,6 +29,7 @@ Salon: Informative discussions with people who work in the field, covering every
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions. 
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel.  
+
 
 
 ### Zk Av Club's Voices  
@@ -103,6 +106,7 @@ The ZK AV Club is a remarkable grassroots initiative born from the passion of Zc
 Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
 
 — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director  
+
 
 
 ### History of Zk Av Club 
