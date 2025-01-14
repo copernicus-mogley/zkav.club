@@ -6,6 +6,8 @@ Our mission is to share and preserve the valuable information presented and disc
 
 We don’t just record and livestream events. We invite curious individuals to learn alongside us. We engage with communities, sharing skills and insights, to foster a network of empowered creators who help grow our collective impact and amplify their own individual voices. 
 
+Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to join us. Come learn, create, innovate, and collaborate with others who are passionate about art, creativity and freedom. 
+
 
 ### Zk Av Club's Voices  
 
@@ -93,8 +95,6 @@ Salon: Informative discussions with people who work in the field, covering every
 Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions. 
 
 Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
-
-Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to join Foundry. Come learn, create, innovate, and collaborate with communities that are passionate about art, creativity and freedom. 
 
 Curriculum design and production by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
 
