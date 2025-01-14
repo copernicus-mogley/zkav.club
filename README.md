@@ -141,7 +141,7 @@ Mutual aid, support and collaboration is ongoing with and within our partner com
 
 - [Zechub](/partners/zechub.md) 
 
-Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 
 
