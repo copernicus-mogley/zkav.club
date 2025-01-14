@@ -96,10 +96,7 @@ Lab: Practical workshops where you can get your hands dirty with real-world appl
 
 Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
 
-Curriculum design and production by Ryan Taylor, Robmar Enoe, Aura Brito, and Roosevelt Gordones
-
-Zk Av Club Foundry advisors are autotunafish, decentralistdan and zkSquirrel
-
+Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
 
 ### History of Zk Av Club 
