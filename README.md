@@ -8,13 +8,13 @@ Whether you're a developer, an artist, or simply curious about the future of the
 
 ### Navigation 
 
-> * [Zk Av Club Foundry](#zk-av-club-foundry) 
-> * [Zk Av Club's Voices](#zk-av-clubs-voices) 
-> * [History of Zk Av Club](#history-of-zk-av-club) 
-> * [Join the Club](#join-the-club) 
-> * [Partner Communities](#partner-communities) 
-> * [Thank You to Our Sponsors and Donors!](#thank-you-to-our-sponsors-and-donors) 
-> * [Become a Patron](#become-a-patron) 
+* [Zk Av Club Foundry](#zk-av-club-foundry) 
+* [Zk Av Club's Voices](#zk-av-clubs-voices) 
+* [History of Zk Av Club](#history-of-zk-av-club) 
+* [Join the Club](#join-the-club) 
+* [Partner Communities](#partner-communities) 
+* [Thank You to Our Sponsors and Donors!](#thank-you-to-our-sponsors-and-donors) 
+* [Become a Patron](#become-a-patron) 
 
 
 ### Zk Av Club Foundry 
