@@ -90,7 +90,7 @@ Zk Av Club Foundry — Salon and Lab is a new recurring educational livestream s
 
 Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, from brand and design to privacy in collaborative ecosystems. 
 
-Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free and open-source software (FOSS) to understanding decentralized livestreaming solutions. 
+Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions. 
 
 Zk Av Club Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
 
