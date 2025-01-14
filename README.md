@@ -131,7 +131,7 @@ Whether you're a developer, an artist, or simply curious about the future of the
 
 - [Mastodon](https://zeal.center/@ZFAVClub) 
 
-Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcoming events. 
+Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
 
 
