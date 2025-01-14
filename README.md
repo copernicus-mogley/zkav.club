@@ -6,6 +6,7 @@ We don’t just record and livestream events. We invite curious individuals to l
 
 Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, creativity and freedom. 
 
+### Navigation 
 
 > 1. [Zk Av Club Foundry — Salon and Lab](#zk-av-club-foundry) 
 > 2. [Zk Av Club's Voices](#zk-av-clubs-voices) 
