@@ -7,6 +7,16 @@ We don’t just record and livestream events. We invite curious individuals to l
 Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, creativity and freedom. 
 
 
+> **Table of Contents**
+> 1. [Zk Av Club Foundry — Salon and Lab](#zk-av-club-foundry) 
+> 2. [Zk Av Club's Voices](#zk-av-clubs-voices) 
+> 3. [History of Zk Av Club](#history-of-zk-av-club) 
+> 4. [Join the Club](#join-the-club) 
+> 5. [Partner Communities](#partner-communities) 
+> 6. [Thank You to Our Sponsors and Donors](#thank-you-to-our-sponsors-and-donors) 
+> 7. [Become a Patron](#become-a-patron) 
+
+
 ### Zk Av Club Foundry 
 
 Zk Av Club Foundry — Salon and Lab is a new recurring educational livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of emerging, often experimental, technologies. Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
@@ -106,7 +116,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 
 
-### Join the club 
+### Join the Club 
 
 Get involved with our community or get us involved with yours! 
 
@@ -120,7 +130,7 @@ Subscribe to the [Zk Av Club calendar](https://lu.ma/zkav) for updates on upcomi
 
 
 
-### Partner communities 
+### Partner Communities 
 
 Mutual aid, support and collaboration is ongoing with and within our partner communities: 
 
@@ -130,7 +140,7 @@ Add your communities – [create a PR](https://github.com/copernicus-mogley/zkav
 
 
 
-### Thank you to our sponsors and donors 
+### Thank You to Our Sponsors and Donors 
 
 Zk Av Club activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
@@ -138,7 +148,7 @@ Zk Av Club activities are made possible by contributions from organizations, com
 
 
 
-### Become a patron 
+### Become a Patron 
 
 Donate with [Zcash](https://z.cash) today
 ```
