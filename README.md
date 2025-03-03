@@ -6,10 +6,9 @@ Our mission is to share and preserve the valuable information presented and disc
 
 We don’t just record and livestream events. We invite curious individuals to learn alongside us. We engage with communities, sharing skills and insights, to foster a network of empowered creators who help grow our collective impact and amplify their own individual voices. 
 
-
-
 ### Navigation 
 
+* [ZconVI Clip Games](#zconvi-clip-games)
 * [Foundry — Salon and Lab](#zk-av-club-foundry) 
 * [Voices & Testimonials](#zk-av-clubs-voices) 
 * [History of Zk Av Club](#history-of-zk-av-club) 
@@ -18,6 +17,14 @@ We don’t just record and livestream events. We invite curious individuals to l
 * [Thank You to Our Sponsors and Donors!](#thank-you-to-our-sponsors-and-donors) 
 * [Become a Patron](#become-a-patron) 
 
+
+### ZconVI Clip Games 
+
+The [ZconVI Clip Games](https://free2z.com/ZKAV.club/zpage/zcon6-clips) are NOW ACTIVE. JOIN NOW! 
+
+Judging will begin 48 hours after the end of the ZconVI Community Recap on Sunday 2025.03.09 at 23:45 UTC. Your winners will be announced during the Zcash Global Friday Lounge on 2025.03.14 at 16:00 UTC. 
+
+For full game details: [ZconVI Clip Games](https://free2z.com/ZKAV.club/zpage/zcon6-clips)
 
 
 ### Zk Av Club Foundry 
