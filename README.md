@@ -33,7 +33,7 @@ Zk Av Club Foundry is made possible with [contributions from our wonderful fans]
 
 Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
  
-— Alex, COO, [Zcash Foundation](https://zfnd.org)  
+— Alex Bornstein, COO, [Zcash Foundation](https://zfnd.org)  
 
 
 For years, Ryan Taylor and the Zk Av Club have provided exceptional live streaming for Bitcoin and cryptocurrency events, ensuring global reach and high-quality broadcasts. Their dedication is unmatched. 
@@ -48,7 +48,7 @@ I've always been fascinated with how folks find things because it illustrates a 
 
 Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe, such as Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
  
-— [Andrew](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)  
+— [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)  
 
 
 Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
