@@ -8,16 +8,16 @@ No solo grabamos y celebramos eventos en directo. Invitamos a personas curiosas 
 
 ### Navegación
 
-* [Fundary — Salon and Lab](#zk-av-club-fundry)
+* [Fundary — Salon and Lab](#zk-av-club-fundary)
 * [Voices & Testimonios](#zk-av-clubs-voices)
-* [Leer más detalladamente]
-* [Historia de Zk Av Club](#history-of-zk-av-club)
-* [Únete al Club](Jugando al club)
-* [Comunidades asociadas] (comunidades participativas)
-¡Gracias a nuestros patrocinadores y donantes!
-* [Become a Patron](#become-a-patron)
+* [Leer más detalladamente](#lectura-adicional)
+* [Historia de Zk Av Club](#historia-de-zk-av-club)
+* [Únete al Club](#Únete-al-club)
+* [Comunidades participativas](#comunidades-participativas)
+* [¡Gracias a nuestros patrocinadores y donantes!](#Gracias-a-nuestros-patrocinadores-y-donantes)
+* [Conviértete en un patrono](#conviértete-en-un-patrono)
 
-## Zk Av Club Foundry
+## Zk Av Club Fundary
 
 Zk Av Club Foundry — Salon and Lab es una nueva serie de flujos educativos. Cada sesión combina debates tópicos (Salón) con talleres prácticos (Lab), buceo profundo en aspectos específicos de las tecnologías emergentes, a menudo experimentales. La fundición no se trata sólo de ver o escuchar; se trata de participar, aprender y configurar el futuro de la creación de contenido colaborativo.
 
@@ -124,7 +124,7 @@ Más allá de ser una incubadora para la creatividad, ZK AV se ha convertido en 
 
 
 
-### Join the Club
+### Únete al Club
 
 Ya sea desarrollador, artista o simplemente curiosidad por el futuro de internet, Zk Av Club te invita a aprender, crear, innovar y colaborar con otros apasionados por el arte, la ciencia, la creatividad y la libertad.
 
@@ -138,8 +138,7 @@ Suscríbete a nuestro calendario de eventos](https://lu.ma/zkav) para recibir in
 
 
 
-#### Partner Communities
-
+#### Comunidades Participativas
 La ayuda mutua, el apoyo y la colaboración están en curso con nuestras comunidades asociadas y dentro de ellas. ¡Participe, hoy!
 
 - [Zechub](/partners/zechub.md)
@@ -159,8 +158,8 @@ Las producciones Zk Av Club y otras actividades son posibles gracias a contribuc
 ### Conviértete en un patrono
 
 Donate with [Zcash](https://z.cash) today
-`` `
-u19vx
-`` `
+```
+u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlufvqrcsn9lg0582y3zkfqcvzt23puexgpd0mnjh5y8wq9rpa3sq952nxn80t9k69t7qvc5rfvc74wvvlswve34kz0s04px9vv4fkj4nwzc3elsmg8qxky5x2ehcle962jj8wfn
+``` 
 
 [Back to top](#zero-knowledge-audiovisual-club)
