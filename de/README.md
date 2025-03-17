@@ -8,7 +8,7 @@ Wir erfassen nicht nur Veranstaltungen und Livestreams. Wir laden neugierige Men
 
 ### Navigation
 
-* [🌐](#sprachen)
+* [🌐 Sprachen](#sprachen)
 * [Foundry — Salon und Lab](#zk-av-club-foundry)
 * [Voices & Testimonials](#zk-av-clubs-voices)
 * [Zusätzliches Lesen](#zusätzliches-Lesen)
