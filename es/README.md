@@ -16,6 +16,7 @@ No solo grabamos y celebramos eventos en directo. Invitamos a personas curiosas 
 * [Comunidades participativas](#comunidades-participativas)
 * [¡Gracias a nuestros patrocinadores y donantes!](#Gracias-a-nuestros-patrocinadores-y-donantes)
 * [Conviértete en un patrono](#conviértete-en-un-patrono)
+* [🌐 Idiomas](#idiomas)
 
 ## Zk Av Club Fundary
 
@@ -162,4 +163,10 @@ Donate with [Zcash](https://z.cash) today
 u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlufvqrcsn9lg0582y3zkfqcvzt23puexgpd0mnjh5y8wq9rpa3sq952nxn80t9k69t7qvc5rfvc74wvvlswve34kz0s04px9vv4fkj4nwzc3elsmg8qxky5x2ehcle962jj8wfn
 ``` 
 
-[Back to top](#zero-knowledge-audiovisual-club)
+### Idiomas
+
+- [Deutsch](https://zkav.club/de/)
+- [English](https://zkav.club)
+- [Español](https://zkav.club/es/)
+
+## 🌐
