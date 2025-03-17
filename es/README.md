@@ -15,7 +15,6 @@ No solo grabamos y celebramos eventos en directo. Invitamos a personas curiosas 
 * [Únete al Club](#Únete-al-club)
 * [Comunidades participativas](#comunidades-participativas)
 * [¡Gracias a nuestros patrocinadores y donantes!](#Gracias-a-nuestros-patrocinadores-y-donantes)
-* [Conviértete en un patrono](#conviértete-en-un-patrono)
 * [🌐 Idiomas](#idiomas)
 
 ## Zk Av Club Fundary
@@ -154,9 +153,6 @@ Las producciones Zk Av Club y otras actividades son posibles gracias a contribuc
 
 *Extra special THANKS* to our incubaation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com)
 
-
-
-### Conviértete en un patrono
 
 Donate with [Zcash](https://z.cash) today
 ```

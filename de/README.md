@@ -15,7 +15,6 @@ Wir erfassen nicht nur Veranstaltungen und Livestreams. Wir laden neugierige Men
 * [Join the Club](#join-the-club)
 * [Partnerschaften](#partner-communities)
 * [Danke an unsere Sponsoren und Spender!](#than-you-to-our-sponsors-and-donors)
-* [Become a Patron](#become-a-patron)
 * [🌐 Sprachen](#sprachen)
 
 ### Zk Av Club Foundry
@@ -155,9 +154,6 @@ Zk Av Club Produktionen und andere Aktivitäten werden durch Beiträge von Organ
 
 *Extra special THANKS* an unsere Inkubationssponsoren: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com)
 
-
-
-### Become a Patron
 
 Spende mit [Zcash](https://z.cash) heute
 ```
