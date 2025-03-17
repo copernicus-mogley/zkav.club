@@ -8,7 +8,6 @@ Wir erfassen nicht nur Veranstaltungen und Livestreams. Wir laden neugierige Men
 
 ### Navigation
 
-* [🌐 Sprachen](#sprachen)
 * [Foundry — Salon und Lab](#zk-av-club-foundry)
 * [Voices & Testimonials](#zk-av-clubs-voices)
 * [Zusätzliches Lesen](#zusätzliches-Lesen)
@@ -16,7 +15,8 @@ Wir erfassen nicht nur Veranstaltungen und Livestreams. Wir laden neugierige Men
 * [Join the Club](#join-the-club)
 * [Partnerschaften](#partner-communities)
 * [Danke an unsere Sponsoren und Spender!](#than-you-to-our-sponsors-and-donors)
-* (#become-a-patron)
+* [Become a Patron](#become-a-patron)
+* [🌐 Sprachen](#sprachen)
 
 ### Zk Av Club Foundry
 
