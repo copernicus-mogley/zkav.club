@@ -9,13 +9,13 @@ Wir erfassen nicht nur Veranstaltungen und Livestreams. Wir laden neugierige Men
 ### Navigation
 
 * [Foundry — Salon und Lab](#zk-av-club-foundry)
-* [Voices & Testimonials](#zk-av-clubs-voices)
+* [Zk Av Clubs Stimmen](#zk-av-clubs-stimmen)
 * [Zusätzliches Lesen](#zusätzliches-Lesen)
-* [Geschichte des Zk Av Club](#history-of-zk-av-club)
-* [Join the Club](#join-the-club)
-* [Partnerschaften](#partner-communities)
-* [Danke an unsere Sponsoren und Spender!](#than-you-to-our-sponsors-and-donors)
-* [🌐 Sprachen](#sprachen)
+* [Geschichte des Zk Av Club](#geschichte-des-zk-av-club)
+* [Mitglied im Club](#mitglied-im-club)
+* [Partnerschaften](#partnerschaften)
+* [Danke an unsere Sponsoren und Spender!](#Vielen-Dank-an-unsere-Sponsoren-und-Spender)
+* [🌐 Sprachen](#Sprachen)
 
 ### Zk Av Club Foundry
 
@@ -124,7 +124,7 @@ Als Inkubator für Kreativität hat sich ZK AV zu einer hochwirksamen Organisati
 
 
 
-### Join the Club
+### Mitglied im Club
 
 Ob Sie ein Entwickler, ein Künstler oder einfach neugierig auf die Zukunft des Internets sind, Zk Av Club lädt Sie ein zu lernen, zu schaffen, innovieren und mit anderen zusammenzuarbeiten, die leidenschaftlich über Kunst, Wissenschaft, Kreativität und Freiheit sind.
 
@@ -138,7 +138,7 @@ Abonnieren Sie unseren [Eventskalender](https://lu.ma/zkav) für Updates über b
 
 
 
-### Partner Communities
+### Partnerschaften
 
 Mit und innerhalb unserer Partnergemeinden laufen gegenseitige Hilfe, Unterstützung und Zusammenarbeit. Komm mit!
 
@@ -160,7 +160,7 @@ Spende mit [Zcash](https://z.cash) heute
 u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlufvqrcsn9lg0582y3zkfqcvzt23puexgpd0mnjh5y8wq9rpa3sq952nxn80t9k69t7qvc5rfvc74wvvlswve34kz0s04px9vv4fkj4nwzc3elsmg8qxky5x2ehcle962jj8wfn
 ```
 
-### 🌐 Sprachen {#sprachen}
+### 🌐 Sprachen
 
 - [Deutsch](https://zkav.club/de/)
 - [English](https://zkav.club)
