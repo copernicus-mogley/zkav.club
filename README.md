@@ -2,7 +2,7 @@
 
 Empowering and amplifying local content creators through global community support.
 
-We are a decentralized collective of audiovisual experts and students exploring art and creativity with decentralized and open-source technologies. Our focus is on empowering communities through content creation, education, and grassroots event support. 
+We are an ever-expanding collective of audiovisual experts and students exploring art and creativity with decentralized and open-source technologies. Our focus is on empowering communities through content creation, education, and grassroots event support. 
 
 Our mission is to share and preserve knowledge from conferences, meetups, and camps, making it accessible to all. We aim to foster community building, break down barriers, and create opportunities for learning, collaboration, and contribution. 
 
