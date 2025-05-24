@@ -1,10 +1,11 @@
 ## Zero-knowledge Audiovisual Club 
 
-We are a global collective of audiovisual experts and students exploring art and creativity in the context of decentralized and open source technologies while supporting events in our local communities. 
+We are a global collective of audiovisual experts and students exploring art and creativity with decentralized and open-source technologies. Our focus is on empowering communities through content creation, education, and grassroots event support. 
 
-Our mission is to share and preserve the valuable information presented and discussed at conferences, meetups and camps — aiming to provide access to this previously exclusive knowledge to the entire world. 
+Our mission is to share and preserve knowledge from conferences, meetups, and camps, making it accessible to all. We aim to foster community building, break down barriers, and create opportunities for learning, collaboration, and contribution. 
 
-We don’t just record and livestream events. We invite curious individuals to learn alongside us. We engage with communities, sharing skills and insights, to foster a network of empowered creators who help grow our collective impact and amplify their own individual voices. 
+We don’t just record and livestream events — we engage with communities, share skills, and help build a network of empowered creators. Together, we amplify individual voices and expand our collective impact.
+
 
 ### Navigation 
 
