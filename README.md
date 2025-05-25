@@ -154,7 +154,7 @@ Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.c
 
 Zk Av Club productions and other activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-Support us with cryptocurrencies: 
+#### Support us with cryptocurrencies: 
 
 [Zcash $ZEC](https://z.cash)
 ```
