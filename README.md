@@ -17,7 +17,7 @@ We don’t just record and livestream events — we engage with communities, sha
 * [History of Zk Av Club](#history-of-zk-av-club) 
 * [Join the Club](#join-the-club) 
 * [Partner Communities](#partner-communities) 
-* [Support Zk Av Club](#thank-you-to-our-sponsors-and-donors) 
+* [Support Zk Av Club](#support-us) 
 
 
 ### Zk Av Club Foundry 
@@ -154,7 +154,7 @@ Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.c
 
 Zk Av Club productions and other activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-#### Support us with cryptocurrencies: 
+#### Support Zk Av Club with cryptocurrencies: 
 
 [Zcash $ZEC](https://z.cash)
 ```
