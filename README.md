@@ -13,8 +13,8 @@ We don’t just record and livestream events — we engage with communities, sha
 
 * [Zk Av Club Foundry](#zk-av-club-foundry) 
 * [Voices & Testimonials](#zk-av-clubs-voices) 
-* [Additional reading](#additional-reading) 
 * [History of Zk Av Club](#history-of-zk-av-club) 
+* [Additional reading](#additional-reading) 
 * [Join the Club](#join-the-club) 
 * [Partner Communities](#partner-communities) 
 * [Support Zk Av Club](#support-zk-av-club) 
@@ -109,11 +109,6 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director  
 
 
-### Additional reading 
-
- - [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
-
-
 ### History of Zk Av Club 
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
@@ -124,6 +119,10 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
+
+### Additional reading 
+
+ - [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
 
 
 ### Join the Club 
