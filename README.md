@@ -117,12 +117,12 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 2023-01-12 
 
-- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
-
 
 ### Additional reading 
 
  - [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
+
+- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
 
 ### Join the Club 
