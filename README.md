@@ -11,13 +11,26 @@ We don’t just record and livestream events — we engage with communities, sha
 
 ### Navigation 
 
-* [Voices & Testimonials](#zk-av-clubs-voices) 
 * [Zk Av Club Foundry](#zk-av-club-foundry) 
+* [Voices & Testimonials](#zk-av-clubs-voices) 
 * [Additional reading](#additional-reading) 
 * [History of Zk Av Club](#history-of-zk-av-club) 
 * [Join the Club](#join-the-club) 
 * [Partner Communities](#partner-communities) 
 * [Thank You to Our Sponsors and Donors!](#thank-you-to-our-sponsors-and-donors) 
+
+
+### Zk Av Club Foundry 
+
+Zk Av Club Foundry — Salon and Lab is a new recurring educational livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of emerging, often experimental, technologies. Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
+
+Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, from brand and design to privacy in collaborative ecosystems. 
+
+Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions. 
+
+Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel.  
+
+Zk Av Club Foundry is made possible with [contributions from our wonderful fans](#become-a-patron) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
 ### Zk Av Club's Voices  
@@ -94,19 +107,6 @@ The ZK AV Club is a remarkable grassroots initiative born from the passion of Zc
 Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
 
 — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director  
-
-
-### Zk Av Club Foundry 
-
-Zk Av Club Foundry — Salon and Lab is a new recurring educational livestream series. Each session combines topical discussions (Salon) with practical workshops (Lab), diving deep into specific aspects of emerging, often experimental, technologies. Foundry isn't just about watching or listening; it's about participating, learning, and shaping the future of collaborative content creation. 
-
-Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, from brand and design to privacy in collaborative ecosystems. 
-
-Lab: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions. 
-
-Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel.  
-
-Zk Av Club Foundry is made possible with [contributions from our wonderful fans](#become-a-patron) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
 ### Additional reading 
