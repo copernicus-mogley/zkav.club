@@ -17,7 +17,7 @@ We don’t just record and livestream events — we engage with communities, sha
 * [History of Zk Av Club](#history-of-zk-av-club) 
 * [Join the Club](#join-the-club) 
 * [Partner Communities](#partner-communities) 
-* [Thank You to Our Sponsors and Donors!](#thank-you-to-our-sponsors-and-donors) 
+* [Support Zk Av Club](#thank-you-to-our-sponsors-and-donors) 
 
 
 ### Zk Av Club Foundry 
