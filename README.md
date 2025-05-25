@@ -154,12 +154,36 @@ Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.c
 
 Zk Av Club productions and other activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-*Extra special THANKS* to our incubation sponsors: [Zcash Foundation](https://zfnd.org) + [Least Authority](https://leastauthority.com) 
+Support us with cryptocurrencies: 
 
-
-Donate with [Zcash](https://z.cash) today
+[Zcash $ZEC](https://z.cash)
 ```
 u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlufvqrcsn9lg0582y3zkfqcvzt23puexgpd0mnjh5y8wq9rpa3sq952nxn80t9k69t7qvc5rfvc74wvvlswve34kz0s04px9vv4fkj4nwzc3elsmg8qxky5x2ehcle962jj8wfn
 ``` 
+
+[Bitcoin $BTC](https://en.wikipedia.org/wiki/Bitcoin) 
+```
+bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
+```
+
+[Ethereum $ETH](https://ethereum.org)
+```
+0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
+```
+
+[Filecoin $FIL](https://www.filecoin.io/)
+```
+f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
+```
+
+[Monero $XMR](https://www.getmonero.org/)
+```
+48Yg7xLxLzH8jnyPRje7ZXbziE9YqXE3zhXYAHt1sHSvGRDGHjDqoDMN6hH2oCvbxTZiaApTXex19i5qGMzb8ZM99ZJE4MM
+```
+
+[Solana $SOL](https://solana.com)
+```
+9LjiB6CAck6SKEHGAfK7LN2jJyXhZX7jiivCVvv49RUk
+```
 
 [Back to top](#zero-knowledge-audiovisual-club)
