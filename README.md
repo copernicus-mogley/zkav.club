@@ -30,7 +30,7 @@ Lab: Practical workshops where you can get your hands dirty with real-world appl
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel.  
 
-Zk Av Club Foundry is made possible with [contributions from our wonderful fans](#become-a-patron) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
+Zk Av Club Foundry is made possible with [contributions from our wonderful fans](#support-zk-av-club) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
 ### Zk Av Club's Voices  
