@@ -52,7 +52,7 @@ Workshops must also be recorded or, better yet, also streamed to a platform that
 
 3. **Proposed Date and Duration** 
 
-   - Please indicate your preferred dates (pick 3) to livestream your workshop.
+   - Please indicate your preferred date to livestream your workshop.
 
 4. **Required Resources** 
 
