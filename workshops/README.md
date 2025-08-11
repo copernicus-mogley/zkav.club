@@ -37,9 +37,9 @@ Workshops must also be recorded or, better yet, also streamed to a platform that
      - Internet Archive Command-line Interface (CLI) 
      - Recording station development and deployments 
      - Introduction to livestream production 
-     - Audio production and/or post-production 
-     - Equipment for audio production – various budgets 
-
+     - Equipment for great audio production 
+     - Audio post-production and cleanup 
+     
 2. **Instructional Design: Make it clear, useful, and accessible!** 
 
    - **What will participants learn?** Define one or two clear objectives by the end of the workshop. 
