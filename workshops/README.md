@@ -90,4 +90,7 @@ Workshops must also be recorded or, better yet, also streamed to a platform that
 
 We're eager to hear your ideas and see how you can enrich our communities with new audiovisual skills. If you're ready to share what you're passionate about and be a leader at Zk Av Club, send us your proposal detailing the points above.
 
+[Apply today!](https://app.formbricks.com/s/cme8iywslcm58v501xsjaz9l7) 
+
 We look forward to attending your next workshop very soon!
+
