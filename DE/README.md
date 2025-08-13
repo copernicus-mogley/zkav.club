@@ -162,6 +162,6 @@ u19duuw23zcvzjdn8fyvluyvj40latvvf5y95n2clf5d9sszksvkjvqp3yjpm0fnvcpx4esgxay42dlu
 
 ### 🌐 Sprachen {#sprachen}
 
-- [Deutsch](https://zkav.club/de/)
+- [Deutsch](https://zkav.club/DE/)
 - [English](https://zkav.club)
-- [Español](https://zkav.club/es/)
+- [Español](https://zkav.club/ES/)

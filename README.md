@@ -153,6 +153,7 @@ Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.c
 
 Zk Av Club productions and other activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
+
 #### Support Zk Av Club 
 
 [Zcash $ZEC](https://z.cash)
@@ -185,6 +186,6 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 9LjiB6CAck6SKEHGAfK7LN2jJyXhZX7jiivCVvv49RUk
 ```
 
----
+--- 
 
 [Back to top](#zero-knowledge-audiovisual-club)
