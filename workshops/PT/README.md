@@ -92,3 +92,5 @@ Queremos ouvir suas ideias e ver como você pode enriquecer nossa comunidade com
 [Inscreva-se hoje mesmo!](https://app.formbricks.com/s/cme8iywslcm58v501xsjaz9l7) 
 
 Estamos ansiosos para participar do seu próximo workshop!
+
+— Zk Av Club: Don’t just watch.

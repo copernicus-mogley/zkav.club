@@ -94,3 +94,4 @@ We're eager to hear your ideas and see how you can enrich our communities with n
 
 We look forward to attending your next workshop very soon!
 
+— Zk Av Club: Don’t just watch.
