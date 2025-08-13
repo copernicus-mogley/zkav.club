@@ -26,62 +26,62 @@ O workshop também deve ser gravado ou, preferencialmente, transmitido para uma 
 
 1. **Tema e Conteúdo**
 
- - Seu workshop deve ter como foco técnicas e ferramentas de audiovisual que já foram apresentadas nas sessões e workshops do Zk Av Club Foundry. Você pode expandir esses temas e mostrar suas próprias ideias e aplicações práticas.
+    - Seu workshop deve ter como foco técnicas e ferramentas de audiovisual que já foram apresentadas nas sessões e workshops do Zk Av Club Foundry. Você pode expandir esses temas e mostrar suas próprias ideias e aplicações práticas.
  
- - **Sugestões de temas** (mais serão adicionados em breve!):
+    - **Sugestões de temas** (mais serão adicionados em breve!):
  
- - Retransmissão de conferências ou encontros virtuais
- - Transcrição e tradução ao vivo
- - Produção de workshops liderados pela comunidade
- - Edição básica de vídeo para redes sociais (clipes)
- - Uso do Internet Archive pela linha de comando (CLI)
- - Desenvolvimento e instalação de estações de gravação
- - Introdução à produção de transmissões ao vivo
- - Equipamentos para excelente produção de áudio
- - Pós-produção e limpeza de áudio
+        - Retransmissão de conferências ou encontros virtuais
+        - Transcrição e tradução ao vivo
+        - Produção de workshops liderados pela comunidade
+        - Edição básica de vídeo para redes sociais (clipes)
+        - Uso do Internet Archive pela linha de comando (CLI)
+        - Desenvolvimento e instalação de estações de gravação
+        - Introdução à produção de transmissões ao vivo
+        - Equipamentos para excelente produção de áudio
+        - Pós-produção e limpeza de áudio
 
 2. **Design Instrucional: Deixe claro, útil e fácil de entender!**
 
- - **O que os participantes vão aprender?** Defina 1 ou 2 objetivos claros até o final do workshop.
+    - **O que os participantes vão aprender?** Defina 1 ou 2 objetivos claros até o final do workshop.
  
- - **Como você vai organizar?** Ex.: breve introdução, demonstração prática, exercício simples, sessão de perguntas e respostas.
+    - **Como você vai organizar?** Ex.: breve introdução, demonstração prática, exercício simples, sessão de perguntas e respostas.
  
- - **Quais métodos vai usar?** Apresentações visuais, demonstrações de software ao vivo, exemplos de projetos, discussões abertas?
+    - **Quais métodos vai usar?** Apresentações visuais, demonstrações de software ao vivo, exemplos de projetos, discussões abertas?
  
- - **Vai precisar de materiais de apoio?** Links úteis, recursos, arquivos de exemplo, tutorial rápido?
+    - **Vai precisar de materiais de apoio?** Links úteis, recursos, arquivos de exemplo, tutorial rápido?
 
 3. **Data e Duração Propostas**
 
- - Informe a data em que deseja fazer a transmissão do seu workshop.
+    - Informe a data em que deseja fazer a transmissão do seu workshop.
 
 4. **Recursos Necessários**
 
- - Liste as ferramentas, softwares ou recursos que você ou os participantes precisarão, como:
- - Conexão com a internet
- - Software de edição de vídeo/áudio
- - Acesso a plataformas P2P ou descentralizadas
- - Equipamentos básicos (como internet de boa qualidade para transmissão)
+    - Liste as ferramentas, softwares ou recursos que você ou os participantes precisarão, como:
+    - Conexão com a internet
+    - Software de edição de vídeo/áudio
+    - Acesso a plataformas P2P ou descentralizadas
+    - Equipamentos básicos (como internet de boa qualidade para transmissão)
 
 5. **Idioma**
 
- - O workshop pode ser apresentado em qualquer idioma. Informe na proposta qual será usado.
+    - O workshop pode ser apresentado em qualquer idioma. Informe na proposta qual será usado.
 
 6. **Tradução Simultânea**
 
- - Seu workshop pode ser retransmitido com tradução simultânea para os canais do Zk Av Club, alcançando um público maior. Se quiser essa ajuda, avise a equipe do Zk Av Club Foundry para organizar.
+    - Seu workshop pode ser retransmitido com tradução simultânea para os canais do Zk Av Club, alcançando um público maior. Se quiser essa ajuda, avise a equipe do Zk Av Club Foundry para organizar.
 
 7. **Disponibilidade para Teste**
 
- - Será feito um teste de conexão antes do workshop para verificar áudio, vídeo, compartilhamento de tela, etc. Informe se você pode participar desse ensaio.
+    - Será feito um teste de conexão antes do workshop para verificar áudio, vídeo, compartilhamento de tela, etc. Informe se você pode participar desse ensaio.
 
 8. **Materiais de Divulgação Necessários**
 
- - Junto com sua proposta, envie:
- - Um roteiro ou descrição detalhada do conteúdo
- - Uma imagem para miniatura do YouTube (1280x720px)
- - Uma imagem para miniatura do Luma (1080x1080px)
- - Uma descrição do evento para divulgação
- - Links do workshop e da transmissão
+    - Junto com sua proposta, envie:
+    - Um roteiro ou descrição detalhada do conteúdo
+    - Uma imagem para miniatura do YouTube (1280x720px)
+    - Uma imagem para miniatura do Luma (1080x1080px)
+    - Uma descrição do evento para divulgação
+    - Links do workshop e da transmissão
 
 ---
 
