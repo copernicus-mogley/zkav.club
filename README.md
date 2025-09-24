@@ -11,8 +11,8 @@ We don’t just record and livestream events — we engage with communities, sha
 
 ### Navigation 
 
-* [Zk Av Club Foundry](#zk-av-club-foundry) 
 * [Zk Av Club Recording Station](/recording-station/)
+* [Zk Av Club Foundry](#zk-av-club-foundry) 
 * [Voices & Testimonials](#zk-av-clubs-voices) 
 * [History of Zk Av Club](#history-of-zk-av-club) 
 * [Additional reading](#additional-reading) 
@@ -133,8 +133,6 @@ Whether you're a developer, an artist, or simply curious about the future of the
 - [𝕏](https://x.com/ZkAv_Club) 
 
 - [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
-
-- [Mastodon](https://zeal.center/@ZFAVClub) 
 
 Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
