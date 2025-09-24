@@ -56,7 +56,7 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 * **Consent & credits:** Clear approvals, attribution, and metadata at every step. (If sensitive content requires alternatives, we can agree on it in advance.) 
 
-* [Zk Av Club Recording Station: Consent & Licensing](https://cryptpad.fr/code/#/2/code/view/hx8fAFXQo1izlnFVdZJyxJxNCUWr16zPMr4vZlVefGo/present/)
+* [Zk Av Club Recording Station: Consent & Licensing](https://zkav.club/recording-station/licensing)
 
 
 ## How it flows 
