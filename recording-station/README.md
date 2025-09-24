@@ -6,7 +6,7 @@ Helping communities document themselves to build an open, living archive for and
 
 The Zk Av Club Recording Station is an on-site media lab that lets event-goers record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. 
 
-### What this is
+## What this is
 
 We flip the script on event coverage: instead of top-down coverage, our Recording Station empowers in-person event attendees—builders, organizers, artists, researchers, and communities—to tell their stories on their own terms. 
 
@@ -15,7 +15,7 @@ From impromptu podcasts and deep-dive conversations to quick reflections and gro
 After recordings are approved by guests, the edit goes out on Zk Av Club and/or co-creator channels, and the source recordings are published to Internet Archive under **CC BY-SA**. Open media, shared memory. 
 
 
-### Why we do it
+## Why we do it
 
 * **Self-representation:** People choose to speak for themselves, not through a selection filter. 
 
@@ -24,7 +24,7 @@ After recordings are approved by guests, the edit goes out on Zk Av Club and/or 
 * **Memory:** Insightful conversations become community memory—not lost in the hallway. 
 
 
-### What’s on the table
+## What’s on the table
 
 🎥 **Pro tools** 
 
@@ -39,7 +39,7 @@ Crew supports setup, recording, and (if you want) hosting. Low-pressure, inclusi
 Walk in or book ahead—solo, pairs, roundtables, or live panels. 
 
 
-### Formats to spark inspiration 
+## Formats to spark inspiration 
 
 Podcast-style conversations • Short-form interviews • Panel recaps & event reactions • Personal video journals • Experimental/creative pieces 
 
