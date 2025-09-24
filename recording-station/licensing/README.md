@@ -42,7 +42,6 @@ Hello, World! Welcome to our Zero-knowledge Audiovisual Club Recording Station. 
 * You consent to being recorded, edited, and published under the terms above.
 
 
-**Questions or preferences?** Tell the crew before or after recording, or email **[hello@zkav.club](mailto:hello@zkav.club)**.
+**Questions or preferences?** Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social). 
 
-**Zk Av Club** — open media, shared memory.
-zkav.club • [hello@zkav.club](mailto:hello@zkav.club) 
+**[zkav.club](https://www.zkav.club/)** — don’t just watch.
