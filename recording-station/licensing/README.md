@@ -2,7 +2,7 @@
 
 Hello, World! 
 
-Welcome to our Zero-knowledge Audiovisual Club [Recording Station](https://zkav.club/recording-station). By stepping up to the mic and cameras, you’re giving consent to be recorded and to the simple terms below. No signatures, no forms—just vibes and clarity.
+Welcome to our [Zk Av Club Recording Station](https://zkav.club/recording-station). By stepping up to the mic and cameras, you’re giving consent to be recorded and to the simple terms below. No signatures, no forms—just vibes and clarity.
 
 
 ## What you’re doing
