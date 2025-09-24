@@ -74,13 +74,13 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## Get involved
 
-* **Host or collaborate:** Invite our Recording Station to your event and co-create with us  
-
 * **Participate:** Step up to the mic with your thoughts, work, and wild ideas 
+
+* **Host or collaborate:** Invite our Recording Station to your event and co-create with us
 
 * **Promote:** Help more voices be heard by spreading the word 
 
-* **Support the mission:** Contribute resources to sustain this community-driven initiative
+* **Support the Mission:** [Contribute](https://www.zkav.club/#support-zk-av-club) to help us grow and sustain this community-driven initiative
 
 
 ## Join us
