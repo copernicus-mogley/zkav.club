@@ -46,4 +46,4 @@ Welcome to our [Zk Av Club Recording Station](https://zkav.club/recording-statio
 
 **Questions or preferences?** Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social). 
 
-**[zkav.club](https://www.zkav.club/)** — don’t just watch.
+[zkav.club](https://www.zkav.club/) — don’t just watch.

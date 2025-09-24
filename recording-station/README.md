@@ -86,4 +86,4 @@ Host and co-create • Step to the mic • Help spread the word • Back the mis
 Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social).
 
 
-**[zkav.club](https://www.zkav.club/)** — don’t just watch.
+[zkav.club](https://www.zkav.club/) — don’t just watch.
