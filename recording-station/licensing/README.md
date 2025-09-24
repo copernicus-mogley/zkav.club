@@ -21,9 +21,7 @@ Welcome to our [Zk Av Club Recording Station](https://zkav.club/recording-statio
 
 ## Open by default
 
-* After your edited piece goes out (on Zk Av Club and/or your channels), **the original source files** go to Internet Archive under [Creative Commons BY‑SA](https://creativecommons.org/licenses/by-sa/4.0/) so the community can learn from and remix. 
-
-* Your edited piece can be **CC BY** *or* **CC BY‑SA**—tell us which you prefer.
+After your edited piece goes out (on Zk Av Club and/or your channels), the original source files go to Internet Archive under [Creative Commons BY‑SA](https://creativecommons.org/licenses/by-sa/4.0/) so the community can learn from and remix. 
 
 
 ## Your comforts & choices
@@ -32,7 +30,7 @@ Welcome to our [Zk Av Club Recording Station](https://zkav.club/recording-statio
 
 * **Credit:** We’ll credit your name or pseudonym—your call. 
 
-* **Sensitive topics?** Say so any time. We can **skip archiving**, limit distribution, or keep it private. 
+* **Sensitive topics?** Say so any time. We can edit before archiving, limit distribution, or keep it private. 
 
 * **Change your mind later?** Email us. We’ll do our best to accommodate reasonable requests.
 
