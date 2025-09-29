@@ -1,4 +1,4 @@
-# Zero-knowledge Audiovisual Club Recording Station: Consent & Licensing
+# Zero-knowledge Audiovisual Club Recording Station: Licensing and Consent 
 
 Hello, World! 
 
