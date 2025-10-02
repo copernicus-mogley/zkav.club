@@ -160,6 +160,8 @@ Zk Av Club productions and other activities are made possible by contributions f
 u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5kqc4ngwqd6k35tkf7j84a59m5u6tlyc73x07ckwtdqv475t9q3w58073d9xt55ppw4945jnudghuqjmyf4rh263srrmmvy2kwpy
 ``` 
 
+![QR code for Zcash donations](./assets/zkavclub_eoy2025.png) 
+
 --- 
 
 [Back to top](#zero-knowledge-audiovisual-club)
