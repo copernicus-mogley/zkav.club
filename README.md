@@ -121,7 +121,9 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Additional reading 
 
- - [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
+- [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/)
+
+- [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
 
 - [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
 
