@@ -157,29 +157,34 @@ Zk Av Club productions and other activities are made possible by contributions f
 
 #### Support Zk Av Club 
 
-[Zcash $ZEC](https://z.cash)
+[Zcash](https://z.cash)
 ```
 u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5kqc4ngwqd6k35tkf7j84a59m5u6tlyc73x07ckwtdqv475t9q3w58073d9xt55ppw4945jnudghuqjmyf4rh263srrmmvy2kwpy
 ``` 
 
-[Bitcoin $BTC](https://en.wikipedia.org/wiki/Bitcoin) 
+[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) 
 ```
 bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 ```
 
-[Ethereum $ETH](https://ethereum.org)
+[Ethereum](https://ethereum.org)
 ```
 0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
 ```
 
-[Monero $XMR](https://www.getmonero.org/)
+[Monero](https://www.getmonero.org/)
 ```
 48Yg7xLxLzH8jnyPRje7ZXbziE9YqXE3zhXYAHt1sHSvGRDGHjDqoDMN6hH2oCvbxTZiaApTXex19i5qGMzb8ZM99ZJE4MM
 ```
 
-[Filecoin $FIL](https://www.filecoin.io/)
+[Filecoin](https://www.filecoin.io/)
 ```
 f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
+``` 
+
+[Solana](https://solana.com/) 
+```
+9LjiB6CAck6SKEHGAfK7LN2jJyXhZX7jiivCVvv49RUk
 ```
 
 --- 
