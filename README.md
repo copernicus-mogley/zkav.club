@@ -136,7 +136,7 @@ Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming e
 
 ### Partner Communities 
 
-Mutual aid, support and collaboration is ongoing with and within our partner communities. Get involved, today! 
+Get involved, today! 
 
 - [Zechub](/partners/zechub.md) 
 
