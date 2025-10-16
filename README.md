@@ -1,10 +1,8 @@
 ## Zero-knowledge Audiovisual Club 
 
-Empowering and amplifying local content creators through global community support.
+We’re an ever-expanding collective of audiovisual experts and enthusiasts exploring art and creativity through decentralized, open-source technologies, activating communities via content creation, education, and grassroots event support.
 
-We are an ever-expanding collective of audiovisual experts and enthusiasts exploring art and creativity with decentralized and open-source technologies. Our focus is on empowering communities through content creation, education, and grassroots event support. 
-
-Our mission is to share and preserve knowledge from conferences, meetups, and camps, making it accessible to all. We aim to foster community building, break down barriers, and create opportunities for learning, collaboration, and contribution. 
+Our mission is to spread and preserve knowledge from conferences, meetups, and camps, making it accessible to all. We aim to foster community building, break down barriers, and create opportunities for learning, collaboration, and contribution. 
 
 We don’t just record and livestream events — we engage with communities, share skills, and help build a network of empowered creators. Together, we amplify individual voices and expand our collective impact.
 
@@ -28,7 +26,7 @@ Salon: Informative discussions with people who work in the field, covering every
 
 Workshops: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions.
 
-Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel.  
+Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
 Zk Av Club Foundry is made possible with [contributions from our wonderful fans](#support-zk-av-club) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
@@ -122,7 +120,6 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
 
-
 ### Partner Communities 
 
 Mutual support and collaboration is ongoing with our partner communities. Contact us today :) 
@@ -134,7 +131,7 @@ Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.c
 
 ### Join the Club 
 
-If you're a developer, an artist, or just curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. 
+If you're a developer, an artist, or just curious about the future of the internet, Zk Av Club invites you to learn, create, innovate, and collaborate with us. 
 
 - [𝕏](https://x.com/ZkAv_Club) 
 
