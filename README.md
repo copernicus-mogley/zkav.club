@@ -1,16 +1,12 @@
 ## Zero-knowledge Audiovisual Club 
+We help communities record, stream, and keep their knowledge online—using open, decentralized tools. 
 
-We’re an audiovisual collective co-creating with communities through decentralized, open-source tech — content, education, and event support. 
-
-Our mission is to spread and preserve knowledge from conferences, meetups, and camps, making it accessible to all. We aim to foster community building, break down barriers, and create opportunities for learning, collaboration, and contribution. 
-
-We can record and livestream stages, but we can do more! We engage with communities, share skills, and help build a network of empowered creators. Together, we amplify individual voices and expand our collective impact.
-
+We teach, co-create, and run grassroots AV at meetups, camps, and conferences—so more voices are heard and preserved. 
 
 ### Navigation 
 
-* [Zk Av Club Recording Station](/recording-station/)
-* [Foundry: Salon and Workshops](#zk-av-club-foundry) 
+* [Recording Station](/recording-station/)
+* [Foundry](#zk-av-club-foundry) 
 * [Testimonials](#zk-av-clubs-voices) 
 * [Read More](#additional-reading) 
 * [Our Friends](#partner-communities) 
