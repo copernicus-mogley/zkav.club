@@ -1,7 +1,5 @@
 ## Zero-knowledge Audiovisual Club 
-We help communities record, stream, and keep their knowledge online—using open, decentralized tools. 
-
-We teach, co-create, and run grassroots AV at meetups, camps, and conferences—so more voices are heard and preserved. 
+We help communities record, stream, and keep their knowledge online—using open, decentralized tools. We teach, co-create, and run grassroots AV at meetups, camps, and conferences—so more voices are heard and preserved. 
 
 ### Navigation 
 
