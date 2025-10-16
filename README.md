@@ -125,7 +125,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Partner Communities 
 
-Get involved, today! 
+Mutual support and collaboration is ongoing with our partner communities. Contact us today :) 
 
 - [Zechub](/partners/zechub.md) 
 
