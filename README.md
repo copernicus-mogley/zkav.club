@@ -14,8 +14,8 @@ We don’t just record and livestream events — we engage with communities, sha
 * [Zk Av Club Recording Station](/recording-station/)
 * [Foundry: Salon and Workshops](#zk-av-club-foundry) 
 * [Testimonials](#zk-av-clubs-voices) 
-* [Our Friends](#partner-communities) 
 * [Read More](#additional-reading) 
+* [Our Friends](#partner-communities) 
 * [Join the Club](#join-the-club) 
 * [Donate](#support-zk-av-club) 
 
@@ -123,6 +123,15 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 
 
+### Partner Communities 
+
+Get involved, today! 
+
+- [Zechub](/partners/zechub.md) 
+
+Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+
+
 ### Join the Club 
 
 If you're a developer, an artist, or just curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. 
@@ -132,15 +141,6 @@ If you're a developer, an artist, or just curious about the future of the intern
 - [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
 
 Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming events. 
-
-
-### Partner Communities 
-
-Get involved, today! 
-
-- [Zechub](/partners/zechub.md) 
-
-Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
 
 
 ### Support Zk Av Club 
