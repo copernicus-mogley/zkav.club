@@ -12,13 +12,13 @@ We don’t just record and livestream events — we engage with communities, sha
 ### Navigation 
 
 * [Zk Av Club Recording Station](/recording-station/)
-* [Zk Av Club Foundry](#zk-av-club-foundry) 
-* [Voices & Testimonials](#zk-av-clubs-voices) 
-* [Additional reading](#additional-reading) 
-* [History of Zk Av Club](#history-of-zk-av-club) 
-* [Partner Communities](#partner-communities) 
+* [Foundry: Salon and Workshops](#zk-av-club-foundry) 
+* [Testimonials](#zk-av-clubs-voices) 
+* [Read more](#additional-reading) 
+* [History](#history-of-zk-av-club) 
+* [Friends](#partner-communities) 
 * [Join the Club](#join-the-club) 
-* [Support Zk Av Club](#support-zk-av-club) 
+* [Donate](#support-zk-av-club) 
 
 
 ### Zk Av Club Foundry 
@@ -150,12 +150,10 @@ Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming e
 
 
 
-### Thank You to Our Sponsors and Donors 
+### Support Zk Av Club 
 
 Zk Av Club productions and other activities are made possible by contributions from organizations, communities and individuals who care about preservation and privacy. 
 
-
-#### Support Zk Av Club 
 
 [Zcash](https://z.cash)
 ```
