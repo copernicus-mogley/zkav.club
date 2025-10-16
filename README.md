@@ -14,9 +14,9 @@ We don’t just record and livestream events — we engage with communities, sha
 * [Zk Av Club Recording Station](/recording-station/)
 * [Foundry: Salon and Workshops](#zk-av-club-foundry) 
 * [Testimonials](#zk-av-clubs-voices) 
-* [Read more](#additional-reading) 
+* [Read More](#additional-reading) 
 * [History](#history-of-zk-av-club) 
-* [Friends](#partner-communities) 
+* [Our Friends](#partner-communities) 
 * [Join the Club](#join-the-club) 
 * [Donate](#support-zk-av-club) 
 
@@ -112,18 +112,13 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### Additional reading 
 
-- [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/)
+- [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) 
 
-- [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
+- [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/) 
 
-- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) by Adjy Leak 2015-06-15 
+- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) 
 
-
-### History of Zk Av Club 
-
-- [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) in the Zcash community forum 
-
-- [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 2023-01-12 
+- [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
