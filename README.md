@@ -16,8 +16,8 @@ We don’t just record and livestream events — we engage with communities, sha
 * [Voices & Testimonials](#zk-av-clubs-voices) 
 * [Additional reading](#additional-reading) 
 * [History of Zk Av Club](#history-of-zk-av-club) 
-* [Join the Club](#join-the-club) 
 * [Partner Communities](#partner-communities) 
+* [Join the Club](#join-the-club) 
 * [Support Zk Av Club](#support-zk-av-club) 
 
 
@@ -128,17 +128,6 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 - Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
 
-### Join the Club 
-
-Whether you're a developer, an artist, or simply curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. 
-
-- [𝕏](https://x.com/ZkAv_Club) 
-
-- [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
-
-Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming events. 
-
-
 
 ### Partner Communities 
 
@@ -147,6 +136,17 @@ Mutual aid, support and collaboration is ongoing with and within our partner com
 - [Zechub](/partners/zechub.md) 
 
 Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+
+
+### Join the Club 
+
+If you're a developer, an artist, or just curious about the future of the internet, Zk Av Club invites you to come learn, create, innovate, and collaborate with others who are passionate about art, science, creativity and freedom. 
+
+- [𝕏](https://x.com/ZkAv_Club) 
+
+- [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
+
+Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming events. 
 
 
 
