@@ -121,12 +121,11 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 ### History of Zk Av Club 
 
-- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
-
 - [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) in the Zcash community forum 
 
 - [Zero-knowledge Audiovisual Club Manifesto](https://free2z.com/ZKAV.club/zpage/zf-av-club-manifesto) 2023-01-12 
 
+- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
 
 ### Join the Club 
