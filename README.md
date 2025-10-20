@@ -20,7 +20,7 @@ Zk Av Club Foundry is our recurring livestream series — combining topical disc
 
 Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to decentralized community governance, from brand and design to transcription and the latest free open-source software (FOSS) developments. Always with privacy in focus. 
 
-Workshops: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using FOSS to livestreaming on decentralized networks. 
+Workshops: Practical workshops where you can get your hands dirty and learn about real-world applications, from event coverage and content creation using FOSS to livestreaming on decentralized networks. 
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
