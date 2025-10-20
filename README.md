@@ -16,15 +16,15 @@ We help communities record, stream, and document—using open, decentralized too
 
 ### Zk Av Club Foundry 
 
-Zk Av Club Foundry is a new recurring educational livestream series — combining topical discussions with practical community-led workshops — diving deep into specific aspects of emerging, often experimental, technologies. Foundry isn’t just about watching or listening; it’s about participating, learning, and shaping the future of collaborative content creation.
+Zk Av Club Foundry is our recurring livestream series — combining topical discussions with practical community-led workshops — diving deep into specific aspects of emerging technologies. Foundry isn’t just about watching or listening; it’s about participating, learning, and shaping the future of community information sharing. 
 
-Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to community governance, from brand and design to privacy in collaborative ecosystems.
+Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to decentralized community governance, from brand and design to transcription and the latest free open-source software (FOSS) developments. Always with privacy in focus. 
 
-Workshops: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using free open-source software (FOSS) to understanding decentralized livestreaming solutions.
+Workshops: Practical workshops where you can get your hands dirty with real-world applications, from event coverage and content creation using FOSS to livestreaming on decentralized networks. 
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
-Zk Av Club Foundry is made possible with [contributions from our wonderful fans](#support-zk-av-club) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
+Zk Av Club Foundry is made possible with [contributions from our fans](#support-zk-av-club) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
 ### Zk Av Club's Voices  
