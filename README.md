@@ -14,7 +14,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 
 ### Recording Station
 
-An on-site media lab that lets event-goers record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. 
+Activate an on-site media lab at your event so event-goers can record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. We publish edited pieces and release source files to the Internet Archive under a Creative Commons license. 
 
 [Read more.](/recording-station/) 
 
@@ -28,7 +28,7 @@ Workshops: Practical workshops where you can get your hands dirty and learn abou
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
-Zk Av Club Foundry is made possible with [contributions from our fans](#support-zk-av-club) and funds from [Zcash Community Grants](https://zcashcommunitygrants.org/). 
+Zk Av Club Foundry is made possible by [contributions from our fans](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
 ### Zk Av Club's Voices  
