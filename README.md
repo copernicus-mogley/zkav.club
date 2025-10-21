@@ -24,7 +24,7 @@ Salon: Conversations with practitioners on p2p file sharing, decentralized gover
 
 Workshops: Practical livestreams on real-world workflows—event coverage, content creation with FOSS, and streaming on decentralized networks.
 
-Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
+Curriculum design and production by [Ryan Taylor](https://x.com/AdjyLeak), [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
 Zk Av Club Foundry is made possible by [contributions from our fans](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
