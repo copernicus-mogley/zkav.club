@@ -18,11 +18,11 @@ Activate an on-site media lab at your event so event-goers can record conversati
 
 ### Foundry: Salon and Workshops  
 
-Zk Av Club Foundry is our recurring livestream series — combining topical discussions with practical community-led workshops — diving deep into specific aspects of emerging technologies. Foundry isn’t just about watching or listening; it’s about participating, learning, and shaping the future of community information sharing. 
+Zk Av Club Foundry is a recurring livestream series with topical talks and hands-on, community-led workshops exploring emerging tech. It’s participatory—learn, contribute, and help shape how communities share information, with privacy always in focus.
 
-Salon: Informative discussions with people who work in the field, covering everything from peer-to-peer (p2p) file sharing to decentralized community governance, from brand and design to transcription and the latest free open-source software (FOSS) developments. Always with privacy in focus. 
+Salon: Conversations with practitioners on p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
 
-Workshops: Practical workshops where you can get your hands dirty and learn about real-world applications, from event coverage and content creation using FOSS to livestreaming on decentralized networks. 
+Workshops: Practical livestreams on real-world workflows—event coverage, content creation with FOSS, and streaming on decentralized networks.
 
 Curriculum design and production by Ryan Taylor, Aura Brito, Robmar Enoe, and Roosevelt Gordones, with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
