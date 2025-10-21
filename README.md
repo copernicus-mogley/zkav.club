@@ -57,7 +57,7 @@ Ryan and Zk Av Club are great, not just a streaming and media team but also deep
 — [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)  
 
 
-Over the past two years, Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
+Over the years, Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
  
 The Club’s commitment to privacy-first principles and their use of decentralized tools perfectly aligns with Zcash's core values. Their work in producing educational content, and fostering community engagement has benefited and strengthened the entire Zcash ecosystem.
   
