@@ -24,7 +24,7 @@ Activate an on-site media lab at your event so event-goers can record conversati
 
 Build together, learn together.
 
-A recurring livestream where communities learn by doing. Combining topical talks and hands-on, community-led workshops where we explore free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
+A recurring livestream series where communities learn by doing. It's a combinination of topical conversations and hands-on, community-led workshops where we explore free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
 
 Salon: Live group discussions about p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
 
