@@ -5,7 +5,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 ### Navigation 
 
 * [Recording Station](#recording-station)
-* [Foundry](#zk-av-club-foundry) 
+* [Foundry: Salon and Workshops](#foundry-salon-and-workshops) 
 * [Testimonials](#zk-av-clubs-voices) 
 * [Read More](#additional-reading) 
 * [Our Friends](#partner-communities) 
@@ -14,7 +14,9 @@ We help communities document, co-create, and run grassroots AV support at meetup
 
 ### Recording Station
 
-An on-site media lab that lets event-goers record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. [Read more.](/recording-station/) 
+An on-site media lab that lets event-goers record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. 
+
+[Read more.](/recording-station/) 
 
 ### Foundry: Salon and Workshops  
 
