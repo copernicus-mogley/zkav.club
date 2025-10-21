@@ -7,9 +7,9 @@ We support open-source and decentralized tech communities by delivering hands-on
 * [Zk Av Club Recording Station](#zk-av-club-recording-station) 
 * [Foundry: Salon and Workshops](#foundry-salon-and-workshops) 
 * [Testimonials](#testimonials) 
-* [Read More](#additional-reading) 
-* [Our Friends](#partner-communities) 
-* [Join the Club](#join-the-club) 
+* [Additional reading](#additional-reading) 
+* [Our friends](#partner-communities) 
+* [Join the club](#join-the-club) 
 * [Donate](#support-zk-av-club) 
 
 ### Zk Av Club Recording Station 
