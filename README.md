@@ -16,7 +16,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 
 Activate an on-site media lab at your event so event-goers can record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. We publish edited pieces and release source files to the Internet Archive under a Creative Commons license. 
 
-[Read more.](/recording-station/) 
+[Read more](/recording-station/) 
 
 ### Foundry: Salon and Workshops  
 
