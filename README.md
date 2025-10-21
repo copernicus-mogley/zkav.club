@@ -31,6 +31,8 @@ Zk Av Club Foundry is made possible by [contributions from our fans](#support-zk
 
 ### Testimonials   
 
+What our partners and community participants say. 
+
 Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
  
 — Alex Bornstein, COO, [Zcash Foundation](https://zfnd.org)  
@@ -120,11 +122,11 @@ Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy 
 
 ### Partner Communities 
 
-Mutual support and collaboration is ongoing with our partner communities. Contact us today :) 
+We collaborate with peer communities around the world. Contact us today :) 
 
-- [Zechub](/partners/zechub.md) 
+- [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
 
-Add your community — [create a PR](https://github.com/copernicus-mogley/zkav.club/) with an associated `.md` file with your information.
+Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/) 
 
 
 ### Join the Club 
