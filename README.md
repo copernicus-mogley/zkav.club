@@ -57,7 +57,7 @@ Ryan and Zk Av Club are great, not just a streaming and media team but also deep
 — [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)  
 
 
-Over the past two years, Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
+Over the past two years, Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
  
 The Club’s commitment to privacy-first principles and their use of decentralized tools perfectly aligns with Zcash's core values. Their work in producing educational content, and fostering community engagement has benefited and strengthened the entire Zcash ecosystem.
   
@@ -102,7 +102,7 @@ Ryan is a pro. His production work is top shelf as evidenced by his work on Zcon
 — [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co) 
 
 
-Zk Av Club is a remarkable grassroots initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit. 
+Zk Av Club is a remarkable initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit. 
 
 Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
 
