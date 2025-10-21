@@ -46,7 +46,7 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## Distribution & Licensing 
 
-* **Edited release first:** After guest approvals, edited videos are published on Zk Av Club and/or co-creator channels. 
+* **Edited release first:** After guest approvals, edited videos are published on Zk Av Club and/or co-creators' channels. 
 
 * **Then open the source:** Following the edited release, original source masters (audio/video) are publicly released to Internet Archive under Creative Commons CC BY-SA. 
 
@@ -70,13 +70,13 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## Get involved
 
-* **Participate:** Step up to the mic with your thoughts, work, and wild ideas 
+* **Step up to the mic** with your thoughts, work, and wild ideas! 
 
-* **Host or collaborate:** Invite our Recording Station to your event and co-create with us
+* **Bring us to your event** and co-create with us!
 
-* **Promote:** Help more voices be heard by spreading the word 
+* **Help more voices be heard** by spreading the word 
 
-* **Support the Mission:** [Contribute](https://www.zkav.club/#support-zk-av-club) to help us grow and sustain this community-driven initiative
+* **Support the mission** and [contribute](https://www.zkav.club/#support-zk-av-club) to help us grow and sustain this community-driven initiative 
 
 
 ## Join us

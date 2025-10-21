@@ -14,17 +14,21 @@ We support open-source and decentralized tech communities by delivering hands-on
 
 ### Zk Av Club Recording Station 
 
-Open media, shared memory. Activate an on-site media lab at your event so event-goers can record conversations and insights with high-quality audio/video, contributing to a diverse community-made archive. We publish edited pieces and release source files under a Creative Commons license. [Read more](/recording-station/). 
+Open media, shared memory. 
+
+Activate an on-site media lab at your event so event-goers can record conversations and insights with high-quality audio/video, contributing to a diverse community-made archive. We publish edited pieces and release source files under a Creative Commons license. [Read more](/recording-station/). 
 
 ### Foundry: Salon and Workshops 
 
-Zk Av Club Foundry is a recurring livestream series with topical talks and hands-on, community-led workshops exploring free and open-source software (FOSS) and emerging decentralized tech. It’s participatory—learn, contribute, and help shape how communities share information, with privacy always in focus.
+Learn together, build together.
 
-Salon: Conversations with practitioners on p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
+A recurring livestream series combining topical talks and hands-on, community-led workshops exploring free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
+
+Salon: Live group discussions about p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
 
 Workshops: Practical livestreams on real-world workflows—event coverage, content creation with FOSS, and streaming on decentralized networks.
 
-Curriculum design and production by [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), and [Ryan Taylor](https://x.com/AdjyLeak) with additional support from autotunafish, decentralistdan, and zkSquirrel. 
+Made by [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), and [Ryan Taylor](https://x.com/AdjyLeak) with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
 Zk Av Club Foundry is made possible by [contributions from our fans](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
@@ -142,8 +146,11 @@ Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming e
 
 ### Support Zk Av Club 
 
+Your support funds training, volunteer recordings, and public archives. 
+
 Zk Av Club activities are made possible by contributions from organizations, communities and people who care about decentralized tech, open-source software, privacy and freedom. Please help us continue by donating to the addresses below. 
 
+We don’t track donors; on-chain only shows what the chain reveals. 
 
 [Zcash](https://z.cash)
 ```
