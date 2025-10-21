@@ -16,7 +16,7 @@ We support open-source and decentralized tech communities by delivering hands-on
 
 Open media, shared memory. 
 
-Activate an on-site media lab at your event so event-goers can record conversations and insights with high-quality audio and video, contributing to a diverse community-made archive. We publish edited pieces and release source files under a Creative Commons license. 
+Activate an on-site media lab at your event so participants can record conversations and insights with high-quality audio and video, contributing to a diverse community-made archive. We publish edited pieces and release source files under a Creative Commons license. 
 
 [Read more](/recording-station/). 
 
