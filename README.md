@@ -22,7 +22,7 @@ Activate an on-site media lab at your event so event-goers can record conversati
 
 ### Foundry: Salon and Workshops 
 
-Learn together, build together.
+Build together, learn together.
 
 A recurring livestream where communities learn by doing. Combining topical talks and hands-on, community-led workshops where we explore free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
 
