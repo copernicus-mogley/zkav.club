@@ -4,7 +4,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 
 ### Navigation 
 
-* [Recording Station](/recording-station/)
+* [Recording Station](#recording-station)
 * [Foundry](#zk-av-club-foundry) 
 * [Testimonials](#zk-av-clubs-voices) 
 * [Read More](#additional-reading) 
@@ -12,8 +12,11 @@ We help communities document, co-create, and run grassroots AV support at meetup
 * [Join the Club](#join-the-club) 
 * [Donate](#support-zk-av-club) 
 
+### Recording Station
 
-### Zk Av Club Foundry 
+An on-site media lab that lets event-goers record conversations and insights with high-quality audio/video, contributing to a growing community-made archive. [Read more.](/recording-station/) 
+
+### Foundry: Salon and Workshops  
 
 Zk Av Club Foundry is our recurring livestream series — combining topical discussions with practical community-led workshops — diving deep into specific aspects of emerging technologies. Foundry isn’t just about watching or listening; it’s about participating, learning, and shaping the future of community information sharing. 
 
