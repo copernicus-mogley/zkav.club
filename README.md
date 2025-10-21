@@ -6,7 +6,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 
 * [Zk Av Club Recording Station](#zk-av-club-recording-station) 
 * [Foundry: Salon and Workshops](#foundry-salon-and-workshops) 
-* [Testimonials](#zk-av-clubs-voices) 
+* [Testimonials](#testimonials) 
 * [Read More](#additional-reading) 
 * [Our Friends](#partner-communities) 
 * [Join the Club](#join-the-club) 
@@ -29,7 +29,7 @@ Curriculum design and production by [Aura Brito](https://x.com/SoyAuraBrito), [R
 Zk Av Club Foundry is made possible by [contributions from our fans](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
-### Zk Av Club's Voices  
+### Testimonials   
 
 Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like the Zk Av Club! 
  
