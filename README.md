@@ -115,7 +115,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 - [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) 
 
-- Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
+Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
 
 ### Partner Communities 
