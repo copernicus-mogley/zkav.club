@@ -4,7 +4,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 
 ### Navigation 
 
-* [Recording Station](#recording-station)
+* [Zk Av Club Recording Station](#zk-av-club-recording-station) 
 * [Foundry: Salon and Workshops](#foundry-salon-and-workshops) 
 * [Testimonials](#zk-av-clubs-voices) 
 * [Read More](#additional-reading) 
@@ -12,7 +12,7 @@ We help communities document, co-create, and run grassroots AV support at meetup
 * [Join the Club](#join-the-club) 
 * [Donate](#support-zk-av-club) 
 
-### Recording Station
+### Zk Av Club Recording Station 
 
 Open media, shared memory. Activate an on-site media lab at your event so event-goers can record conversations and insights with high-quality audio/video, contributing to a diverse community-made archive. We publish edited pieces and release source files under a Creative Commons license. [Read more](/recording-station/). 
 
