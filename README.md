@@ -122,7 +122,7 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley) 
 
 
-### Partner Communities 
+### Partner communities 
 
 We collaborate with peer communities around the world. Contact us today :) 
 
@@ -131,7 +131,7 @@ We collaborate with peer communities around the world. Contact us today :)
 Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/) 
 
 
-### Join the Club 
+### Join the club 
 
 Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates. 
 
