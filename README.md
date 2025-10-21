@@ -24,7 +24,7 @@ Activate an on-site media lab at your event so event-goers can record conversati
 
 Learn together, build together.
 
-A recurring livestream series combining topical talks and hands-on, community-led workshops exploring free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
+A recurring livestream where communities learn by doing. Combining topical talks and hands-on, community-led workshops where we explore free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
 
 Salon: Live group discussions about p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
 
@@ -133,13 +133,9 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 ### Join the Club 
 
-If you're a developer, an artist, or just curious about the future of the internet, Zk Av Club invites you to learn, create, innovate, and collaborate with us. 
+Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates. 
 
-- [𝕏](https://x.com/ZkAv_Club) 
-
-- [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) 
-
-Subscribe to our [events calendar](https://lu.ma/zkav) for updates on upcoming events. 
+Subscribe to our [calendar](https://lu.ma/zkav) for evevnts, livestreams, and workshops. 
 
 
 ### Support Zk Av Club 
