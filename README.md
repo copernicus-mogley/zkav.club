@@ -1,6 +1,6 @@
 ## Zero-knowledge Audiovisual Club 
 
-We support open-source and decentralized tech communities by delivering hands-on training in emerging technologies, co-creating audiovisual (A/V) documentation, and running volunteer A/V at meetups, conferences, and camps. 
+We support open-source and decentralized tech communities by delivering hands-on training in emerging technologies, co-creating audiovisual (AV) documentation, and running volunteer AV at meetups, conferences, and camps. 
 
 ### Navigation 
 
@@ -52,7 +52,7 @@ I've always been fascinated with how folks find things because it illustrates a 
 — [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)  
 
 
-Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like dweb, and has helped make connections with other local communities around the globe, such as Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
+Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like DWeb, and has helped make connections with other local communities around the globe, such as Zcash Brazil. They've run self contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included. 
  
 — [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)  
 
