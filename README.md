@@ -1,6 +1,6 @@
 ## Zero-knowledge Audiovisual Club 
 
-We help communities document, co-create, and run grassroots AV support at meetups, conferences, and camps — using open, decentralized technologies. Our mission is to share skills, build archives, and keep information accessible through lasting public archives. 
+We support open-source and decentralized tech communities to co-create audiovisual (A/V) documentation and run volunteer A/V at meetups, conferences, and camps. 
 
 ### Navigation 
 
