@@ -94,19 +94,19 @@ I hope more people join the Club and enjoy the experience!
 
 I worked with zkAV club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come. 
 
-— [@therealyingtong](https://github.com/therealyingtong)  
+— [@therealyingtong](https://github.com/therealyingtong) 
 
 
 Ryan is a pro. His production work is top shelf as evidenced by his work on Zcons through the years, and his commitment to providing engaging and informative content. With Zk Av Club he continues his dedication and professionalism while also widening the tent to welcome and include new voices from all around the world and across industries. His professionalism, empathy and deep interest in the topics and people he’s engaged with shines above all. 
 
-— [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co)  
+— [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co) 
 
 
 Zk Av Club is a remarkable grassroots initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit. 
 
 Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community! 
 
-— Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director  
+— Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director 
 
 
 ### Additional reading 
