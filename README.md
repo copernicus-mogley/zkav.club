@@ -60,9 +60,7 @@ Ryan and Zk Av Club are great, not just a streaming and media team but also deep
 Over the past two years, the Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically from a grassroots initiative into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques. 
  
 The Club’s commitment to privacy-first principles and their use of decentralized tools perfectly aligns with Zcash's core values. Their work in producing educational content, and fostering community engagement has benefited and strengthened the entire Zcash ecosystem.
- 
-The Zk Av Club serves as a great example of the power of grassroots, community-driven initiatives in advancing the Zcash mission.
- 
+  
 — Jack Gavigan, [Zcash Foundation](https://zfnd.org)  
 
 
