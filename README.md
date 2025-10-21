@@ -1,6 +1,6 @@
 ## Zero-knowledge Audiovisual Club 
 
-We support open-source and decentralized tech communities to co-create audiovisual (A/V) documentation and run volunteer A/V at meetups, conferences, and camps. 
+We support open-source and decentralized tech communities by co-creating audiovisual (A/V) documentation, providing education on emerging technologies, and running volunteer A/V at meetups, conferences, and camps. 
 
 ### Navigation 
 
