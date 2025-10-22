@@ -94,7 +94,7 @@ I hope more people join the Club and enjoy the experience!
 — [Roosevelt Gordones](https://x.com/gordonesTV) - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator 
 
 
-I worked with zkAV club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come. 
+I worked with Zk AV Club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come. 
 
 — [@therealyingtong](https://github.com/therealyingtong) 
 
