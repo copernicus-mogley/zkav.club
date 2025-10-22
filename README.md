@@ -17,7 +17,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 ### Zk Av Club Recording Station 
 
-An on-site, volunteer-run media lab where attendees record ideas and stories in high-quality A/V—building a shared, open archive for the community. [Read the details](https://www.zkav.club/recording-station/). 
+An on-site, volunteer-run media lab where attendees record ideas and stories in high-quality A/V—building a shared, open archive for the community. [Read the details](/recording-station/). 
 
 
 ### Foundry: Salon and Workshops 
