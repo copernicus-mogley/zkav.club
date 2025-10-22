@@ -27,7 +27,7 @@ Build together, learn together.
 
 A recurring livestream series where communities learn by doing. It's a combinination of topical conversations and hands-on, community-led workshops where we explore free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
 
-Salon: A monthly hang with people building in the open — FOSS, P2P, decentralized governance, brand/design, transcription, more. We go live the final Friday at 15:00 UTC! [Check our calendar](https://lu.ma/zkav).
+Salon: A monthly hang with people building in the open — FOSS, P2P, decentralized governance, brand/design, transcription, more. We go live the final Friday at 15:00 UTC. [Check our calendar](https://lu.ma/zkav).
 
 Workshops: Practical, community-led livestreams on real-world workflows — event coverage, content creation with FOSS, and streaming on decentralized networks. [Lead a workshop](/workshops).
 
