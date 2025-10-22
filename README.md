@@ -32,7 +32,7 @@ Salon: A monthly conversation with people building in the open — FOSS, P2P, de
 
 Workshops: Practical, community-led livestreams on real-world workflows — event coverage, content creation with FOSS, and streaming on decentralized networks. [Lead a workshop](/workshops).
 
-Made by [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), and [Ryan Taylor](https://x.com/AdjyLeak) with support from autotunafish, decentralistdan, and zkSquirrel. 
+Made by Aura Brito, Robmar Enoe, and Roosevelt Gordones, and Ryan Taylor with support from autotunafish, decentralistdan, and zkSquirrel. 
 
 Zk Av Club Foundry is made possible by [contributions from our friends](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
