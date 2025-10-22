@@ -29,7 +29,7 @@ A recurring livestream series where communities learn by doing. It's a combinina
 
 Salon: Live group discussions about p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
 
-Workshops: Practical livestreams on real-world workflows—event coverage, content creation with FOSS, and streaming on decentralized networks. [Lead a workshop](/workshops).
+Workshops: Practical, community-led livestreams on real-world workflows — event coverage, content creation with FOSS, and streaming on decentralized networks. [Lead a workshop](/workshops).
 
 Made by [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), and [Ryan Taylor](https://x.com/AdjyLeak) with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
