@@ -6,6 +6,7 @@ We support open-source and decentralized tech communities by delivering hands-on
 
 * [Zk Av Club Recording Station](#zk-av-club-recording-station) 
 * [Foundry: Salon and Workshops](#foundry-salon-and-workshops) 
+* [Lead a workshop](/workshops) 
 * [Testimonials](#testimonials) 
 * [Additional reading](#additional-reading) 
 * [Our friends](#partner-communities) 
@@ -28,7 +29,7 @@ A recurring livestream series where communities learn by doing. It's a combinina
 
 Salon: Live group discussions about p2p file sharing, decentralized governance, brand/design, transcription, and the latest FOSS.
 
-Workshops: Practical livestreams on real-world workflows—event coverage, content creation with FOSS, and streaming on decentralized networks.
+Workshops: Practical livestreams on real-world workflows—event coverage, content creation with FOSS, and streaming on decentralized networks. [Lead a workshop](/workshops).
 
 Made by [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), and [Ryan Taylor](https://x.com/AdjyLeak) with additional support from autotunafish, decentralistdan, and zkSquirrel. 
 
@@ -136,6 +137,8 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates. 
 
 Subscribe to our [calendar](https://lu.ma/zkav) for evevnts, livestreams, and workshops. 
+
+Want to lead a workshop? [Start here ](/workshops/). 
 
 
 ### Support Zk Av Club 
