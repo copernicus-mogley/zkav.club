@@ -34,7 +34,7 @@ Workshops: Practical, community-led livestreams on real-world workflows — even
 
 Made by Aura Brito, Robmar Enoe, and Roosevelt Gordones, and Ryan Taylor with support from autotunafish, decentralistdan, and zkSquirrel. 
 
-Zk Av Club Foundry is made possible by [contributions from our friends](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
+Zk Av Club Foundry is made possible by [contributions from our friends](#support-zk-av-club) and [Zcash Community Grants](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/11). 
 
 
 ### Testimonials   
