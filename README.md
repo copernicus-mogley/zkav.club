@@ -17,15 +17,11 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 Open media, shared memory. 
 
-An on-site, volunteer-run media lab where attendees can record conversations and insights in high-quality audio and video, building a diverse, lasting community archive. 
-
-[Read more](/recording-station/). 
+An on-site, volunteer-run media lab where attendees can record conversations and insights in high-quality audio and video, building a diverse, lasting community archive. [Read more](/recording-station/). 
 
 ### Foundry: Salon and Workshops 
 
-Build together, learn together.
-
-A recurring livestream series where communities learn by doing. It's a combinination of topical conversations and hands-on, community-led workshops where we explore free and open-source software (FOSS) and decentralized tech. It’s participatory — learn, contribute, and help shape how communities share information, with privacy always in focus.
+Participatory livestreams for privacy-first communities. Foundry combines an open Salon with community-led Workshops to explore free and open-source software (FOSS) and decentralized tech in practice. Come to learn, contribute, and help design how we document and distribute community knowledge—without compromising privacy.
 
 Salon: A monthly hang with people building in the open — FOSS, P2P, decentralized governance, brand/design, transcription, more. We go live the final Friday at 15:00 UTC. [Check our calendar](https://lu.ma/zkav).
 
