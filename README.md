@@ -19,7 +19,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 An on-site, volunteer-run media lab where attendees can document conversations, ideas, and stories in high-quality AV—building a shared, open archive for the community.
 
-How it works: Record with our crew • We edit • You approve • Published under Creative Commons (CC BY-SA) 
+How it works: Find us at an event • Record with our crew • We edit • You approve • Published under Creative Commons (CC BY-SA) 
 
 [Read the details](/recording-station/). 
 
