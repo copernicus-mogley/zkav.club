@@ -26,7 +26,7 @@ How it works: Find us at an event • Record with our crew • We edit • You a
 
 ### Foundry: Salon and Workshops 
 
-Participatory livestreams for privacy-first communities. Foundry combines an open Salon with community-led Workshops to explore free and open-source software (FOSS) and decentralized tech in practice. Come to learn, contribute, and help design how we document and distribute community knowledge—without compromising privacy.
+Participatory livestreams for privacy-first communities. Zk Av Club Foundry combines an open Salon with community-led Workshops to explore free and open-source software (FOSS) and decentralized tech in practice. Come to learn, contribute, and help design how we document and distribute community knowledge—without compromising privacy.
 
 Salon: A monthly hang with people building in the open — FOSS, P2P, decentralized governance, brand/design, transcription, more. We go live the final Friday at 15:00 UTC. [Check our calendar](https://lu.ma/zkav).
 
