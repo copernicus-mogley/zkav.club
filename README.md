@@ -17,7 +17,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 Open media, shared memory. 
 
-An on-site media lab where attendees can record conversations and insights in high-quality audio and video, building a diverse, lasting community archive. 
+An on-site, volunteer-run media lab where attendees can record conversations and insights in high-quality audio and video, building a diverse, lasting community archive. 
 
 [Read more](/recording-station/). 
 
