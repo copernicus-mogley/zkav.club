@@ -17,7 +17,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 ### Zk Av Club Recording Station 
 
-An on-site, volunteer-run media lab where attendees record ideas and stories in high-quality A/V—building a shared, open archive for the community. 
+An on-site, volunteer-run media lab where attendees can record conversations, ideas and stories in high-quality A/V—building a shared, open archive for the community. 
 
 How it works: Record with our crew • We edit • You approve • Published under Creative Commons (CC BY-SA). 
 
