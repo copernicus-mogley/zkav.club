@@ -85,7 +85,7 @@ Zk Av Club is a source of inspiration for me and for everyone who comes. Seeing 
 — [@SoyAuraBrito](https://x.com/SoyAuraBrito)  
 
 
-The Audiovisual Club has been a space for me to connect with technology, open source and content generation geeks like me.
+The AV Club has been a space for me to connect with technology, open source and content generation geeks like me.
  
 I like being part of the team because there is freedom of creativity, opinion and action. Although we all work for the same purpose (teaching and spreading privacy and free technologies), we can all have our style with freedom. 
  
