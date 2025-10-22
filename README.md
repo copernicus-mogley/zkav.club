@@ -33,7 +33,7 @@ Workshops: Practical, community-led livestreams on real-world workflows — even
 
 Made by [Aura Brito](https://x.com/SoyAuraBrito), [Robmar Enoe](https://x.com/robmarn), and [Roosevelt Gordones](https://x.com/gordonesTV), and [Ryan Taylor](https://x.com/AdjyLeak) with support from autotunafish, decentralistdan, and zkSquirrel. 
 
-Zk Av Club Foundry is made possible by [contributions from our fans](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
+Zk Av Club Foundry is made possible by [contributions from our friends](#support-zk-av-club) and [Zcash Community Grants](https://zcashcommunitygrants.org/). 
 
 
 ### Testimonials   
