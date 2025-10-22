@@ -2,6 +2,7 @@
 
 We support open-source and decentralized tech communities by delivering privacy-first audiovisual (AV) training with emerging technologies, co-creating AV documentation, and running volunteer AV at meetups, conferences, and camps. 
 
+
 ### Navigation 
 
 * [Zk Av Club Recording Station](#zk-av-club-recording-station) 
@@ -13,11 +14,11 @@ We support open-source and decentralized tech communities by delivering privacy-
 * [Join the club](#join-the-club) 
 * [Donate](#support-zk-av-club) 
 
+
 ### Zk Av Club Recording Station 
 
-Open media, shared memory. 
+An on-site, volunteer-run media lab where attendees record ideas and stories in high-quality A/V—building a shared, open archive for the community. [Read the details](https://www.zkav.club/recording-station/). 
 
-An on-site, volunteer-run media lab where attendees can record conversations and insights in high-quality audio and video, building a diverse, lasting community archive. [Read more](/recording-station/). 
 
 ### Foundry: Salon and Workshops 
 
