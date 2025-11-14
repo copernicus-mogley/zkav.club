@@ -175,6 +175,11 @@ bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 ``` 
 
+[Polkadot]() 
+```
+13bC34oT8iyD4VGT7suPB5ec22dvRoQG5m3GdwZWUFrfg7aa
+```
+
 [Solana](https://solana.com/) 
 ```
 9LjiB6CAck6SKEHGAfK7LN2jJyXhZX7jiivCVvv49RUk
