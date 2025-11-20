@@ -165,7 +165,7 @@ bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
 ```
 
-[Polkadot]() 
+[Polkadot](https://polkadot.com/) 
 ```
 13bC34oT8iyD4VGT7suPB5ec22dvRoQG5m3GdwZWUFrfg7aa
 ```
