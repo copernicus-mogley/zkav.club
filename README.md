@@ -144,7 +144,7 @@ Want to lead a workshop? [Start here ](/workshops/).
 
 ### Support Zk Av Club 
 
-Your support funds privacy-first AV training, volunteer recordings, and public archives. 
+Your support funds privacy-first AV training, volunteer recordings, post-production, and public archives. 
 
 Zk Av Club activities are made possible by contributions from organizations, communities and people who care about decentralized tech, open-source software, privacy and freedom. Please help us continue by donating to the addresses below. 
 
