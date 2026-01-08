@@ -21,18 +21,18 @@ Welcome to our [Zk Av Club Recording Station](https://zkav.club/recording-statio
 
 ## Open by default
 
-After your edited piece goes out (on Zk Av Club and/or your channels), the original source files go to Internet Archive under [Creative Commons BY‑SA](https://creativecommons.org/licenses/by-sa/4.0/) so the community can learn from and remix. 
+After you consent the original source files go to Internet Archive under [Creative Commons BY‑SA](https://creativecommons.org/licenses/by-sa/4.0/) so the community can learn from and remix the content. 
 
 
 ## Your comforts & choices
 
-* **Review option:** If you want to check your recording before it goes out, just tell the crew—totally fine. 
+* **Review first:** Check your recording before it goes out. 
 
-* **Credit:** We’ll credit your name or pseudonym—your call. 
+* **Credit:** We’ll credit your name or pseudonym—your call.  
 
 * **Sensitive topics?** Say so any time. We can edit before archiving, limit distribution, or keep it private. 
 
-* **Change your mind later?** Email us. We’ll do our best to accommodate reasonable requests.
+* **Change your mind later?** Contact us. We’ll do our best to accommodate reasonable requests. 
 
 
 ## By using the Zk Av Club Recording Station, you agree that

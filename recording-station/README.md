@@ -46,11 +46,9 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## Distribution & Licensing 
 
-* **Edited release first:** After guest approvals, edited videos are published on Zk Av Club and/or co-creators' channels. 
-
-* **Then open the source:** Following the edited release, original source masters (audio/video) are publicly released to Internet Archive under Creative Commons CC BY-SA. 
-
 * **Consent & credits:** Clear approvals, attribution, and metadata at every step. (If sensitive content requires alternatives, we can agree on it in advance.) 
+
+* **Then open the source:** Following consent, original source masters (audio/video) are publicly released to Internet Archive under Creative Commons CC BY-SA. 
 
 * [Zk Av Club Recording Station: Licensing and Consent](https://zkav.club/recording-station/licensing)
 
