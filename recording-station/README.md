@@ -61,9 +61,7 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 3. **Approve:** Guests review and approve recording. 
 
-4. **Publish:** Edited piece goes live on Zk Av Club and/or co-creator channels. 
-
-5. **Archive:** Source masters are then uploaded to Internet Archive under CC BY-SA with full metadata and credit.
+4. **Archive:** Source masters are then uploaded to Internet Archive under CC BY-SA with full metadata and credit.
 
 
 ## Get involved
