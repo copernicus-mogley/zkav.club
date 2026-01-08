@@ -59,7 +59,7 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 2. **Record:** Crew assists with mics, framing, and levels; optional host or prompts available. 
 
-3. **Approve:** Guests review and approve recording. 
+3. **Consent:** Review and approve the recording. 
 
 4. **Archive:** Source masters are then uploaded to Internet Archive under CC BY-SA with full metadata and credit.
 
