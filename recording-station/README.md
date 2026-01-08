@@ -12,7 +12,7 @@ We flip the script on event coverage: instead of top-down coverage, our Recordin
 
 From impromptu podcasts and deep-dive conversations to quick reflections and group discussions, we provide the tools and space to create authentic, high-quality content and preserve community memory. 
 
-After recordings are approved by guests, the edit goes out on Zk Av Club and/or co-creator channels, and the source recordings are published to Internet Archive under CC BY-SA. Open media, shared memory. 
+After recordings are approved by guests, the source recordings are published to Internet Archive under CC BY-SA. Open media, shared memory. 
 
 
 ## Why we do it
