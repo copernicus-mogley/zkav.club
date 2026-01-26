@@ -4,7 +4,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 
 ### Navigation 
-
+ 
 * [Zk Av Club Recording Station](#zk-av-club-recording-station) 
 * [Foundry: Salon and Workshops](#foundry-salon-and-workshops) 
 * [Lead a workshop](/workshops) 
