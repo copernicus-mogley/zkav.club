@@ -1,6 +1,6 @@
 # PeerTube for Zcash: Decision + Implementation Plan (v1)
 
-**Executive summary:** Zk Av Club will deploy and operate a Zcash-focused PeerTube instance as a durable, community-run home for Zcash ecosystem video. This Milestone 1 document defines the MVP scope, hosting/deployment approach, federation posture, moderation baseline, and sustainability triggers needed to publish the plan by Jan 31, 2026. The MVP will run on a single VPS (local storage) using Docker Compose, with invite-only accounts, a trusted uploader list, and approval-first review for non-admin uploads. By Mar 31, 2026, the goal is a live MVP with backups + monitoring verified, curated federation implemented, seed content published, and the public “How we publish” + moderation policy posted.
+**Executive summary:** Zk Av Club will deploy and operate a Zcash-focused PeerTube instance as a durable, community-run home for Zcash ecosystem video. This Milestone 1 document defines the MVP scope, hosting/deployment approach, federation posture, moderation baseline, and sustainability triggers needed to publish the plan by Jan 31, 2026. The MVP will run on a single VPS (local storage) using Docker Compose, with invite-only accounts, a trusted uploader list, and approval-first review for non-admin uploads. By Mar 31, 2026, the goal is a live MVP with backups + monitoring verified, curated federation implemented, seed content published, and the public "How we publish" + moderation policy posted.
 
 **Owner:** Zk Av Club (Lead Organizer)
 
@@ -24,7 +24,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 
 ### Goals (what success looks like)
 
-1. A stable PeerTube “home” for Zcash ecosystem videos that reduces dependence on centralized platforms.
+1. A stable PeerTube "home" for Zcash ecosystem videos that reduces dependence on centralized platforms.
 2. A repeatable publishing workflow aligned with PeerTube’s capabilities and a clear internal publication process.
 3. Clear moderation + governance baseline that is easy to explain and enforce.
 4. Sustainability notes (costs, bandwidth, admin hours, scaling assumptions) tracked monthly.
@@ -39,7 +39,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 
 ### Non-goals (Phase 1)
 
-* “Open upload for everyone on the internet” on day one.
+* "Open upload for everyone on the internet" on day one.
 * Complex multi-tenant architecture.
 * Custom plugin development (unless clearly required later).
 
@@ -74,9 +74,9 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 * Who can upload (MVP): Trusted uploader list (admins + explicitly approved accounts).
 * Review model (MVP): Approval-first for non-admin uploads (auto-block/unlisted until approved).
 
-### E) What “published” means (DECISION)
+### E) What "published" means (DECISION)
 
-* Decision (MVP): a video is “published” when it is public, has required metadata, and has passed any required review.
+* Decision (MVP): a video is "published" when it is public, has required metadata, and has passed any required review.
 
 ---
 
@@ -96,7 +96,7 @@ These assumptions will be used to validate the capacity baseline and to set/adju
 
 ### Capacity baseline
 
-Start above “minimums” if transcoding will run on-instance. Plan for growth in CPU, storage, and upload bandwidth.
+Start above "minimums" if transcoding will run on-instance. Plan for growth in CPU, storage, and upload bandwidth.
 
 ---
 
@@ -206,7 +206,7 @@ PeerTube install
 
 * Upload 5–10 test videos
 * Validate: playback, metadata conventions, captions flow (if used), federation behavior
-* Produce the public “How we publish” workflow doc from the outline above
+* Produce the public "How we publish" workflow doc from the outline above
 
 ### Phase 5 — MVP launch
 
@@ -283,7 +283,7 @@ Suggested work plan:
 
 ## 8) Definition of done (Milestone 1)
 
-This artifact is “done” when it includes:
+This artifact is "done" when it includes:
 
 * Scope statement (what MVP is / isn’t)
 * Hosting decision + rationale
