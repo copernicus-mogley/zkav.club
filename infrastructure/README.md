@@ -48,7 +48,7 @@ PeerTube for Zcash is our first public implementation under this umbrella—but 
 
 If you’re looking for Zcash-related recordings—especially conference history and long-form talks—start here:
 
-(Zcash PeerTube)[`/infrastructure/zcash`]
+[Zcash PeerTube](`/infrastructure/zcash`)
 
 (That page includes the PeerTube decision, rollout plan, and how publishing will work.)
 
