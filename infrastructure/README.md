@@ -2,9 +2,7 @@
 
 ## Long-term publishing for decentralized communities
 
-Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way thataligns with their needs and values.
-
-PeerTube for Zcash is our first public implementation under this umbrella—but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
+Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way that aligns with their needs and values.
 
 ---
 
@@ -44,11 +42,13 @@ PeerTube is a strong fit for many communities, but not the only one. Our job is 
 
 ## Current implementation
 
-### Decentralized media for Zcash
+### Decentralized media for Zcash 
+
+PeerTube for Zcash is our first public implementation under this umbrella—but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
 
 If you’re looking for Zcash-related recordings—especially conference history and long-form talks—start here:
 
-**Zcash media infrastructure →** `/peertube/zcash`
+**Zcash media infrastructure →** `/infrastructure/zcash`
 
 (That page includes the PeerTube decision, rollout plan, and how publishing will work.)
 
@@ -65,18 +65,6 @@ If we say we’re supporting a community’s media infrastructure, it means we c
 
 ---
 
-## Get support or propose a service
-
-If you want help publishing a library of recordings, setting up a series workflow, or planning an event pipeline:
-
-* Bring a short description of your content (what it is, how much, and where it currently lives)
-* Tell us what “done” looks like (public archive, searchable library, series page, etc.)
-* We’ll suggest a sane next step (and what it would take)
-
-**Contact:** (add your preferred contact method here — email or a form)
-
----
-
 ## Roadmap
 
 Zcash is the starting point. Over time, this hub will expand to include:
@@ -89,6 +77,4 @@ Zcash is the starting point. Over time, this hub will expand to include:
 
 ---
 
-### Optional footer blurb
-
-**Community media needs infrastructure.** We’re building it—practically, transparently, and with long-term stewardship as the default.
+**Community media needs infrastructure.** We’re here to help build it.
