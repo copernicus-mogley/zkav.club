@@ -4,7 +4,7 @@
 
 **Owner:** Zk Av Club (Lead Organizer)
 
-**Status:** Ready to publish
+**Status:** Published
 
 **Last updated:** 2026-01-28
 
