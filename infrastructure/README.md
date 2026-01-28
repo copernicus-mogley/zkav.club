@@ -1,0 +1,94 @@
+# Community Media Infrastructure + Support
+
+## Long-term publishing for decentralized communities
+
+Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way thataligns with their needs and values.
+
+PeerTube for Zcash is our first public implementation under this umbrella—but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
+
+---
+
+## What we provide
+
+### 1) Publishing systems
+
+We help communities stand up and operate publishing destinations that people can actually depend on:
+
+* **Instance/channel setup and administration**
+* **Repeatable publishing workflows** (metadata, thumbnails, captions, playlists)
+* **Content organization for discovery** (series structure, event pages, tags)
+
+### 2) Content stewardship
+
+Publishing is the start, not the finish. We also support the ongoing work that keeps media usable:
+
+* **Indexing and metadata** (titles, speakers, dates, topics, links)
+* **Rights + consent hygiene** (what can be published, where, and under what terms)
+* **Versioning + updates** (fixes, replacements, improved captions over time)
+
+---
+
+## Why decentralized media?
+
+Community media is easiest to lose when it depends on a single platform’s incentives.
+
+We focus on approaches that support:
+
+* **Community control** (shared ownership, clear governance, portability)
+* **Resilient distribution** (mirrors, federation, backups)
+* **Long-term stewardship** (stable URLs, structured organization, ongoing maintenance)
+
+PeerTube is a strong fit for many communities, but not the only one. Our job is to help each community choose a path that matches their values and constraints—and then make it operational.
+
+---
+
+## Current implementation
+
+### Decentralized media for Zcash
+
+If you’re looking for Zcash-related recordings—especially conference history and long-form talks—start here:
+
+**Zcash media infrastructure →** `/peertube/zcash`
+
+(That page includes the PeerTube decision, rollout plan, and how publishing will work.)
+
+---
+
+## What you can expect from Zk Av Club
+
+If we say we’re supporting a community’s media infrastructure, it means we commit to:
+
+* **Clear standards** for labeling, organization, and documentation
+* **Reliable upload + handoff workflows**
+* **A steady path toward better accessibility** (captions where possible, improvements over time)
+* **Transparent scope**: what we do, what we don’t, and how requests get handled
+
+---
+
+## Get support or propose a service
+
+If you want help publishing a library of recordings, setting up a series workflow, or planning an event pipeline:
+
+* Bring a short description of your content (what it is, how much, and where it currently lives)
+* Tell us what “done” looks like (public archive, searchable library, series page, etc.)
+* We’ll suggest a sane next step (and what it would take)
+
+**Contact:** (add your preferred contact method here — email or a form)
+
+---
+
+## Roadmap
+
+Zcash is the starting point. Over time, this hub will expand to include:
+
+* Additional community media implementations (beyond PeerTube)
+* Publishing playbooks and templates
+* Indexing + metadata guidelines
+* Support offerings for event recording pipelines
+  n
+
+---
+
+### Optional footer blurb
+
+**Community media needs infrastructure.** We’re building it—practically, transparently, and with long-term stewardship as the default.
