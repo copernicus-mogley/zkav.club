@@ -4,7 +4,7 @@
 
 Do you have new skills, tools, or innovative ideas that you're eager to explore with your communities?  
 
-We're looking for everyone who wants to share what we've learned together and what you're doing with that newfound knowledge. This is your chance to lead an interactive workshop, empower others, and be rewarded with **200 EUR** paid in Zcash.
+We're looking for everyone who wants to share what we've learned together and what you're doing with that newfound knowledge. This is your chance to lead an interactive workshop, empower others, and be rewarded in Zcash.
 
 ## Why lead a Zk Av Club Foundry Workshop?
 

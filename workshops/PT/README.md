@@ -4,7 +4,7 @@
 
 Você tem novas habilidades, ferramentas ou ideias inovadoras que gostaria de explorar com a sua comunidade?
 
-Estamos procurando pessoas que queiram compartilhar o que aprendemos juntos e mostrar o que estão fazendo com esse novo conhecimento. Esta é a sua chance de liderar um workshop interativo, ajudar outras pessoas e receber **200 Euros** pagos em Zcash.
+Estamos procurando pessoas que queiram compartilhar o que aprendemos juntos e mostrar o que estão fazendo com esse novo conhecimento. Esta é a sua chance de liderar um workshop interativo, ajudar outras pessoas e receber Zcash.
 
 ## Por que liderar um Workshop Zk Av Club Foundry?
 
@@ -14,7 +14,7 @@ Estamos procurando pessoas que queiram compartilhar o que aprendemos juntos e mo
 
 - **Crescimento Pessoal**: Melhore suas habilidades de apresentação e ensino em um ambiente amigável e colaborativo, na sua própria comunidade!
 
-- **Recompensa Direta**: Receba **200 Euros** pagos em Zcash pelo seu tempo e dedicação.
+- **Recompensa Direta**: Receba Zcash pelo seu tempo e dedicação.
 
 ## Como participar?
 

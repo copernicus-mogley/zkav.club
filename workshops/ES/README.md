@@ -5,7 +5,7 @@
 ¿Tienes nuevas habilidades, herramientas o ideas innovadoras que quisieras explorar con tu comunidad?
 
 Estamos buscando a todas las personas que quieran compartir lo aprendido y mostrar lo que están creando con ese nuevo conocimiento.
-Esta es tu oportunidad de **liderar un taller interactivo**, empoderar a otros y recibir **200 €** pagados en Zcash.
+Esta es tu oportunidad de **liderar un taller interactivo**, empoderar a otros y recibir  Zcash.
 
 ## ¿Por qué liderar un Taller Zk Av Club Foundry?
 
@@ -15,7 +15,7 @@ Esta es tu oportunidad de **liderar un taller interactivo**, empoderar a otros y
 
 - **Crecimiento personal**: Mejora tus habilidades de presentación y enseñanza en un entorno colaborativo y amistoso — *¡en tu propia comunidad!*
 
-- **Recompensa directa**: Recibe **200 €** pagados en Zcash por tu tiempo y dedicación.
+- **Recompensa directa**: Recibe Zcash por tu tiempo y dedicación.
 
 ## ¿Cómo participar?
 
