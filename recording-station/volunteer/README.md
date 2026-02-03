@@ -215,10 +215,10 @@ Use this format:
 
 **YYYYMMDD_ID_EventShortName_OwnerPublic_Source_OriginalFilename**
 
-* **Source** = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
 * **OwnerPublic** = the chosen owner’s public name/handle/pseudonym (never dox).
-* Keep components short and filesystem-safe (avoid special characters).
+* **Source** = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
 * **OriginalFilename** remains to help track the file back to the source if necessary.
+* Keep components short and filesystem-safe (avoid special characters).
 
 Examples:
 
