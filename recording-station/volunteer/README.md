@@ -4,7 +4,7 @@
 
 **Status:** Published
 
-**Last updated:** 2026-01-28
+**Last updated:** 2026-02-03
 
 ## 1) So you want to be a volunteer?
 
@@ -213,17 +213,17 @@ Metadata is part of consent + credits. If it’s not labeled and logged, it’s 
 
 Use this format:
 
-**YYYYMMDD_EventShortName_Source_OwnerPublic_001**
+**YYYYMMDD_ID_EventShortName_OwnerPublic_Source_OriginalFilename**
 
 * **Source** = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
 * **OwnerPublic** = the chosen owner’s public name/handle/pseudonym (never dox).
 * Keep components short and filesystem-safe (avoid special characters).
-* Use **001, 002…** if there are multiple files for one recording.
+* **OriginalFilename** remains to help track the file back to the source if necessary.
 
 Examples:
 
-* 20251004_DarkPrague_bm4k_harryhalpin_001
-* 20251118_Devconnect_handycam_therealyingtong_001
+* 20251004_10_DarkPrague_harryhalpin_handicam_C0014.MP4 
+* 20251121_05_Devconnect_ProofOfVibes_rodecaster1_Recording90.wav
 
 ### Minimum metadata fields (station log)
 
