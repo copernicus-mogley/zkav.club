@@ -14,7 +14,7 @@ We're looking for everyone who wants to share what we've learned together and wh
 
 - **Personal Growth**: Enhance your presentation and teaching skills in a collaborative and friendly environment—*your own community!* 
 
-- **Direct Reward**: Receive **200 EUR** paid in Zcash for your time and dedication.
+- **Direct Reward**: Get paid in Zcash for your time and knowledge.
 
 ## How can you participate?
 
