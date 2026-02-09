@@ -1,4 +1,4 @@
-# Past Zk Av Club Workshops (community skill-sharing)
+# Past Zk Av Club Workshops 
 
 Workshops are the “spore layer.” They spread. They localize. They grow.
 
