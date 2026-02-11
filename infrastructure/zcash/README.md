@@ -47,11 +47,15 @@ Quick links:
 
 Jump to:
 
-* [Phase 5 tracker](#mvp-tracking-milestone-3)
-* [Assumptions (Section 3)](#content--usage-assumptions-planned)
+* [Context + deliverable (Section 0)](#0-context-and-deliverable)
+* [Goals + scope (Section 1)](#1-goals-scope-and-non-goals)
+* [Decisions (Section 2)](#2-decisions-mvp)
+* [Assumptions (Section 3)](#3-requirements-checklist-pre-provisioning)
 * [Channel governance (Phase 1)](#initial-channel-taxonomy-mvp)
 * [Provisioning checklist (Phase 2)](#phase-2--provision--install)
+* [MVP tracker (Phase 5)](#mvp-tracking-milestone-3)
 * [Operational logs (Phase 6)](#operational-logs-mvp-stubs)
+* [Sustainability notes (Section 6)](#6-sustainability-notes-publish-up-front)
 
 Where things live:
 
