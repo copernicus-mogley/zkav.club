@@ -316,9 +316,10 @@ Recommended additions:
 ### Main cost drivers
 
 * Storage growth
-* (Privacy) reducing reliance on surveillance platforms may increase our direct hosting/bandwidth responsibility, which we treat as a worthwhile tradeoff for a privacy-respecting default.
 * Outbound bandwidth spikes
 * Transcoding compute
+
+Privacy tradeoff: reducing reliance on surveillance platforms may increase our direct hosting and bandwidth responsibility. We treat this as a worthwhile tradeoff for a privacy-respecting default.
 
 ### Sustainability plan (MVP)
 
