@@ -224,6 +224,7 @@ Notes:
 
 * Domain + DNS
 * Privacy posture: avoid third-party trackers/embeds on the instance; keep logs and analytics minimal and purpose-limited
+* Embed policy (MVP): no third-party video embeds on instance pages by default (e.g., YouTube/Vimeo embeds). Link out instead if needed to avoid reintroducing third-party tracking on instance pages. This does not restrict embedding PeerTube-hosted videos on other websites, forums, or chats.
 * TLS (HTTPS)
 * SMTP (account emails, moderation notifications)
 * Backup target (encrypted)
