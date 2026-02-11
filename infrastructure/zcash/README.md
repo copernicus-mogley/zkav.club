@@ -12,6 +12,8 @@
 
 **Project home:** This page is the main source of information for tracking the Zcash PeerTube project under Zk Av Club’s Community Media Infrastructure + Support service: [https://www.zkav.club/infrastructure](https://www.zkav.club/infrastructure)
 
+**Grant proposal (context):** [https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913)
+
 ## Change log
 
 * 2026-01-28: Published initial version.
