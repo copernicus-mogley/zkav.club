@@ -12,17 +12,17 @@ Zk Av Club runs community media infrastructure and provides support services tha
 
 We help communities stand up and operate publishing destinations that people can actually depend on:
 
-* **Instance/channel setup and administration**
-* **Repeatable publishing workflows** (metadata, thumbnails, captions, playlists)
-* **Content organization for discovery** (series structure, event pages, tags)
+* Instance/channel setup and administration
+* Repeatable publishing workflows 
+* Content organization for discovery 
 
 ### 2) Content stewardship
 
 Publishing is the start, not the finish. We also support the ongoing work that keeps media usable:
 
-* **Indexing and metadata** (titles, speakers, dates, topics, links)
-* **Rights + consent hygiene** (what can be published, where, and under what terms)
-* **Versioning + updates** (fixes, replacements, improved captions over time)
+* Indexing and metadata 
+* Rights + consent hygiene 
+* Versioning + updates 
 
 ---
 
@@ -32,9 +32,9 @@ Community media is easiest to lose when it depends on a single platform’s ince
 
 We focus on approaches that support:
 
-* **Community control** (shared ownership, clear governance, portability)
-* **Resilient distribution** (mirrors, federation, backups)
-* **Long-term stewardship** (stable URLs, structured organization, ongoing maintenance)
+* Community control 
+* Resilient distribution 
+* Long-term stewardship 
 
 PeerTube is a strong fit for many communities, but not the only one. Our job is to help each community choose a path that matches their values and constraints—and then make it operational.
 
@@ -58,10 +58,10 @@ If you’re looking for Zcash-related recordings—especially conference history
 
 If we say we’re supporting a community’s media infrastructure, it means we commit to:
 
-* **Clear standards** for labeling, organization, and documentation
-* **Reliable upload + handoff workflows**
-* **A steady path toward better accessibility** (captions where possible, improvements over time)
-* **Transparent scope**: what we do, what we don’t, and how requests get handled
+* Clear standards for labeling, organization, and documentation 
+* Reliable upload + handoff workflows 
+* A steady path toward better accessibility 
+* Transparent scope: what we do, what we don’t, and how requests get handled 
 
 ---
 
