@@ -104,18 +104,18 @@ After approval:
 
 If a published video needs updates, here’s how we handle it:
 
-1. Small fixes (metadata-only)
+1. **Small fixes (metadata-only)**
 
-* Examples: title tweaks, tag fixes, description links, playlist placement
-* Usually done immediately
+   * Examples: title tweaks, tag fixes, description links, playlist placement
+   * Usually done immediately
 
-2. Visibility changes (unlist / relist)
+2. **Visibility changes (unlist / relist)**
 
-* Used when something needs review, corrections, or time-sensitive handling
-* Coordinate with the channel owner; moderators/admins may unlist for policy or safety reasons
+   * Used when something needs review, corrections, or time-sensitive handling
+   * Coordinate with the channel owner; moderators/admins may unlist for policy or safety reasons
 
-3. Major changes (replace or remove)
+3. **Major changes (replace or remove)**
 
-* Used for substantive edits (content removals, sensitive material, rights/consent issues)
-* Requires coordination between the channel owner and admins
-* When possible, we note what changed and why (without exposing personal information)
+   * Used for substantive edits (content removals, sensitive material, rights/consent issues)
+   * Requires coordination between the channel owner and admins
+   * When possible, we note what changed and why (without exposing personal information)
