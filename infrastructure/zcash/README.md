@@ -6,7 +6,7 @@
 
 **Status:** Published
 
-**Last updated:** 2026-01-28
+**Last updated:** 2026-02-11
 
 **Intended publication location:** Grant public reporting (e.g., ZcashCommunityGrants issue / repo) and/or zkav.club
 
