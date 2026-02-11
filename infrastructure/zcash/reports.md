@@ -13,61 +13,130 @@ Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https
 ## How this page works
 
 * This is **one rolling page** (not one page per month).
-* Each month has its own section (e.g., `## 2026-02`).
+* Each month has its own section (e.g., `## 2026-01`).
 * Update the current month as work happens. At month end, add a short summary and start the next month.
+
+## Pre-launch reporting (before the instance is live)
+
+Until the instance is deployed, monthly reports still exist—but they report **project progress**, not runtime operations.
+
+Rule of thumb:
+
+* If it moved the project toward “instance live,” it belongs in the report (decisions, procurement, setup progress, tests, blockers).
+* Runtime metrics that don’t exist yet should be marked **N/A (pre-launch)**.
+
+Source of truth for status is the Phase 5 tracker on the hub page; the monthly report captures *what changed this month and why*.
 
 ## Table of contents
 
+* [2026-01](#2026-01)
 * [2026-02](#2026-02)
 * [2026-03](#2026-03)
 * [2026-04](#2026-04)
 
-## Cost drivers
+---
 
-* Storage growth
-* Outbound bandwidth spikes
-* Transcoding compute
+## 2026-01
 
-## Scale triggers (MVP starting thresholds)
+**Project status (pre-launch)**
 
-We revisit these after 30–60 days of real usage:
+* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+* Summary: Published Milestone 1 plan as the canonical project hub page.
 
-* Disk usage > 70% (sustained for 7 days)
-* Bandwidth costs > $200/month (for 2 consecutive months)
-* Moderation queue > 10 reports/week (for 2 consecutive weeks)
-* Admin time > 10 hours/week (sustained for 4 weeks)
+**Highlights**
 
-## What we report monthly (grant-aligned)
+* Published the PeerTube for Zcash Decision + Implementation Plan (Milestone 1).
+* Established MVP posture: invite-only accounts, trusted uploader model, approval-first publishing.
 
-* Upload count + links
-* Hosting/bandwidth costs
-* Admin hours
-* Storage growth (GB/month)
-* Moderation load (reports/week)
+**Milestone progress (pre-launch)**
 
-### Monthly update template (copy into each month)
+* Decisions made:
 
-Use the template below inside each month section.
+  * Confirmed PeerTube as the deployment target for Zcash ecosystem video.
+  * Defined curated federation posture and moderation baseline.
+  * Defined initial channel ownership model (MVP: Zcash ecosystem groups; expansion planned later).
+* Infra/provisioning progress: Not started (pre-launch).
+* Workflow/policy progress: Plan published (Milestone 1).
+* Testing completed: N/A (pre-launch).
+* Blockers / risks:
+
+  * Content + usage assumptions not yet published; sizing will be revisited once assumptions exist.
+
+**New uploads (count + links)**
+
+* N/A (pre-launch)
+
+**Ops notes**
+
+* Availability/uptime incidents: N/A (pre-launch)
+* Backups status (last successful restore test date): N/A (pre-launch)
+* Updates applied (PeerTube version, OS updates): N/A (pre-launch)
+
+**Moderation notes**
+
+* Reports received: N/A (pre-launch)
+* Actions taken: N/A (pre-launch)
+* Federation changes (date + action + reason): N/A (pre-launch)
+
+**Costs**
+
+* Hosting: $0 (pre-launch)
+* Storage: $0 (pre-launch)
+* Bandwidth: $0 (pre-launch)
+* Other: $0 (pre-launch)
+
+**Admin time**
+
+* Hours (estimate): ~8 hours (full day: PeerTube research + instance/federation/moderation design + drafting/publishing Milestone 1)
+* Main time sinks: PeerTube research (instances/federation/config), drafting the plan, and publishing the hub page
+
+**Storage growth**
+
+* GB/month: N/A (pre-launch)
+
+**Risks / watch items**
+
+* Ensure pre-launch assumptions and provisioning decisions land early in February.
+
+**Next month focus**
+
+* Publish content + usage assumptions.
+* Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
 
 ---
 
 ## 2026-02
 
+**Project status (pre-launch)**
+
+* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+* Summary: (what changed since last update)
+
 ## **Highlights**
 
-## **New uploads (count + links)**
+**Milestone progress (pre-launch)**
+
+* Decisions made:
+* Infra/provisioning progress:
+* Workflow/policy progress:
+* Testing completed:
+* Blockers / risks:
+
+**New uploads (count + links)**
+
+* N/A (pre-launch)
 
 **Ops notes**
 
-* Availability/uptime incidents:
-* Backups status (last successful restore test date):
-* Updates applied (PeerTube version, OS updates):
+* Availability/uptime incidents: N/A (pre-launch)
+* Backups status (last successful restore test date): N/A (pre-launch)
+* Updates applied (PeerTube version, OS updates): N/A (pre-launch)
 
 **Moderation notes**
 
-* Reports received:
-* Actions taken:
-* Federation changes (date + action + reason):
+* Reports received: N/A (pre-launch)
+* Actions taken: N/A (pre-launch)
+* Federation changes (date + action + reason): N/A (pre-launch)
 
 **Costs**
 
@@ -83,7 +152,7 @@ Use the template below inside each month section.
 
 **Storage growth**
 
-* GB/month:
+* GB/month: N/A (pre-launch)
 
 ## **Risks / watch items**
 
