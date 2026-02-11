@@ -110,17 +110,34 @@ Source of truth for status is the Phase 5 tracker on the hub page; the monthly r
 **Project status (pre-launch)**
 
 * Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
-* Summary: (what changed since last update)
+* Summary: Turned the hub page into a living project tracker and published companion documentation (moderation, publishing, rolling reports) to support MVP operations.
 
-## **Highlights**
+**Highlights**
+
+* Published companion docs:
+
+  * Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+  * How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+  * Monthly reports (this page): [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+* Refactored the hub page for readability (quick view + jump links) and upgraded Phase 5 into an operational tracker (cadence, evidence convention, sorted targets).
+* Clarified privacy posture throughout (why PeerTube, no third‑party embeds on instance pages, and privacy notes in moderation/report handling).
 
 **Milestone progress (pre-launch)**
 
 * Decisions made:
-* Infra/provisioning progress:
+
+  * Default publishing visibility: unlisted until approved, then public.
+  * Reports are maintained as one rolling page (not one page per month).
+  * Embed policy (MVP): no third-party video embeds on instance pages by default; PeerTube-hosted videos may be embedded elsewhere.
+* Infra/provisioning progress: Not started (pre-launch).
 * Workflow/policy progress:
-* Testing completed:
+
+  * Moderation policy published and corrected after a minor formatting issue on the live page.
+  * Publishing workflow rewritten in plain language; added metadata examples, approval checklist, and corrections tiers.
+* Testing completed: N/A (pre-launch).
 * Blockers / risks:
+
+  * Content + usage assumptions still pending (target publish date on hub: 2026-02-28).
 
 **New uploads (count + links)**
 
@@ -140,23 +157,29 @@ Source of truth for status is the Phase 5 tracker on the hub page; the monthly r
 
 **Costs**
 
-* Hosting:
-* Storage:
-* Bandwidth:
-* Other:
+* Hosting: $0 (pre-launch)
+* Storage: $0 (pre-launch)
+* Bandwidth: $0 (pre-launch)
+* Other: $0 (pre-launch)
 
 **Admin time**
 
-* Hours (estimate):
-* Main time sinks:
+* Hours (estimate): ~8 hours (one full day: hub page revisions + companion docs + tracker/report structure)
+* Main time sinks: hub page revisions, companion doc drafting, coordination meetings, and tracker/report structure
 
 **Storage growth**
 
 * GB/month: N/A (pre-launch)
 
-## **Risks / watch items**
+**Risks / watch items**
 
-## **Next month focus**
+* If assumptions slip past 2026-02-28, provisioning and sizing decisions may slip.
+
+**Next month focus**
+
+* Publish content + usage assumptions.
+* Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
+* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
 
 ---
 
