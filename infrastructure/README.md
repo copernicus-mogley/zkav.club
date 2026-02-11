@@ -72,8 +72,7 @@ Zcash is the starting point. Over time, this hub will expand to include:
 * Additional community media implementations (beyond PeerTube)
 * Publishing playbooks and templates
 * Indexing + metadata guidelines
-* Support offerings for event recording pipelines
-  n
+* Support offerings for event recording pipelines 
 
 ---
 
