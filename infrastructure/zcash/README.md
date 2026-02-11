@@ -6,7 +6,7 @@ Privacy note: today, if someone wants to watch a Zcon video, they generally have
 
 **Owner:** Zk Av Club (Lead Organizer)
 
-**Status:** Published (initial release 2026-01-28; updates in progress)
+**Status:** Published (living document; initial release 2026-01-28)
 
 **Last updated:** 2026-02-11
 
@@ -26,6 +26,8 @@ Note: This is a living document. [Phase 5 tracking](#mvp-tracking-milestone-3) r
 ## Current status (quick view)
 
 See Phase 5 for the full tracker.
+
+Next up: publish content + usage assumptions by 2026-02-28, then provision the domain/VPS and begin install.
 
 Current status last updated: 2026-02-11 (matches Phase 5 tracker).
 
@@ -270,14 +272,14 @@ Targets are best-effort. If a target slips, update the row with a new date and a
 
 Last tracker update: 2026-02-11
 
-When marking an item Done, add a link to evidence in Notes (e.g., invoice/receipt, screenshot, config snippet, or a dated entry on the reports page).
+When marking an item Done, add a short note (and optionally a link) in Notes.
 
 | Area       | Item                                                                 | Owner                              | Target date | Status      | Notes / links                                                                                                  |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
 | Docs       | Moderation policy published                                          | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation) |
 | Docs       | How we publish published                                             | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing) |
 | Docs       | Monthly reports & sustainability notes published                     | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)       |
-| Planning   | Publish content + usage assumptions                                  | Zk Av Club admins                  | 2026-02-28  | Not started | (Will be added to Section 3)                                                                                   |
+| Planning   | Publish content + usage assumptions                                  | Zk Av Club admins                  | 2026-02-28  | Not started | Publish on hub Section 3 + link here when live                                                                 |
 | Infra      | Instance publicly reachable over HTTPS                               | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
 | Access     | Registration mode set to invite-only                                 | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
 | Roles      | Roles assigned (admins + moderators) and tested                      | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
@@ -357,11 +359,7 @@ If ops is stable post-MVP, publish:
 * By Jan 31, 2026: publish this plan (Milestone 1).
 * By Mar 31, 2026: PeerTube MVP live, or publish deferral plan with reasons + new date (Milestone 3).
 
-Suggested work plan:
-
-* Feb 1–15: provision + install + basic configuration
-* Feb 16–28: harden + pilot workflow + draft workflow docs
-* Mar 1–15: seed uploads + federation posture + monitoring/backup verified
+See Phase 5 tracker for current targets; dates there are authoritative.
 
 ---
 
