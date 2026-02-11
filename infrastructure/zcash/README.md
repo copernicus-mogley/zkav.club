@@ -41,13 +41,21 @@ Quick links:
 * How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
 * Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
 
+Jump to:
+
+* [Phase 5 tracker](#mvp-tracking-milestone-3)
+* [Assumptions (Section 3)](#content--usage-assumptions-planned)
+* [Channel governance (Phase 1)](#initial-channel-taxonomy-mvp)
+* [Provisioning checklist (Phase 2)](#phase-2--provision--install)
+* [Operational logs (Phase 6)](#operational-logs-mvp-stubs)
+
 ---
 
 ## 0) Context and deliverable
 
-This plan covers the workstream to deploy and operate a Zcash-focused PeerTube instance, with clear moderation and sustainability notes.
+This page is the canonical tracker for deploying and operating a Zcash-focused PeerTube instance with clear moderation, publishing workflow, and sustainability reporting.
 
-**Milestone 1 deliverable:** publish this plan publicly (scope, hosting approach, moderation baseline, sustainability notes).
+Milestone 1 deliverable: publish this plan publicly (scope, hosting approach, moderation baseline, sustainability notes).
 
 ---
 
@@ -138,44 +146,23 @@ Privacy note: prioritize operational choices that keep viewing simple and privat
 
 ---
 
-## 4) Moderation baseline (publish this as policy)
+## 4) Moderation and safety (summary)
 
-### Roles and access
+This section is a short operational summary. The full public policy lives here:
 
-* Use built-in roles: Administrator, Moderator, User.
-* MVP structure:
+* Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
 
-  * 1–2 admins (infrastructure + policy)
-  * 2+ moderators (content + reports)
+MVP summary:
 
-### Reporting and takedowns
-
-* Accept and process user reports via PeerTube’s reporting tools.
-* Privacy note: reports may include sensitive information. Keep report handling limited to moderators/admins, and avoid publishing personally identifying details when documenting outcomes.
-* Response targets (MVP):
-
-  * Illegal/urgent: same day
-  * Other reports: 72 hours
-
-### Upload gating
-
-* Enable approval-first / auto-block for new uploads when upload access is broader than admins.
-
-### Federation moderation
-
-* Publish what you will block (hate/harassment instances, spam, etc.).
-* Maintain a simple federation log (date + action + reason).
-
-### Documentation outputs
-
-* Public: Moderation policy — [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
-* Public: How we publish — [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
-* Public: Monthly reports & sustainability notes — [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
-* Internal: moderator runbook (reports, escalations, unfederation)
+* Roles: admins (instance policy + infra) and moderators (reports + enforcement).
+* Reporting targets: illegal/urgent same day; other reports within 72 hours.
+* Upload gating: approval-first for non-admin uploads.
+* Federation: curated posture with actions logged.
+* Privacy posture: handle reports as sensitive; avoid publishing personal identifiers.
 
 ---
 
-## 5) Deployment plan (build → launch → operate)
+## 5) Deployment plan (build → launch → operate) (build → launch → operate)
 
 ### Phase 1 — Research & design (publishable outputs)
 
@@ -247,20 +234,16 @@ Notes:
 
 ### Phase 4 — Pilot publishing workflow
 
-#### Publishing workflow outline (MVP)
+This section is a short operational summary. The full public workflow lives here:
 
-* Intake: who requests publication, where requests are tracked, and who owns the upload.
-* Upload: uploader posts video to the correct channel, sets visibility to unlisted, and triggers transcoding.
-* Metadata minimums (required): title, date/event, speaker/participants (if applicable), description, tags, language, license, and (if used) captions/subtitles.
-* Review (if applicable): moderator/admin checks for policy compliance + basic quality (audio intelligibility, correct channel, obvious problems).
-* Publish: after approval, set visibility to public, confirm page looks correct, and add to any featured collections/playlists.
-* Post-publish: log the link in monthly reporting and note any follow-ups (captioning, edits, takedown requests).
+* How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
 
-#### Pilot tasks
+Pilot tasks (MVP):
 
-* Upload 5–10 test videos
-* Validate: playback, metadata conventions, captions flow (if used), federation behavior
-* Produce the public “How we publish” workflow doc from the outline above
+* Upload 5–10 test videos (unlisted)
+* Validate playback, metadata conventions, captions flow (if used), and federation behavior
+* Run the review/approval flow end-to-end
+* Publish at least one video to confirm the public path and logging into monthly reports
 
 ### Phase 5 — MVP launch
 
