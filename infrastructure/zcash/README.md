@@ -88,12 +88,12 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 ### B) Install method (DECISION)
 
 * Decision (MVP): Docker Compose on the VPS.
-* **Rationale:** repeatable deployment, easier upgrades/rollbacks, easier to document for replication.
+* Rationale: repeatable deployment, easier upgrades/rollbacks, easier to document for replication.
 
 ### C) Federation posture (DECISION)
 
 * Decision (MVP): Curated federation (explicit allow/block policy).
-* **Rationale:** reduces moderation surprise-load during launch; easier to explain publicly.
+* Rationale: reduces moderation surprise-load during launch; easier to explain publicly.
 
 ### D) Accounts, uploads, and review (DECISION)
 
@@ -251,7 +251,7 @@ Notes:
 
 ### Phase 5 — MVP launch
 
-Milestone 3 is complete when the following are true:
+Milestone 3 exit criteria: Milestone 3 is complete when all rows in the Phase 5 tracker are marked Done (or Deferred with a brief rationale and a new target date in Notes).
 
 #### MVP tracking (Milestone 3)
 
@@ -259,28 +259,47 @@ Update this block as work progresses. Status values: Not started / In progress /
 
 Update cadence: weekly (or after major milestones). If the tracker isn’t updated for more than 7 days, treat statuses as stale.
 
+Targets are best-effort. If a target slips, update the row with a new date and a brief rationale in Notes.
+
 Last tracker update: 2026-02-11
 
 | Area       | Item                                                                 | Owner                              | Target date | Status      | Notes / links                                                                                                  |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
-| Access     | Registration mode set to invite-only                                 | Zk Av Club admins                  | 2026-02-28  | Not started |                                                                                                                |
-| Roles      | Roles assigned (admins + moderators) and tested                      | Zk Av Club admins                  | 2026-02-28  | Not started |                                                                                                                |
-| Infra      | Instance publicly reachable over HTTPS                               | Zk Av Club admins                  | 2026-02-28  | Not started |                                                                                                                |
-| Docs       | Moderation policy published                                          | Zk Av Club                         | 2026-02-28  | Done        | [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation) |
-| Docs       | How we publish published                                             | Zk Av Club                         | 2026-02-28  | Done        | [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing) |
-| Docs       | Monthly reports & sustainability notes published                     | Zk Av Club                         | 2026-02-28  | Done        | [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)       |
-| Uploads    | Upload permissions configured (trusted uploader list, per-channel)   | Zk Av Club admins + channel owners | 2026-03-07  | Not started |                                                                                                                |
-| Workflow   | Review/approval workflow works end-to-end                            | Zk Av Club admins + moderators     | 2026-03-07  | Not started |                                                                                                                |
-| Infra      | Monitoring enabled (uptime + CPU + disk) with basic alerts           | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
-| Infra      | Backups configured and restore test performed                        | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
-| Federation | Curated federation posture implemented (allow/block; changes logged) | Zk Av Club admins + moderators     | 2026-03-14  | Not started |                                                                                                                |
-| Content    | Seed set published (≥10 videos) with required metadata               | Zk Av Club admins + channel owners | 2026-03-21  | Not started |                                                                                                                |
+| Docs       | Moderation policy published                                          | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation) |
+| Docs       | How we publish published                                             | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing) |
+| Docs       | Monthly reports & sustainability notes published                     | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)       |
+| Planning   | Publish content + usage assumptions                                  | Zk Av Club admins                  | 2026-02-28  | Not started | (Will be added to Section 3)                                                                                   |
+| Infra      | Instance publicly reachable over HTTPS                               | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
+| Access     | Registration mode set to invite-only                                 | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
+| Roles      | Roles assigned (admins + moderators) and tested                      | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
+| Uploads    | Upload permissions configured (trusted uploader list, per-channel)   | Zk Av Club admins + channel owners | 2026-03-14  | Not started |                                                                                                                |
+| Workflow   | Review/approval workflow works end-to-end                            | Zk Av Club admins + moderators     | 2026-03-14  | Not started |                                                                                                                |
+| Infra      | Monitoring enabled (uptime + CPU + disk) with basic alerts           | Zk Av Club admins                  | 2026-03-14  | Not started |                                                                                                                |
+| Infra      | Backups configured and restore test performed                        | Zk Av Club admins                  | 2026-03-14  | Not started |                                                                                                                |
+| Federation | Curated federation posture implemented (allow/block; changes logged) | Zk Av Club admins + moderators     | 2026-03-21  | Not started |                                                                                                                |
+| Content    | Seed set published (≥10 videos) with required metadata               | Zk Av Club admins + channel owners | 2026-03-28  | Not started |                                                                                                                |
 
 Milestone 3 is complete when all non-doc items above are marked Done (or explicitly deferred with rationale).
 
 ### Phase 6 — Operate & iterate (monthly)
 
 Monthly reports will be maintained as one rolling page at [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports).
+
+#### Operational logs (MVP stubs)
+
+These logs support accountability for curated federation and per-channel uploader access during MVP.
+
+Uploader access log (MVP)
+
+| Date | Channel | Change | Requested by (channel owner) | Executed by (admin) | Notes |
+| ---- | ------- | ------ | ---------------------------- | ------------------- | ----- |
+|      |         |        |                              |                     |       |
+
+Federation log (MVP)
+
+| Date | Instance | Action (allow/block/unfollow) | Reason | Decided by | Notes |
+| ---- | -------- | ----------------------------- | ------ | ---------- | ----- |
+|      |          |                               |        |            |       |
 
 Grant-aligned reporting metrics:
 
