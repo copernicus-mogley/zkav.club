@@ -1,4 +1,4 @@
-# Monthly Reports and Sustainability Notes (rolling page) — v0.2
+# Monthly Reports and Sustainability Notes (rolling page) — v0.1
 
 ## Purpose
 
