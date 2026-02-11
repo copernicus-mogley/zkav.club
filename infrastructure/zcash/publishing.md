@@ -16,11 +16,11 @@ Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https
 
 ## Channels and ownership (MVP)
 
-* **Zcash Foundation — Zcon (historic + new):** channel owner is Zcash Foundation.
+* **Zcash Foundation — Zcon (historic + new):** channel owner is [Zcash Foundation](https://zfnd.org/).
 
   * During MVP, Zk Av Club admins upload and manage metadata for historic Zcon videos in coordination with Zcash Foundation.
 
-* **ZecHub:** channel owner is ZecHub.
+* **ZecHub:** channel owner is [ZecHub](https://zechub.wiki/).
 
   * During MVP, this channel holds ZecHub programming (and other approved ecosystem content unless/until additional channels are created late MVP).
   * “Other approved ecosystem content” is approved to publish by the ZecHub channel owner; admins can block/unlist content for policy or safety reasons.
