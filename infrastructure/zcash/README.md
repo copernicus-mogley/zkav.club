@@ -124,7 +124,7 @@ Start above "minimums" if transcoding will run on-instance. Plan for growth in C
 
 ### Federation moderation
 
-* Publish what you will block (hate/harassment instances, spam, etc.).
+* Publish what will blocked (hate/harassment instances, spam, etc.).
 * Maintain a simple federation log (date + action + reason).
 
 ### Documentation outputs

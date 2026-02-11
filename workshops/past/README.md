@@ -2,9 +2,13 @@
 
 Workshops are the “spore layer.” They spread. They localize. They grow.
 
+* Dec 18 — Intro to Kdenlive 
+
+  * Replay: [https://youtu.be/0fw8J0Xo-Sk](https://youtu.be/0fw8J0Xo-Sk)
+
 * Nov 14 — Editing for everyone: Shotcut (ES)
 
-  * Replay: [https://www.youtube.com/live/eDn-PiqO_gM](https://www.youtube.com/live/eDn-PiqO_gM)
+  * Replay: [https://youtu.be/eDn-PiqO_gM](https://www.youtube.com/live/eDn-PiqO_gM)
 
 * Oct 28 — OpenToonz Workshop (ES)
 
@@ -12,19 +16,19 @@ Workshops are the “spore layer.” They spread. They localize. They grow.
 
 * Oct 14 — Introduction to Livestream Production
 
-  * Replay: [https://www.youtube.com/live/ZQ40ZZOgxTc](https://www.youtube.com/live/ZQ40ZZOgxTc)
+  * Replay: [https://youtu.be/ZQ40ZZOgxTc](https://www.youtube.com/live/ZQ40ZZOgxTc)
 
 * Oct 9 — Dark Prague Recording Station recap (Zk Av Club Foundry)
 
-  * Replay: [https://youtube.com/live/sRfza3H3uXA](https://youtube.com/live/sRfza3H3uXA)
+  * Replay: [https://youtu.be/sRfza3H3uXA](https://youtube.com/live/sRfza3H3uXA)
 
 * Sep 30 — Speech-to-Text workshop
 
-  * Replay: [https://www.youtube.com/watch?v=LccHT7tXiu4](https://www.youtube.com/watch?v=LccHT7tXiu4)
+  * Replay: [https://youtu.be/LccHT7tXiu4](https://www.youtube.com/watch?v=LccHT7tXiu4)
 
 * Sep 22 — Edit your first video with Kdenlive (ES)
 
-  * Replay: [https://www.youtube.com/live/iQmI3cRj6Do](https://www.youtube.com/live/iQmI3cRj6Do)
+  * Replay: [https://youtu.be/iQmI3cRj6Do](https://youtu.be/iQmI3cRj6Do)
 
 * Sep 19 — Privacy-first calls & workshops (Zk Av Club Foundry)
 
