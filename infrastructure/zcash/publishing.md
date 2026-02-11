@@ -8,6 +8,8 @@ Project hub: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club
 
 Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
 
+Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+
 ## Who publishes here (MVP)
 
 * Accounts are invite-only.
@@ -22,7 +24,7 @@ Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https
 
 * **ZecHub:** channel owner is [ZecHub](https://zechub.wiki/).
 
-  * During MVP, this channel holds ZecHub programming (and other approved ecosystem content unless/until additional channels are created late MVP).
+  * This channel holds ZecHub programming during MVP (and other approved ecosystem content unless/until additional channels are created late MVP).
   * “Other approved ecosystem content” is approved to publish by the ZecHub channel owner; admins can block/unlist content for policy or safety reasons.
 
 ## Request to publish (how videos get in line)
@@ -58,18 +60,18 @@ The uploader:
 
 Required fields (with quick examples):
 
-| Field                | What to include             | Example (Zcon talk)                      | Example (ecosystem update)                    |
-| -------------------- | --------------------------- | ---------------------------------------- | --------------------------------------------- |
-| Title                | Clear, specific title       | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
-| Date/event           | Date + event name (if any)  | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
-| Speaker/participants | Names/handles if applicable | “Speaker: ___”                           | “Hosts: ___”                                  |
-| Description          | 2–5 sentences + key links   | “Overview + agenda + slides link”        | “What changed this week + links”              |
-| Tags                 | 3–8 useful tags             | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
-| Language             | Primary language            | “en”                                     | “en”                                          |
-| License              | How it may be reused        | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
+| Field                | What to include                            | Example (Zcon talk)                      | Example (ecosystem update)                    |
+| -------------------- | ------------------------------------------ | ---------------------------------------- | --------------------------------------------- |
+| Title                | Clear, specific title                      | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
+| Date/event           | Date + event name (if any)                 | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
+| Speaker/participants | Names/handles if applicable                | “Speaker: ___”                           | “Hosts: ___”                                  |
+| Description          | 2–5 sentences + key links                  | “Overview + agenda + slides link”        | “What changed this week + links”              |
+| Tags                 | 3–8 useful tags                            | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
+| Language             | Primary language                           | “en”                                     | “en”                                          |
+| License              | How it may be reused                       | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
+| Captions/subtitles   | Attach if available; otherwise note status | “Captions: coming soon”                  | “Captions: not available yet”                 |
 
 License note (MVP): the channel owner decides the license. If the license is unclear, keep the video unlisted until the channel owner confirms.
-| Captions/subtitles | Attach if available; otherwise note status | “Captions: coming soon” | “Captions: not available yet” |
 
 ## Naming conventions (recommended)
 
