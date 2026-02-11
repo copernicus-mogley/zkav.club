@@ -1,14 +1,21 @@
 # PeerTube for Zcash: Decision + Implementation Plan (v1)
 
-**Executive summary:** Zk Av Club will deploy and operate a Zcash-focused PeerTube instance as a durable, community-run home for Zcash ecosystem video. This Milestone 1 document defines the MVP scope, hosting/deployment approach, federation posture, moderation baseline, and sustainability triggers needed to publish the plan by Jan 31, 2026. The MVP will run on a single VPS (local storage) using Docker Compose, with invite-only accounts, a trusted uploader list, and approval-first review for non-admin uploads. By Mar 31, 2026, the goal is a live MVP with backups + monitoring verified, curated federation implemented, seed content published, and the public "How we publish" + moderation policy posted.
+**Executive summary (for publication):** Zk Av Club will deploy and operate a Zcash-focused PeerTube instance as a durable, community-run home for Zcash ecosystem video. This Milestone 1 document defines the MVP scope, hosting/deployment approach, federation posture, moderation baseline, and sustainability triggers needed to publish the plan by Jan 31, 2026. The MVP will run on a single VPS (local storage) using Docker Compose, with invite-only accounts, a trusted uploader list, and approval-first review for non-admin uploads. By Mar 31, 2026, the goal is a live MVP with backups + monitoring verified, curated federation implemented, seed content published, and the public “How we publish” + moderation policy posted.
 
 **Owner:** Zk Av Club (Lead Organizer)
 
-**Status:** Published
+**Status:** Published (initial release 2026-01-28; updates in progress)
 
 **Last updated:** 2026-02-11
 
-**Intended publication location:** Grant public reporting (e.g., ZcashCommunityGrants issue / repo) and/or zkav.club
+**Publication location:** [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+
+**Project home:** This page is the main source of information for tracking the Zcash PeerTube project under Zk Av Club’s Community Media Infrastructure + Support service: [https://www.zkav.club/infrastructure](https://www.zkav.club/infrastructure)
+
+## Change log
+
+* 2026-01-28: Published initial version.
+* 2026-02-11: Began updates (governance/channel ownership clarified; publication metadata updated).
 
 ---
 
@@ -24,7 +31,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 
 ### Goals (what success looks like)
 
-1. A stable PeerTube "home" for Zcash ecosystem videos that reduces dependence on centralized platforms.
+1. A stable PeerTube “home” for Zcash ecosystem videos that reduces dependence on centralized platforms.
 2. A repeatable publishing workflow aligned with PeerTube’s capabilities and a clear internal publication process.
 3. Clear moderation + governance baseline that is easy to explain and enforce.
 4. Sustainability notes (costs, bandwidth, admin hours, scaling assumptions) tracked monthly.
@@ -39,7 +46,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 
 ### Non-goals (Phase 1)
 
-* "Open upload for everyone on the internet" on day one.
+* “Open upload for everyone on the internet” on day one.
 * Complex multi-tenant architecture.
 * Custom plugin development (unless clearly required later).
 
@@ -74,9 +81,9 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 * Who can upload (MVP): Trusted uploader list (admins + explicitly approved accounts).
 * Review model (MVP): Approval-first for non-admin uploads (auto-block/unlisted until approved).
 
-### E) What "published" means (DECISION)
+### E) What “published” means (DECISION)
 
-* Decision (MVP): a video is "published" when it is public, has required metadata, and has passed any required review.
+* Decision (MVP): a video is “published” when it is public, has required metadata, and has passed any required review.
 
 ---
 
@@ -84,7 +91,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 
 ### Content + usage assumptions (planned)
 
-We will publish initial content and usage assumptions in early February 2026, covering:
+We will publish initial content and usage assumptions in February 2026 (in progress), covering:
 
 * Expected library size in the first 3 months (uploads, average file size)
 * Expected peak viewing patterns (e.g., launch week, event drops)
@@ -96,7 +103,7 @@ These assumptions will be used to validate the capacity baseline and to set/adju
 
 ### Capacity baseline
 
-Start above "minimums" if transcoding will run on-instance. Plan for growth in CPU, storage, and upload bandwidth.
+Start above “minimums” if transcoding will run on-instance. Plan for growth in CPU, storage, and upload bandwidth.
 
 ---
 
@@ -124,7 +131,7 @@ Start above "minimums" if transcoding will run on-instance. Plan for growth in C
 
 ### Federation moderation
 
-* Publish what will blocked (hate/harassment instances, spam, etc.).
+* Publish what you will block (hate/harassment instances, spam, etc.).
 * Maintain a simple federation log (date + action + reason).
 
 ### Documentation outputs
@@ -186,7 +193,10 @@ PeerTube install
 ### Phase 3 — Configure + harden
 
 * Registration mode: invite-only
-* Default video visibility
+* Default video visibility: unlisted until approved (then set to public)
+* Transcoding settings (start conservative)
+* Federation allow/block approach implemented
+* Abuse/report workflow tested end-to-end
 * Transcoding settings (start conservative)
 * Federation allow/block approach implemented
 * Abuse/report workflow tested end-to-end
@@ -196,17 +206,17 @@ PeerTube install
 #### Publishing workflow outline (MVP)
 
 * Intake: who requests publication, where requests are tracked, and who owns the upload.
-* Upload: uploader posts video to the correct channel, sets visibility (initially unlisted if review is required), and triggers transcoding.
+* Upload: uploader posts video to the correct channel, sets visibility to unlisted, and triggers transcoding.
 * Metadata minimums (required): title, date/event, speaker/participants (if applicable), description, tags, language, license, and (if used) captions/subtitles.
 * Review (if applicable): moderator/admin checks for policy compliance + basic quality (audio intelligibility, correct channel, obvious problems).
-* Publish: set visibility to public, confirm page looks correct, and add to any featured collections/playlists.
+* Publish: after approval, set visibility to public, confirm page looks correct, and add to any featured collections/playlists.
 * **Post-publish:** log the link in monthly reporting and note any follow-ups (captioning, edits, takedown requests).
 
 #### Pilot tasks
 
 * Upload 5–10 test videos
 * Validate: playback, metadata conventions, captions flow (if used), federation behavior
-* Produce the public "How we publish" workflow doc from the outline above
+* Produce the public “How we publish” workflow doc from the outline above
 
 ### Phase 5 — MVP launch
 
@@ -273,7 +283,7 @@ If ops is stable post-MVP, publish:
 * By Jan 31, 2026: publish this plan (Milestone 1).
 * By Mar 31, 2026: PeerTube MVP live, or publish deferral plan with reasons + new date (Milestone 3).
 
-Expected work plan:
+Suggested work plan:
 
 * Feb 1–15: provision + install + basic configuration
 * Feb 16–28: harden + pilot workflow + draft workflow docs
@@ -283,7 +293,7 @@ Expected work plan:
 
 ## 8) Definition of done (Milestone 1)
 
-This artifact is "done" when it includes:
+This artifact is “done” when it includes:
 
 * Scope statement (what MVP is / isn’t)
 * Hosting decision + rationale
