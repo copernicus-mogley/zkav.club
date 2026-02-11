@@ -4,6 +4,10 @@
 
 This page explains how videos are prepared, uploaded, reviewed, and published on the Zcash PeerTube instance.
 
+Project hub: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+
+Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+
 ## Who publishes here (MVP)
 
 * Accounts are invite-only.
@@ -39,6 +43,8 @@ A publish request should include (plain-language minimums):
 
 If you’re wondering why this exists at all: it prevents videos from being uploaded “randomly” without context, and it helps channel owners stay in control of what appears on their channel.
 
+Right now, publish requests are coordinated directly between the channel owner and Zk Av Club admins (a shared request form/link may be added later).
+
 ## Upload
 
 The uploader:
@@ -52,16 +58,25 @@ The uploader:
 
 Required fields (with quick examples):
 
-| Field                | What to include                            | Example (Zcon talk)                      | Example (ecosystem update)                    |
-| -------------------- | ------------------------------------------ | ---------------------------------------- | --------------------------------------------- |
-| Title                | Clear, specific title                      | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
-| Date/event           | Date + event name (if any)                 | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
-| Speaker/participants | Names/handles if applicable                | “Speaker: ___”                           | “Hosts: ___”                                  |
-| Description          | 2–5 sentences + key links                  | “Overview + agenda + slides link”        | “What changed this week + links”              |
-| Tags                 | 3–8 useful tags                            | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
-| Language             | Primary language                           | “en”                                     | “en”                                          |
-| License              | How it may be reused                       | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
-| Captions/subtitles   | Attach if available; otherwise note status | “Captions: coming soon”                  | “Captions: not available yet”                 |
+| Field                | What to include             | Example (Zcon talk)                      | Example (ecosystem update)                    |
+| -------------------- | --------------------------- | ---------------------------------------- | --------------------------------------------- |
+| Title                | Clear, specific title       | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
+| Date/event           | Date + event name (if any)  | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
+| Speaker/participants | Names/handles if applicable | “Speaker: ___”                           | “Hosts: ___”                                  |
+| Description          | 2–5 sentences + key links   | “Overview + agenda + slides link”        | “What changed this week + links”              |
+| Tags                 | 3–8 useful tags             | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
+| Language             | Primary language            | “en”                                     | “en”                                          |
+| License              | How it may be reused        | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
+
+License note (MVP): the channel owner decides the license. If the license is unclear, keep the video unlisted until the channel owner confirms.
+| Captions/subtitles | Attach if available; otherwise note status | “Captions: coming soon” | “Captions: not available yet” |
+
+## Naming conventions (recommended)
+
+Use consistent titles so videos are easy to find:
+
+* Talks: `Event: Talk title — Speaker`
+* Updates: `Zcash Ecosystem Update — Week of YYYY-MM-DD`
 
 ## Review (MVP)
 
@@ -119,3 +134,7 @@ If a published video needs updates, here’s how we handle it:
    * Used for substantive edits (content removals, sensitive material, rights/consent issues)
    * Requires coordination between the channel owner and admins
    * When possible, we note what changed and why (without exposing personal information)
+
+## Change log
+
+* 2026-02-11: Published/updated v0.1 with plain-language workflow, approval checklist, metadata examples, and privacy/embeds guidance.
