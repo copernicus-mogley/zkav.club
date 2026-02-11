@@ -25,7 +25,7 @@ Rule of thumb:
 * If it moved the project toward “instance live,” it belongs in the report (decisions, procurement, setup progress, tests, blockers).
 * Runtime metrics that don’t exist yet should be marked **N/A (pre-launch)**.
 
-Source of truth for status is the Phase 5 tracker on the hub page; the monthly report captures *what changed this month and why*.
+Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3) on the hub page; the monthly report captures *what changed this month and why*.
 
 ## Table of contents
 
