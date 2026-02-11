@@ -18,7 +18,7 @@ We help communities stand up and operate publishing destinations that people can
 
 ### 2) Content stewardship
 
-Publishing is the start, not the finish. We also support the ongoing work that keeps media usable:
+Publishing is the start. We also support the ongoing work that keeps media usable:
 
 * Indexing and metadata 
 * Rights + consent hygiene 
