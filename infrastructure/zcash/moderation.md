@@ -4,6 +4,12 @@
 
 This PeerTube instance exists to publish and steward Zcash ecosystem video in a way that supports long-term community access and responsible operations.
 
+Related docs:
+
+* How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+* Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+* Project hub: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+
 ## Who this policy applies to
 
 * Anyone viewing content on the instance
@@ -57,6 +63,7 @@ Definitions (MVP):
 * Viewers can report videos/accounts via PeerTube’s reporting tools.
 * Include as much detail as possible (timestamps, description of issue).
 * Privacy note: reports may include sensitive information. Access is limited to moderators/admins, and we avoid publishing personally identifying details when documenting outcomes.
+* We do not publish moderator notes or report details publicly, except in aggregate.
 
 ## Response targets (MVP)
 
@@ -75,7 +82,7 @@ Depending on severity and context, actions may include:
 
 ## Appeals
 
-* Users may appeal moderation decisions via the instance’s published contact method (to be added).
+* Users may appeal moderation decisions via the instance contact method once the instance is live (we will link it here when available).
 * Appeals should include the link, a description, and the requested remedy.
 
 ## Special cases
@@ -86,7 +93,7 @@ The following categories may be handled with faster or more restrictive actions 
 * Credible safety threats: may be unlisted immediately and escalated to admins.
 * Impersonation: may require verification or removal of misleading identifiers.
 * Copyright or rights disputes: content may be unlisted while we assess the request and available evidence.
-* Disputes with channel owners: moderators handle routine cases; admins are the final escalation authority.
+* Disputes with channel owners: moderators handle routine cases. If a channel owner wants content public but moderators flag it, the video remains unlisted until resolved; admins are the final escalation authority.
 
 ## Federation policy (MVP)
 
