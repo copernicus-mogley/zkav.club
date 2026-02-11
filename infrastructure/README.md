@@ -4,8 +4,6 @@
 
 Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way that aligns with their needs and values.
 
----
-
 ## What we provide
 
 ### 1) Publishing systems
@@ -24,7 +22,6 @@ Publishing is the start, not the finish. We also support the ongoing work that k
 * Rights + consent hygiene 
 * Versioning + updates 
 
----
 
 ## Why decentralized media?
 
@@ -38,7 +35,6 @@ We focus on approaches that support:
 
 PeerTube is a strong fit for many communities, but not the only one. Our job is to help each community choose a path that matches their values and constraints—and then make it operational.
 
----
 
 ## Current implementation
 
@@ -52,7 +48,6 @@ If you’re looking for Zcash-related recordings—especially conference history
 
 (That page includes the PeerTube decision, rollout plan, and how publishing will work.)
 
----
 
 ## What you can expect from Zk Av Club
 
@@ -63,7 +58,6 @@ If we say we’re supporting a community’s media infrastructure, it means we c
 * A steady path toward better accessibility 
 * Transparent scope: what we do, what we don’t, and how requests get handled 
 
----
 
 ## Roadmap
 
