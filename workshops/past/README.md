@@ -2,7 +2,7 @@
 
 Workshops are the “spore layer.” They spread. They localize. They grow.
 
-* Dec 18 — Intro to Kdenlive 
+* Dec 18 — Introduction to Kdenlive by Teddy 
 
   * Replay: [https://youtu.be/0fw8J0Xo-Sk](https://youtu.be/0fw8J0Xo-Sk)
 
