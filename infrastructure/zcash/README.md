@@ -17,6 +17,26 @@
 * 2026-01-28: Published initial version.
 * 2026-02-11: Began updates (governance/channel ownership clarified; publication metadata updated).
 
+Note: This is a living document. Phase 5 tracking reflects current progress toward the MVP.
+
+## Current status (quick view)
+
+See Phase 5 for the full tracker.
+
+* Public docs: Done (moderation, publishing, reports)
+* Instance online (HTTPS): Not started
+* Registration + roles: Not started
+* Upload permissions + review workflow: Not started
+* Backups + monitoring: Not started
+* Curated federation posture: Not started
+* Seed content (≥10 videos): Not started
+
+Quick links:
+
+* Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+* How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+* Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+
 ---
 
 ## 0) Context and deliverable
@@ -57,13 +77,13 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 ### 0) Instance identity (DECIDED)
 
 * Decision: this will be a PeerTube instance for Zcash.
-* **Implications:** branding, channel taxonomy, moderation policy scope, and seed content are Zcash-ecosystem focused.
+* Implications: branding, channel taxonomy, moderation policy scope, and seed content are Zcash-ecosystem focused.
 
 ### A) Hosting approach (DECISION)
 
 * Decision (MVP): Option 1 — Single VPS with local storage.
-* **Rationale:** fastest path to a stable MVP; easiest to operate while learning real usage patterns.
-* **Migration posture:** structure storage + backups so media can move to object storage later if needed.
+* Rationale: fastest path to a stable MVP; easiest to operate while learning real usage patterns.
+* Migration posture: structure storage + backups so media can move to object storage later if needed.
 
 ### B) Install method (DECISION)
 
@@ -91,7 +111,9 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 
 ### Content + usage assumptions (planned)
 
-We will publish initial content and usage assumptions in February 2026 (in progress), covering:
+We will publish initial content and usage assumptions in February 2026 (in progress). Target publish date: 2026-02-28.
+
+Assumptions will cover:
 
 * Expected library size in the first 3 months (uploads, average file size)
 * Expected peak viewing patterns (e.g., launch week, event drops)
@@ -188,7 +210,7 @@ Notes:
 
 ### Phase 2 — Provision & install
 
-Infrastructure checklist
+#### Infrastructure checklist
 
 * Domain + DNS
 * TLS (HTTPS)
@@ -197,7 +219,7 @@ Infrastructure checklist
 * Monitoring (uptime + disk + CPU)
 * Update cadence
 
-PeerTube install
+#### PeerTube install
 
 * Deploy via Docker Compose
 * Configure instance settings via admin UI (ensure config is tracked)
@@ -219,7 +241,7 @@ PeerTube install
 * Metadata minimums (required): title, date/event, speaker/participants (if applicable), description, tags, language, license, and (if used) captions/subtitles.
 * Review (if applicable): moderator/admin checks for policy compliance + basic quality (audio intelligibility, correct channel, obvious problems).
 * Publish: after approval, set visibility to public, confirm page looks correct, and add to any featured collections/playlists.
-* **Post-publish:** log the link in monthly reporting and note any follow-ups (captioning, edits, takedown requests).
+* Post-publish: log the link in monthly reporting and note any follow-ups (captioning, edits, takedown requests).
 
 #### Pilot tasks
 
@@ -234,6 +256,10 @@ Milestone 3 is complete when the following are true:
 #### MVP tracking (Milestone 3)
 
 Update this block as work progresses. Status values: Not started / In progress / Done / Blocked.
+
+Update cadence: weekly (or after major milestones). If the tracker isn’t updated for more than 7 days, treat statuses as stale.
+
+Last tracker update: 2026-02-11
 
 | Area       | Item                                                                 | Owner                              | Target date | Status      | Notes / links                                                                                                  |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
@@ -253,6 +279,8 @@ Update this block as work progresses. Status values: Not started / In progress /
 Milestone 3 is complete when all non-doc items above are marked Done (or explicitly deferred with rationale).
 
 ### Phase 6 — Operate & iterate (monthly)
+
+Monthly reports will be maintained as one rolling page at [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports).
 
 Grant-aligned reporting metrics:
 
@@ -293,8 +321,6 @@ If ops is stable post-MVP, publish:
 * Replication guide (install + config + moderation defaults)
 * Minimal instance checklist for sister instances
 
----
-
 ## 7) Timeline aligned to grant milestones
 
 * By Jan 31, 2026: publish this plan (Milestone 1).
@@ -308,13 +334,19 @@ Suggested work plan:
 
 ---
 
-## 8) Definition of done (Milestone 1)
+## 8) Milestone 1 completion record
 
-This artifact is “done” when it includes:
+Milestone 1 is complete when the plan includes the items below. This section is kept as a record for grant tracking.
+
+**Milestone 1 completion date:** 2026-01-28
+
+**Milestone 1 artifact (published):** [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+
+Checklist (Milestone 1):
 
 * Scope statement (what MVP is / isn’t)
 * Hosting decision + rationale
 * Install method
 * Moderation baseline (roles, reports, approval-first, federation posture)
 * Sustainability notes + monthly reporting plan
-* Timeline to MVP through Mar 31, 2026.
+* Timeline to MVP through Mar 31, 2026
