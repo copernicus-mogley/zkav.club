@@ -6,101 +6,117 @@ This page explains how videos are prepared, uploaded, reviewed, and published on
 
 ## Who publishes here (MVP)
 
-* Accounts are invite-only. 
-
-* Uploads are limited to a trusted uploader list. 
-
+* Accounts are invite-only.
+* Uploads are limited to a trusted uploader list (people the channel owner and admins have approved to upload).
 * Channel owners coordinate what gets published in their channels.
 
 ## Channels and ownership (MVP)
 
 * **Zcash Foundation — Zcon (historic + new):** channel owner is Zcash Foundation.
 
-  * During MVP, Zk Av Club admins upload and manage metadata for historic Zcon videos in coordination with Zcash Foundation. 
-  
-* **ZecHub:** channel owner is ZecHub.
+  * During MVP, Zk Av Club admins upload and manage metadata for historic Zcon videos in coordination with Zcash Foundation.
+
+* * **ZecHub:** channel owner is ZecHub.
 
   * During MVP, this channel holds ZecHub programming (and other approved ecosystem content unless/until additional channels are created late MVP).
 
-## Intake
+  * “Other approved ecosystem content” is approved to publish by the ZecHub channel owner; admins can block/unlist content for policy or safety reasons.
 
-A video enters the pipeline via one of:
+## Request to publish (how videos get in line)
 
-* A channel owner request (planned batch, event drop, etc.) 
+“Request to publish” just means: someone tells us *which video should be posted, where it should live, and what it’s called*.
 
-* An uploader request (if they are on the trusted uploader list)
+A publish request can come from:
 
-Intake requests should specify:
+* The channel owner (e.g., “Please publish this batch of Zcon videos”)
+* A trusted uploader (someone the channel owner and admins have approved to upload to that channel)
 
-* Which channel 
+A publish request should include (plain-language minimums):
 
-* Title + date/event 
+* Which channel it should go on (Zcash Foundation—Zcon, or ZecHub)
+* What the video should be titled
+* The date and event (if there is one)
+* Anything sensitive we should know up front (for example: someone asked not to be shown, a section should be cut, or consent is unclear)
 
-* Any known rights/consent constraints (if applicable)
+If you’re wondering why this exists at all: it prevents videos from being uploaded “randomly” without context, and it helps channel owners stay in control of what appears on their channel.
 
 ## Upload
 
 The uploader:
 
-* Uploads to the correct channel 
-
-* Sets visibility to **unlisted** 
-
-* Triggers transcoding (default settings) 
-
-* Adds required metadata (see below)
+* Uploads the video to the correct channel
+* Sets it to **unlisted** (so it’s not public yet)
+* Lets PeerTube create the viewing versions (transcoding)
+* Fills in the required info (see below)
 
 ## Metadata minimums (required)
 
-* Title 
+Required fields (with quick examples):
 
-* Date/event 
-
-* Speaker/participants (if applicable) 
-
-* Description (what it is, context, links) 
-
-* Tags 
-
-* Language 
-
-* License 
-
-* Captions/subtitles (if available; otherwise mark as “not available yet”)
+| Field                | What to include                            | Example (Zcon talk)                      | Example (ecosystem update)                    |
+| -------------------- | ------------------------------------------ | ---------------------------------------- | --------------------------------------------- |
+| Title                | Clear, specific title                      | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
+| Date/event           | Date + event name (if any)                 | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
+| Speaker/participants | Names/handles if applicable                | “Speaker: ___”                           | “Hosts: ___”                                  |
+| Description          | 2–5 sentences + key links                  | “Overview + agenda + slides link”        | “What changed this week + links”              |
+| Tags                 | 3–8 useful tags                            | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
+| Language             | Primary language                           | “en”                                     | “en”                                          |
+| License              | How it may be reused                       | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
+| Captions/subtitles   | Attach if available; otherwise note status | “Captions: coming soon”                  | “Captions: not available yet”                 |
 
 ## Review (MVP)
 
-A moderator/admin checks:
+Before anything goes public, a moderator/admin does a quick check:
 
-* Policy compliance 
+* Is it allowed under the moderation policy?
+* Is it on the right channel?
+* Is the audio/video basically usable?
+* Does it have the required info filled in (title, date/event, description, etc.)?
 
-* Correct channel placement 
+Approval checklist (quick):
 
-* Basic quality (audio intelligibility; obvious technical issues) 
-
-* Metadata minimums
+* Visibility is **unlisted** until approved
+* Title is clear + matches the content
+* Date/event is filled in
+* Description has context + at least one helpful link (if available)
+* Tags + language + license are set
+* Captions status is noted (attached or “coming soon / not available yet”)
+* No third‑party video embeds (YouTube/Vimeo) are added to the description (link out instead)
 
 ## Publish
 
 After approval:
 
-* Set visibility to **public** 
-
-* Add to any relevant playlists/collections 
-
+* Set visibility to **public**
+* Add to any relevant playlists/collections
 * Confirm playback on web + mobile
 
-## Post-publish
+## Privacy + embeds
 
-* Log link in monthly reporting 
+* We avoid embedding third‑party video players (YouTube/Vimeo) on instance pages by default. Link out instead.
+* PeerTube-hosted videos may be embedded on other websites, forums, or chats.
 
-* Note follow-ups (captions, edits, corrections, takedown requests)
+## After publishing
+
+* We add the link to the rolling monthly report
+* We note any follow-ups (captions, small fixes, corrections, takedown requests)
 
 ## Changes and corrections
 
-If a published video needs updates:
+If a published video needs updates, here’s how we handle it:
 
-* Minor metadata fixes may be applied immediately 
+1. Small fixes (metadata-only)
 
-* Substantive edits (content removals, sensitive material) should be coordinated with the channel owner and admins
+* Examples: title tweaks, tag fixes, description links, playlist placement
+* Usually done immediately
 
+2. Visibility changes (unlist / relist)
+
+* Used when something needs review, corrections, or time-sensitive handling
+* Coordinate with the channel owner; moderators/admins may unlist for policy or safety reasons
+
+3. Major changes (replace or remove)
+
+* Used for substantive edits (content removals, sensitive material, rights/consent issues)
+* Requires coordination between the channel owner and admins
+* When possible, we note what changed and why (without exposing personal information)
