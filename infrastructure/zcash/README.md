@@ -136,7 +136,9 @@ Start above “minimums” if transcoding will run on-instance. Plan for growth 
 
 ### Documentation outputs
 
-* Public: 1-page moderation policy
+* Public: Moderation policy — [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+* Public: How we publish — [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+* Public: Monthly reports & sustainability notes — [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
 * Internal: moderator runbook (reports, escalations, unfederation)
 
 ---
@@ -153,18 +155,28 @@ Start above “minimums” if transcoding will run on-instance. Plan for growth 
 
 #### Initial channel taxonomy (MVP)
 
-During the MVP, channels are owned by Zcash ecosystem groups. Zk Av Club admins create channels and manage instance-level policy, while channel owners manage their channel’s uploads and metadata quality within the trusted uploader model.
+During the MVP, channels are owned by Zcash ecosystem groups. Zk Av Club admins create channels and manage instance-level policy, while channel owners manage what gets published in their channel and ensure metadata quality.
+
+Channel ownership mechanics (MVP):
+
+* Admins control: channel creation, instance-wide settings, federation posture, account provisioning, and final escalation.
+* Channel owners control: channel direction, approval to publish, and who is authorized as a trusted uploader for that channel.
+* Uploader access: granted per-channel, by admins, based on a written request from the channel owner (name/handle + scope of access).
+* Change control: channel owner requests to add/remove uploaders; admins execute changes and keep a lightweight access log.
+* Historic Zcon exception: Zk Av Club admins upload and manage metadata for historic Zcon videos during MVP, in coordination with the Zcash Foundation.
 
 **Initial channels (MVP launch):**
 
 * Zcash Foundation — Zcon (historic + new)
 
   * Channel owner: Zcash Foundation
-  * During the MVP, Zk Av Club admins will upload and manage metadata for historic Zcon videos.
+  * Uploader access: Zk Av Club admins (historic Zcon) + any ZF-designated trusted uploader(s) approved by admins
+  * During the MVP, Zk Av Club admins will upload and manage metadata for historic Zcon videos (in coordination with Zcash Foundation).
 * ZecHub
 
   * Channel owner: ZecHub
-  * This channel will hold ZecHub programming.
+  * Uploader access: ZecHub-designated trusted uploader(s) approved by admins
+  * This channel will hold ZecHub programming (and other approved ecosystem content unless/until additional channels are created late MVP).
 
 **Planned expansion (late MVP):**
 Toward the end of the MVP, we will create additional channels for other selected organizations and communities in the Zcash ecosystem. Channel additions will be based on readiness (trusted uploader identified, moderation expectations agreed, and metadata standards understood).
@@ -197,9 +209,6 @@ PeerTube install
 * Transcoding settings (start conservative)
 * Federation allow/block approach implemented
 * Abuse/report workflow tested end-to-end
-* Transcoding settings (start conservative)
-* Federation allow/block approach implemented
-* Abuse/report workflow tested end-to-end
 
 ### Phase 4 — Pilot publishing workflow
 
@@ -222,18 +231,26 @@ PeerTube install
 
 Milestone 3 is complete when the following are true:
 
-#### MVP acceptance checklist
+#### MVP tracking (Milestone 3)
 
-* Instance publicly reachable over HTTPS
-* Registration mode set to invite-only
-* Roles assigned (admins + moderators) and tested
-* Upload permissions configured (trusted uploader list)
-* Review/approval workflow works end-to-end
-* Monitoring enabled (uptime + CPU + disk) with basic alerts
-* Backups configured and restore test performed
-* Federation posture implemented (curated allow/block; changes logged)
-* Seed set published (at least 10 videos) with required metadata
-* Public docs published: Moderation policy + How we publish + Sustainability notes v1
+Update this block as work progresses. Status values: Not started / In progress / Done / Blocked.
+
+| Area       | Item                                                                 | Owner                              | Target date | Status      | Notes / links                                                                                                  |
+| ---------- | -------------------------------------------------------------------- | ---------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Access     | Registration mode set to invite-only                                 | Zk Av Club admins                  | 2026-02-28  | Not started |                                                                                                                |
+| Roles      | Roles assigned (admins + moderators) and tested                      | Zk Av Club admins                  | 2026-02-28  | Not started |                                                                                                                |
+| Infra      | Instance publicly reachable over HTTPS                               | Zk Av Club admins                  | 2026-02-28  | Not started |                                                                                                                |
+| Docs       | Moderation policy published                                          | Zk Av Club                         | 2026-02-28  | Done        | [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation) |
+| Docs       | How we publish published                                             | Zk Av Club                         | 2026-02-28  | Done        | [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing) |
+| Docs       | Monthly reports & sustainability notes published                     | Zk Av Club                         | 2026-02-28  | Done        | [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)       |
+| Uploads    | Upload permissions configured (trusted uploader list, per-channel)   | Zk Av Club admins + channel owners | 2026-03-07  | Not started |                                                                                                                |
+| Workflow   | Review/approval workflow works end-to-end                            | Zk Av Club admins + moderators     | 2026-03-07  | Not started |                                                                                                                |
+| Infra      | Monitoring enabled (uptime + CPU + disk) with basic alerts           | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
+| Infra      | Backups configured and restore test performed                        | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
+| Federation | Curated federation posture implemented (allow/block; changes logged) | Zk Av Club admins + moderators     | 2026-03-14  | Not started |                                                                                                                |
+| Content    | Seed set published (≥10 videos) with required metadata               | Zk Av Club admins + channel owners | 2026-03-21  | Not started |                                                                                                                |
+
+Milestone 3 is complete when all non-doc items above are marked Done (or explicitly deferred with rationale).
 
 ### Phase 6 — Operate & iterate (monthly)
 
