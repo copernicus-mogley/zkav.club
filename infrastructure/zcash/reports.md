@@ -105,10 +105,6 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 * Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
 * Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
 
-**Evidence links**
-
-* (Add links to tracker notes, screenshots, invoices, or config snippets as items complete.)
-
 ---
 
 ## 2026-03
@@ -163,10 +159,6 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 ## **Risks / watch items**
 
 ## **Next month focus**
-
-**Evidence links**
-
-* (Add links to tracker notes, screenshots, invoices, or config snippets as items complete.)
 
 ---
 
