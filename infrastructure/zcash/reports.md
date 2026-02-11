@@ -107,8 +107,7 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 
 **Evidence links**
 
-* (Add links to tracker notes, screenshots, invoices, or config snippets as items complete.)ioning (domain/DNS, VPS, TLS, SMTP) and begin install.
-* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
+* (Add links to tracker notes, screenshots, invoices, or config snippets as items complete.)
 
 ---
 
