@@ -16,10 +16,9 @@ This page explains how videos are prepared, uploaded, reviewed, and published on
 
   * During MVP, Zk Av Club admins upload and manage metadata for historic Zcon videos in coordination with Zcash Foundation.
 
-* * **ZecHub:** channel owner is ZecHub.
+* **ZecHub:** channel owner is ZecHub.
 
   * During MVP, this channel holds ZecHub programming (and other approved ecosystem content unless/until additional channels are created late MVP).
-
   * “Other approved ecosystem content” is approved to publish by the ZecHub channel owner; admins can block/unlist content for policy or safety reasons.
 
 ## Request to publish (how videos get in line)
