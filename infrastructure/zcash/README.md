@@ -2,7 +2,7 @@
 
 **Executive summary (for publication):** Zk Av Club will deploy and operate a Zcash-focused [PeerTube](https://joinpeertube.org/) instance as a durable, community-run home for Zcash ecosystem video. This Milestone 1 document defines the MVP scope, hosting/deployment approach, federation posture, moderation baseline, and sustainability triggers needed to publish the plan by Jan 31, 2026. The MVP will run on a single VPS (local storage) using Docker Compose, with invite-only accounts, a trusted uploader list, and approval-first review for non-admin uploads. By Mar 31, 2026, the goal is a live MVP with backups + monitoring verified, curated federation implemented, seed content published, and the public “How we publish” + moderation policy posted.
 
-Privacy note: today, if someone wants to watch a Zcon video, they generally have to do it on YouTube — meaning they’re tracked by Google unless they use extra tools and technical workarounds. A Zcash-run PeerTube instance gives the community a privacy-respecting default place to watch and share ecosystem video without requiring viewers to trade away their data.
+Privacy note: today, if someone wants to watch a Zcon video, they generally have to do it on YouTube—meaning they’re tracked by Google unless they use extra tools and technical workarounds. A Zcash-run PeerTube instance gives the community a privacy-respecting default place to watch and share ecosystem video without requiring viewers to trade away their data.
 
 **Owner:** Zk Av Club (Lead Organizer)
 
@@ -56,13 +56,14 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 ### Goals (what success looks like)
 
 1. A stable PeerTube “home” for Zcash ecosystem videos that reduces dependence on centralized platforms.
-2. A repeatable publishing workflow aligned with PeerTube’s capabilities and a clear internal publication process.
-3. Clear moderation + governance baseline that is easy to explain and enforce.
-4. Sustainability notes (costs, bandwidth, admin hours, scaling assumptions) tracked monthly.
+2. A privacy-respecting default way to watch and share Zcash ecosystem video without requiring viewers to accept surveillance advertising ecosystems.
+3. A repeatable publishing workflow aligned with PeerTube’s capabilities and a clear internal publication process.
+4. Clear moderation + governance baseline that is easy to explain and enforce.
+5. Sustainability notes (costs, bandwidth, admin hours, scaling assumptions) tracked monthly.
 
 ### Scope (Phase 1 / MVP)
 
-* One PeerTube instance (Zcash branded).
+* One PeerTube instance (Zcash branded), operated with a privacy-respecting viewer experience (no requirement to log in to watch; no reliance on ad-tech tracking to access content).
 * Admin + moderator roles, minimal channel structure, upload/transcode enabled (with guardrails).
 * Federation enabled with an explicit policy.
 * Backup + monitoring + update routine defined and tested.
@@ -86,6 +87,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 ### A) Hosting approach (DECISION)
 
 * Decision (MVP): Option 1 — Single VPS with local storage.
+* Privacy note: operating our own instance gives the community an alternative to platform surveillance defaults (e.g., YouTube/Google tracking) and reduces dependency on third-party tracking infrastructure.
 * Rationale: fastest path to a stable MVP; easiest to operate while learning real usage patterns.
 * Migration posture: structure storage + backups so media can move to object storage later if needed.
 
@@ -102,6 +104,7 @@ This plan covers the workstream to deploy and operate a Zcash-focused PeerTube i
 ### D) Accounts, uploads, and review (DECISION)
 
 * Registration (MVP): Invite-only accounts.
+* Privacy note: invite-only accounts reduce spam/abuse risk and also reduce incentives to deploy invasive anti-spam tracking; viewers should not need an account to watch published videos.
 * Who can upload (MVP): Trusted uploader list (admins + explicitly approved accounts).
 * Review model (MVP): Approval-first for non-admin uploads (auto-block/unlisted until approved).
 
@@ -131,6 +134,8 @@ These assumptions will be used to validate the capacity baseline and to set/adju
 
 Start above “minimums” if transcoding will run on-instance. Plan for growth in CPU, storage, and upload bandwidth.
 
+Privacy note: prioritize operational choices that keep viewing simple and private (e.g., avoid third-party embeds and unnecessary analytics that introduce cross-site tracking).
+
 ---
 
 ## 4) Moderation baseline (publish this as policy)
@@ -146,6 +151,7 @@ Start above “minimums” if transcoding will run on-instance. Plan for growth 
 ### Reporting and takedowns
 
 * Accept and process user reports via PeerTube’s reporting tools.
+* Privacy note: reports may include sensitive information. Keep report handling limited to moderators/admins, and avoid publishing personally identifying details when documenting outcomes.
 * Response targets (MVP):
 
   * Illegal/urgent: same day
@@ -217,6 +223,7 @@ Notes:
 #### Infrastructure checklist
 
 * Domain + DNS
+* Privacy posture: avoid third-party trackers/embeds on the instance; keep logs and analytics minimal and purpose-limited
 * TLS (HTTPS)
 * SMTP (account emails, moderation notifications)
 * Backup target (encrypted)
@@ -232,6 +239,7 @@ Notes:
 
 * Registration mode: invite-only
 * Default video visibility: unlisted until approved (then set to public)
+* Privacy posture: viewers can watch public videos without creating an account; avoid third-party tracking scripts; keep operational logging minimal and purpose-limited
 * Transcoding settings (start conservative)
 * Federation allow/block approach implemented
 * Abuse/report workflow tested end-to-end
@@ -308,6 +316,7 @@ Federation log (MVP)
 Grant-aligned reporting metrics:
 
 * Upload count + links
+* Privacy notes (if relevant): any changes that affect viewer privacy posture (e.g., analytics/logging changes, embed policies)
 * Hosting/bandwidth costs
 * Admin hours
 
@@ -323,6 +332,7 @@ Recommended additions:
 ### Main cost drivers
 
 * Storage growth
+* (Privacy) reducing reliance on surveillance platforms may increase our direct hosting/bandwidth responsibility, which we treat as a worthwhile tradeoff for a privacy-respecting default.
 * Outbound bandwidth spikes
 * Transcoding compute
 
