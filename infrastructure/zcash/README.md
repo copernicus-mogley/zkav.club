@@ -2,6 +2,8 @@
 
 **Executive summary (for publication):** Zk Av Club will deploy and operate a Zcash-focused [PeerTube](https://joinpeertube.org/) instance as a durable, community-run home for Zcash ecosystem video. This Milestone 1 document defines the MVP scope, hosting/deployment approach, federation posture, moderation baseline, and sustainability triggers needed to publish the plan by Jan 31, 2026. The MVP will run on a single VPS (local storage) using Docker Compose, with invite-only accounts, a trusted uploader list, and approval-first review for non-admin uploads. By Mar 31, 2026, the goal is a live MVP with backups + monitoring verified, curated federation implemented, seed content published, and the public “How we publish” + moderation policy posted.
 
+Privacy note: today, if someone wants to watch a Zcon video, they generally have to do it on YouTube—meaning they’re tracked by Google unless they use extra tools and technical workarounds. A Zcash-run PeerTube instance gives the community a privacy-respecting default place to watch and share ecosystem video without requiring viewers to trade away their data.
+
 **Owner:** Zk Av Club (Lead Organizer)
 
 **Status:** Published (initial release 2026-01-28; updates in progress)
