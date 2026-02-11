@@ -33,9 +33,14 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 * [2026-01](#2026-01)
 * [2026-02](#2026-02)
 * [2026-03](#2026-03)
-* [2026-04](#2026-04)
+
+Note: We keep one “next month” section pre-created to reduce friction. Older months remain as the record.
 
 ---
+
+## Reporting units
+
+All costs are reported in USD.
 
 ## 2026-01
 
@@ -107,6 +112,84 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 
 ---
 
+## 2026-02
+
+**Project status (pre-launch)**
+
+* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
+* Summary: Turned the hub page into a living project tracker and published companion documentation (moderation, publishing, rolling reports) to support MVP operations.
+
+**Highlights**
+
+* Published companion docs:
+
+  * Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+  * How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+  * Monthly reports (this page): [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+* Refactored the hub page for readability (quick view + jump links) and upgraded Phase 5 into an operational tracker (cadence and refreshed targets).
+* Clarified privacy posture throughout (why PeerTube, no third-party embeds on instance pages, and privacy notes in moderation/report handling).
+
+**Milestone progress (pre-launch)**
+
+* Decisions made:
+
+  * Default publishing visibility: unlisted until approved, then public.
+  * Reports are maintained as one rolling page (not one page per month).
+  * Embed policy (MVP): no third-party video embeds on instance pages by default; PeerTube-hosted videos may be embedded elsewhere.
+* Infra/provisioning progress: Not started (pre-launch).
+* Workflow/policy progress:
+
+  * Moderation policy published and corrected after a minor formatting issue on the live page.
+  * Publishing workflow rewritten in plain language; added metadata examples, approval checklist, and corrections tiers.
+* Testing completed: N/A (pre-launch).
+* Blockers / risks:
+
+  * Content + usage assumptions still pending (target publish date on hub: 2026-02-28).
+
+**New uploads (count + links)**
+
+* N/A (pre-launch)
+
+**Ops notes**
+
+* Availability/uptime incidents: N/A (pre-launch)
+* Backups status (last successful restore test date): N/A (pre-launch)
+* Updates applied (PeerTube version, OS updates): N/A (pre-launch)
+
+**Moderation notes**
+
+* Reports received: N/A (pre-launch)
+* Actions taken: N/A (pre-launch)
+* Federation changes (date + action + reason): N/A (pre-launch)
+
+**Costs**
+
+* Hosting: $0 (pre-launch)
+* Storage: $0 (pre-launch)
+* Bandwidth: $0 (pre-launch)
+* Other: $0 (pre-launch)
+
+**Admin time**
+
+* Hours (estimate): ~8 hours (one full day: hub page revisions + companion docs + tracker/report structure)
+* Main time sinks: hub page revisions, companion doc drafting, coordination meetings, and tracker/report structure
+
+**Storage growth**
+
+* GB/month: N/A (pre-launch)
+
+**Risks / watch items**
+
+* If assumptions slip past 2026-02-28, provisioning and sizing decisions may slip.
+
+**Next month focus**
+
+* Publish content + usage assumptions.
+* Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
+* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
+
+---
+
 ## 2026-03
 
 **Project status (pre-launch)**
@@ -159,9 +242,3 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 ## **Risks / watch items**
 
 ## **Next month focus**
-
----
-
-## 2026-04
-
-(Template will be copied here at the start of the month.)
