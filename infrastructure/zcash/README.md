@@ -27,6 +27,8 @@ Note: This is a living document. [Phase 5 tracking](#mvp-tracking-milestone-3) r
 
 See Phase 5 for the full tracker.
 
+Current status last updated: 2026-02-11 (matches Phase 5 tracker).
+
 * Public docs: Done (moderation, publishing, reports)
 * Instance online (HTTPS): Not started
 * Registration + roles: Not started
@@ -48,6 +50,13 @@ Jump to:
 * [Channel governance (Phase 1)](#initial-channel-taxonomy-mvp)
 * [Provisioning checklist (Phase 2)](#phase-2--provision--install)
 * [Operational logs (Phase 6)](#operational-logs-mvp-stubs)
+
+Where things live:
+
+* Policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+* Workflow: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+* Ops history (rolling): [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+* This hub: decisions + tracking
 
 ---
 
@@ -146,7 +155,7 @@ Privacy note: prioritize operational choices that keep viewing simple and privat
 
 ---
 
-## 4) Moderation and safety (summary)
+## 4) Moderation policy (summary)
 
 This section is a short operational summary. The full public policy lives here:
 
@@ -162,7 +171,7 @@ MVP summary:
 
 ---
 
-## 5) Deployment plan (build → launch → operate) (build → launch → operate)
+## 5) Deployment plan (build → launch → operate)
 
 ### Phase 1 — Research & design (publishable outputs)
 
@@ -247,6 +256,8 @@ Pilot tasks (MVP):
 
 ### Phase 5 — MVP launch
 
+This tracker is the source of truth for project status.
+
 Milestone 3 exit criteria: Milestone 3 is complete when all rows in the Phase 5 tracker are marked Done (or Deferred with a brief rationale and a new target date in Notes).
 
 #### MVP tracking (Milestone 3)
@@ -258,6 +269,8 @@ Update cadence: weekly (or after major milestones). If the tracker isn’t updat
 Targets are best-effort. If a target slips, update the row with a new date and a brief rationale in Notes.
 
 Last tracker update: 2026-02-11
+
+When marking an item Done, add a link to evidence in Notes (e.g., invoice/receipt, screenshot, config snippet, or a dated entry on the reports page).
 
 | Area       | Item                                                                 | Owner                              | Target date | Status      | Notes / links                                                                                                  |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
