@@ -23,7 +23,6 @@ Publishing is the start. We also support the ongoing work that keeps media usabl
 * Rights + consent hygiene
 * Versioning + updates
 
----
 
 ## Why decentralized media?
 
