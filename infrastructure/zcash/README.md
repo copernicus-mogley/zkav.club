@@ -17,7 +17,7 @@
 ## Change log
 
 * 2026-01-28: Published initial version.
-* 2026-02-11: Began updates (governance/channel ownership clarified; publication metadata updated).
+* 2026-02-11: Updated published page (added companion doc links, Phase 5 tracker + cadence, channel ownership mechanics, operational log stubs, grant proposal link, and refreshed target dates).
 
 Note: This is a living document. Phase 5 tracking reflects current progress toward the MVP.
 
