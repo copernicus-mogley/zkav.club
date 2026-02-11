@@ -36,7 +36,7 @@ We focus on approaches that support:
 * Resilient distribution
 * Long-term stewardship
 
-PeerTube is a strong fit for many communities, but not the only one. Our job is to help each community choose a path that matches their values and constraints—and then make it operational.
+PeerTube is a strong fit for many communities, but not the only one. Our job is to help each community choose a path that matches their values and constraints — and then make it work.
 
 ---
 
