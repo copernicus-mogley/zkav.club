@@ -273,7 +273,7 @@ If ops is stable post-MVP, publish:
 * By Jan 31, 2026: publish this plan (Milestone 1).
 * By Mar 31, 2026: PeerTube MVP live, or publish deferral plan with reasons + new date (Milestone 3).
 
-Suggested work plan:
+Expected work plan:
 
 * Feb 1–15: provision + install + basic configuration
 * Feb 16–28: harden + pilot workflow + draft workflow docs
