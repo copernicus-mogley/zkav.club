@@ -4,7 +4,6 @@
 
 Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way that aligns with their needs and values.
 
----
 
 ## What we provide
 
