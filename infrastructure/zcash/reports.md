@@ -15,6 +15,7 @@ Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https
 * This is **one rolling page** (not one page per month).
 * Each month has its own section (e.g., `## 2026-01`).
 * Update the current month as work happens. At month end, add a short summary and start the next month.
+* Update this page at least once per month (and optionally weekly while pre-launch work is active).
 
 ## Pre-launch reporting (before the instance is live)
 
@@ -40,7 +41,7 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 
 **Project status (pre-launch)**
 
-* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
 * Summary: Published Milestone 1 plan as the canonical project hub page.
 
 **Highlights**
@@ -102,42 +103,31 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 
 * Publish content + usage assumptions.
 * Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
+* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
+
+**Evidence links**
+
+* (Add links to tracker notes, screenshots, invoices, or config snippets as items complete.)ioning (domain/DNS, VPS, TLS, SMTP) and begin install.
+* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
 
 ---
 
-## 2026-02
+## 2026-03
 
 **Project status (pre-launch)**
 
-* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
-* Summary: Turned the hub page into a living project tracker and published companion documentation (moderation, publishing, rolling reports) to support MVP operations.
+* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
+* Summary:
 
-**Highlights**
-
-* Published companion docs:
-
-  * Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
-  * How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
-  * Monthly reports (this page): [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
-* Refactored the hub page for readability (quick view + jump links) and upgraded Phase 5 into an operational tracker (cadence, evidence convention, sorted targets).
-* Clarified privacy posture throughout (why PeerTube, no third‑party embeds on instance pages, and privacy notes in moderation/report handling).
+## **Highlights**
 
 **Milestone progress (pre-launch)**
 
 * Decisions made:
-
-  * Default publishing visibility: unlisted until approved, then public.
-  * Reports are maintained as one rolling page (not one page per month).
-  * Embed policy (MVP): no third-party video embeds on instance pages by default; PeerTube-hosted videos may be embedded elsewhere.
-* Infra/provisioning progress: Not started (pre-launch).
+* Infra/provisioning progress:
 * Workflow/policy progress:
-
-  * Moderation policy published and corrected after a minor formatting issue on the live page.
-  * Publishing workflow rewritten in plain language; added metadata examples, approval checklist, and corrections tiers.
-* Testing completed: N/A (pre-launch).
+* Testing completed:
 * Blockers / risks:
-
-  * Content + usage assumptions still pending (target publish date on hub: 2026-02-28).
 
 **New uploads (count + links)**
 
@@ -157,35 +147,27 @@ Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infras
 
 **Costs**
 
-* Hosting: $0 (pre-launch)
-* Storage: $0 (pre-launch)
-* Bandwidth: $0 (pre-launch)
-* Other: $0 (pre-launch)
+* Hosting:
+* Storage:
+* Bandwidth:
+* Other:
 
 **Admin time**
 
-* Hours (estimate): ~8 hours (one full day: hub page revisions + companion docs + tracker/report structure)
-* Main time sinks: hub page revisions, companion doc drafting, coordination meetings, and tracker/report structure
+* Hours (estimate):
+* Main time sinks:
 
 **Storage growth**
 
 * GB/month: N/A (pre-launch)
 
-**Risks / watch items**
+## **Risks / watch items**
 
-* If assumptions slip past 2026-02-28, provisioning and sizing decisions may slip.
+## **Next month focus**
 
-**Next month focus**
+**Evidence links**
 
-* Publish content + usage assumptions.
-* Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
-* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
-
----
-
-## 2026-03
-
-(Template will be copied here at the start of the month.)
+* (Add links to tracker notes, screenshots, invoices, or config snippets as items complete.)
 
 ---
 
