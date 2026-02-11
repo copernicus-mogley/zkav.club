@@ -44,19 +44,18 @@ PeerTube is a strong fit for many communities, but not the only one. Our job is 
 
 ### Decentralized media for Zcash 
 
-PeerTube for Zcash is our first public implementation under this umbrella—but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
+PeerTube for Zcash is our first public implementation under this umbrella but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
 
-If you’re looking for Zcash-related recordings—especially conference history and long-form talks—start here:
+If you’re looking for Zcash-related PeerTube decision, rollout plan, and how publishing will work — start here:
 
 [Zcash PeerTube](/infrastructure/zcash) 
 
-(That page includes the PeerTube decision, rollout plan, and how publishing will work.)
 
 ---
 
 ## What you can expect from Zk Av Club
 
-If we say we’re supporting a community’s media infrastructure, it means we commit to:
+We strive for: 
 
 * Clear standards for labeling, organization, and documentation 
 * Reliable upload + handoff workflows 
@@ -67,7 +66,7 @@ If we say we’re supporting a community’s media infrastructure, it means we c
 
 ## Roadmap
 
-Zcash is the starting point. Over time, this hub will expand to include:
+Zcash is the starting point. Over time, this project will expand to include:
 
 * Additional community media implementations (beyond PeerTube)
 * Publishing playbooks and templates
