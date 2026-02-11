@@ -58,42 +58,18 @@ The uploader:
 
 ## Metadata minimums (required)
 
-Fill these in for every video (with quick examples):
+Required fields (with quick examples):
 
-* **Title** — clear, specific title
-
-  * Zcon talk example: “Zcon: Shielded Wallet UX — Talk by ___”
-  * Update example: “Zcash Ecosystem Update — Week of 2026-02-xx”
-
-* **Date/event** — date + event name (if any)
-
-  * Zcon talk example: “2025-xx-xx — Zcon”
-  * Update example: “2026-02-xx — ZecHub”
-
-* **Speaker/participants** — names/handles if applicable
-
-  * Zcon talk example: “Speaker: ___”
-  * Update example: “Hosts: ___”
-
-* **Description** — 2–5 sentences + key links
-
-  * Zcon talk example: “Overview + agenda + slides link”
-  * Update example: “What changed this week + links”
-
-* **Tags** — 3–8 useful tags
-
-  * Zcon talk example: “zcon, talk, wallets, usability”
-  * Update example: “update, ecosystem, dev, community”
-
-* **Language** — primary language (example: “en”)
-
-* **License** — how it may be reused
-
-  * Example: “CC BY 4.0” (if that’s what the channel owner chooses)
-
-* **Captions/subtitles** — attach if available; otherwise note status
-
-  * Example: “Captions: coming soon” or “Captions: not available yet”
+| Field                | What to include                            | Example (Zcon talk)                      | Example (ecosystem update)                    |
+| -------------------- | ------------------------------------------ | ---------------------------------------- | --------------------------------------------- |
+| Title                | Clear, specific title                      | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
+| Date/event           | Date + event name (if any)                 | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
+| Speaker/participants | Names/handles if applicable                | “Speaker: ___”                           | “Hosts: ___”                                  |
+| Description          | 2–5 sentences + key links                  | “Overview + agenda + slides link”        | “What changed this week + links”              |
+| Tags                 | 3–8 useful tags                            | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
+| Language             | Primary language                           | “en”                                     | “en”                                          |
+| License              | How it may be reused                       | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
+| Captions/subtitles   | Attach if available; otherwise note status | “Captions: coming soon”                  | “Captions: not available yet”                 |
 
 License note (MVP): the channel owner decides the license. If the license is unclear, keep the video unlisted until the channel owner confirms.
 
