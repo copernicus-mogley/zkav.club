@@ -76,23 +76,14 @@ Depending on severity and context, actions may include:
 ## Appeals
 
 * Users may appeal moderation decisions via the instance’s published contact method (to be added).
+* Appeals should include the link, a description, and the requested remedy.
 
-* Appeals should include the link, a description, and the requested remedy.## Federation policy (MVP)
+## Special cases
 
-* Federation is **curated**.
+The following categories may be handled with faster or more restrictive actions while a review is completed:
 
-* We may block or unfollow instances that routinely distribute spam, harassment/hate, or other policy-violating content.
-
-* We maintain a simple federation log (date + action + reason). For operational tracking, see the federation log stub on the hub page: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
-
-What “curated” means (MVP):
-
-* We do not aim to federate with everything by default.
-* We may proactively block/unfollow instances that create repeated moderation overhead or distribute policy-violating content.
-* Federation decisions are documented in the log.
-
-## Transparencynd escalated to admins.
-
+* Doxxing / personal data: may be unlisted immediately while reviewing.
+* Credible safety threats: may be unlisted immediately and escalated to admins.
 * Impersonation: may require verification or removal of misleading identifiers.
 * Copyright or rights disputes: content may be unlisted while we assess the request and available evidence.
 * Disputes with channel owners: moderators handle routine cases; admins are the final escalation authority.
@@ -101,7 +92,13 @@ What “curated” means (MVP):
 
 * Federation is **curated**.
 * We may block or unfollow instances that routinely distribute spam, harassment/hate, or other policy-violating content.
-* We maintain a simple federation log (date + action + reason).
+* We maintain a simple federation log (date + action + reason). For operational tracking, see the federation log stub on the hub page: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+
+What “curated” means (MVP):
+
+* We do not aim to federate with everything by default.
+* We may proactively block/unfollow instances that create repeated moderation overhead or distribute policy-violating content.
+* Federation decisions are documented in the log.
 
 ## Transparency
 
