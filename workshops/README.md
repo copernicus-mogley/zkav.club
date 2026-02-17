@@ -129,7 +129,7 @@ Zk Av Club is not here to extract value from contributors. We’re here to suppo
 
 * We aim for durable public knowledge (recordings + documentation). 
 
-* We treat workshops as community infrastructure—not content farming.
+* We treat workshops as community infrastructure, not content farming.
 
 ---
 
