@@ -36,14 +36,14 @@ Have an idea you want someone else to teach? Suggest a topic → [https://tally.
 
 ## Why facilitate?
 
-* **Community impact:** Share practical knowledge, unblock others, build real capability. 
+* Community impact: Share practical knowledge, unblock others, build real capability. 
 
-* **Personal growth:** Improve teaching, communication, and facilitation. 
+* Personal growth: Improve teaching, communication, and facilitation. 
  
  
-* **Visibility + connection:** Meet aligned collaborators and join an open learning network. 
+* Visibility + connection: Meet aligned collaborators and join an open learning network. 
 
-* **Support + reward:** We help produce + promote—and facilitators are paid in Zcash.
+* Support + reward: We help produce + promote—and facilitators are paid in Zcash.
 
 ---
 
