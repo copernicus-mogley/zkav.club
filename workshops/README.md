@@ -2,7 +2,7 @@
 
 In 2026 we’re evolving Zk Av Club Workshops into a simple format: conversational sessions where people learn by doing.
 
-Foundry isn’t continuing as a program, but last year’s sessions are still great examples of the culture—practical, friendly, experimental. Check out the list of past workshops below.
+Foundry isn’t continuing as a program, but last year’s sessions are still great examples of the culture—practical, friendly, experimental.
 
 If you want to teach something, test an idea in public, or learn together with your community, you’re in the right place.
 
@@ -85,17 +85,19 @@ Typical themes:
 
 ## How it works in 2026
 
-1. **You propose an idea** — what you’ll teach/explore and what attendees will walk away with. (Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)) 
+1. You propose an idea — what you’ll teach/explore and what attendees will walk away with. 
 
-2. **We shape it together** — tighten scope, clarify outcomes, design for participation. 
+    * Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
 
-3. **We schedule + promote** — with enough runway to recruit participants. 
+2. We shape it together — tighten scope, clarify outcomes, design for participation. 
 
-4. **We run a test session** — quick tech check for audio/video/screen share. 
+3. We schedule + promote — with enough runway to recruit participants. 
 
-5. **Host it live** — where your people already are. Participation matters: Q&A, exercises, discussion. 
+4. We run a test session — quick tech check for audio/video/screen share. 
 
-6. **We record + publish** — so the knowledge keeps working after the live moment.
+5. Host it live — where your people already are. Participation matters: Q&A, exercises, discussion. 
+
+6. Livestream or record + publish — so the knowledge keeps working after the live moment.
 
 **Recording is required for facilitator payment. If a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.**
 
