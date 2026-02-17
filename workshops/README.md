@@ -8,30 +8,6 @@ If you want to teach something, test an idea in public, or learn together with y
 
 ---
 
-## Examples from past workshops
-
-Want to get a feel for the vibe and range of topics? We keep an archive of past sessions:
-
-* Previous workshops: [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
-
-The list is intentionally mixed: classic skill-shares (editing, transcription, translation) and “program experiments” from Zk Av Club Foundry (recaps, how-we-do-this sessions, and community ops).
-
-Common themes across the full list:
-
-* Editing clinics: open-source editing tools, clip-contest workflows 
-
-* Remote production: livestreaming/restreaming, privacy-first calls, broadcast setups 
-
-* Accessibility: live translation, real-time transcription, speech-to-text
- 
-* Community broadcasting: how to amplify events without centralizing control 
-
-* Recording Station practice: field workflow, recaps, lessons learned 
-
-* Research + archiving: “Hacker‑Librarian” methods and durable publishing
-
----
-
 ## What are Zk Av Club Workshops?
 
 Zk Av Club Workshops are conversational learning sessions where people learn by doing. They can be technical or non-technical, beginner-friendly or advanced, and held in any language.
@@ -81,6 +57,30 @@ We’re intentionally broad. Bring your craft.
 * Creative + experimental: demos, “build with me” sessions, teardown sessions, clinic-style troubleshooting
 
 If it helps a community do something real, it probably fits.
+
+---
+
+## Examples of past workshops
+
+Want to get a feel for the vibe and range of topics? We keep an archive of past sessions:
+
+* Previous workshops: [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
+
+The list is intentionally mixed: classic skill-shares (editing, transcription, translation) and “program experiments” from Zk Av Club Foundry (recaps, how-we-do-this sessions, and community ops).
+
+Common themes across the full list:
+
+* Editing clinics: open-source editing tools, clip-contest workflows 
+
+* Remote production: livestreaming/restreaming, privacy-first calls, broadcast setups 
+
+* Accessibility: live translation, real-time transcription, speech-to-text
+ 
+* Community broadcasting: how to amplify events without centralizing control 
+
+* Recording Station practice: field workflow, recaps, lessons learned 
+
+* Research + archiving: “Hacker‑Librarian” methods and durable publishing
 
 ---
 
