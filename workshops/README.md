@@ -1,8 +1,8 @@
-# Lead Your Own Zk Av Club Foundry Workshop!
+# Lead Your Own Zk Av Club Workshop
 
-In 2026 we’re entering a new phase of Zk Av Club Workshops — built around what makes the club work: community conversation and hands-on collaboration.
+In 2026 we’re evolving Zk Av Club Workshops into a simple format: conversational sessions where people learn by doing.
 
-Last year we ran the Zk Av Club Foundry series (including Salons and Workshops). Foundry isn’t continuing as a program, but those sessions are still solid examples of the learning culture we’re growing: practical, friendly, experimental, and shaped by the people who show up.
+Foundry isn’t continuing as a program, but last year’s sessions are still great examples of the culture—practical, friendly, experimental.
 
 If you want to teach something, test an idea in public, or learn together with your community, you’re in the right place.
 
@@ -12,7 +12,7 @@ Quick links:
 
 * Suggest a workshop topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15) 
 
-* Browse past workshops → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/) 
+* Browse past workshops → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
 ---
 
@@ -28,29 +28,22 @@ What we want:
 
 * Useful outcomes (skills, artifacts, or clear next steps)
 
-Workshops can be standalone sessions or a series, and can happen wherever your community already meets.
+Want to run one? Apply → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
 
-Want to run one? [Apply here](https://tally.so/r/A7B0MD). Have an idea you want someone else to teach? [Suggest a topic](https://tally.so/r/68Na15).
+Have an idea you want someone else to teach? Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
 ---
 
-## Why facilitate a workshop?
+## Why facilitate?
 
-### Community impact
+* **Community impact:** Share practical knowledge, unblock others, build real capability. 
 
-Share practical knowledge, unblock others, and help communities build real capability.
+* **Personal growth:** Improve teaching, communication, and facilitation. 
+ 
+ 
+* **Visibility + connection:** Meet aligned collaborators and join an open learning network. 
 
-### Personal growth
-
-Improve your teaching, communication, and facilitation skills.
-
-### Visibility + connection
-
-You meet aligned collaborators and become part of a global network committed to open learning and purposeful tech.
-
-### Support + reward
-
-We help you produce and promote the session — and workshops are monetized, with compensation for your time and experience, paid in Zcash.
+* **Support + reward:** We help produce + promote—and facilitators are paid in Zcash.
 
 ---
 
@@ -64,65 +57,47 @@ We’re intentionally broad. Bring your craft.
 
 * Community skills: facilitation, governance patterns, communication, onboarding, storytelling 
 
-* Creative + experimental: demos, “build with me” sessions, teardown sessions, clinic-style troubleshooting
+* Creative + experimental: demos, “build with me,” teardown sessions, clinic-style troubleshooting
 
 If it helps a community do something real, it probably fits.
 
 ---
 
-## Examples of past workshops
+## Past workshops (examples)
 
-Want to get a feel for the vibe and range of topics? We keep an archive of past sessions:
+Browse the archive → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
-* Previous workshops: [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
+Typical themes:
 
-The list is intentionally mixed: classic skill-shares (editing, transcription, translation) and “program experiments” from Zk Av Club Foundry (recaps, how-we-do-this sessions, and community ops).
-
-Common themes across the full list:
-
-* Editing clinics: open-source editing tools, clip-contest workflows 
+* Editing clinics: open-source tools, clip workflows 
 
 * Remote production: livestreaming/restreaming, privacy-first calls, broadcast setups 
 
-* Accessibility: live translation, real-time transcription, speech-to-text
- 
-* Community broadcasting: how to amplify events without centralizing control 
+* Accessibility: live translation, real-time transcription, speech-to-text 
+
+* Community broadcasting: amplifying events without centralizing control 
 
 * Recording Station practice: field workflow, recaps, lessons learned 
 
-* Research + archiving: “Hacker‑Librarian” methods and durable publishing
+* Research + archiving: “hacker-librarian” methods and durable publishing
 
 ---
 
 ## How it works in 2026
 
-### 1) You propose an idea
+1. **You propose an idea** — what you’ll teach/explore and what attendees will walk away with. (Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)) 
 
-Share what you want to explore/teach and what attendees will walk away with.
+2. **We shape it together** — tighten scope, clarify outcomes, design for participation. 
 
-[Submit the proposal form](https://tally.so/r/A7B0MD)
+3. **We schedule + promote** — with enough runway to recruit participants. 
 
-### 2) We shape it together
+4. **We run a test session** — quick tech check for audio/video/screen share. 
 
-We’ll tighten the scope, clarify learning outcomes, and design the session for participation.
+5. **Host it live** — where your people already are. Participation matters: Q&A, exercises, discussion. 
 
-### 3) We schedule + promote
+6. **We record + publish** — so the knowledge keeps working after the live moment.
 
-We plan ahead so promotion and participant recruitment actually work.
-
-### 4) We run a test session
-
-A quick tech check for audio/video/screen share to reduce day-of stress.
-
-### 5) Host it live — where your people already are
-
-Discord, Telegram, community calls, etc. Live participation matters: Q&A, exercises, discussion, feedback loops.
-
-### 6) We record it and publish it
-
-Workshops are recorded and published so the knowledge keeps working after the live moment. This is also how we keep the program accountable and durable.
-
-Recording is required for facilitator payment. If a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
+**Recording is required for facilitator payment. If a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.**
 
 When capacity allows, we can also support restreaming and/or simultaneous translation.
 
@@ -130,29 +105,17 @@ When capacity allows, we can also support restreaming and/or simultaneous transl
 
 ## What your proposal should include
 
-### Topic + learning outcomes
+* Topic + learning outcomes 
 
-What’s the session about, and what will people be able to do afterward?
+* Format (single or series; demo / guided exercise / teardown / clinic / discussion) 
 
-### Format + structure
+* Date window + duration 
 
-Single workshop or series? What’s the shape: demo, guided exercise, teardown, clinic, discussion, Q&A, group build?
+* Language 
 
-### Date + duration
+* Materials/links (repo/docs/slides/examples) 
 
-Plan in advance so we can promote properly.
-
-### Language
-
-Any language is welcome.
-
-### Materials + links
-
-Anything participants should prepare? Repo/docs/slides/example files?
-
-### Promotion (lightweight)
-
-We’ll promote too, but your voice matters. A simple commitment to share it with your network goes a long way.
+* Promotion (lightweight): commit to sharing once with your network
 
 ---
 
@@ -164,7 +127,7 @@ Zk Av Club is not here to extract value from contributors. We’re here to suppo
 
 * We aim for durable public knowledge (recordings + documentation). 
 
-* We treat workshops as community infrastructure — not content farming.
+* We treat workshops as community infrastructure—not content farming.
 
 ---
 
@@ -172,11 +135,8 @@ Zk Av Club is not here to extract value from contributors. We’re here to suppo
 
 Have an idea—even rough—send it in. We’ll help shape it into something participatory and useful.
 
-Apply to facilitate → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+Apply to facilitate → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
 
 Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
-
 — Zk Av Club
-
-Don’t just watch.
