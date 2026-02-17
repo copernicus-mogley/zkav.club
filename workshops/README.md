@@ -141,4 +141,4 @@ Apply to facilitate → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
 Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
-— Zk Av Club
+— [Zk Av Club](https://www.zkav.club)
