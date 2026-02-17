@@ -1,7 +1,5 @@
 # Lead Your Own Zk Av Club Foundry Workshop!
 
-# Zk Av Club Workshops (2026)
-
 In 2026 we’re entering a new phase of Zk Av Club Workshops — built around what makes the club work: community conversation and hands-on collaboration.
 
 Last year we ran the Zk Av Club Foundry series (including Salons and Workshops). Foundry isn’t continuing as a program, but those sessions are still solid examples of the learning culture we’re growing: practical, friendly, experimental, and shaped by the people who show up.
