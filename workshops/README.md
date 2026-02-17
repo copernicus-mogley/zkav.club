@@ -6,13 +6,13 @@ Foundry isn’t continuing as a program, but last year’s sessions are still gr
 
 If you want to teach something, test an idea in public, or learn together with your community, you’re in the right place.
 
-Quick links:
+**Quick links:**
 
-* Apply to facilitate a workshop → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
+* **Apply to facilitate a workshop** → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
 
-* Suggest a workshop topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15) 
+* **Suggest a workshop topic** → [https://tally.so/r/68Na15](https://tally.so/r/68Na15) 
 
-* Browse past workshops → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
+* **Browse past workshops** → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
 ---
 
@@ -22,13 +22,13 @@ Zk Av Club Workshops are conversational learning sessions where people learn by 
 
 What we want:
 
-* Real back-and-forth (not just lectures) 
+* **Real back-and-forth** (not just lectures) 
 
-* Shared exploration (we build understanding together) 
+* **Shared exploration** (we build understanding together) 
 
-* Useful outcomes (skills, artifacts, or clear next steps)
+* **Useful outcomes** (skills, artifacts, or clear next steps)
 
-Want to run one? Apply → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
+Want to run one? Apply → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
 Have an idea you want someone else to teach? Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
@@ -36,14 +36,13 @@ Have an idea you want someone else to teach? Suggest a topic → [https://tally.
 
 ## Why facilitate?
 
-* Community impact: Share practical knowledge, unblock others, build real capability. 
+* **Community impact:** Share practical knowledge, unblock others, and help communities build real capability. 
 
-* Personal growth: Improve teaching, communication, and facilitation. 
- 
- 
-* Visibility + connection: Meet aligned collaborators and join an open learning network. 
+* **Personal growth:** Improve teaching, communication, and facilitation. 
 
-* Support + reward: We help produce + promote—and facilitators are paid in Zcash.
+* **Visibility + connection:** Meet aligned collaborators and join an open learning network. 
+
+* **Support + reward:** We help you produce + promote—and facilitators are **paid in Zcash**.
 
 ---
 
@@ -51,13 +50,13 @@ Have an idea you want someone else to teach? Suggest a topic → [https://tally.
 
 We’re intentionally broad. Bring your craft.
 
-* Technical: tooling, privacy workflows, node ops, dev onboarding, infrastructure, security basics 
+* **Technical:** tooling, privacy workflows, node ops, dev onboarding, infrastructure, security basics 
 
-* Media + production: recording, editing, livestreaming, captions, archiving, documentation workflows 
+* **Media + production:** recording, editing, livestreaming, captions, archiving, documentation workflows 
 
-* Community skills: facilitation, governance patterns, communication, onboarding, storytelling 
+* **Community skills:** facilitation, governance patterns, communication, onboarding, storytelling 
 
-* Creative + experimental: demos, “build with me,” teardown sessions, clinic-style troubleshooting
+* **Creative + experimental:** demos, “build with me,” teardown sessions, clinic-style troubleshooting
 
 If it helps a community do something real, it probably fits.
 
@@ -67,37 +66,37 @@ If it helps a community do something real, it probably fits.
 
 Browse the archive → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
-Typical themes:
+**Typical themes:**
 
-* Editing clinics: open-source tools, clip workflows 
+* **Editing clinics:** open-source tools, clip workflows 
 
-* Remote production: livestreaming/restreaming, privacy-first calls, broadcast setups 
+* **Remote production:** livestreaming/restreaming, privacy-first calls, broadcast setups 
 
-* Accessibility: live translation, real-time transcription, speech-to-text 
+* **Accessibility:** live translation, real-time transcription, speech-to-text 
 
-* Community broadcasting: amplifying events without centralizing control 
+* **Community broadcasting:** amplifying events without centralizing control 
 
-* Recording Station practice: field workflow, recaps, lessons learned 
+* **Recording Station practice:** field workflow, recaps, lessons learned 
 
-* Research + archiving: “hacker-librarian” methods and durable publishing
+* **Research + archiving:** “hacker-librarian” methods and durable publishing
 
 ---
 
 ## How it works in 2026
 
-1. You propose an idea — what you’ll teach/explore and what attendees will walk away with. 
+1. **You propose an idea** — what you’ll teach/explore and what attendees will walk away with.
 
-    * Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
+   * Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
-2. We shape it together — tighten scope, clarify outcomes, design for participation. 
+2. **We shape it together** — tighten scope, clarify outcomes, design for participation.
 
-3. We schedule + promote — with enough runway to recruit participants. 
+3. **We schedule + promote** — with enough runway to recruit participants.
 
-4. We run a test session — quick tech check for audio/video/screen share. 
+4. **We run a test session** — quick tech check for audio/video/screen share.
 
-5. Host it live — where your people already are. Participation matters: Q&A, exercises, discussion. 
+5. **Host it live** — where your people already are. Participation matters: Q&A, exercises, discussion.
 
-6. Livestream or record + publish — so the knowledge keeps working after the live moment.
+6. **Livestream or record + publish** — so the knowledge keeps working after the live moment.
 
 **Recording is required for facilitator payment. If a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.**
 
@@ -107,17 +106,17 @@ When capacity allows, we can also support restreaming and/or simultaneous transl
 
 ## What your proposal should include
 
-* Topic + learning outcomes 
+* **Topic + learning outcomes** 
 
-* Format (single or series; demo / guided exercise / teardown / clinic / discussion) 
+* **Format** (single or series; demo / guided exercise / teardown / clinic / discussion) 
 
-* Date window + duration 
+* **Date window + duration** 
 
-* Language 
+* **Language** 
 
-* Materials/links (repo/docs/slides/examples) 
+* **Materials/links** (repo/docs/slides/examples) 
 
-* Promotion (lightweight): commit to sharing once with your network
+* **Promotion (lightweight):** commit to sharing once with your network
 
 ---
 
@@ -137,8 +136,8 @@ Zk Av Club is not here to extract value from contributors. We’re here to suppo
 
 Have an idea—even rough—send it in. We’ll help shape it into something participatory and useful.
 
-Apply to facilitate → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
+**Apply to facilitate** → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
-Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+**Suggest a topic** → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
 — [Zk Av Club](https://www.zkav.club)
