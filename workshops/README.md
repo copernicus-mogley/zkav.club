@@ -6,6 +6,14 @@ Last year we ran the Zk Av Club Foundry series (including Salons and Workshops).
 
 If you want to teach something, test an idea in public, or learn together with your community, you’re in the right place.
 
+Quick links:
+
+* Apply to facilitate a workshop → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD) 
+
+* Suggest a workshop topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15) 
+
+* Browse past workshops → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/) 
+
 ---
 
 ## What are Zk Av Club Workshops?
@@ -21,6 +29,8 @@ What we want:
 * Useful outcomes (skills, artifacts, or clear next steps)
 
 Workshops can be standalone sessions or a series, and can happen wherever your community already meets.
+
+Want to run one? [Apply here](https://tally.so/r/A7B0MD). Have an idea you want someone else to teach? [Suggest a topic](https://tally.so/r/68Na15).
 
 ---
 
@@ -90,6 +100,8 @@ Common themes across the full list:
 
 Share what you want to explore/teach and what attendees will walk away with.
 
+[Submit the proposal form](https://tally.so/r/A7B0MD)
+
 ### 2) We shape it together
 
 We’ll tighten the scope, clarify learning outcomes, and design the session for participation.
@@ -158,12 +170,12 @@ Zk Av Club is not here to extract value from contributors. We’re here to suppo
 
 ## Apply to facilitate a workshop
 
-If you’ve got an idea — even a rough one — submit it. We’ll help refine it into something people will actually want to attend.
+Have an idea—even rough—send it in. We’ll help shape it into something participatory and useful.
 
-Apply now: [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+Apply to facilitate → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
-What community workshops would you like to see at the Zk Av Club in 2026? 
-Let us know! [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+
 
 — Zk Av Club
 
