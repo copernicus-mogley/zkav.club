@@ -2,7 +2,7 @@
 
 In 2026 we’re evolving Zk Av Club Workshops into a simple format: conversational sessions where people learn by doing.
 
-Foundry isn’t continuing as a program, but last year’s sessions are still great examples of the culture—practical, friendly, experimental.
+Foundry isn’t continuing as a program, but last year’s sessions are still great examples of the culture—practical, friendly, experimental. Check out the list of past workshops below.
 
 If you want to teach something, test an idea in public, or learn together with your community, you’re in the right place.
 
