@@ -1,97 +1,172 @@
 # Lead Your Own Zk Av Club Foundry Workshop!
 
-**Have you learned something exciting from Zero-knowledge Audiovisual Club (Zk Av Club) Foundry?**  
+# Zk Av Club Workshops (2026)
 
-Do you have new skills, tools, or innovative ideas that you're eager to explore with your communities?  
+In 2026 we’re entering a new phase of Zk Av Club Workshops — built around what makes the club work: community conversation and hands-on collaboration.
 
-We're looking for everyone who wants to share what we've learned together and what you're doing with that newfound knowledge. This is your chance to lead an interactive workshop, empower others, and be rewarded in Zcash.
+Last year we ran the Zk Av Club Foundry series (including Salons and Workshops). Foundry isn’t continuing as a program, but those sessions are still solid examples of the learning culture we’re growing: practical, friendly, experimental, and shaped by the people who show up.
 
-## Why lead a Zk Av Club Foundry Workshop?
-
-- **Community Impact**: Share your audiovisual skills and knowledge, empowering others with new creative and technical abilities. 
-
-- **Visibility and Recognition**: Host an exploration of new ideas with a community committed to cooperation and innovation. 
-
-- **Personal Growth**: Enhance your presentation and teaching skills in a collaborative and friendly environment—*your own community!* 
-
-- **Direct Reward**: Get paid in Zcash for your time and knowledge.
-
-## How can you participate?
-
-Community-led Zk Av Club Foundry Workshops must be livestreamed to an interactive chat platform where your active community gathers (like Discord, Telegram, etc.) so you can take live questions and feedback. 
-
-Workshops must also be recorded or, better yet, also streamed to a platform that records, like YouTube.
-
-### Key points to structure your workshop proposal:
-
-1. **Topic and Content** 
-
-   - Your workshop must center on audiovisual techniques and tools that have been covered in Zk Av Club Foundry sessions and workshops. We encourage you to build upon these foundations and share your unique insights and practical applications. 
-   
-   - **Workshop Topics** (More coming soon!): 
-   
-     - Restreaming a virtual conference or meetup 
-     - Live transcription and translation 
-     - Community-led workshop production 
-     - Basic video editing for social media (clips) 
-     - Internet Archive Command-line Interface (CLI) 
-     - Recording station development and deployments 
-     - Introduction to livestream production 
-     - Equipment for great audio production 
-     - Audio post-production and cleanup 
-     
-2. **Instructional Design: Make it clear, useful, and accessible!** 
-
-   - **What will participants learn?** Define one or two clear objectives by the end of the workshop. 
-   
-   - **How will you structure it?** For example: a brief introduction, practical demonstrations, a simple exercise, a Q&A session. 
-   
-   - **What methods will you use?** Visual presentations, live software demos, project examples, open discussions? 
-   
-   - **Will you need supporting materials?** Useful links, resources, example files, a short tutorial?
-
-3. **Proposed Date and Duration** 
-
-   - Please indicate your preferred date to livestream your workshop.
-
-4. **Required Resources** 
-
-   - Detail any specific tools, software, or resources that you or participants might need for the workshop. For example:
-     - An internet connect.
-     - Video/audio editing software.
-     - Access to P2P or decentralized platforms. 
-     - Basic hardware requirements (if applicable, such as a good internet connection for streaming).
-
-5. **Language** 
-
-   - Your workshop can be delivered in any language. Please specify the language in your proposal.
-
-6. **Need for Simultaneous Translation** 
-
-   - Your workshop may be restreamed with simultaneous translation to Zk Av Club channels for a wider audience. This means that we can handle the translation and streaming to our channels, so just be aware of this added reach and coordinate with the Zk Av Club Foundry team if you want this support! 
-
-7. **Availability for Test Connection** 
-
-   - It's important that we conduct a test rehearsal with you before the workshop. This ensures everything is being done correctly and works perfectly (audio, video, screen sharing, etc.). Please confirm your availability for this rehearsal.
-
-8. **Required Promotional Materials** 
-
-   - To help us promote your event, we ask that you provide the following along with your proposal: 
-   
-     - A detailed outline or script of your workshop content 
-     - A thumbnail designed for YouTube (1280x720px) 
-     - A thumbnail designed for Luma (1080x1080px) 
-     - An event description that we can use on our promotional platforms 
-     - Links to your workshop and livestream event 
+If you want to teach something, test an idea in public, or learn together with your community, you’re in the right place.
 
 ---
 
-## Submit Your Proposal!
+## Examples from past workshops
 
-We're eager to hear your ideas and see how you can enrich our communities with new audiovisual skills. If you're ready to share what you're passionate about and be a leader at Zk Av Club, send us your proposal detailing the points above.
+Want to get a feel for the vibe and range of topics? We keep an archive of past sessions:
 
-[Apply today!](https://app.formbricks.com/s/cme8iywslcm58v501xsjaz9l7) 
+* Previous workshops: [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
-We look forward to attending your next workshop very soon!
+The list is intentionally mixed: classic skill-shares (editing, transcription, translation) and “program experiments” from Zk Av Club Foundry (recaps, how-we-do-this sessions, and community ops).
 
-— Zk Av Club: Don’t just watch.
+Common themes across the full list:
+
+* Editing clinics: open-source editing tools, clip-contest workflows 
+
+* Remote production: livestreaming/restreaming, privacy-first calls, broadcast setups 
+
+* Accessibility: live translation, real-time transcription, speech-to-text
+ 
+* Community broadcasting: how to amplify events without centralizing control 
+
+* Recording Station practice: field workflow, recaps, lessons learned 
+
+* Research + archiving: “Hacker‑Librarian” methods and durable publishing
+
+---
+
+## What are Zk Av Club Workshops?
+
+Zk Av Club Workshops are conversational learning sessions where people learn by doing. They can be technical or non-technical, beginner-friendly or advanced, and held in any language.
+
+What we want:
+
+* Real back-and-forth (not just lectures) 
+
+* Shared exploration (we build understanding together) 
+
+* Useful outcomes (skills, artifacts, or clear next steps)
+
+Workshops can be standalone sessions or a series, and can happen wherever your community already meets.
+
+---
+
+## Why facilitate a workshop?
+
+### Community impact
+
+Share practical knowledge, unblock others, and help communities build real capability.
+
+### Personal growth
+
+Improve your teaching, communication, and facilitation skills.
+
+### Visibility + connection
+
+You meet aligned collaborators and become part of a global network committed to open learning and purposeful tech.
+
+### Support + reward
+
+We help you produce and promote the session — and workshops are monetized, with compensation for your time and experience, paid in Zcash.
+
+---
+
+## What kinds of workshops fit?
+
+We’re intentionally broad. Bring your craft.
+
+* Technical: tooling, privacy workflows, node ops, dev onboarding, infrastructure, security basics 
+
+* Media + production: recording, editing, livestreaming, captions, archiving, documentation workflows 
+
+* Community skills: facilitation, governance patterns, communication, onboarding, storytelling 
+
+* Creative + experimental: demos, “build with me” sessions, teardown sessions, clinic-style troubleshooting
+
+If it helps a community do something real, it probably fits.
+
+---
+
+## How it works in 2026
+
+### 1) You propose an idea
+
+Share what you want to explore/teach and what attendees will walk away with.
+
+### 2) We shape it together
+
+We’ll tighten the scope, clarify learning outcomes, and design the session for participation.
+
+### 3) We schedule + promote
+
+We plan ahead so promotion and participant recruitment actually work.
+
+### 4) We run a test session
+
+A quick tech check for audio/video/screen share to reduce day-of stress.
+
+### 5) Host it live — where your people already are
+
+Discord, Telegram, community calls, etc. Live participation matters: Q&A, exercises, discussion, feedback loops.
+
+### 6) We record it and publish it
+
+Workshops are recorded and published so the knowledge keeps working after the live moment. This is also how we keep the program accountable and durable.
+
+Recording is required for facilitator payment. If a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
+
+When capacity allows, we can also support restreaming and/or simultaneous translation.
+
+---
+
+## What your proposal should include
+
+### Topic + learning outcomes
+
+What’s the session about, and what will people be able to do afterward?
+
+### Format + structure
+
+Single workshop or series? What’s the shape: demo, guided exercise, teardown, clinic, discussion, Q&A, group build?
+
+### Date + duration
+
+Plan in advance so we can promote properly.
+
+### Language
+
+Any language is welcome.
+
+### Materials + links
+
+Anything participants should prepare? Repo/docs/slides/example files?
+
+### Promotion (lightweight)
+
+We’ll promote too, but your voice matters. A simple commitment to share it with your network goes a long way.
+
+---
+
+## Our collaboration principle
+
+Zk Av Club is not here to extract value from contributors. We’re here to support people who do real work.
+
+* We collaborate openly and give clear credit. 
+
+* We aim for durable public knowledge (recordings + documentation). 
+
+* We treat workshops as community infrastructure — not content farming.
+
+---
+
+## Apply to facilitate a workshop
+
+If you’ve got an idea — even a rough one — submit it. We’ll help refine it into something people will actually want to attend.
+
+Apply now: [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+
+What community workshops would you like to see at the Zk Av Club in 2026? 
+Let us know! [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+
+— Zk Av Club
+
+Don’t just watch.
