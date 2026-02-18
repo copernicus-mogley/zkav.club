@@ -32,7 +32,7 @@ Formats: Podcast-style conversations • Short interviews • Panel recaps • P
 
 ### Workshops
 
-Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad: in can be technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
+Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad: it can be technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. If it helps a community do something real, it probably fits.
 
@@ -116,12 +116,6 @@ Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy 
 
 ### Join the club
 
-Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
-
-Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
-
-Want to facilitate a workshop? [Start here](/workshops/).
-
 ### Partner communities
 
 We collaborate with peer communities around the world. Contact us today :)
@@ -129,6 +123,12 @@ We collaborate with peer communities around the world. Contact us today :)
 * [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
 
 Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/)
+
+Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
+
+Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
+
+Want to facilitate a workshop? [Start here](/workshops/).
 
 ### Support Zk Av Club
 
