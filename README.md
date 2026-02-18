@@ -26,13 +26,15 @@ Zk Av Club Recording Station is a simple setup we bring to events so people can 
 
 You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
 
-What comes out of it is an open, community-made archive built for creators, filmmakers, and historians: multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, source masters are released under CC BY-SA.
+What comes out of it is an open, community-made archive built for creators, filmmakers, and historians.
+
+We publish multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, source masters are released under CC BY-SA.
 
 [Read the details](/recording-station/) (how it works, licensing + consent).
 
 ### Workshops
 
-Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad: it can be technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
+Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. If it helps a community do something real, it probably fits.
 
