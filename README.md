@@ -10,11 +10,11 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 * [Testimonials](#testimonials)
 
-* [Additional reading](#additional-reading)
+* [Reading](#additional-reading)
 
-* [Our friends](#partner-communities)
+* [Join the Club](#join-the-club)
 
-* [Join the club](#join-the-club)
+* [Partner Communities](#partner-communities)
 
 * [Support](#support-zk-av-club)
 
@@ -114,14 +114,6 @@ Beyond being an incubator for creativity, ZK AV has evolved into a highly effect
 
 Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley)
 
-### Partner communities
-
-We collaborate with peer communities around the world. Contact us today :)
-
-* [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
-
-Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/)
-
 ### Join the club
 
 Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
@@ -129,6 +121,14 @@ Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profi
 Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
 
 Want to facilitate a workshop? [Start here](/workshops/).
+
+### Partner communities
+
+We collaborate with peer communities around the world. Contact us today :)
+
+* [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
+
+Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/)
 
 ### Support Zk Av Club
 
