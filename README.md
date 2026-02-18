@@ -22,15 +22,13 @@ For events, we also offer AV support that can be volunteer (Recording Station) o
 
 ### Recording Station
 
-Zk Av Club Recording Station is a simple setup we bring to events so people can record solid audio/video without needing their own gear or a production team.
+Zk Av Club Recording Station is a simple setup we bring to events so people can record solid audio/video without bringing gear or a production team.
 
-You bring the conversation. We handle the mics, framing, and levels. You get final approval before anything goes out.
+You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
 
-How it works: Step in / sign up • Record • You review + approve • Then we upload the source masters to Internet Archive under CC BY-SA.
+What comes out of it is an open, community-made archive built for creators, filmmakers, and historians: multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, source masters are released under CC BY-SA.
 
-Formats: Podcast-style conversations • Short interviews • Panel recaps • Personal video journals • Weird experiments.
-
-[Read the details](/recording-station/) (including licensing + consent).
+[Read the details](/recording-station/) (how it works, licensing + consent).
 
 ### Workshops
 
