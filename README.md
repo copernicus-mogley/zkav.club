@@ -26,7 +26,7 @@ Zk Av Club Recording Station is a simple setup we bring to events so people can 
 
 You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
 
-What comes out of it is an open, community-made archive built for creators, filmmakers, and historians.
+What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
 
 We publish multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, source masters are released under CC BY-SA.
 
