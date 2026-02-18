@@ -2,7 +2,7 @@
 
 We support open-source and decentralized tech communities with privacy-first AV training, workshops, and practical documentation.
 
-For events, we also offer AV support that can be volunteer (Recording Station) or paid (livestreams and staged talks) at meetups, hackathons, conferences, and camps.
+For events, we offer AV support that can be volunteer (Recording Station) or paid (livestreams and staged talks) at meetups, hackathons, conferences, and camps.
 
 ### Navigation
 
@@ -28,7 +28,7 @@ You bring the conversation. We handle the mics and capture. Nothing gets publish
 
 What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
 
-We publish multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, source masters are released under CC BY-SA.
+We publish multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, the originals are released under CC BY-SA.
 
 [Read the details](/recording-station/) (how it works, licensing + consent).
 
