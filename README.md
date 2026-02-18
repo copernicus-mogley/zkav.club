@@ -1,8 +1,8 @@
 ## Zero-knowledge Audiovisual Club
 
-We help open-source and decentralized tech communities tell their own stories, without giving up privacy.
+We help open-source and decentralized tech communities tell their own stories, without giving up privacy, and we publish the results as an open community archive.
 
-We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps so communities can keep their own record, on their own terms.
+We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
 
 For events, our AV support can be volunteer (Recording Station) or paid, with a privacy-first, FOSS-leaning approach.
 
