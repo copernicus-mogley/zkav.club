@@ -1,6 +1,8 @@
 ## Zero-knowledge Audiovisual Club
 
-We help open-source and decentralized tech communities tell their own stories, without giving up privacy, and we publish the results as an open community archive.
+We help open-source and decentralized tech communities tell their own stories, without giving up privacy, and we return the results to an open community archive.
+
+People, stories, tools.
 
 We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
 
@@ -24,13 +26,15 @@ For events, our AV support can be volunteer (Recording Station) or paid, with a 
 
 ### Recording Station
 
-Zk Av Club Recording Station is a simple setup we bring to events so people can record solid audio/video without bringing gear or a production team.
+Zk Av Club Recording Station is a simple setup we bring to the field so people can record solid audio/video without bringing gear or a production team.
 
 You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
 
 What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
 
-We publish multi-angle camera originals, uncompressed audio, and meaningful metadata. After guest approval, the originals are released under CC BY-SA.
+We publish multi-angle camera originals, uncompressed audio, and clean metadata. After guest approval, the originals are released under CC BY-SA.
+
+We hand off the originals, the metadata, and the credits so others can keep building.
 
 [Read the details](/recording-station/) (how it works, licensing + consent).
 
@@ -110,11 +114,15 @@ Facilitators are paid in Zcash, and workshops are recorded and published so the 
 
 ### Join the Club
 
-Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
+Follow us on [X](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
 
 Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
 
-Want to bring Recording Station to your event, book a paid gig, or support a project? Reach out on 𝕏 or Bluesky.
+If you want to help, there are lots of ways: recording, editing, sound, metadata, translation, ops.
+
+Don’t just watch.
+
+Want to bring Recording Station to your event, book a paid gig, or support a project? DM us on X or Bluesky.
 
 Want to facilitate a workshop? [Start here](/workshops/).
 
@@ -124,7 +132,7 @@ We collaborate with peer communities around the world.
 
 Partners are communities we’ve recorded with, trained, supported with publishing infrastructure, or otherwise worked alongside.
 
-To reach us, use the links in [Join the Club](#join-the-club) (𝕏, Bluesky, or the calendar).
+To reach us, use the links in [Join the Club](#join-the-club) (X, Bluesky, or the calendar).
 
 * [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
 
