@@ -6,17 +6,17 @@ We support open-source and decentralized tech communities with privacy-first AV 
 
 * [Recording Station](#recording-station)
 
-- [Workshops](#workshops)
+* [Workshops](#workshops)
 
-- [Testimonials](#testimonials)
+* [Testimonials](#testimonials)
 
-- [Reading](#additional-reading)
+* [Additional Reading](#additional-reading)
 
-- [Join the Club](#join-the-club)
+* [Join the Club](#join-the-club)
 
-- [Partner Communities](#partner-communities)
+* [Partner Communities](#partner-communities)
 
-- [Support](#support-zk-av-club)
+* [Support](#support-zk-av-club)
 
 ### Recording Station
 
