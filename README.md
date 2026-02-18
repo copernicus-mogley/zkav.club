@@ -116,7 +116,7 @@ We collaborate with peer communities around the world.
 
 Partners are communities we’ve recorded with, trained, supported with publishing infrastructure, or otherwise worked alongside.
 
-Contact us today :)
+To reach us, use the links in [Join the Club](#join-the-club) (𝕏, Bluesky, or the calendar).
 
 * [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
 
@@ -136,15 +136,13 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 ### Support Zk Av Club
 
-Your support funds privacy-first AV training, volunteer recordings, post-production, and public archives.
+If you want more workshops, more recordings, and a stronger public archive that isn’t controlled by big platforms, here’s how to back us.
 
 Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the proposal and thread: [https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913)
 
-We’re also looking for support from other communities who want this work to exist (or want direct help). If your community needs privacy-respecting recording workflows, AV training, publishing infrastructure, or long-term archiving/metadata support, get in touch and let’s talk sponsorship or a service agreement.
+If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club). Support it, or hire us. Either way helps.
 
-Zk Av Club activities are made possible by contributions from organizations, communities and people who care about decentralized tech, open-source software, privacy and freedom. Please help us continue by donating to the addresses below.
-
-We don’t track donors; on-chain only shows what the chain reveals.
+If you’d like to pitch in, the addresses below are the simplest way. (We don’t do donor tracking.)
 
 [Zcash](https://z.cash)
 
