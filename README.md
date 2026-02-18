@@ -2,7 +2,9 @@
 
 We help open-source and decentralized tech communities tell their own stories, without giving up privacy.
 
-We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps with event AV support that can be volunteer (Recording Station) or paid. Streams, stage, hybrid setups, and whatever your community dreams up, with a privacy-first, FOSS-leaning approach.
+We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps.
+
+For events, our AV support can be volunteer (Recording Station) or paid, with a privacy-first, FOSS-leaning approach.
 
 ### Navigation
 
