@@ -32,7 +32,7 @@ Formats: Podcast-style conversations • Short interviews • Panel recaps • P
 
 ### Workshops
 
-Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad:  technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
+Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad: in can be technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. If it helps a community do something real, it probably fits.
 
