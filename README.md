@@ -168,7 +168,7 @@ Pick a chain you already use, then copy/paste an address below.
 
 **Most used**
 
-[Zcash](https://z.cash) (shielded preferred)
+**[Zcash](https://z.cash)** (shielded preferred)
 
 <img src="assets/qr/zkav_donate_zcash_qr.png" alt="Zcash donation QR" width="180" />
 
@@ -176,7 +176,7 @@ Pick a chain you already use, then copy/paste an address below.
 u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5kqc4ngwqd6k35tkf7j84a59m5u6tlyc73x07ckwtdqv475t9q3w58073d9xt55ppw4945jnudghuqjmyf4rh263srrmmvy2kwpy
 ```
 
-[Ethereum](https://ethereum.org) (gm friendly)
+**[Ethereum](https://ethereum.org)** (gm friendly)
 
 <img src="assets/qr/zkav_donate_ethereum_qr.png" alt="Ethereum donation QR" width="180" />
 
@@ -184,7 +184,7 @@ u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5k
 0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
 ```
 
-[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) (old reliable)
+**[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)** (old reliable)
 
 <img src="assets/qr/zkav_donate_bitcoin_qr.png" alt="Bitcoin donation QR" width="180" />
 
@@ -196,19 +196,19 @@ bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 
 **More options**
 
-[Polkadot](https://polkadot.com/)
+**[Polkadot](https://polkadot.com/)**
 
 ```
 13bC34oT8iyD4VGT7suPB5ec22dvRoQG5m3GdwZWUFrfg7aa
 ```
 
-[Filecoin](https://www.filecoin.io/)
+**[Filecoin](https://www.filecoin.io/)**
 
 ```
 f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 ```
 
-[Monero](https://www.getmonero.org/)
+**[Monero](https://www.getmonero.org/)**
 
 ```
 48Yg7xLxLzH8jnyPRje7ZXbziE9YqXE3zhXYAHt1sHSvGRDGHjDqoDMN6hH2oCvbxTZiaApTXex19i5qGMzb8ZM99ZJE4MM
