@@ -112,6 +112,8 @@ Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profi
 
 Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
 
+Want to bring Recording Station to your event, book a paid gig, or support a project? Reach out on 𝕏 or Bluesky.
+
 Want to facilitate a workshop? [Start here](/workshops/).
 
 ### Partner Communities
