@@ -186,6 +186,8 @@ u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5k
 
 [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) (old reliable)
 
+<img src="assets/qr/zkav_donate_bitcoin_qr.png" alt="Bitcoin donation QR" width="180" />
+
 ```
 bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 ```
