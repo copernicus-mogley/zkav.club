@@ -16,7 +16,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 * [Join the club](#join-the-club)
 
-* [Donate](#support-zk-av-club)
+* [Support](#support-zk-av-club)
 
 ### Recording Station
 
