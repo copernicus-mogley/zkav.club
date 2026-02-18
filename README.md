@@ -120,8 +120,6 @@ Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and wor
 
 If you want to help, there are lots of ways: recording, editing, sound, metadata, translation, ops.
 
-Don’t just watch.
-
 Want to bring Recording Station to your event, book a paid gig, or support a new project? DM us on X or Bluesky.
 
 Want to facilitate a workshop? [Start here](/workshops/).
