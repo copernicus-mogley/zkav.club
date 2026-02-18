@@ -130,12 +130,6 @@ We collaborate with peer communities around the world. Contact us today :)
 
 Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/)
 
-Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
-
-Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
-
-Want to facilitate a workshop? [Start here](/workshops/).
-
 ### Support Zk Av Club
 
 Your support funds privacy-first AV training, volunteer recordings, post-production, and public archives.
