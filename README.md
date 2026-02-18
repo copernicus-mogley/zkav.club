@@ -116,6 +116,12 @@ Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy 
 
 ### Join the club
 
+Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
+
+Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
+
+Want to facilitate a workshop? [Start here](/workshops/).
+
 ### Partner communities
 
 We collaborate with peer communities around the world. Contact us today :)
