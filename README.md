@@ -6,7 +6,7 @@ People, stories, tools.
 
 We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
 
-For events, our AV support can be volunteer (Recording Station) or paid, with a privacy-first, FOSS-leaning approach.
+For events, our AV support can be volunteer (Recording Station) or paid, always with a privacy-first, FOSS-leaning approach.
 
 ### Navigation
 
