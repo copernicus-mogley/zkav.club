@@ -6,17 +6,17 @@ We support open-source and decentralized tech communities with privacy-first AV 
 
 * [Recording Station](#recording-station)
 
-* [Workshops](#workshops)
+- [Workshops](#workshops)
 
-* [Testimonials](#testimonials)
+- [Testimonials](#testimonials)
 
-* [Reading](#additional-reading)
+- [Reading](#additional-reading)
 
-* [Join the Club](#join-the-club)
+- [Join the Club](#join-the-club)
 
-* [Partner Communities](#partner-communities)
+- [Partner Communities](#partner-communities)
 
-* [Support](#support-zk-av-club)
+- [Support](#support-zk-av-club)
 
 ### Recording Station
 
@@ -102,19 +102,19 @@ Facilitators are supported and paid in Zcash—and workshops are recorded + publ
 >
 > — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director
 
-### Additional reading
+### Additional Reading
 
-* [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/)
+* [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) (Sep 26, 2025): What “community” means here, and why we don’t try to be a permanent online hangout.
 
-* [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/)
+- [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/) (Mar 3, 2025): What we are (and aren’t): training, documentation, and support for people doing the work.
 
-* [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md)
+- [Original forum thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) (Jan 12, 2023): The original thread: early context, goals, and a running history.
 
-* [Announcement thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733)
+- [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) (Jun 16, 2015): Why we share this way: livestreams, P2P, and the ethics of distribution.
 
-Created by [Ryan Taylor](https://troublefront.com/blog/endtroducing/) aka [Adjy Leak](https://youtube.com/adjyleak) aka [Copernicus Mogley](https://github.com/copernicus-mogley)
+- About the founder: [Ryan Taylor](https://troublefront.com/blog/endtroducing/) (aka [Adjy Leak](https://youtube.com/adjyleak)).
 
-### Join the club
+### Join the Club
 
 Follow us on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
 
@@ -122,9 +122,13 @@ Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and wor
 
 Want to facilitate a workshop? [Start here](/workshops/).
 
-### Partner communities
+### Partner Communities
 
-We collaborate with peer communities around the world. Contact us today :)
+We collaborate with peer communities around the world.
+
+Partners are communities we’ve recorded with, trained, supported with publishing infrastructure, or otherwise worked alongside.
+
+Contact us today :)
 
 * [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
 
