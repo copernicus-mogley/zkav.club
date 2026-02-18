@@ -4,9 +4,9 @@ We help open-source and decentralized tech communities tell their own stories, w
 
 People, stories, tools.
 
-We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
+We run Workshops, publish practical AV docs, and support meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
 
-For events, our AV support can be volunteer (Recording Station) or paid, always with a privacy-first, FOSS-leaning approach.
+Recording Station is volunteer-run. The rest gets funded through gigs, grants, sponsors, ecosystem support.
 
 ### Navigation
 
@@ -26,7 +26,7 @@ For events, our AV support can be volunteer (Recording Station) or paid, always 
 
 ### Recording Station
 
-Zk Av Club Recording Station is a simple setup we bring to the field so people can record solid audio/video without bringing gear or a production team.
+Zk Av Club Recording Station is a simple setup we bring to events so people can record solid audio/video without bringing gear or a production team.
 
 You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
 
@@ -42,7 +42,7 @@ We hand off the originals, the metadata, and the credits so others can keep buil
 
 Zk Av Club Workshops are conversational, hands-on sessions where people learn by doing, together.
 
-They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps a community do something real, it probably fits. 
+They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps a community do something real, it probably fits. 
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. The goal isn’t a lecture to a quiet room, it’s a session people can take part in.
 
@@ -122,7 +122,7 @@ If you want to help, there are lots of ways: recording, editing, sound, metadata
 
 Don’t just watch.
 
-Want to bring Recording Station to your event, book a paid gig, or support a project? DM us on X or Bluesky.
+Want to bring Recording Station to your event, book a paid gig, or support a new project? DM us on X or Bluesky.
 
 Want to facilitate a workshop? [Start here](/workshops/).
 
@@ -154,7 +154,7 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 If you want more workshops, more recordings, and a stronger public archive that isn’t controlled by big platforms, here’s how to back us.
 
-Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the proposal and thread: [https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913)
+Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
 
 If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club). Support it, or hire us. Either way helps.
 
