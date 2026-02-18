@@ -34,11 +34,13 @@ We publish multi-angle camera originals, uncompressed audio, and meaningful meta
 
 ### Workshops
 
-Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
+Zk Av Club Workshops are conversational, hands-on sessions where people learn by doing, together.
 
-Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. If it helps a community do something real, it probably fits.
+They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps a community do something real, it probably fits. 
 
-Facilitators are supported and paid in Zcash—and workshops are recorded + published so the knowledge keeps working after the live moment. Recording is required for facilitator payment; if a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
+Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. The goal isn’t a lecture to a quiet room, it’s a session people can take part in.
+
+Facilitators are paid in Zcash, and workshops are recorded and published so the knowledge keeps working after the live moment. Recording is required for facilitator payment; if a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
 
 [Learn about the program and browse past sessions](/workshops/).
 
