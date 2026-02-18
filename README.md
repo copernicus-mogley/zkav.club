@@ -1,10 +1,8 @@
 ## Zero-knowledge Audiovisual Club
 
-We support open-source and decentralized tech communities with privacy-first AV training, workshops, and practical documentation.
+We help open-source and decentralized tech communities tell their own stories, without giving up privacy.
 
-For events, we offer AV support that can be volunteer (Recording Station) or paid at meetups, hackathons, conferences, and camps.
-
-We do paid gigs too: streams, stage, hybrid setups, and everything in between. Whatever your community dreams up, with a privacy-first, FOSS-leaning approach.
+We run Workshops, publish practical AV docs, and show up at meetups, hackathons, conferences, and camps with event AV support that can be volunteer (Recording Station) or paid. Streams, stage, hybrid setups, and whatever your community dreams up, with a privacy-first, FOSS-leaning approach.
 
 ### Navigation
 
