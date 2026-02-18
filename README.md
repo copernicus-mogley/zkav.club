@@ -20,7 +20,7 @@ We support open-source and decentralized tech communities by delivering privacy-
 
 ### Recording Station
 
-**Zk Av Club Recording Station** is a simple setup we bring to events so people can record solid audio/video without needing their own gear or a production team.
+Zk Av Club Recording Station is a simple setup we bring to events so people can record solid audio/video without needing their own gear or a production team.
 
 You bring the conversation. We handle the mics, framing, and levels. You get final approval before anything goes out.
 
@@ -32,7 +32,7 @@ Formats: Podcast-style conversations • Short interviews • Panel recaps • P
 
 ### Workshops
 
-**Zk Av Club Workshops** are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad:  technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
+Zk Av Club Workshops are conversational learning sessions where people learn by doing. They’re community-led and intentionally broad:  technical or non-technical, beginner-friendly or advanced, and in any language—always with a bias toward FOSS, privacy, and decentralized (p2p) tech.
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. If it helps a community do something real, it probably fits.
 
