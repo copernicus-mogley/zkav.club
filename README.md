@@ -2,7 +2,9 @@
 
 We support open-source and decentralized tech communities with privacy-first AV training, workshops, and practical documentation.
 
-For events, we offer AV support that can be volunteer (Recording Station) or paid (livestreams and staged talks) at meetups, hackathons, conferences, and camps.
+For events, we offer AV support that can be volunteer (Recording Station) or paid at meetups, hackathons, conferences, and camps.
+
+We do paid gigs too: streams, stage, hybrid setups, and everything in between. Whatever your community dreams up, with a privacy-first, FOSS-leaning approach.
 
 ### Navigation
 
