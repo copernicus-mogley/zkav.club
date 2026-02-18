@@ -158,11 +158,9 @@ Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for su
 
 If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club). Support it, or hire us. Either way helps.
 
-If you’d like to pitch in, the addresses below are the simplest way. (We don’t do donor tracking.)
+If you’d like to pitch in, pick a chain you already use and copy/paste an address below.
 
-We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). Use whichever is easiest.
-
-Pick a chain you already use, then copy/paste an address below.
+We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). No donor tracking.
 
 ---
 
