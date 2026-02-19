@@ -32,7 +32,7 @@ Zk Av Club Recording Station is a simple setup we bring to events so people can 
 
 You bring the conversation. We handle the mics, framing, and levels. Nothing goes out without your OK.
 
-We’ll keep it simple, even when the room isn’t.
+We keep it chill, even when the room isn’t.
 
 The content belongs to the creator(s) in it. Our job is to record it with care and steward the source safely into the public archive, with clean metadata and a respectful consent trail.
 
