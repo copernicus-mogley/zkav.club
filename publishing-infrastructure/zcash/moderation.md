@@ -6,9 +6,9 @@ This PeerTube instance exists to publish and steward Zcash ecosystem video in a 
 
 Related docs:
 
-* How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
-* Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
-* Project hub: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+* How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
+* Monthly reports: [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
+* Project hub: [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
 
 ## Who this policy applies to
 
@@ -99,7 +99,7 @@ The following categories may be handled with faster or more restrictive actions 
 
 * Federation is **curated**.
 * We may block or unfollow instances that routinely distribute spam, harassment/hate, or other policy-violating content.
-* We maintain a simple federation log (date + action + reason). For operational tracking, see the federation log stub on the hub page: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+* We maintain a simple federation log (date + action + reason). For operational tracking, see the federation log stub on the hub page: [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
 
 What “curated” means (MVP):
 
@@ -117,4 +117,4 @@ We will publish:
 
 ## Policy changes
 
-This policy may evolve as the instance grows. Material changes should be reflected in the hub page change log: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+This policy may evolve as the instance grows. Material changes should be reflected in the hub page change log: [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/infrastructure/zcash/)

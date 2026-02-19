@@ -4,11 +4,11 @@
 
 This page is the rolling monthly record for operating the Zcash PeerTube instance: what we shipped, what broke (if anything), what it cost, what took time, and what we’re doing next.
 
-Project hub (plan + tracker): [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+Project hub (plan + tracker): [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
 
-How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
 
-Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
 
 ## How this page works
 
@@ -26,7 +26,7 @@ Rule of thumb:
 * If it moved the project toward “instance live,” it belongs in the report (decisions, procurement, setup progress, tests, blockers).
 * Runtime metrics that don’t exist yet should be marked **N/A (pre-launch)**.
 
-Source of truth for status is the [Phase 5 tracker](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3) on the hub page; the monthly report captures *what changed this month and why*.
+Source of truth for status is the [Phase 5 tracker](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3) on the hub page; the monthly report captures *what changed this month and why*.
 
 ## Table of contents
 
@@ -46,7 +46,7 @@ All costs are reported in USD.
 
 **Project status (pre-launch)**
 
-* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
+* Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3)
 * Summary: Published Milestone 1 plan as the canonical project hub page.
 
 **Highlights**
@@ -116,16 +116,16 @@ All costs are reported in USD.
 
 **Project status (pre-launch)**
 
-* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
+* Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
 * Summary: Turned the hub page into a living project tracker and published companion documentation (moderation, publishing, rolling reports) to support MVP operations.
 
 **Highlights**
 
 * Published companion docs:
 
-  * Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
-  * How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
-  * Monthly reports (this page): [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+  * Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
+  * How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
+  * Monthly reports (this page): [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
 * Refactored the hub page for readability (quick view + jump links) and upgraded Phase 5 into an operational tracker (cadence and refreshed targets).
 * Clarified privacy posture throughout (why PeerTube, no third-party embeds on instance pages, and privacy notes in moderation/report handling).
 
@@ -194,7 +194,7 @@ All costs are reported in USD.
 
 **Project status (pre-launch)**
 
-* Phase 5 tracker link: [https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3](https://www.zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
+* Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3)
 * Summary:
 
 ## **Highlights**

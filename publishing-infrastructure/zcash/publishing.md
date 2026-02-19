@@ -4,11 +4,11 @@
 
 This page explains how videos are prepared, uploaded, reviewed, and published on the Zcash PeerTube instance.
 
-Project hub: [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+Project hub: [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
 
-Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
 
-Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+Monthly reports: [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
 
 ## Who publishes here (MVP)
 

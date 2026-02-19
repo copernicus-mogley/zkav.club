@@ -46,7 +46,7 @@ PeerTube for Zcash is our first public implementation under this umbrella, but i
 
 If you’re looking for the Zcash PeerTube decision, rollout plan, and how publishing will work, start here:
 
-[Zcash PeerTube](/infrastructure/zcash)
+[Zcash PeerTube](/publishing-infrastructure/zcash)
 
 ---
 
