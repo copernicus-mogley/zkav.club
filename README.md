@@ -30,7 +30,9 @@ Recording Station is volunteer-run. The rest gets funded through gigs, grants, s
 
 Zk Av Club Recording Station is a simple setup we bring to events so people can record solid audio/video without bringing gear or a production team.
 
-You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
+You bring the conversation. We handle the mics, framing, and levels. Nothing goes out without your OK.
+
+We’ll keep it simple, even when the room isn’t.
 
 The content belongs to the creator(s) in it. Our job is to record it with care and steward the source safely into the public archive, with clean metadata and a respectful consent trail.
 
@@ -46,7 +48,9 @@ We make sure the source lands in the archive with the metadata and credits intac
 
 Zk Av Club Workshops are conversational, hands-on sessions where people learn by doing, together.
 
-They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps a community do something real, it probably fits.
+Bring questions. Bring half-finished ideas.
+
+They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps someone do something real, it probably fits.
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. The goal isn’t a lecture to a quiet room, it’s a session people can take part in.
 
