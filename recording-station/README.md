@@ -62,15 +62,15 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 * Step up to the mic with your thoughts, work, and wild ideas.
 
-* Want Recording Station at your event? Let your community tell the story. Got a suggestion or lead? Drop it here: [Event leads form](https://tally.so/r/VLJ22E).
+* Want Recording Station at your event? [Drop an event lead](https://tally.so/r/VLJ22E).
 
 * Want to help run a Recording Station? Check the volunteer kit (roles, gear, and how we work on-site): [Recording Station Volunteer Kit](/recording-station/volunteer/).
 
-* Help more voices be heard by spreading the word.
-
-* Support the work (or hire us) so we can keep doing it.
+* Want this at more events? Donate, fund a project, or sponsor an activation. [Support Zk Av Club](/#support-zk-av-club).
 
 ## Join the club
+
+Help more voices be heard by spreading the word!
 
 Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social).
 
