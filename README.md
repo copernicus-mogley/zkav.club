@@ -140,11 +140,13 @@ Follow us on [X](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/
 
 Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
 
-If you want to help, there are lots of ways: recording, editing, sound, metadata, translation, ops.
+Got an event lead? [Drop it here](https://tally.so/r/VLJ22E).
+
+Want to facilitate a workshop? [Start here](/workshops/).
 
 Want to bring Recording Station to your event, book a paid gig, or support a new project? DM us on X or Bluesky.
 
-Want to facilitate a workshop? [Start here](/workshops/).
+If you want to help, there are lots of ways: recording, editing, sound, translation, ops — or just show up and say hi.
 
 ### Partner Communities
 
