@@ -10,9 +10,9 @@ Privacy note: today, if someone wants to watch a Zcon video, they generally have
 
 **Last updated:** 2026-02-11
 
-**Publication location:** [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+**Publication location:** [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
 
-**Project home:** This page is the main source of information for tracking the Zcash PeerTube project under Zk Av Club’s Community Media Infrastructure + Support service: [https://www.zkav.club/infrastructure](https://www.zkav.club/infrastructure)
+**Project home:** This page is the main source of information for tracking the Zcash PeerTube project under Zk Av Club’s Community Media Infrastructure + Support service: [https://zkav.club/publishing-infrastructure](https://zkav.club/publishing-infrastructure)
 
 **Grant proposal (context):** [https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913)
 
@@ -41,9 +41,9 @@ Current status last updated: 2026-02-11 (matches Phase 5 tracker).
 
 Quick links:
 
-* Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
-* How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
-* Monthly reports: [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+* Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
+* How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
+* Monthly reports: [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
 
 Jump to:
 
@@ -59,9 +59,9 @@ Jump to:
 
 Where things live:
 
-* Policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
-* Workflow: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
-* Ops history (rolling): [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)
+* Policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
+* Workflow: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
+* Ops history (rolling): [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
 * This hub: decisions + tracking
 
 ---
@@ -165,7 +165,7 @@ Privacy note: prioritize operational choices that keep viewing simple and privat
 
 This section is a short operational summary. The full public policy lives here:
 
-* Moderation policy: [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation)
+* Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
 
 MVP summary:
 
@@ -251,7 +251,7 @@ Notes:
 
 This section is a short operational summary. The full public workflow lives here:
 
-* How we publish: [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing)
+* How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
 
 Pilot tasks (MVP):
 
@@ -280,9 +280,9 @@ When marking an item Done, add a short note (and optionally a link) in Notes.
 
 | Area       | Item                                                                 | Owner                              | Target date | Status      | Notes / links                                                                                                  |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
-| Docs       | Moderation policy published                                          | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/moderation](https://www.zkav.club/infrastructure/zcash/moderation) |
-| Docs       | How we publish published                                             | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/publishing](https://www.zkav.club/infrastructure/zcash/publishing) |
-| Docs       | Monthly reports & sustainability notes published                     | Zk Av Club                         | 2026-02-11  | Done        | [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports)       |
+| Docs       | Moderation policy published                                          | Zk Av Club                         | 2026-02-11  | Done        | [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation) |
+| Docs       | How we publish published                                             | Zk Av Club                         | 2026-02-11  | Done        | [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing) |
+| Docs       | Monthly reports & sustainability notes published                     | Zk Av Club                         | 2026-02-11  | Done        | [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)       |
 | Planning   | Publish content + usage assumptions                                  | Zk Av Club admins                  | 2026-02-28  | Not started | Publish on hub Section 3 + link here when live                                                                 |
 | Infra      | Instance publicly reachable over HTTPS                               | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
 | Access     | Registration mode set to invite-only                                 | Zk Av Club admins                  | 2026-03-07  | Not started |                                                                                                                |
@@ -298,7 +298,7 @@ Milestone 3 is complete when all non-doc items above are marked Done (or explici
 
 ### Phase 6 — Operate & iterate (monthly)
 
-Monthly reports will be maintained as one rolling page at [https://www.zkav.club/infrastructure/zcash/reports](https://www.zkav.club/infrastructure/zcash/reports).
+Monthly reports will be maintained as one rolling page at [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports).
 
 #### Operational logs (MVP stubs)
 
@@ -373,7 +373,7 @@ Milestone 1 is complete when the plan includes the items below. This section is 
 
 **Milestone 1 completion date:** 2026-01-28
 
-**Milestone 1 artifact (published):** [https://www.zkav.club/infrastructure/zcash/](https://www.zkav.club/infrastructure/zcash/)
+**Milestone 1 artifact (published):** [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
 
 Checklist (Milestone 1):
 
