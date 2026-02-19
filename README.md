@@ -70,7 +70,7 @@ A lot of this is quiet work (permissions, policies, workflows). Some of it is so
 
 Zcash PeerTube is our first public implementation, but it’s just one example.
 
-[Explore Community Media Infrastructure](/publishing-infrastructure).
+[Explore Community Publishing Infrastructure](/publishing-infrastructure).
 
 ### Testimonials
 
