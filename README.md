@@ -14,6 +14,8 @@ Recording Station is volunteer-run. The rest gets funded through gigs, grants, s
 
 * [Workshops](#workshops)
 
+* [Publishing Infrastructure](#publishing-infrastructure)
+
 * [Testimonials](#testimonials)
 
 * [Join the Club](#join-the-club)
@@ -30,11 +32,13 @@ Zk Av Club Recording Station is a simple setup we bring to events so people can 
 
 You bring the conversation. We handle the mics and capture. Nothing gets published without your approval.
 
+The content belongs to the creator(s) in it. Our job is to record it with care and steward the source safely into the public archive, with clean metadata and a respectful consent trail.
+
 What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
 
 We publish multi-angle camera originals, uncompressed audio, and clean metadata. After guest approval, the originals are released under CC BY-SA.
 
-We hand off the originals, the metadata, and the credits so others can keep building.
+We make sure the source lands in the archive with the metadata and credits intact, ready for others to remix, reference, and build on.
 
 [Read the details](/recording-station/) (how it works, licensing + consent).
 
@@ -42,13 +46,31 @@ We hand off the originals, the metadata, and the credits so others can keep buil
 
 Zk Av Club Workshops are conversational, hands-on sessions where people learn by doing, together.
 
-They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps a community do something real, it probably fits. 
+They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps a community do something real, it probably fits.
 
 Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. The goal isn’t a lecture to a quiet room, it’s a session people can take part in.
 
 Facilitators are paid in Zcash, and workshops are recorded and published so the knowledge keeps working after the live moment. Recording is required for facilitator payment; if a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
 
 [Learn about the program and browse past sessions](/workshops/).
+
+### Publishing Infrastructure
+
+Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked. If you want your archive to outlive the platform mood swings, start here.
+
+We help communities build media homes they can depend on:
+
+* Publishing systems: community-controlled media (Fediverse and beyond), setup/admin, repeatable workflows, and organization for discovery.
+
+* Stewardship and governance: consent defaults, moderation support, takedown/reporting workflows, roles/permissions, and versioning/updates.
+
+We’re trying to make decentralized publishing feel nice. What you get: the stack, the workflow, and the runbook.
+
+A lot of this is quiet work (permissions, policies, workflows). Some of it is solid ops. Some of it is experiments in the wild: p2p distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
+
+Zcash PeerTube is our first public implementation, but it’s just one example.
+
+[Explore Community Media Infrastructure](/infrastructure).
 
 ### Testimonials
 
@@ -154,7 +176,9 @@ If you want more workshops, more recordings, and a stronger public archive that 
 
 Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
 
-If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club). Support it, or hire us. Either way helps.
+If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club).
+
+Support it, or hire us. Either way helps.
 
 If you’d like to pitch in, pick a chain you already use and copy/paste an address below.
 
@@ -164,7 +188,7 @@ We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). No donor tracki
 
 **Most used**
 
-**[Zcash](https://z.cash)** (shielded preferred)
+[**Zcash**](https://z.cash) (shielded preferred)
 
 <img src="assets/qr/zkav_donate_zcash_qr.png" alt="Zcash donation QR" width="180" />
 
@@ -172,7 +196,7 @@ We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). No donor tracki
 u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5kqc4ngwqd6k35tkf7j84a59m5u6tlyc73x07ckwtdqv475t9q3w58073d9xt55ppw4945jnudghuqjmyf4rh263srrmmvy2kwpy
 ```
 
-**[Ethereum](https://ethereum.org)** (gm friendly)
+[**Ethereum**](https://ethereum.org) (gm friendly)
 
 <img src="assets/qr/zkav_donate_ethereum_qr.png" alt="Ethereum donation QR" width="180" />
 
@@ -180,7 +204,7 @@ u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5k
 0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
 ```
 
-**[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)** (old reliable)
+[**Bitcoin**](https://en.wikipedia.org/wiki/Bitcoin) (old reliable)
 
 <img src="assets/qr/zkav_donate_bitcoin_qr.png" alt="Bitcoin donation QR" width="180" />
 
@@ -192,19 +216,19 @@ bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 
 **More options**
 
-**[Polkadot](https://polkadot.com/)**
+[**Polkadot**](https://polkadot.com/)
 
 ```
 13bC34oT8iyD4VGT7suPB5ec22dvRoQG5m3GdwZWUFrfg7aa
 ```
 
-**[Filecoin](https://www.filecoin.io/)**
+[**Filecoin**](https://www.filecoin.io/)
 
 ```
 f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 ```
 
-**[Monero](https://www.getmonero.org/)**
+[**Monero**](https://www.getmonero.org/)
 
 ```
 48Yg7xLxLzH8jnyPRje7ZXbziE9YqXE3zhXYAHt1sHSvGRDGHjDqoDMN6hH2oCvbxTZiaApTXex19i5qGMzb8ZM99ZJE4MM
