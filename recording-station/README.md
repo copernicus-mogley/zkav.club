@@ -70,7 +70,7 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## Join the club
 
-Help more voices be heard by spreading the word!
+Help more voices be heard by spreading the word! 
 
 Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social).
 
