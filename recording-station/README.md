@@ -2,9 +2,11 @@
 
 Helping communities document themselves to build an open, living archive for and by the people involved.
 
-Our little media lab that drops into events. Step in, record, and play.
+An ad-hoc media lab that drops into events. Step in, record, and play.
 
-Nothing goes out without your OK. After that, the source lands in the public archive (CC BY-SA) with the credits and context intact.
+Nothing goes out without your OK. After that, we publish the originals to Internet Archive under CC BY-SA (share + remix with attribution).
+
+Want a feel for the vibe? Here are edited highlights from Berlin Blockchain Week 2025: [Recording Station sessions](https://youtube.com/playlist?list=PL9eB_cR4oMehZCgFJqCIVPb253lVWnr8d). (Archive source drops coming soon.)
 
 ## What this is
 
@@ -12,7 +14,7 @@ Most event coverage is top-down. Recording Station is the opposite: a place at t
 
 It can be a deep-dive conversation, a quick reflection, a hallway riff, a group recap, or something weird. We’re here for all of it.
 
-Once you approve the recording, we get the source safely into the public archive (Internet Archive) with credits and context, then release it under CC BY-SA.
+Once you approve the recording, we handle the upload to Internet Archive.
 
 ## Why we do it
 
@@ -34,7 +36,7 @@ We support setup and recording, and can help host if you want. Low-pressure, inc
 
 🕓 **Sessions**
 
-Walk in or book ahead: solo, pairs, roundtables, or live panels.
+Walk in and sign up on-site: solo, pairs, roundtables, or live panels.
 
 ## Formats to spark inspiration
 
@@ -50,13 +52,13 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## How it flows
 
-1. **Step in / book a slot:** Walk up or reserve a time.
+1. **Step in / sign up:** Walk up and grab a slot on-site.
 
 2. **Record:** We handle mics, framing, and levels. Optional host or prompts if you want them.
 
 3. **You review:** Watch/listen back and approve.
 
-4. **We publish the source:** Originals go to Internet Archive under CC BY-SA with credits and context.
+4. **We publish the source:** Originals go to Internet Archive under CC BY-SA.
 
 ## Get involved
 
@@ -70,7 +72,7 @@ Podcast-style conversations • Short-form interviews • Panel recaps & event r
 
 ## Join the club
 
-Help more voices be heard by spreading the word! 
+Tell a friend. Bring a friend.
 
 Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social).
 
