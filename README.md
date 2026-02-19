@@ -34,9 +34,7 @@ You bring the conversation. We handle the mics, framing, and levels. We keep it 
 
 The content belongs to the creator(s) in it. Our job is to record it with care and steward the source safely into the public archive, with the context and credits that make it usable later, plus a respectful consent trail. Nothing goes out without your OK.
 
-Then the source goes up: multi-angle camera originals and uncompressed audio. After guest approval, the originals are released under CC BY-SA.
-
-The archive entry keeps the credits and context intact, ready for others to remix, reference, and build on.
+Then the source goes up: multi-angle camera originals and uncompressed audio. After guest approval, the originals are released under CC BY-SA. The archive entry keeps the credits and context intact, ready for others to remix, reference, and build on.
 
 What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
 
@@ -192,17 +190,23 @@ We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). No donor tracki
 
 [**Zcash**](https://z.cash) (shielded preferred)
 
+<img src="assets/qr/zkav_donate_zcash_qr.png" alt="Zcash donation QR" width="180" />
+
 ```
 u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5kqc4ngwqd6k35tkf7j84a59m5u6tlyc73x07ckwtdqv475t9q3w58073d9xt55ppw4945jnudghuqjmyf4rh263srrmmvy2kwpy
 ```
 
 [**Ethereum**](https://ethereum.org) (gm friendly)
 
+<img src="assets/qr/zkav_donate_ethereum_qr.png" alt="Ethereum donation QR" width="180" />
+
 ```
 0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
 ```
 
 [**Bitcoin**](https://en.wikipedia.org/wiki/Bitcoin) (old reliable)
+
+<img src="assets/qr/zkav_donate_bitcoin_qr.png" alt="Bitcoin donation QR" width="180" />
 
 ```
 bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
