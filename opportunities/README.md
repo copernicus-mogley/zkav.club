@@ -1,12 +1,12 @@
 # Opportunities
 
-Work comes in waves. When it does, we want a call list of people who can jump in and make something real.
+Work comes in waves. When it does, we want a network of people who can jump in and make something real.
 
 We’re stewarding an archive that future creators, historians, and builders can actually use. Because community memory shouldn’t depend on someone else’s terms of service.
 
 That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and the care work that turns raw files into complete items. Care work = organizing, labeling, checking, and following up so items move reliably from the event to the public archive and stay usable.
 
-Some gigs are one-off. Some are recurring. If you want to be on the list, this page is the doorway.
+Some gigs are one-off. Some are recurring. If you want to be in the network, this page is the doorway.
 
 ## How it works
 
@@ -14,15 +14,15 @@ Most of the work here is paid, per contribution (for example: a transcript clean
 
 Two important notes:
 
-* **Recording Station crew** is volunteer-only (that service is intentionally community-run). See: [Volunteer Kit](/recording-station/volunteer/) and [licensing + consent](/recording-station/licensing/).
+* **Recording Station crew** is volunteer-only (that service is intentionally community-run). Details below.
 
 * **Coordinator roles** (below) are paid monthly.
 
 When you join a gigs network:
 
-* Start in **Get involved** below.
+* See **Get involved** below.
 
-* When work shows up, we reach out with what it is, when it’s due, and what it pays (you’ll always see the rate before accepting).
+* When work shows up, we reach out with what it is, when it’s due, and what it pays (you’ll always see what it pays before accepting).
 
 * If you’re available, you take the gig. If not, no stress.
 
@@ -44,7 +44,7 @@ You’re the person who makes sure the source survives.
 
 **What you do**
 
-* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff. (Owner = the main contact responsible for approvals.)
+* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff. (Owner = Recording Station term for the main contact responsible for approvals.)
 
 * Decide what details actually matter for each item type: keep templates sane, evolve the schema as the archive grows.
 
@@ -78,7 +78,7 @@ You’re the person who helps the archive feel alive.
 
 **What you do**
 
-* Coordinate the transcription roster (scribes) to get accurate transcripts (and fix the weird bits).
+* Coordinate the network of scribes to get accurate transcripts (and fix the weird bits).
 
 * Pull quotes, moments, and through-lines from recordings.
 
@@ -116,15 +116,15 @@ To apply, DM us via the **Join the Club** links on the homepage (see Get involve
 
 * what kinds of communities/events you’re into
 
-## Gigs (call list)
+## Gigs (skill networks)
 
 These are the skill networks we’re building: groups of people we can call on when we need transcription, clips, editing, motion, livestream help, and more.
 
-This is the call list for people who like shipping media with care.
+This is for people who like shipping media with care.
 
-Want on the list? Start in **Get involved** below.
+Want in? Start in **Get involved** below.
 
-(If you already DM’d us for something else, just say “add me to the call list,” share your skill(s), and drop a link to your work.)
+(If you already DM’d us for something else, just say “add me to the network,” share your skill(s), and drop a link to your work.)
 
 ### Workshops
 
@@ -132,7 +132,7 @@ We’re building a network of **workshop facilitators** for conversational, lear
 
 You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
 
-To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll do the rest.
+To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm payment.
 
 Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Program details: [Workshops program](/workshops/) and [past sessions](/workshops/past/).
 
@@ -151,7 +151,7 @@ Transcription is split into two parts. One person can do both, or we can split i
   * Fix timing, missing words, and confusing sections.
   * Pull a few strong quotes that help the Storyteller write titles, descriptions, tags, and summaries.
 
-This network is coordinated by the Storyteller.
+The network of scribes is coordinated by the Storyteller.
 
 ### Event production
 
@@ -187,11 +187,11 @@ This network is coordinated by the Storyteller.
 
 ## Get involved
 
-* Want in? DM us via the [Join the Club links on the homepage](/#join-the-club) with your skill(s) or role, timezone, availability, and samples (or a short description). We’ll review it and follow up if we need anything else before adding you to the call list.
+* Want in? DM us via the [Join the Club links on the homepage](/#join-the-club) with your skill(s) or role, timezone, availability, and samples (or a short description). A coordinator will review it and follow up if we need anything else before adding you to the network.
 
 * Have an event lead for Recording Station or a paid gig? [Drop it here](https://tally.so/r/VLJ22E).
 
-* Want to facilitate a workshop? Apply here: [workshop facilitator form](https://tally.so/r/A7B0MD). Program details: [/workshops/](/workshops/).
+* Want to facilitate a workshop? Apply here: [workshop facilitator form](https://tally.so/r/A7B0MD). Submitting the form starts a conversation — we’ll follow up. Program details: [/workshops/](/workshops/).
 
 * Want to support a project or sponsor an activation? See: [Support Zk Av Club](/#support-zk-av-club) and [Publishing Infrastructure](/publishing-infrastructure/).
 
@@ -201,7 +201,7 @@ This network is coordinated by the Storyteller.
 
 * We work across communities and ecosystems; sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re scrappy.
 
-* Coordinator roles are mostly async and collaborative: you’ll be working with other coordinators and the gigs call list to assemble complete deliverables.
+* Coordinator roles are mostly async and collaborative: you’ll be working with other coordinators and the gigs networks to assemble complete deliverables.
 
 * Our default is lightweight and text-first: each Recording Station item keeps a simple “source of truth” file that evolves with the item (format is flexible).
 
