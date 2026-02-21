@@ -28,11 +28,11 @@ We keep scopes readable and credits real. See [What we care about](#what-we-care
 
 ## Coordinator roles
 
-We have two roles we’re actively staffing right now. These are mostly async roles, paid monthly through the end of 2026 (with a chance to extend).
+We have two roles we’re actively staffing right now. Paid monthly through the end of 2026 (with a chance to extend).
 
-Mostly async (work on your own schedule, with deadlines and occasional check-ins).
+Work is mostly async: you work on your own schedule, with deadlines and occasional check-ins.
 
-These are coordinating roles that work across the club (not one-off gigs). You’re the glue between "we recorded it" and "it’s ready for the long run."
+These are coordinating roles that work across the club. You’re the glue between "we recorded it" and "it’s ready for the long run."
 
 ### The Archivist
 
