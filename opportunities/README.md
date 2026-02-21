@@ -12,9 +12,9 @@ Most work here is paid per contribution (for example: a transcript cleanup, a cl
 
 Two important notes:
 
-* **Recording Station crew** is volunteer-only (that service is intentionally community-run). Details in [Volunteer](#volunteer-recording-station-crew).
+* Recording Station crew is volunteer-only (that service is intentionally community-run). Details in [Volunteer](#volunteer-recording-station-crew).
 
-* **Coordinator roles** (see [below](#coordinator-roles)) are paid monthly.
+* Coordinator roles (see [below](#coordinator-roles)) are paid monthly.
 
 **Skill networks**
 
@@ -68,7 +68,7 @@ Success = someone finds it two years later and can actually use it.
 
 **Tools we like (not required)**
 
-Text-first workflows (docs/markdown/whatever the project uses), basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
+Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
 
 ### The Storyteller
 
@@ -126,7 +126,7 @@ This is the call list for people who want the work to live on.
 
 Want in? Start in [Get involved](#get-involved) below.
 
-(If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.)
+If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.
 
 ### Workshops
 
