@@ -88,7 +88,7 @@ You’re the person who helps the archive feel alive.
 
 * Keep public indexes readable and browseable (the workshops page, archive lists, and collections people browse), in collaboration with the Archivist.
 
-Success = the right person clicks, understands, and shares it without needing a guide.
+Success = someone finds it years later, understands what it is, and can build from it.
 
 **You’re a fit if you**
 
