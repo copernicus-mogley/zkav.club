@@ -78,7 +78,7 @@ You’re the person who helps the archive speak clearly.
 
 **What you do**
 
-* Coordinate the network of scribes to get accurate transcripts (see [Transcription](#transcription-scribes)). (and fix the weird bits).
+* Coordinate the network of scribes to get accurate transcripts (see [Transcription](#transcription-scribes)), and fix the weird bits.
 
 * Pull quotes, moments, and through-lines from recordings.
 
@@ -118,7 +118,7 @@ To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) (
 
 ## Gigs (skill networks)
 
-These are the skill networks we’re building: people we can call on for transcription, clips, editing, motion, livestream help, and more.
+These are the skill networks we’re building: people we can call on for transcription, clips, editing, motion, livestream help, and more. (If we don’t have work for your skill right now, we’ll keep your link on file.)
 
 This is the call list for people who want the work to live on.
 
@@ -132,7 +132,7 @@ We’re building a network of **workshop facilitators** for conversational, lear
 
 You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
 
-To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm it meets the program requirements, then confirm payment.
+To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm it meets the program requirements, then we’ll confirm payment.
 
 Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
@@ -173,7 +173,9 @@ The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 ## Volunteer (Recording Station crew)
 
-[Recording Stations](/recording-station/) are volunteer-run on purpose. No minimum commitment. Help when you can. If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
+[Recording Stations](/recording-station/) are volunteer-run on purpose. No minimum commitment. Help when you can.
+
+If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
 
 * [Recording Station Volunteer Kit](/recording-station/volunteer/)
 
