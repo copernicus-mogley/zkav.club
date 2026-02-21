@@ -157,6 +157,8 @@ The [network of scribes](#transcription-scribes) is coordinated by the [Storytel
 
 ### Event production
 
+Event production gigs tend to be bursty and tied to specific dates. When we’re staffed and funded, we’ll bring these skills in to make the capture clean and the live moment steady. If you join this skill network, expect irregular timing (and we’ll confirm scope + pay before anything is booked).
+
 * **Camera Operator:** Handheld, tripod, multi-cam.
 
 * **Livestream Technician:** Keep the audio/video flow stable: OBS/scenes, audio, network, routing.
@@ -165,7 +167,7 @@ The [network of scribes](#transcription-scribes) is coordinated by the [Storytel
 
 ### Post-production
 
-These skills matter, but right now they’re secondary to getting source material safely published and documented. Post-production gigs are funding-dependent and may be occasional until we secure more support. If you join this skill network, expect lighter and less predictable volume for now.
+These skills matter, but for now they’re funding-dependent and more occasional while we prioritize getting source material safely published and documented. If you join this skill network, expect lighter and less predictable volume for now.
 
 * **Editing:** Long-form edits. (Example: one full talk or one full conversation, cleaned up and ready to publish.)
 
