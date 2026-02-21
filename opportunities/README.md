@@ -10,7 +10,7 @@ Some gigs are one-off and some recur. If you want to be in the network, this pag
 
 Most work here is paid per contribution (for example: a transcript cleanup, a clip, a thumbnail set, an edit pass).
 
-Two important notes (jump links): [Volunteer](#volunteer-recording-station-crew) • [Coordinator roles](#coordinator-roles).
+Two important notes:
 
 * **Recording Station crew** is volunteer-only (that service is intentionally community-run). Details in [Volunteer](#volunteer-recording-station-crew).
 
@@ -78,7 +78,7 @@ You’re the person who helps the archive speak clearly.
 
 **What you do**
 
-* Coordinate the network of scribes so transcripts are accurate, readable, and delivered on time.
+* Coordinate the [network of scribes](#transcription-scribes) so transcripts are accurate, readable, and delivered on time.
 
 * Listen/watch fast and find the thread. Pull the names, terms, and context that make the recording understandable later.
 
@@ -153,7 +153,7 @@ Transcription is split into two parts. One person can do both, or we can split i
   * Fix timing, missing words, and confusing sections.
   * Pull a few strong quotes that help the [Storyteller](#the-storyteller) write titles, descriptions, tags, and summaries.
 
-The network of scribes is coordinated by the [Storyteller](#the-storyteller).
+The [network of scribes](#transcription-scribes) is coordinated by the [Storyteller](#the-storyteller).
 
 ### Event production
 
