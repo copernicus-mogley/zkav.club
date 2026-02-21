@@ -58,15 +58,17 @@ Success = someone finds it two years later and can actually use it.
 
 **You’re a fit if you**
 
-* Care about archival hygiene and don’t mind “care work” (organizing, labeling, checking details, and following up).
+* You like detail-heavy care work: organizing, labeling, checking, and following up.
 
-* Can follow a workflow and improve it over time (including making details templates clearer and more useful).
+* You can triage and keep a queue moving (even with messy inputs).
 
-* Write clearly and keep a chill, respectful tone with creators and teams.
+* You can make judgement calls and improve templates over time.
+
+* You write clearly and treat consent + credits as real obligations.
 
 **Tools we like (not required)**
 
-[Internet Archive](https://archive.org/) workflows (plus [Recording Station context](/recording-station/) and [licensing + consent](/recording-station/licensing/)), basic media tooling, spreadsheets, checklists/task boards, and file naming/versioning discipline.
+Text-first workflows (docs/markdown/whatever the project uses), basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
 
 ### The Storyteller
 
@@ -76,29 +78,31 @@ You’re the person who helps the archive speak clearly.
 
 **What you do**
 
-* Coordinate the network of scribes to get accurate transcripts (see [Transcription](#transcription-scribes)), and fix the weird bits.
+* Coordinate the network of scribes so transcripts are accurate, readable, and delivered on time.
 
-* Pull quotes, moments, and through-lines from recordings.
+* Listen/watch fast and find the thread. Pull the names, terms, and context that make the recording understandable later.
 
 * Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
 
-* Hand the text package to the Archivist (transcript + title/description/tags/quotes + any notes that help publish it right).
-
 * Keep public indexes readable and browseable (the workshops page, archive lists, and collections people browse), in collaboration with the Archivist.
+
+* Hand off transcripts and text elements to the Archivist (title, description, tags, quotes, notes, links).
 
 Success = someone finds it years later, understands what it is, and can build from it.
 
 **You’re a fit if you**
 
-* Can listen/watch quickly and find the thread.
+* You can listen/watch fast and find the thread.
 
-* Write clean copy with personality, without hype.
+* You can write context that still works years later (not hype, not SEO).
 
-* Like collaborating with editors, organizers, and creators.
+* You can coordinate scribes and raise quality gently.
+
+* You hand off clean text packages so the Archivist can publish without friction.
 
 **Tools we like (not required)**
 
-Text-first workflows (docs/markdown/whatever the project uses), basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
+Clear writing, comfort working from transcripts, and a good sense for what context will matter later.
 
 **Apply / raise your hand**
 
