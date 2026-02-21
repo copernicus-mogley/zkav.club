@@ -2,15 +2,15 @@
 
 Work comes in waves. When it does, we want people who can step in and help carry it through.
 
-We’re stewarding an archive that future creators, historians, and builders can actually use. Because community memory shouldn’t depend on someone else’s terms of service.
+We’re stewarding an archive designed for future creators, historians, and builders to actually use. Because community memory shouldn’t depend on someone else’s terms of service.
 
-That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and the care work that turns raw files into complete items. Care work = organizing, labeling, checking, and following up so items move reliably from the event to the public archive and stay usable.
+That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and the care work that turns raw files into complete items. Care work means organizing, labeling, checking, and following up so items move reliably from the event to the public archive and stay usable.
 
-Some gigs are one-off. Some recur. If you want to be in the network, this page is the doorway.
+Some gigs are one-off. Some recur. If you want to be in the network, this page is how you get in.
 
 ## How it works
 
-Most of the work here is paid, per contribution (for example: a transcript cleanup, a clip, a thumbnail set, an edit pass).
+Most work here is paid per contribution (for example: a transcript cleanup, a clip, a thumbnail set, an edit pass).
 
 Two important notes (jump links): [Volunteer](#volunteer-recording-station-crew) • [Coordinator roles](#coordinator-roles).
 
@@ -34,7 +34,7 @@ We have two roles we’re actively staffing right now. These are mostly async ro
 
 Mostly async (work on your own schedule, with deadlines and occasional check-ins).
 
-These are coordinating roles that work across the club (not one-off gigs). You’re the glue between “we recorded it” and “it’s usable forever.”
+These are coordinating roles that work across the club (not one-off gigs). You’re the glue between “we recorded it” and “it’s ready for the long run.”
 
 ### The Archivist
 
@@ -52,7 +52,7 @@ You’re the person who makes sure the source survives.
 
 * Keep the “source of truth” file up to date as the item evolves (links, versions, consent status, credits, notes).
 
-* Publish original files to the public archive ([Internet Archive](https://archive.org/) today), with the details needed to make them usable later. (See [Recording Station licensing + consent](/recording-station/licensing/).)
+* Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. (See [Recording Station licensing + consent](/recording-station/licensing/).)
 
 * Keep simple inventories so nothing disappears: what exists, where it lives, what’s missing, what needs follow-up.
 
@@ -132,7 +132,7 @@ We’re building a network of **workshop facilitators** for conversational, lear
 
 You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
 
-To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm payment.
+To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm it meets the program requirements, then confirm payment.
 
 Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
@@ -187,7 +187,7 @@ The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 ## Get involved
 
-* Want in? DM us via the [Join the Club links on the homepage](/#join-the-club) with your skill(s) or role, timezone, availability, and samples (or a short description). A coordinator will review it and follow up if we need anything else before adding you to the network.
+* Want in? DM us via the [Join the Club links on the homepage](/#join-the-club) with your skill(s) or role, timezone, availability, and samples (or a short description). A coordinator will review it and follow up if there’s a potential fit.
 
 * Have an event lead for Recording Station or a paid gig? [Drop it here](https://tally.so/r/VLJ22E).
 
