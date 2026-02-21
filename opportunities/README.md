@@ -165,6 +165,8 @@ The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 ### Post-production
 
+These skills matter, but right now they’re secondary to getting source material safely published and documented. Post-production gigs are funding-dependent and may be occasional until we secure more support. If you join this skill network, expect lighter and less predictable volume for now.
+
 * **Editing:** Long-form edits. (Example: one full talk or one full conversation, cleaned up and ready to publish.)
 
 * **Clips:** 2–4× 30–60s videos for social.
