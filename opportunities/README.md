@@ -12,21 +12,21 @@ Some gigs are one-off. Some are recurring. If you want to be in the network, thi
 
 Most of the work here is paid, per contribution (for example: a transcript cleanup, a clip, a thumbnail set, an edit pass).
 
-Two important notes:
+Two important notes (jump links): [Volunteer](#volunteer-recording-station-crew) • [Coordinator roles](#coordinator-roles).
 
-* **Recording Station crew** is volunteer-only (that service is intentionally community-run). Details below.
+* **Recording Station crew** is volunteer-only (that service is intentionally community-run). Details in [Volunteer](#volunteer-recording-station-crew).
 
-* **Coordinator roles** (below) are paid monthly.
+* **Coordinator roles** (see [below](#coordinator-roles)) are paid monthly.
 
 When you join a gigs network:
 
-* See **Get involved** below.
+* See [Get involved](#get-involved) below.
 
 * When work shows up, we reach out with what it is, when it’s due, and what it pays (you’ll always see what it pays before accepting).
 
 * If you’re available, you take the gig. If not, no stress.
 
-We keep scopes readable and credits real.
+We keep scopes readable and credits real. See [What we care about](#what-we-care-about).
 
 ## Coordinator roles
 
@@ -78,11 +78,11 @@ You’re the person who helps the archive feel alive.
 
 **What you do**
 
-* Coordinate the network of scribes to get accurate transcripts (and fix the weird bits).
+* Coordinate the network of scribes to get accurate transcripts (see [Transcription](#transcription-scribes)). (and fix the weird bits).
 
 * Pull quotes, moments, and through-lines from recordings.
 
-* Turn that into a clean text package — good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
+* Turn that into a clean text package: good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
 
 * Hand the text package to the Archivist (transcript + title/description/tags/quotes + any notes that help publish it right).
 
@@ -104,7 +104,7 @@ Text-first workflows (docs/markdown/whatever the project uses), basic editing li
 
 **Apply / raise your hand**
 
-To apply, DM us via the **Join the Club** links on the homepage (see Get involved below) and include:
+To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) (see [Get involved](#get-involved)) and include:
 
 * which role you want (Archivist / Storyteller)
 
@@ -122,7 +122,7 @@ These are the skill networks we’re building: groups of people we can call on w
 
 This is for people who like shipping media with care.
 
-Want in? Start in **Get involved** below.
+Want in? Start in [Get involved](#get-involved) below.
 
 (If you already DM’d us for something else, just say “add me to the network,” share your skill(s), and drop a link to your work.)
 
@@ -134,7 +134,7 @@ You pick the topic and host it. We can talk about format, livestreaming, and arc
 
 To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm payment.
 
-Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Program details: [Workshops program](/workshops/) and [past sessions](/workshops/past/).
+Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
 ### Transcription (scribes)
 
@@ -149,9 +149,9 @@ Transcription is split into two parts. One person can do both, or we can split i
 
   * Clean up names, jargon, and technical terms.
   * Fix timing, missing words, and confusing sections.
-  * Pull a few strong quotes that help the Storyteller write titles, descriptions, tags, and summaries.
+  * Pull a few strong quotes that help the [Storyteller](#the-storyteller) write titles, descriptions, tags, and summaries.
 
-The network of scribes is coordinated by the Storyteller.
+The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 ### Event production
 
@@ -173,7 +173,7 @@ The network of scribes is coordinated by the Storyteller.
 
 ## Volunteer (Recording Station crew)
 
-[Recording Stations](/recording-station/) are volunteer-run on purpose. No minimum commitment — help when you can. If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
+[Recording Stations](/recording-station/) are volunteer-run on purpose. No minimum commitment. Help when you can. If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
 
 * [Recording Station Volunteer Kit](/recording-station/volunteer/)
 
@@ -191,7 +191,7 @@ The network of scribes is coordinated by the Storyteller.
 
 * Have an event lead for Recording Station or a paid gig? [Drop it here](https://tally.so/r/VLJ22E).
 
-* Want to facilitate a workshop? Apply here: [workshop facilitator form](https://tally.so/r/A7B0MD). Submitting the form starts a conversation — we’ll follow up. Program details: [/workshops/](/workshops/).
+* Want to facilitate a workshop? Apply here: [workshop facilitator form](https://tally.so/r/A7B0MD). Submitting the form starts a conversation. We’ll follow up. Learn about the program: [Zk Av Club Workshops](/workshops/).
 
 * Want to support a project or sponsor an activation? See: [Support Zk Av Club](/#support-zk-av-club) and [Publishing Infrastructure](/publishing-infrastructure/).
 
@@ -201,7 +201,7 @@ The network of scribes is coordinated by the Storyteller.
 
 * We work across communities and ecosystems; sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re scrappy.
 
-* Coordinator roles are mostly async and collaborative: you’ll be working with other coordinators and the gigs networks to assemble complete deliverables.
+* [Coordinator roles](#coordinator-roles) are mostly async and collaborative: you’ll be working with other coordinators and the [gigs networks](#gigs-skill-networks) to assemble complete deliverables.
 
 * Our default is lightweight and text-first: each Recording Station item keeps a simple “source of truth” file that evolves with the item (format is flexible).
 
