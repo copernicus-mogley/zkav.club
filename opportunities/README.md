@@ -1,12 +1,12 @@
 # Opportunities
 
-Work comes in waves. When it does, we want a network of people who can jump in and make something real.
+Work comes in waves. When it does, we want people who can step in and help carry it through.
 
 We’re stewarding an archive that future creators, historians, and builders can actually use. Because community memory shouldn’t depend on someone else’s terms of service.
 
 That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and the care work that turns raw files into complete items. Care work = organizing, labeling, checking, and following up so items move reliably from the event to the public archive and stay usable.
 
-Some gigs are one-off. Some are recurring. If you want to be in the network, this page is the doorway.
+Some gigs are one-off. Some recur. If you want to be in the network, this page is the doorway.
 
 ## How it works
 
@@ -18,7 +18,7 @@ Two important notes (jump links): [Volunteer](#volunteer-recording-station-crew)
 
 * **Coordinator roles** (see [below](#coordinator-roles)) are paid monthly.
 
-When you join a gigs network:
+When you join a skill network:
 
 * See [Get involved](#get-involved) below.
 
@@ -72,7 +72,7 @@ Success = someone finds it two years later and can actually use it.
 
 ### The Storyteller
 
-You’re the person who helps the archive feel alive.
+You’re the person who helps the archive speak clearly.
 
 **Time**: ~8 hours/week
 
@@ -82,7 +82,7 @@ You’re the person who helps the archive feel alive.
 
 * Pull quotes, moments, and through-lines from recordings.
 
-* Turn that into a clean text package: good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
+* Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
 
 * Hand the text package to the Archivist (transcript + title/description/tags/quotes + any notes that help publish it right).
 
@@ -118,9 +118,9 @@ To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) (
 
 ## Gigs (skill networks)
 
-These are the skill networks we’re building: groups of people we can call on when we need transcription, clips, editing, motion, livestream help, and more.
+These are the skill networks we’re building: people we can call on for transcription, clips, editing, motion, livestream help, and more.
 
-This is for people who like shipping media with care.
+This is the call list for people who want the work to live on.
 
 Want in? Start in [Get involved](#get-involved) below.
 
@@ -159,7 +159,7 @@ The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 * **Livestream Technician:** Keep the audio/video flow stable: OBS/scenes, audio, network, routing.
 
-* **Livestream Producer:** Show flow, cues, coordination, calm. Make it happen.
+* **Livestream Producer:** Show flow, cues, coordination, calm. Run the show nice and steady.
 
 ### Post-production
 
@@ -167,7 +167,7 @@ The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 * **Clips:** 2–4× 30–60s videos for social.
 
-* **Thumbnails:** Clean, consistent packages in multiple sizes. (Example: one thumbnail design delivered in 16:9 + 1:1 + 9:16.)
+* **Thumbnails:** Clean, consistent thumbnails sized for where they’ll live. (Example: one thumbnail design delivered in 16:9 + 1:1 + 9:16.)
 
 * **Motion Graphics:** Lower thirds, bumpers, simple packages.
 
@@ -199,12 +199,12 @@ The network of scribes is coordinated by the [Storyteller](#the-storyteller).
 
 * Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
 
-* We work across communities and ecosystems; sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re scrappy.
+* We work across communities and ecosystems; sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got.
 
 * [Coordinator roles](#coordinator-roles) are mostly async and collaborative: you’ll be working with other coordinators and the [gigs networks](#gigs-skill-networks) to assemble complete deliverables.
 
 * Our default is lightweight and text-first: each Recording Station item keeps a simple “source of truth” file that evolves with the item (format is flexible).
 
-* New but hungry? Tell us. We can match some gigs to learning paths.
+* New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
 
 [Back to zkav.club](/) (or jump to [Join the Club](/#join-the-club).)
