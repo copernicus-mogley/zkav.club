@@ -2,7 +2,7 @@
 
 Work comes in waves. When it does, we want people who can step in and help carry it through.
 
-We’re stewarding an archive designed for future creators, historians, and builders to actually use, without depending on someone else’s terms of service. That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and care work that keeps items moving from the event to the public archive.
+We’re stewarding an archive designed for future creators, historians, and builders to actually use, without depending on someone else’s terms of service. That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and care work that keeps items moving from the event to the public archive and beyond.
 
 Some gigs are one-off and some recur. If you want to be in the network, this page is how you get in.
 
@@ -16,9 +16,9 @@ Two important notes:
 
 * **Coordinator roles** (see [below](#coordinator-roles)) are paid monthly.
 
-When you join a skill network:
+**Skill networks**
 
-* See [Get involved](#get-involved) below.
+If you want to help outside the open roles, join one of our skill networks (transcription, event production, post-production, and more). Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
 
 * When work shows up, we reach out with what it is, when it’s due, and what it pays (you’ll always see what it pays before accepting).
 
@@ -32,7 +32,7 @@ We have two roles we’re actively staffing right now. These are mostly async ro
 
 Mostly async (work on your own schedule, with deadlines and occasional check-ins).
 
-These are coordinating roles that work across the club (not one-off gigs). You’re the glue between “we recorded it” and “it’s ready for the long run.”
+These are coordinating roles that work across the club (not one-off gigs). You’re the glue between "we recorded it" and "it’s ready for the long run."
 
 ### The Archivist
 
@@ -42,13 +42,13 @@ You’re the person who makes sure the source survives.
 
 **What you do**
 
-* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff. (Owner = Recording Station term for the main contact responsible for approvals.)
+* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.
 
 * Decide what details actually matter for each item type: keep templates sane, evolve the schema as the archive grows.
 
 * Cooperate with other club coordinators to assemble the full package (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
 
-* Keep the “source of truth” file up to date as the item evolves (links, versions, consent status, credits, notes).
+* Keep the "source of truth" file up to date as the item evolves (links, versions, consent status, credits, notes).
 
 * Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. (See [Recording Station licensing + consent](/recording-station/licensing/).)
 
@@ -126,7 +126,7 @@ This is the call list for people who want the work to live on.
 
 Want in? Start in [Get involved](#get-involved) below.
 
-(If you already DM’d us for something else, just say “add me to the network,” share your skill(s), and drop a link to your work.)
+(If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.)
 
 ### Workshops
 
@@ -189,7 +189,7 @@ If you want to help on-site (setup, audio, camera, session wrangling, hosting), 
 
 * A bias toward free/open-source and decentralized (p2p) tools when it makes sense
 
-* Straightforward scopes and credits that don’t get “forgotten”
+* Straightforward scopes and credits that don’t get "forgotten"
 
 ## Get involved
 
@@ -209,7 +209,7 @@ If you want to help on-site (setup, audio, camera, session wrangling, hosting), 
 
 * [Coordinator roles](#coordinator-roles) are mostly async and collaborative: you’ll be working with other coordinators and the [gigs networks](#gigs-skill-networks) to assemble complete deliverables.
 
-* Our default is lightweight and text-first: each Recording Station item keeps a simple “source of truth” file that evolves with the item (format is flexible).
+* Our default is lightweight and text-first: each Recording Station item keeps a simple "source of truth" file that evolves with the item (format is flexible).
 
 * New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
 
