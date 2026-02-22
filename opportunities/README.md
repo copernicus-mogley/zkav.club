@@ -24,7 +24,7 @@ If you want to help outside the open roles, join one of our skill networks (tran
 
 * If you’re available, you take the gig. If not, no stress.
 
-We keep scopes readable and credits real. See [What we care about](#what-we-care-about).
+We keep scopes clear: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
 
 ## Coordinator roles
 
@@ -187,32 +187,36 @@ If you want to help on-site (setup, audio, camera, session wrangling, hosting), 
 
 ## What we care about
 
+* Straightforward scopes and credits. If we miss something, we fix it.
+
+* We optimize for future usefulness, not the algorithm.
+
 * Privacy-first by default (consent, boundaries, no weird surprises)
 
-* A bias toward free/open-source and decentralized (p2p) tools when it makes sense
-
-* Straightforward scopes and credits that don’t get "forgotten"
+* A bias toward free/open-source and decentralized (p2p) tools, with pragmatism when needed.
 
 ## Get involved
 
-* Want in? DM us via the [Join the Club links on the homepage](/#join-the-club) with your skill(s) or role, timezone, availability, and samples (or a short description). A coordinator will review it and follow up if there’s a potential fit.
+Want in on a skill network? DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
-* Have an event lead for Recording Station or a paid gig? [Drop it here](https://tally.so/r/VLJ22E).
+* which skill(s) you want to help with (and which section: Workshops, Transcription, Event production, Post-production)
 
-* Want to facilitate a workshop? Apply here: [workshop facilitator form](https://tally.so/r/A7B0MD). Submitting the form starts a conversation. We’ll follow up. Learn about the program: [Zk Av Club Workshops](/workshops/).
+* your timezone + typical availability
 
-* Want to support a project or sponsor an activation? See: [Support Zk Av Club](/#support-zk-av-club) and [Publishing Infrastructure](/publishing-infrastructure/).
+* links to past work (or a short description)
 
-## Notes
+* any languages you can work in
 
-* Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
+We’ll review what you send and follow up if there’s a potential fit.
 
-* We work across communities and ecosystems; sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got.
+New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
 
-* [Coordinator roles](#coordinator-roles) are mostly async and collaborative: you’ll be working with other coordinators and the [gigs networks](#gigs-skill-networks) to assemble complete deliverables.
+## Before you jump in
 
-* Our default is lightweight and text-first: each Recording Station item keeps a simple "source of truth" file that evolves with the item (format is flexible).
+* **Pay + timing:** Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
 
-* New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
+* **Funding reality:** We work across communities and ecosystems. Sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got.
+
+* **How the work moves:** Coordinator roles and skill networks move items from “recorded” to published, with credits, consent notes, and simple "source of truth" files that evolve over time to keep the archive consistent.
 
 [Back to zkav.club](/) (or jump to [Join the Club](/#join-the-club).)
