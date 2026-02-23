@@ -1,10 +1,10 @@
 # Opportunities
 
-Work comes in waves. When it does, we want people who can step in and help carry it through.
+Work comes in waves. When it does, we need people who can step in and carry it through.
 
-We’re stewarding an archive designed for future creators, historians, and builders to actually use, without depending on someone else’s terms of service. That takes more than recording. It takes transcripts, clips, edits, graphics, thumbnails, livestream finesse, and care work that keeps items moving from the event to the public archive and beyond.
+We’re stewarding an archive built for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
 
-Some gigs are one-off and some recur. If you want to be in the network, this page is how you get in.
+Some gigs are one-off. Some recur. If you want to be in a skill network, this page is how you get in.
 
 ## How it works
 
@@ -12,17 +12,15 @@ Most work here is paid per contribution (for example: a transcript cleanup, a cl
 
 Two important notes:
 
-* Recording Station crew is volunteer-only (that service is intentionally community-run). Details in [Volunteer](#volunteer-recording-station-crew).
+* Recording Station crew is volunteer-only. Details in [Volunteer](#volunteer-recording-station-crew).
 
 * Coordinator roles (see [below](#coordinator-roles)) are paid monthly.
 
 **Skill networks**
 
-If you want to help outside the open roles, join one of our skill networks (transcription, event production, post-production, and more). Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
+If you want to help outside the open roles, join a skill network (transcription, event production, post-production, and more). Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
 
-* When work shows up, we reach out with what it is, when it’s due, and what it pays (you’ll always see what it pays before accepting).
-
-* If you’re available, you take the gig. If not, no stress.
+When work shows up, we share what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
 
 We keep scopes clear: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
 
@@ -142,22 +140,15 @@ Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the pr
 
 Transcription is split into two parts. One person can do both, or we can split it across two people. We split it because AI is fast, but humans make it true.
 
-* **Part 1: AI-assisted draft**
+* **AI-assisted draft:** Generate the first transcript pass with AI tools, including speaker labels and rough timestamps when possible.
 
-  * Generate the first transcript pass with AI tools.
-  * Include speaker labels and rough timestamps when possible.
-
-* **Part 2: Human review**
-
-  * Clean up names, jargon, and technical terms.
-  * Fix timing, missing words, and confusing sections.
-  * Pull a few strong quotes that help the [Storyteller](#the-storyteller) write titles, descriptions, tags, and summaries.
+* **Human review:** Clean up names, jargon, and technical terms. Fix timing and missing words. Pull a few strong quotes that help the [Storyteller](#the-storyteller) shape titles, descriptions, and summaries.
 
 The [network of scribes](#transcription-scribes) is coordinated by the [Storyteller](#the-storyteller).
 
 ### Event production
 
-Event production gigs tend to be bursty and tied to specific dates. When we’re staffed and funded, we’ll bring these skills in to make the capture clean and the live moment steady. If you join this skill network, expect irregular timing (and we’ll confirm scope + pay before anything is booked).
+Event production work is tied to real dates and real rooms. When we’re staffed and funded, we bring these skills in to make the capture clean and the live moment steady. If you join this skill network, expect irregular timing (and we’ll confirm scope + pay before anything is booked).
 
 * **Camera Operator:** Handheld, tripod, multi-cam.
 
@@ -167,7 +158,7 @@ Event production gigs tend to be bursty and tied to specific dates. When we’re
 
 ### Post-production
 
-These skills matter, but for now they’re funding-dependent and more occasional while we prioritize getting source material safely published and documented. If you join this skill network, expect lighter and less predictable volume for now.
+These skills matter. For now they’re funding-dependent and more occasional while we prioritize getting source material safely published and documented.
 
 * **Editing:** Long-form edits. (Example: one full talk or one full conversation, cleaned up and ready to publish.)
 
