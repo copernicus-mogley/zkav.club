@@ -64,7 +64,7 @@ Success = someone finds it two years later and can actually use it.
 
 * You write clearly and treat consent + credits as real obligations.
 
-**Tools we like (not required)**
+**Tools we like**
 
 Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
 
@@ -98,7 +98,7 @@ Success = someone finds it years later, understands what it is, and can build fr
 
 * You hand off clean text packages so the Archivist can publish without friction.
 
-**Tools we like (not required)**
+**Tools we like**
 
 Clear writing, comfort working from transcripts, and a good sense for what context will matter later.
 
