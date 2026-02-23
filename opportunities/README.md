@@ -2,7 +2,7 @@
 
 Work comes in waves. When it does, we need people who can step in and carry it through.
 
-We’re stewarding an archive built for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
+We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
 
 Some gigs are one-off. Some recur. If you want to be in a skill network, this page is how you get in.
 
