@@ -118,7 +118,7 @@ To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) (
 
 ## Gigs (skill networks)
 
-These are the skill networks we’re building: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. (If we don’t have work for your skill right now, we’ll keep your link on file.)
+These are the skill networks we keep warm: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your link on file.
 
 This is the call list for people who want the work to live on.
 
