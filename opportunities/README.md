@@ -1,6 +1,6 @@
 # Opportunities
 
-Work comes in waves. When it does, we need people who can step in and carry it through.
+Work comes in waves. When it does, we’re glad to have people who can step in and carry it through.
 
 We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
 
@@ -8,7 +8,7 @@ Some gigs are one-off. Some recur. If you want to be in a skill network, this pa
 
 ## How it works
 
-Most work here is paid per contribution (for example: a transcript cleanup, a clip, a thumbnail set, an edit pass).
+Most work here is paid per contribution: transcript cleanup, clips, thumbnails, edits.
 
 Two important notes:
 
@@ -22,7 +22,7 @@ If you want to help outside the open roles, join a skill network (transcription,
 
 When work shows up, we share what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
 
-We keep scopes clear: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
+We keep scopes simple: what it is, what ‘done’ means, and what it pays. See [What we care about](#what-we-care-about).
 
 ## Coordinator roles
 
@@ -60,7 +60,7 @@ Success = someone finds it two years later and can actually use it.
 
 * You can triage and keep a queue moving (even with messy inputs).
 
-* You can make judgement calls and improve templates over time.
+* You can make judgment calls and improve templates over time.
 
 * You write clearly and treat consent + credits as real obligations.
 
@@ -82,7 +82,7 @@ You’re the person who helps the archive speak clearly.
 
 * Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
 
-* Keep public indexes readable and browseable (the workshops page, archive lists, and collections people browse), in collaboration with the Archivist.
+* Keep public indexes readable and browsable (the workshops page, archive lists, and collections people browse), in collaboration with the Archivist.
 
 * Hand off transcripts and text elements to the Archivist (title, description, tags, quotes, notes, links).
 
@@ -118,21 +118,21 @@ To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) (
 
 ## Gigs (skill networks)
 
-These are the skill networks we’re building: people we can call on for transcription, clips, editing, motion, livestream help, and more. (If we don’t have work for your skill right now, we’ll keep your link on file.)
+These are the skill networks we’re building: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. (If we don’t have work for your skill right now, we’ll keep your link on file.)
 
 This is the call list for people who want the work to live on.
 
-Want in? Start in [Get involved](#get-involved) below.
+Want on the list? Start in [Get involved](#get-involved) below.
 
 If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.
 
 ### Workshops
 
-We’re building a network of **workshop facilitators** for conversational, learn-by-doing sessions.
+We want to build relationships with **workshop facilitators** who can lead us in conversational, learn-by-doing sessions.
 
 You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
 
-To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link and we’ll confirm it meets the program requirements, then we’ll confirm payment.
+To get paid, the recording needs to be published on your channel(s) after the session (Internet Archive, YouTube, PeerTube, etc.). Share the link. We’ll check it meets requirements, then confirm payment.
 
 Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
@@ -148,7 +148,7 @@ The [network of scribes](#transcription-scribes) is coordinated by the [Storytel
 
 ### Event production
 
-Event production work is tied to real dates and real rooms. When we’re staffed and funded, we bring these skills in to make the capture clean and the live moment steady. If you join this skill network, expect irregular timing (and we’ll confirm scope + pay before anything is booked).
+Event production work is tied to real dates and real rooms. When we’re staffed and funded, we bring these skills in to make the recording clean and the live moment steady. If you join this skill network, expect irregular timing. We confirm scope and pay before anything is booked.
 
 * **Camera Operator:** Handheld, tripod, multi-cam.
 
@@ -158,13 +158,13 @@ Event production work is tied to real dates and real rooms. When we’re staffed
 
 ### Post-production
 
-These skills matter. For now they’re funding-dependent and more occasional while we prioritize getting source material safely published and documented.
+These skills matter. For now they’re funding-dependent and more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
 
-* **Editing:** Long-form edits. (Example: one full talk or one full conversation, cleaned up and ready to publish.)
+* **Editing:** Long-form edits. Example: one full talk or one full conversation, cleaned up and ready to publish.
 
 * **Clips:** 2–4× 30–60s videos for social.
 
-* **Thumbnails:** Clean, consistent thumbnails sized for where they’ll live. (Example: one thumbnail design delivered in 16:9 + 1:1 + 9:16.)
+* **Thumbnails:** Clean, consistent thumbnails sized for where they’ll live. Example: one thumbnail design delivered in 16:9 + 1:1 + 9:16.
 
 * **Motion Graphics:** Lower thirds, bumpers, simple packages.
 
@@ -180,7 +180,7 @@ If you want to help on-site (setup, audio, camera, session wrangling, hosting), 
 
 * Straightforward scopes and credits. If we miss something, we fix it.
 
-* We optimize for future usefulness, not the algorithm.
+* We care about future usefulness, not the algorithm.
 
 * Privacy-first by default (consent, boundaries, no weird surprises)
 
