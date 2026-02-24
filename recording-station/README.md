@@ -10,7 +10,7 @@ Want a feel for the vibe? Here are edited highlights from Berlin Blockchain Week
 
 ## What this is
 
-Most event coverage is top-down. Recording Station is the opposite: a place at the event where the people in the room can document themselves, on their own terms.
+Most event coverage is top-down. Zk Av Club Recording Station is the opposite: a place at the event where the people in the room can document themselves, on their own terms.
 
 It can be a deep-dive conversation, a quick reflection, a hallway riff, a group recap, or something weird. We’re here for all of it.
 
