@@ -22,7 +22,7 @@ If you want to help outside the open roles, join a skill network (transcription,
 
 When work shows up, we share what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
 
-We keep scopes simple: what it is, what ‘done’ means, and what it pays. See [What we care about](#what-we-care-about).
+We keep scopes simple: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
 
 ## Coordinator roles
 
@@ -64,7 +64,7 @@ Success = someone finds it two years later and can actually use it.
 
 * You write clearly and treat consent + credits as real obligations.
 
-**Tools we like**
+**Tools we like (not required)**
 
 Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
 
@@ -80,9 +80,9 @@ You’re the person who helps the archive speak clearly.
 
 * Listen/watch fast and find the thread. Pull the names, terms, and context that make the recording understandable later.
 
-* Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and the kind of context future creators, historians, and builders will thank us for.
+* Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and context that still works years later.
 
-* Keep public indexes readable and browsable (the workshops page, archive lists, and collections people browse), in collaboration with the Archivist.
+* Keep public indexes readable and browsable (workshops pages, archive lists, collections), in collaboration with the Archivist.
 
 * Hand off transcripts and text elements to the Archivist (title, description, tags, quotes, notes, links).
 
@@ -98,13 +98,13 @@ Success = someone finds it years later, understands what it is, and can build fr
 
 * You hand off clean text packages so the Archivist can publish without friction.
 
-**Tools we like**
+**Tools we like (not required)**
 
 Clear writing, comfort working from transcripts, and a good sense for what context will matter later.
 
 **Apply / raise your hand**
 
-To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) (see [Get involved](#get-involved)) and include:
+To apply, DM us via the [Join the Club links on the homepage](/#join-the-club)  and include:
 
 * which role you want (Archivist / Storyteller)
 
@@ -132,7 +132,7 @@ We want to build relationships with **workshop facilitators** who can lead us i
 
 You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
 
-To get paid, the recording needs to be published on your channel(s) after the session (Internet Archive, YouTube, PeerTube, etc.). Share the link. We’ll check it meets requirements, then confirm payment.
+To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link. We’ll check it meets requirements, then confirm payment.
 
 Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
@@ -190,7 +190,7 @@ If you want to help on-site (setup, audio, camera, session wrangling, hosting), 
 
 Want in on a skill network? DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
-* which skill(s) you want to help with (and which section: Workshops, Transcription, Event production, Post-production)
+* which skill(s) you want to help with (Workshops, Transcription, Event production, Post-production)
 
 * your timezone + typical availability
 
@@ -208,6 +208,6 @@ New but hungry? Tell us. When it makes sense, we can match some gigs to learning
 
 * **Funding reality:** We work across communities and ecosystems. Sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got.
 
-* **How the work moves:** Coordinator roles and skill networks move items from “recorded” to published, with credits, consent notes, and simple "source of truth" files that evolve over time to keep the archive consistent.
+* **How the work moves:** Coordinator roles and skill networks move items from "recorded" to published, with credits, consent notes, and simple "source of truth" files that evolve over time, to keep the archive consistent.
 
 [Back to zkav.club](/) (or jump to [Join the Club](/#join-the-club).)
