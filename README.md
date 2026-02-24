@@ -16,6 +16,8 @@ Recording Station is volunteer-run. The rest gets funded through gigs, grants, s
 
 * [Publishing Infrastructure](#publishing-infrastructure)
 
+* [Opportunities](#opportunities)
+
 * [Testimonials](#testimonials)
 
 * [Join the Club](#join-the-club)
@@ -71,6 +73,16 @@ A lot of this is quiet work (permissions, policies, workflows). Some of it is so
 Zcash PeerTube is our first public implementation, but it’s just one example.
 
 [Explore Community Publishing Infrastructure](/publishing-infrastructure).
+
+### Opportunities
+
+When the cameras stop, the work keeps going. Opportunities is the page for paid roles and gigs that turn recordings into archive-ready items: transcripts, titles, credits, clips, and the rest of the follow-through.
+
+Some roles are ongoing. Most are paid per piece. All of them are about finishing the work well so it stays usable years from now.
+
+If you like the part after record, the quiet, careful work that makes media stick, this is where you plug in.
+
+[See Opportunities](/opportunities/).
 
 ### Testimonials
 
