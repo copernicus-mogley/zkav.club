@@ -1,6 +1,8 @@
 # Opportunities
 
-Work comes in waves. When it does, we’re glad to have people who can step in and carry it through.
+Some moments are quiet. Then the wave hits.
+
+When it does, we’re glad to have folks who can step in and see it through.
 
 We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
 
@@ -8,9 +10,9 @@ Some gigs are one-off. Some recur. If you want to be in a skill network, this pa
 
 ## How it works
 
-Most work here is paid per contribution: transcript cleanup, clips, thumbnails, edits.
+Most of this work is paid per piece: transcript cleanup, clips, thumbnails, edits.
 
-Two important notes:
+A couple notes:
 
 * Recording Station crew is volunteer-only. Details in [Volunteer](#volunteer-recording-station-crew).
 
@@ -20,7 +22,7 @@ Two important notes:
 
 If you want to help outside the open roles, join a skill network (transcription, event production, post-production, and more). Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
 
-When work shows up, we share what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
+When work shows up, we'll send you the details: what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
 
 We keep scopes simple: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
 
@@ -44,7 +46,7 @@ You’re the person who makes sure the source survives.
 
 * Decide what details actually matter for each item type: keep templates sane, evolve the schema as the archive grows.
 
-* Cooperate with other club coordinators to assemble the full package (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
+* Work with other coordinators to pull the pieces together (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
 
 * Keep the "source of truth" file up to date as the item evolves (links, versions, consent status, credits, notes).
 
@@ -118,7 +120,7 @@ To apply, DM us via the [Join the Club links on the homepage](/#join-the-club)  
 
 ## Gigs (skill networks)
 
-These are the skill networks we keep warm: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your link on file.
+These are the connections we keep warm: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your link on file.
 
 This is the call list for people who want the work to live on.
 
@@ -128,7 +130,7 @@ If you already DM’d us for something else, just say "add me to the network," s
 
 ### Workshops
 
-We want to build relationships with **workshop facilitators** who can lead us in conversational, learn-by-doing sessions.
+We want to meet workshop facilitators who can lead conversational, learn-by-doing sessions.
 
 You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
 
@@ -158,7 +160,7 @@ Event production work is tied to real dates and real rooms. When we’re staffed
 
 ### Post-production
 
-These skills matter. For now they’re funding-dependent and more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
+These skills matter. We’ll do more of this when we can fund it. For now it’s more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
 
 * **Editing:** Long-form edits. Example: one full talk or one full conversation, cleaned up and ready to publish.
 
@@ -184,7 +186,7 @@ If you want to help on-site (setup, audio, camera, session wrangling, hosting), 
 
 * Privacy-first by default (consent, boundaries, no weird surprises)
 
-* A bias toward free/open-source and decentralized (p2p) tools, with pragmatism when needed.
+* A bias toward free/open-source and decentralized (p2p) tools, with reality when needed.
 
 ## Get involved
 
@@ -206,8 +208,8 @@ New but hungry? Tell us. When it makes sense, we can match some gigs to learning
 
 * **Pay + timing:** Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
 
-* **Funding reality:** We work across communities and ecosystems. Sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got.
+* **Where the money comes from:** We work across communities and ecosystems. Sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got. If you want to support this work directly, see [Support Zk Av Club](/#support-zk-av-club).
 
-* **How the work moves:** Coordinator roles and skill networks move items from "recorded" to published, with credits, consent notes, and simple "source of truth" files that evolve over time, to keep the archive consistent.
+* **How stuff gets finished:** Coordinator roles and skill networks move items from "recorded" to published, with credits, consent notes, and simple "source of truth" files that evolve over time, to keep the archive consistent.
 
 [Back to zkav.club](/) (or jump to [Join the Club](/#join-the-club).)
