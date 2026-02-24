@@ -1,215 +1,255 @@
-# Opportunities
+## Zero-knowledge Audiovisual Club
 
-Some moments are quiet. Then the wave hits.
+We help open-source and decentralized tech communities tell their own stories, without giving up privacy, and we return the results to an open community archive.
 
-When it does, we’re glad to have folks who can step in and see it through.
+People, stories, tools.
 
-We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
+We run Workshops, publish practical AV docs, and support meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
 
-Some gigs are one-off. Some recur. If you want to be in a skill network, this page is how you get in.
+Recording Station is volunteer-run. The rest gets funded through gigs, grants, sponsors, ecosystem support.
 
-## How it works
+### Navigation
 
-Most of this work is paid per piece: transcript cleanup, clips, thumbnails, edits.
+* [Recording Station](#recording-station)
 
-A couple notes:
+* [Workshops](#workshops)
 
-* Recording Station crew is volunteer-only. Details in [Volunteer](#volunteer-recording-station-crew).
+* [Publishing Infrastructure](#publishing-infrastructure)
 
-* Coordinator roles (see [below](#coordinator-roles)) are paid monthly.
+* [Opportunities](#opportunities)
 
-**Skill networks**
+* [Testimonials](#testimonials)
 
-If you want to help outside the open roles, join a skill network (transcription, event production, post-production, and more). Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
+* [Join the Club](#join-the-club)
 
-When work shows up, we'll send you the details: what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
+* [Partner Communities](#partner-communities)
 
-We keep scopes simple: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
+* [Additional Reading](#additional-reading)
 
-## Coordinator roles
+* [Support](#support-zk-av-club)
 
-We have two roles we’re actively staffing right now. Paid monthly through the end of 2026 (with a chance to extend).
+### Recording Station
 
-Work is mostly async: you work on your own schedule, with deadlines and occasional check-ins.
+Zk Av Club Recording Station is a simple setup we drop in at events so people can record solid audio/video without bringing gear or a production team.
 
-These are coordinating roles that work across the club. You’re the glue between "we recorded it" and "it’s ready for the long run."
+You bring the conversation. We handle the mics, framing, and levels. We keep it chill, even when the room isn’t.
 
-### The Archivist
+The content belongs to the creator(s) in it. Our job is to record it with care and steward the source safely into the public archive, with the context and credits that make it usable later, plus a respectful consent trail. Nothing goes out without your OK.
 
-You’re the person who makes sure the source survives.
+Then the source goes up: multi-angle camera originals and uncompressed audio. After guest approval, the originals are released under CC BY-SA. The archive entry keeps the credits and context intact, ready for others to remix, reference, and build on.
 
-**Time**: ~10 hours/week
+What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
 
-**What you do**
-
-* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.
-
-* Decide what details actually matter for each item type: keep templates sane, evolve the schema as the archive grows.
-
-* Work with other coordinators to pull the pieces together (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
-
-* Keep the "source of truth" file up to date as the item evolves (links, versions, consent status, credits, notes).
-
-* Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. (See [Recording Station licensing + consent](/recording-station/licensing/).)
-
-* Keep simple inventories so nothing disappears: what exists, where it lives, what’s missing, what needs follow-up.
-
-Success = someone finds it two years later and can actually use it.
-
-**You’re a fit if you**
-
-* You like detail-heavy care work: organizing, labeling, checking, and following up.
-
-* You can triage and keep a queue moving (even with messy inputs).
-
-* You can make judgment calls and improve templates over time.
-
-* You write clearly and treat consent + credits as real obligations.
-
-**Tools we like (not required)**
-
-Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
-
-### The Storyteller
-
-You’re the person who helps the archive speak clearly.
-
-**Time**: ~8 hours/week
-
-**What you do**
-
-* Coordinate the [network of scribes](#transcription-scribes) so transcripts are accurate, readable, and delivered on time.
-
-* Listen/watch fast and find the thread. Pull the names, terms, and context that make the recording understandable later.
-
-* Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and context that still works years later.
-
-* Keep public indexes readable and browsable (workshops pages, archive lists, collections), in collaboration with the Archivist.
-
-* Hand off transcripts and text elements to the Archivist (title, description, tags, quotes, notes, links).
-
-Success = someone finds it years later, understands what it is, and can build from it.
-
-**You’re a fit if you**
-
-* You can listen/watch fast and find the thread.
-
-* You can write context that still works years later (not hype, not SEO).
-
-* You can coordinate scribes and raise quality gently.
-
-* You hand off clean text packages so the Archivist can publish without friction.
-
-**Tools we like (not required)**
-
-Clear writing, comfort working from transcripts, and a good sense for what context will matter later.
-
-**Apply / raise your hand**
-
-To apply, DM us via the [Join the Club links on the homepage](/#join-the-club)  and include:
-
-* which role you want (Archivist / Storyteller)
-
-* your timezone + availability
-
-* confirm you’re good with mostly async work and monthly pay through the end of 2026 (with possible extension)
-
-* links to past work (or a short description)
-
-* what kinds of communities/events you’re into
-
-## Gigs (skill networks)
-
-These are the connections we keep warm: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your link on file.
-
-This is the call list for people who want the work to live on.
-
-Want on the list? Start in [Get involved](#get-involved) below.
-
-If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.
+[Read the details](/recording-station/) (how it works, licensing + consent).
 
 ### Workshops
 
-We want to meet workshop facilitators who can lead conversational, learn-by-doing sessions.
+Zk Av Club Workshops are conversational, hands-on sessions where people learn by doing, together.
 
-You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
+Bring questions. Bring half-finished ideas.
 
-To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link. We’ll check it meets requirements, then confirm payment.
+They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps someone do something real, it probably fits.
 
-Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
+Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. The goal isn’t a lecture to a quiet room, it’s a session people can take part in.
 
-### Transcription (scribes)
+Facilitators are paid in Zcash, and workshops are recorded and published so the knowledge keeps working after the live moment. Recording is required for facilitator payment; if a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
 
-Transcription is split into two parts. One person can do both, or we can split it across two people. We split it because AI is fast, but humans make it true.
+[Learn about the program and browse past sessions](/workshops/).
 
-* **AI-assisted draft:** Generate the first transcript pass with AI tools, including speaker labels and rough timestamps when possible.
+### Publishing Infrastructure
 
-* **Human review:** Clean up names, jargon, and technical terms. Fix timing and missing words. Pull a few strong quotes that help the [Storyteller](#the-storyteller) shape titles, descriptions, and summaries.
+Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked. If you want your archive to outlive the platform mood swings, start here.
 
-The [network of scribes](#transcription-scribes) is coordinated by the [Storyteller](#the-storyteller).
+We help communities build media homes they can depend on:
 
-### Event production
+* Publishing systems: community-controlled media (Fediverse and beyond), setup/admin, repeatable workflows, and organization for discovery.
 
-Event production work is tied to real dates and real rooms. When we’re staffed and funded, we bring these skills in to make the recording clean and the live moment steady. If you join this skill network, expect irregular timing. We confirm scope and pay before anything is booked.
+* Stewardship and governance: consent defaults, moderation support, takedown/reporting workflows, roles/permissions, and versioning/updates.
 
-* **Camera Operator:** Handheld, tripod, multi-cam.
+We’re trying to make decentralized publishing feel nice. What you get: the stack, the workflow, and the runbook.
 
-* **Livestream Technician:** Keep the audio/video flow stable: OBS/scenes, audio, network, routing.
+A lot of this is quiet work (permissions, policies, workflows). Some of it is solid ops. Some of it is experiments in the wild: p2p distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
 
-* **Livestream Producer:** Show flow, cues, coordination, calm. Run the show nice and steady.
+Zcash PeerTube is our first public implementation, but it’s just one example.
 
-### Post-production
+[Explore Community Publishing Infrastructure](/publishing-infrastructure).
 
-These skills matter. We’ll do more of this when we can fund it. For now it’s more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
+### Opportunities
 
-* **Editing:** Long-form edits. Example: one full talk or one full conversation, cleaned up and ready to publish.
+When the cameras stop, the work keeps going. Opportunities is the page for paid roles and gigs that turn recordings into archive-ready items: transcripts, titles, credits, clips, and the rest of the follow-through.
 
-* **Clips:** 2–4× 30–60s videos for social.
+Some roles are ongoing. Most are paid per piece. All of them are about finishing the work well so it stays usable years from now.
 
-* **Thumbnails:** Clean, consistent thumbnails sized for where they’ll live. Example: one thumbnail design delivered in 16:9 + 1:1 + 9:16.
+If you like the part after record, the quiet, careful work that makes media stick, this is where you plug in.
 
-* **Motion Graphics:** Lower thirds, bumpers, simple packages.
+[See Opportunities](/opportunities/).
 
-## Volunteer (Recording Station crew)
+### Testimonials
 
-[Recording Stations](/recording-station/) are volunteer-run on purpose. No minimum commitment. Help when you can.
+> Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like Zk Av Club!
+>
+> — Alex Bornstein, COO, [Zcash Foundation](https://zfnd.org)
 
-If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
+> For years, Ryan Taylor and Zk Av Club have provided exceptional live streaming for Bitcoin and cryptocurrency events, ensuring global reach and high-quality broadcasts. Their dedication is unmatched.
+>
+> — Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins), [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork))
 
-* [Recording Station Volunteer Kit](/recording-station/volunteer/)
+> I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant, but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered Adjy Leak, and in conjunction, Zk Av Club. Through the club, I experienced not only my first time connecting with *many* like-minded folks through live streaming, but also a vast archive of knowledge I didn't even know existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
+>
+> — [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)
 
-## What we care about
+> Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like DWeb, and has helped make connections with other local communities around the globe, such as Zcash Brazil. They've run self-contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included.
+>
+> — [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)
 
-* Straightforward scopes and credits. If we miss something, we fix it.
+> Over the years, Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques.
+>
+> The Club’s commitment to privacy-first principles and their use of decentralized tools perfectly aligns with Zcash's core values. Their work in producing educational content, and fostering community engagement has benefited and strengthened the entire Zcash ecosystem.
+>
+> — Jack Gavigan, [Zcash Foundation](https://zfnd.org)
 
-* We care about future usefulness, not the algorithm.
+> Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
+>
+> — [@zksquirrel](https://x.com/zksquirrel), [ZecHub](https://zechub.wiki/)
 
-* Privacy-first by default (consent, boundaries, no weird surprises)
+> have you ever been to cozy virtual meeting space full of people who don't expect you to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for.
+>
+> the club is also big on experimenting. each member can use their new knowledge to start creating something they want or join forces with others to collaborate. best part is when you find a chance to be part of some on-location events or workshops with other club members.
+>
+> join it and find out if its something for you.
+>
+> — [@zerodartz](https://x.com/zerodartz)
 
-* A bias toward free/open-source and decentralized (p2p) tools, with reality when needed.
+> Zk Av Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual. As a member of the team I can say that every day is an opportunity to learn, grow and contribute from my knowledge as well. Long live the club!
+>
+> — [@SoyAuraBrito](https://x.com/SoyAuraBrito)
 
-## Get involved
+> The AV Club has been a space for me to connect with technology, open source and content generation geeks like me.
+>
+> I like being part of the team because there is freedom of creativity, opinion and action. Although we all work for the same purpose (teaching and spreading privacy and free technologies), we can all have our style with freedom.
+>
+> I hope more people join the Club and enjoy the experience!
+>
+> — [Roosevelt Gordones](https://x.com/gordonesTV) - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
 
-Want in on a skill network? DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
+> I worked with Zk AV Club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come.
+>
+> — [@therealyingtong](https://github.com/therealyingtong)
 
-* which skill(s) you want to help with (Workshops, Transcription, Event production, Post-production)
+> Ryan is a pro. His production work is top shelf as evidenced by his work on Zcons through the years, and his commitment to providing engaging and informative content. With Zk Av Club he continues his dedication and professionalism while also widening the tent to welcome and include new voices from all around the world and across industries. His professionalism, empathy and deep interest in the topics and people he’s engaged with shines above all.
+>
+> — [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co)
 
-* your timezone + typical availability
+> Zk Av Club is a remarkable initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit.
+>
+> Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community!
+>
+> — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director
 
-* links to past work (or a short description)
+### Join the Club
 
-* any languages you can work in
+Follow us on [X](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
 
-We’ll review what you send and follow up if there’s a potential fit.
+Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
 
-New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
+Got an event lead? [Drop it here](https://tally.so/r/VLJ22E).
 
-## Before you jump in
+Want to facilitate a workshop? [Start here](/workshops/).
 
-* **Pay + timing:** Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
+Want to bring Recording Station to your event, book a paid gig, or support a new project? DM us on X or Bluesky.
 
-* **Where the money comes from:** We work across communities and ecosystems. Sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got. If you want to support this work directly, see [Support Zk Av Club](/#support-zk-av-club).
+If you want to help, there are lots of ways: recording, editing, sound, translation, ops — or just show up and say hi.
 
-* **How stuff gets finished:** Coordinator roles and skill networks move items from "recorded" to published, with credits, consent notes, and simple "source of truth" files that evolve over time, to keep the archive consistent.
+### Partner Communities
 
-[Back to zkav.club](/) (or jump to [Join the Club](/#join-the-club).)
+We collaborate with peer communities around the world.
+
+Partners are communities we’ve recorded with, trained, supported with publishing infrastructure, or otherwise worked alongside.
+
+To reach us, use the links in [Join the Club](#join-the-club) (X, Bluesky, or the calendar).
+
+* [ZecHub](/partners/zechub.md) — The community-powered Zcash education hub
+
+Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/)
+
+### Additional Reading
+
+* [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) (Sep 26, 2025): What “community” means here, and why we don’t try to be a permanent online hangout.
+
+* [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/) (Mar 3, 2025): What we are (and aren’t): training, documentation, and support for people doing the work.
+
+* [Original forum thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) (Jan 12, 2023): The original thread: early context, goals, and a running history.
+
+* [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) (Jun 16, 2015): Why we share this way: livestreams, P2P, and the ethics of distribution.
+
+* About the founder: [Ryan Taylor](https://troublefront.com/blog/endtroducing/) (aka [Adjy Leak](https://youtube.com/adjyleak)).
+
+### Support Zk Av Club
+
+If you want more workshops, more recordings, and a stronger public archive that isn’t controlled by big platforms, here’s how to back us.
+
+Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
+
+If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club).
+
+Support it, or hire us. Either way helps.
+
+If you’d like to pitch in, pick a chain you already use and copy/paste an address below.
+
+We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). No donor tracking.
+
+---
+
+**Most used**
+
+[**Zcash**](https://z.cash) (shielded preferred)
+
+<img src="assets/qr/zkav_donate_zcash_qr.png" alt="Zcash donation QR" width="180" />
+
+```
+u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5kqc4ngwqd6k35tkf7j84a59m5u6tlyc73x07ckwtdqv475t9q3w58073d9xt55ppw4945jnudghuqjmyf4rh263srrmmvy2kwpy
+```
+
+[**Ethereum**](https://ethereum.org) (gm friendly)
+
+<img src="assets/qr/zkav_donate_ethereum_qr.png" alt="Ethereum donation QR" width="180" />
+
+```
+0x766Af9486D3b266eC97E2fFdC2880Bc44c702Df7
+```
+
+[**Bitcoin**](https://en.wikipedia.org/wiki/Bitcoin) (old reliable)
+
+<img src="assets/qr/zkav_donate_bitcoin_qr.png" alt="Bitcoin donation QR" width="180" />
+
+```
+bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
+```
+
+---
+
+**More options**
+
+[**Polkadot**](https://polkadot.com/)
+
+```
+13bC34oT8iyD4VGT7suPB5ec22dvRoQG5m3GdwZWUFrfg7aa
+```
+
+[**Filecoin**](https://www.filecoin.io/)
+
+```
+f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
+```
+
+[**Monero**](https://www.getmonero.org/)
+
+```
+48Yg7xLxLzH8jnyPRje7ZXbziE9YqXE3zhXYAHt1sHSvGRDGHjDqoDMN6hH2oCvbxTZiaApTXex19i5qGMzb8ZM99ZJE4MM
+```
+
+---
+
+Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
+
+[Back to top](#zero-knowledge-audiovisual-club)
