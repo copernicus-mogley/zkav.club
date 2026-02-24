@@ -40,7 +40,7 @@ Walk in and sign up on-site: solo, pairs, roundtables, or live panels.
 
 ## Formats to spark inspiration
 
-Podcast-style conversations • Short-form interviews • Panel recaps & event reactions • Personal video journals • Experimental/creative pieces
+Any-style conversations • Short-form interviews • Panels • Recaps & event reactions • Personal video journals • Experimental/creative pieces
 
 ## Distribution & Licensing
 

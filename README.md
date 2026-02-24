@@ -148,17 +148,17 @@ If you like the part after record, the quiet, careful work that makes media stic
 
 ### Join the Club
 
-Follow us on [X](https://x.com/ZkAv_Club) or [Bluesky](https://bsky.app/profile/zkavclub.bsky.social) for live updates.
+Come hang near the mic. Bring a question, a lead, or a half-finished idea.
 
-Subscribe to our [calendar](https://lu.ma/zkav) for events, livestreams, and workshops.
+* **Stay in the loop:** [X](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), and the [calendar](https://lu.ma/zkav).
 
-Got an event lead? [Drop it here](https://tally.so/r/VLJ22E).
+* **Bring an event lead:** [Drop it here](https://tally.so/r/VLJ22E).
 
-Want to facilitate a workshop? [Start here](/workshops/).
+* **Run a workshop:** [Start here](/workshops/).
 
-Want to bring Recording Station to your event, book a paid gig, or support a new project? DM us on X or Bluesky.
+* **Help after the event:** check [Opportunities](#opportunities).
 
-If you want to help, there are lots of ways: recording, editing, sound, translation, ops — or just show up and say hi.
+* **Reach us:** DM us on X or Bluesky. Tell us what you’re trying to do, and we’ll point you to the right next step.
 
 ### Partner Communities
 
