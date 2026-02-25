@@ -4,7 +4,7 @@ Some moments are quiet. Then the wave hits.
 
 When it does, we’re glad to have folks who can step in and see it through.
 
-We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes transcripts, clips, edits, graphics, livestream finesse, and the care work that moves items from the event to the public archive and beyond.
+We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes follow-through, and a little care work, so the work survives past the event.
 
 Some gigs are one-off. Some recur. If you want to be in a skill network, this page is how you get in.
 
@@ -20,7 +20,7 @@ A couple notes:
 
 **Skill networks**
 
-If you want to help outside the open roles, join a skill network (transcription, event production, post-production, and more). Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
+If you want to help outside the open roles, join a skill network. Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
 
 When work shows up, we'll send you the details: what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
 
