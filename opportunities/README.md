@@ -10,7 +10,7 @@ Some gigs are one-off. Some recur. If you want to be in a skill network, this pa
 
 ## How it works
 
-Most of this work is paid per piece: transcript cleanup, clips, thumbnails, edits.
+Most of this work is paid per contribution.
 
 A couple notes:
 
