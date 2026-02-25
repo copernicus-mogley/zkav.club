@@ -148,11 +148,11 @@ If you like the part after record, the quiet, careful work that makes media stic
 
 ### Join the Club
 
-Come hang near the mic. Bring a question, a lead, or a half-finished idea.
+Bring a question, a lead, or even something you’re not sure is ready yet.
 
 * **Stay in the loop:** [X](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), and the [calendar](https://lu.ma/zkav).
 
-* **Bring an event lead:** [Drop it here](https://tally.so/r/VLJ22E).
+* **Suggest an activation:** [Drop us a line here](https://tally.so/r/VLJ22E).
 
 * **Run a workshop:** [Start here](/workshops/).
 
