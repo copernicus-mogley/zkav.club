@@ -174,13 +174,15 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 ### Additional Reading
 
-* [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) (Sep 26, 2025): What “community” means here, and why we don’t try to be a permanent online hangout.
+* [Free & Open-Source Media: Stewarding a Community-Owned Archive](https://troublefront.com/blog/free-open-source-media-stewarding-a-community-owned-archive/) (2026 Feb 27): 
 
-* [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/) (Mar 3, 2025): What we are (and aren’t): training, documentation, and support for people doing the work.
+* [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) (2025 Sept 26): What “community” means here, and why we don’t try to be a permanent online hangout.
 
-* [Original forum thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) (Jan 12, 2023): The original thread: early context, goals, and a running history.
+* [Zk Av Club is not a production company.](https://troublefront.com/blog/introducing-zk-av-club/) (2025 Mar 3): What we are (and aren’t): training, documentation, and support for people doing the work.
 
-* [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) (Jun 16, 2015): Why we share this way: livestreams, P2P, and the ethics of distribution.
+* [Original forum thread](https://forum.zcashcommunity.com/t/the-zero-knowledge-audiovisual-club/43733) (2023 Jan 12): The original thread: early context, goals, and a running history.
+
+* [The Art of Sharing](https://github.com/adjyleak/adjyleak.video/blob/master/_posts/2015-06-16-the-art-of-sharing.md) (2015 Jun 16): Why we share this way: livestreams, P2P, and the ethics of distribution.
 
 * About the founder: [Ryan Taylor](https://troublefront.com/blog/endtroducing/) (aka [Adjy Leak](https://youtube.com/adjyleak)).
 
