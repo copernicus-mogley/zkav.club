@@ -174,7 +174,7 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 ### Additional Reading
 
-* [Free & Open-Source Media: Stewarding a Community-Owned Archive](https://troublefront.com/blog/free-open-source-media-stewarding-a-community-owned-archive/) (2026 Feb 27): 
+* [Free & Open-Source Media: Stewarding a Community-Owned Archive](https://troublefront.com/blog/free-open-source-media-stewarding-a-community-owned-archive/) (2026 Feb 27): On maintenance, reuse, and what it actually means to steward open media.
 
 * [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) (2025 Sept 26): What “community” means here, and why we don’t try to be a permanent online hangout.
 
