@@ -26,81 +26,19 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 → [View the Storyteller role](/opportunities/storyteller/)
 
-## Gigs (skill networks)
+## Paid gigs
 
-These are the skill networks we call on when work appears.
+ZK AV Club keeps skill networks for people who help turn recordings into usable media and archive material.
 
-Most gigs are paid per contribution when work is available. Work tends to appear around events and depends on funding, so timing can be irregular.
+Work appears around events and depends on funding. When something fits your skills, we’ll reach out with the scope and pay.
 
-If you join a network, we’ll reach out when something fits your skills.
-
-See **How participation works** below for how to join.
-
-Current skill networks include:
-
-### Workshops
-
-Lead a conversational, learn‑by‑doing workshop.
-
-You choose the topic and host the session. We can help with format, livestreaming, and archiving.
-
-**Typical work**
-
-* Facilitate a workshop session
-
-* Publish the recording on your channel
-
-* Share the link for confirmation
-
-**Start here:** [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
-
-### Transcription (scribes)
-
-Help turn recorded conversations into accurate, usable transcripts.
-
-**Typical work**
-
-* Generate AI‑assisted transcript drafts
-
-* Review terminology, names, and timing
-
-* Pull quotes that help shape titles and summaries
-
-The network of scribes is coordinated by the Storyteller.
-
-### Event production
-
-Help run the technical side of live recording at events.
-
-**Typical roles**
-
-* **Camera operator** — handheld, tripod, multi‑cam
-
-* **Livestream technician** — OBS scenes, audio routing, network stability
-
-* **Livestream producer** — run show flow, cues, and coordination
-
-### Post-production
-
-Turn raw recordings into finished media ready to publish.
-
-**Typical work**
-
-* Long‑form edits (talks or conversations)
-
-* Short clips for social
-
-* Thumbnails for distribution platforms
-
-* Motion graphics (lower thirds, bumpers, simple packages)
+→ [Explore gigs](/opportunities/gigs/)
 
 ## Volunteer (Recording Station crew)
 
-[Recording Stations](/recording-station/) are volunteer‑run by design. There’s no minimum commitment—help when you can.
+[Recording Station](/recording-station/) is the portable setup ZK AV Club brings to events to record conversations and workshops.
 
-If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
-
-* [Recording Station Volunteer Kit](/recording-station/volunteer/)
+Recording Station volunteering is currently invite-only.
 
 ## How participation works
 
