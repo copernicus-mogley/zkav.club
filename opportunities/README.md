@@ -1,130 +1,38 @@
 # Opportunities
 
-Some moments are quiet. Then the wave hits.
+ZK AV Club runs on small networks of people who help recordings survive and remain usable long after the event.
 
-When it does, we’re glad to have folks who can step in and see it through.
+There are three main ways to participate:
 
-We’re stewarding an archive designed for future creators, historians, and builders to actually use. That takes more than recording. It takes follow-through, and a little care work, so the work survives past the event.
+* **Coordinator roles** — help run the archive 
 
-Some gigs are one-off. Some recur. If you want to be in a skill network, this page is how you get in.
+* **Paid gigs** through skill networks 
 
-## How it works
+* **Volunteer recording station crew**
 
-Most of this work is paid per contribution.
+## Open roles
 
-A couple notes:
+We’re currently recruiting two coordinators who help move recordings from “captured” to durable archive items.
 
-* Recording Station crew is volunteer-only. Details in [Volunteer](#volunteer-recording-station-crew).
+### Archivist
 
-* Coordinator roles (see [below](#coordinator-roles)) are paid monthly.
+Preserve recordings with durable metadata so they remain usable years later.
 
-**Skill networks**
+→ [View the Archivist role](/opportunities/archivist/)
 
-If you want to help outside the open roles, join a skill network. Start with [Gigs (skill networks)](#gigs-skill-networks), then follow the steps in [Get involved](#get-involved).
+### Storyteller
 
-When work shows up, we'll send you the details: what it is, when it’s due, and what it pays. If you’re available, you take it. If not, no stress.
+Interpret recordings with titles, context, and descriptions so they remain understandable years later.
 
-We keep scopes simple: what it is, what "done" means, and what it pays. See [What we care about](#what-we-care-about).
-
-## Coordinator roles
-
-We have two roles we’re actively staffing right now. Paid monthly through the end of 2026 (with a chance to extend).
-
-Work is mostly async: you work on your own schedule, with deadlines and occasional check-ins.
-
-These are coordinating roles that work across the club. You’re the glue between "we recorded it" and "it’s ready for the long run."
-
-### The Archivist
-
-You’re the person who makes sure the source survives.
-
-**Time**: ~10 hours/week
-
-**What you do**
-
-* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.
-
-* Decide what details actually matter for each item type: keep templates sane, evolve the schema as the archive grows.
-
-* Work with other coordinators to pull the pieces together (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
-
-* Keep the "source of truth" file up to date as the item evolves (links, versions, consent status, credits, notes).
-
-* Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. (See [Recording Station licensing + consent](/recording-station/licensing/).)
-
-* Keep simple inventories so nothing disappears: what exists, where it lives, what’s missing, what needs follow-up.
-
-Success = someone finds it two years later and can actually use it.
-
-**You’re a fit if you**
-
-* You like detail-heavy care work: organizing, labeling, checking, and following up.
-
-* You can triage and keep a queue moving (even with messy inputs).
-
-* You can make judgment calls and improve templates over time.
-
-* You write clearly and treat consent + credits as real obligations.
-
-**Tools we like (not required)**
-
-Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
-
-### The Storyteller
-
-You’re the person who helps the archive speak clearly.
-
-**Time**: ~8 hours/week
-
-**What you do**
-
-* Coordinate the [network of scribes](#transcription-scribes) so transcripts are accurate, readable, and delivered on time.
-
-* Listen/watch fast and find the thread. Pull the names, terms, and context that make the recording understandable later.
-
-* Turn that into the text layer that makes the recording usable later: good titles, clean descriptions, useful tags, and context that still works years later.
-
-* Keep public indexes readable and browsable (workshops pages, archive lists, collections), in collaboration with the Archivist.
-
-* Hand off transcripts and text elements to the Archivist (title, description, tags, quotes, notes, links).
-
-Success = someone finds it years later, understands what it is, and can build from it.
-
-**You’re a fit if you**
-
-* You can listen/watch fast and find the thread.
-
-* You can write context that still works years later (not hype, not SEO).
-
-* You can coordinate scribes and raise quality gently.
-
-* You hand off clean text packages so the Archivist can publish without friction.
-
-**Tools we like (not required)**
-
-Clear writing, comfort working from transcripts, and a good sense for what context will matter later.
-
-**Apply / raise your hand**
-
-To apply, DM us via the [Join the Club links on the homepage](/#join-the-club)  and include:
-
-* which role you want (Archivist / Storyteller)
-
-* your timezone + availability
-
-* confirm you’re good with mostly async work and monthly pay through the end of 2026 (with possible extension)
-
-* links to past work (or a short description)
-
-* what kinds of communities/events you’re into
+→ [View the Storyteller role](/opportunities/storyteller/)
 
 ## Gigs (skill networks)
 
-These are the connections we keep warm: people we can reach when we need transcription, clips, editing, motion, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your link on file.
+These are the skill networks we keep warm—people we can reach when we need transcription, clips, editing, motion graphics, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your information on file.
 
-This is the call list for people who want the work to live on.
+Think of this as a call list for people who want to help the work live on.
 
-Want on the list? Start in [Get involved](#get-involved) below.
+Want on the list? See **How participation works** below for how to reach out.
 
 If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.
 
@@ -132,7 +40,7 @@ If you already DM’d us for something else, just say "add me to the network," s
 
 We want to meet workshop facilitators who can lead conversational, learn-by-doing sessions.
 
-You pick the topic and host it. We can talk about format, livestreaming, and archiving, and decide what’s doable on a case-by-case basis.
+You choose the topic and host the session. We can help think through format, livestreaming, and archiving, and decide what’s feasible on a case‑by‑case basis.
 
 To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link. We’ll check it meets requirements, then confirm payment.
 
@@ -140,17 +48,17 @@ Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the pr
 
 ### Transcription (scribes)
 
-Transcription is split into two parts. One person can do both, or we can split it across two people. We split it because AI is fast, but humans make it true.
+Transcription usually happens in two stages. One person can do both, or we can split the work. AI is fast, but humans make it accurate.
 
 * **AI-assisted draft:** Generate the first transcript pass with AI tools, including speaker labels and rough timestamps when possible.
 
-* **Human review:** Clean up names, jargon, and technical terms. Fix timing and missing words. Pull a few strong quotes that help the [Storyteller](#the-storyteller) shape titles, descriptions, and summaries.
+* **Human review:** Clean up names, jargon, and technical terms. Fix timing and missing words. Pull a few strong quotes that help the Storyteller shape titles, descriptions, and summaries.
 
-The [network of scribes](#transcription-scribes) is coordinated by the [Storyteller](#the-storyteller).
+The network of scribes is coordinated by the Storyteller.
 
 ### Event production
 
-Event production work is tied to real dates and real rooms. When we’re staffed and funded, we bring these skills in to make the recording clean and the live moment steady. If you join this skill network, expect irregular timing. We confirm scope and pay before anything is booked.
+Event production work is tied to real dates, venues, and live audiences. When we’re staffed and funded, we bring these skills in to make the recording clean and the live moment steady. If you join this skill network, expect irregular timing. We confirm scope and pay before anything is booked.
 
 * **Camera Operator:** Handheld, tripod, multi-cam.
 
@@ -160,7 +68,7 @@ Event production work is tied to real dates and real rooms. When we’re staffed
 
 ### Post-production
 
-These skills matter. We’ll do more of this when we can fund it. For now it’s more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
+These skills matter, and we plan to do more of this work as funding allows. For now it’s more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
 
 * **Editing:** Long-form edits. Example: one full talk or one full conversation, cleaned up and ready to publish.
 
@@ -172,23 +80,17 @@ These skills matter. We’ll do more of this when we can fund it. For now it’s
 
 ## Volunteer (Recording Station crew)
 
-[Recording Stations](/recording-station/) are volunteer-run on purpose. No minimum commitment. Help when you can.
+[Recording Stations](/recording-station/) are volunteer‑run by design. There’s no minimum commitment—help when you can.
 
 If you want to help on-site (setup, audio, camera, session wrangling, hosting), start here:
 
 * [Recording Station Volunteer Kit](/recording-station/volunteer/)
 
-## What we care about
+## How participation works
 
-* Straightforward scopes and credits. If we miss something, we fix it.
+Most gigs are paid per contribution, while coordinator roles are paid monthly.
 
-* We care about future usefulness, not the algorithm.
-
-* Privacy-first by default (consent, boundaries, no weird surprises)
-
-* A bias toward free/open-source and decentralized (p2p) tools, with reality when needed.
-
-## Get involved
+We keep scopes straightforward: what the work is, what “done” means, and what it pays. If something like credits or context is missing, we fix it.
 
 Want in on a skill network? DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
@@ -204,7 +106,7 @@ We’ll review what you send and follow up if there’s a potential fit.
 
 New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
 
-## Before you jump in
+A few practical notes:
 
 * **Pay + timing:** Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
 
@@ -212,4 +114,6 @@ New but hungry? Tell us. When it makes sense, we can match some gigs to learning
 
 * **How stuff gets finished:** Coordinator roles and skill networks move items from "recorded" to published, with credits, consent notes, and simple "source of truth" files that evolve over time, to keep the archive consistent.
 
-[Back to zkav.club](/) (or jump to [Join the Club](/#join-the-club).)
+* **What we care about:** future usefulness over the algorithm; privacy-first by default (consent, boundaries, no weird surprises); and a bias toward free/open-source and decentralized (p2p) tools, with reality when needed.
+
+[Back to zkav.club](/) · or [Join the Club](/#join-the-club)
