@@ -88,7 +88,7 @@ Right now we’re looking for two coordinators to help run the archive.
 
 Preserve recordings with durable metadata so they remain usable years later.
 
-*For people who enjoy bringing order to messy records so they survive.*
+*For people who enjoy bringing order to messy records.*
 
 → [View the Archivist role](/opportunities/#the-archivist)
 
