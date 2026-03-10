@@ -2,17 +2,7 @@
 
 ZK AV Club runs on small networks of people who help recordings survive and remain usable long after the event.
 
-There are three main ways to participate:
-
-* **Coordinator roles** — help run the archive
-
-* **Paid gigs** through skill networks
-
-* **Volunteer recording station crew**
-
-## Open roles
-
-We’re currently recruiting two coordinators who help turn raw recordings into durable archive items.
+## Opportunities
 
 ### Archivist
 
@@ -26,19 +16,21 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 → [View the Storyteller role](/opportunities/storyteller/)
 
-## Paid gigs
+### Paid gigs
 
-ZK AV Club keeps skill networks for people who help turn recordings into usable media and archive material.
+Join a skill network for workshops, transcription, event production, post‑production, and more.
 
-Work appears around events and depends on funding. When something fits your skills, we’ll reach out with the scope and pay.
+Work appears around events and funding. When something fits your skills, we’ll reach out with the scope and pay.
 
 → [Explore gigs](/opportunities/gigs/)
 
-## Volunteer (Recording Station crew)
+### Volunteer
 
 [Recording Station](/recording-station/) is the portable setup ZK AV Club brings to events to record conversations and workshops.
 
-Recording Station volunteering is currently invite-only.
+Recording Station volunteering is currently invite‑only.
+
+→ [Learn about Recording Station](/recording-station/)
 
 ## How participation works
 
