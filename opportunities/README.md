@@ -4,15 +4,15 @@ ZK AV Club runs on small networks of people who help recordings survive and rema
 
 There are three main ways to participate:
 
-* **Coordinator roles** — help run the archive 
+* **Coordinator roles** — help run the archive
 
-* **Paid gigs** through skill networks 
+* **Paid gigs** through skill networks
 
 * **Volunteer recording station crew**
 
 ## Open roles
 
-We’re currently recruiting two coordinators who help move recordings from “captured” to durable archive items.
+We’re currently recruiting two coordinators who help turn raw recordings into durable archive items.
 
 ### Archivist
 
@@ -28,55 +28,71 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 ## Gigs (skill networks)
 
-These are the skill networks we keep warm—people we can reach when we need transcription, clips, editing, motion graphics, livestream help, and more. If we don’t have work for your skill right now, we’ll keep your information on file.
+These are the skill networks we call on when work appears.
 
-Think of this as a call list for people who want to help the work live on.
+Most gigs are paid per contribution when work is available. Work tends to appear around events and depends on funding, so timing can be irregular.
 
-Want on the list? See **How participation works** below for how to reach out.
+If you join a network, we’ll reach out when something fits your skills.
 
-If you already DM’d us for something else, just say "add me to the network," share your skill(s), and drop a link to your work.
+See **How participation works** below for how to join.
+
+Current skill networks include:
 
 ### Workshops
 
-We want to meet workshop facilitators who can lead conversational, learn-by-doing sessions.
+Lead a conversational, learn‑by‑doing workshop.
 
-You choose the topic and host the session. We can help think through format, livestreaming, and archiving, and decide what’s feasible on a case‑by‑case basis.
+You choose the topic and host the session. We can help with format, livestreaming, and archiving.
 
-To get paid, the recording needs to be published on your channel(s) after the session (YouTube, PeerTube, etc.). Share the link. We’ll check it meets requirements, then confirm payment.
+**Typical work**
 
-Start here: [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
+* Facilitate a workshop session
+
+* Publish the recording on your channel
+
+* Share the link for confirmation
+
+**Start here:** [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
 ### Transcription (scribes)
 
-Transcription usually happens in two stages. One person can do both, or we can split the work. AI is fast, but humans make it accurate.
+Help turn recorded conversations into accurate, usable transcripts.
 
-* **AI-assisted draft:** Generate the first transcript pass with AI tools, including speaker labels and rough timestamps when possible.
+**Typical work**
 
-* **Human review:** Clean up names, jargon, and technical terms. Fix timing and missing words. Pull a few strong quotes that help the Storyteller shape titles, descriptions, and summaries.
+* Generate AI‑assisted transcript drafts
+
+* Review terminology, names, and timing
+
+* Pull quotes that help shape titles and summaries
 
 The network of scribes is coordinated by the Storyteller.
 
 ### Event production
 
-Event production work is tied to real dates, venues, and live audiences. When we’re staffed and funded, we bring these skills in to make the recording clean and the live moment steady. If you join this skill network, expect irregular timing. We confirm scope and pay before anything is booked.
+Help run the technical side of live recording at events.
 
-* **Camera Operator:** Handheld, tripod, multi-cam.
+**Typical roles**
 
-* **Livestream Technician:** Keep the audio/video flow stable: OBS/scenes, audio, network, routing.
+* **Camera operator** — handheld, tripod, multi‑cam
 
-* **Livestream Producer:** Show flow, cues, coordination, calm. Run the show nice and steady.
+* **Livestream technician** — OBS scenes, audio routing, network stability
+
+* **Livestream producer** — run show flow, cues, and coordination
 
 ### Post-production
 
-These skills matter, and we plan to do more of this work as funding allows. For now it’s more occasional while we prioritize getting source material safely published and documented. Expect lighter and less predictable volume for now.
+Turn raw recordings into finished media ready to publish.
 
-* **Editing:** Long-form edits. Example: one full talk or one full conversation, cleaned up and ready to publish.
+**Typical work**
 
-* **Clips:** 2–4× 30–60s videos for social.
+* Long‑form edits (talks or conversations)
 
-* **Thumbnails:** Clean, consistent thumbnails sized for where they’ll live. Example: one thumbnail design delivered in 16:9 + 1:1 + 9:16.
+* Short clips for social
 
-* **Motion Graphics:** Lower thirds, bumpers, simple packages.
+* Thumbnails for distribution platforms
+
+* Motion graphics (lower thirds, bumpers, simple packages)
 
 ## Volunteer (Recording Station crew)
 
@@ -92,7 +108,7 @@ Most gigs are paid per contribution, while coordinator roles are paid monthly.
 
 We keep scopes straightforward: what the work is, what “done” means, and what it pays. If something like credits or context is missing, we fix it.
 
-Want in on a skill network? DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
+**Want in on a skill network?** DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
 * which skill(s) you want to help with (Workshops, Transcription, Event production, Post-production)
 
@@ -104,7 +120,7 @@ Want in on a skill network? DM us via the [Join the Club links on the homepage](
 
 We’ll review what you send and follow up if there’s a potential fit.
 
-New but hungry? Tell us. When it makes sense, we can match some gigs to learning paths.
+New but hungry? Tell us. When it makes sense, we can match some gigs with learning opportunities.
 
 A few practical notes:
 
