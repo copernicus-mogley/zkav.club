@@ -1,4 +1,4 @@
-# Gigs
+## Gigs
 
 ← [Back to Opportunities](/opportunities/)
 
@@ -10,7 +10,7 @@ Most gigs are paid per contribution when work is available. Work tends to appear
 
 When something fits your skills, we’ll reach out with the scope, timeline, and pay.
 
-## How to join the gigs network
+### How to join the gigs network
 
 To join a network, DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
@@ -28,7 +28,7 @@ See **How participation works** on the Opportunities page for how to join.
 
 Current skill networks include:
 
-## Workshops
+### Workshops
 
 Lead a conversational, learn‑by‑doing workshop.
 
@@ -44,7 +44,7 @@ You choose the topic and host the session. We can help with format, livestreamin
 
 **Start here:** [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
-## Transcription (scribes)
+### Transcription (scribes)
 
 Help turn recorded conversations into accurate, usable transcripts.
 
@@ -58,7 +58,7 @@ Help turn recorded conversations into accurate, usable transcripts.
 
 The network of scribes is coordinated by the Storyteller.
 
-## Event production
+### Event production
 
 Help run the technical side of live recording at events.
 
@@ -70,7 +70,7 @@ Help run the technical side of live recording at events.
 
 * **Livestream producer** — run show flow, cues, and coordination
 
-## Post-production
+### Post-production
 
 Turn raw recordings into finished media ready to publish.
 
