@@ -8,8 +8,6 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 You’re the person who helps the archive speak clearly.
 
-You’re the person who helps the archive speak clearly.
-
 **Time**: ~8 hours/week
 
 **What you do**
