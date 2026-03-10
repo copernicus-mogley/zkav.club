@@ -1,8 +1,8 @@
 # Opportunities
 
-ZK AV Club runs on small networks of people who help recordings survive and remain usable long after the event.
+Zk Av Club runs on small networks of people who help recordings survive and remain usable long after the event.
 
-There are several ways to participate in ZK AV Club.
+There are several ways to participate in Zk Av Club.
 
 ---
 
@@ -34,7 +34,7 @@ Work appears around events and funding. When something fits your skills, we’ll
 
 ### Volunteer
 
-[Recording Station](/recording-station/) is the portable setup ZK AV Club brings to events to record conversations and workshops.
+[Recording Station](/recording-station/) is the portable setup Zk Av Club brings to events to record conversations and workshops.
 
 Volunteering for the Recording Station is currently invite‑only.
 

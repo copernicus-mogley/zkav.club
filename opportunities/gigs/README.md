@@ -2,7 +2,7 @@
 
 ← [Back to Opportunities](/opportunities/)
 
-ZK AV Club keeps small skill networks for people who help turn recordings into usable media and archive material.
+Zk Av Club keeps small skill networks for people who help turn recordings into usable media and archive material.
 
 These networks are how we find people when work appears.
 

@@ -78,7 +78,7 @@ Zcash PeerTube is our first public implementation, but it’s just one example.
 
 Some moments are quiet. Then the wave hits — and the work begins.
 
-ZK AV Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop hosts, and more. We also keep skill networks for workshops, transcription, and media production.
+Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop hosts, and more. We also keep skill networks for workshops, transcription, and media production.
 
 → [Explore all opportunities](/opportunities/)
 
