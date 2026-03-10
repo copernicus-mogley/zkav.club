@@ -15,8 +15,11 @@ When something fits your skills, we’ll reach out with the scope, timeline, and
 To join a network, DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
 * which skill(s) you want to help with
+
 * your timezone + typical availability
+
 * links to past work (or a short description)
+
 * any languages you can work in
 
 We’ll review what you send and follow up if there’s a potential fit.
