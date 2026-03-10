@@ -76,13 +76,30 @@ Zcash PeerTube is our first public implementation, but it’s just one example.
 
 ### Opportunities
 
-When the cameras stop, the work keeps going. Opportunities is the page for paid roles and gigs that turn recordings into archive-ready items: transcripts, titles, credits, clips, and the rest of the follow-through.
+Some moments are quiet. Then the wave hits — and the work begins.
 
-Some roles are ongoing. Most are paid per piece. All of them are about finishing the work well so it stays usable years from now.
+ZK AV Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop hosts, and more. We also keep skill networks for workshops, transcription, and media production.
 
-If you like the part after record, the quiet, careful work that makes media stick, this is where you plug in.
+→ [Explore all opportunities](/opportunities/)
 
-[See Opportunities](/opportunities/).
+Right now we’re looking for two coordinators to help run the archive.
+
+#### Archivist — currently recruiting
+
+Preserve recordings with durable metadata so they remain usable years later.
+
+*For people who enjoy bringing order to messy records so they survive.*
+
+→ [View the Archivist role](/opportunities/#the-archivist)
+
+#### Storyteller — currently recruiting
+
+Interpret recordings with titles, context, and descriptions so they remain understandable years later.
+
+*For people who like listening closely and helping others find the thread.*
+
+→ [View the Storyteller role](/opportunities/#the-storyteller)
+
 
 ### Testimonials
 
