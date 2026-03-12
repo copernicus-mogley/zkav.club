@@ -1,10 +1,10 @@
 ## Zero-knowledge Audiovisual Club
 
-We work with open-source and decentralized tech communities document themselves without giving up privacy.
+We work with open-source and decentralized tech communities to document themselves without giving up privacy.
 
-People. Stories. Tools.
+Through workshops, event recording, and practical AV documentation, communities keep their own record and return it to a shared archive others can build on.
 
-Through workshops, event recording, and practical AV documentation, communities keep their own record and return it to a shared archive others can build on. 
+People. Stories. Tools. 
 
 ### Navigation
 
