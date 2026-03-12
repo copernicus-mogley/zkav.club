@@ -46,4 +46,4 @@ The application takes about 10–15 minutes.
 
 If this sounds like your kind of work, we’d love to hear from you.
 
-→ **[Apply for the Storyteller role](https://cryptpad.fr/code/#/2/code/edit/7k4KqrhnKLDfSHooYfzTWXlZ/)**
+→ **[Apply for the Storyteller role](https://tally.so/r/VLllOy)**
