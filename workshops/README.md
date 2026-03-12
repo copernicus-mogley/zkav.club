@@ -49,17 +49,17 @@ Workshops can cover many kinds of work: technical topics like tooling or node op
 
 2. We review the idea and shape it together. We tighten the scope, clarify outcomes, and design the session for participation
 
-3. We schedule and promote the session so people can show up
+3. We schedule and promote it so people can show up
 
-4. We run a quick test session to check audio, video, and screen sharing
+4. We do a quick test session together to check audio, video, and screen sharing
 
 5. You host it live where your people already are, such as a call, livestream, or community space. Participation matters: questions, exercises, and discussion
 
-6. We livestream or record it so the knowledge stays useful after the session
+6. The session should be recorded so the knowledge stays useful after the session
 
-Workshops must be recorded for facilitator payment. If a session cannot be recorded, it does not run as a Zk Av Club Workshop.
+Workshops must be recorded for facilitator payment. If a session cannot be recorded, it does not run as a Zk Av Club Workshop. Recording may be done by the facilitator or with help from the club when possible.
 
-When capacity allows, we can also support restreaming or simultaneous translation.
+When capacity allows, we may help with recording, restreaming, or simultaneous translation.
 
 ---
 
