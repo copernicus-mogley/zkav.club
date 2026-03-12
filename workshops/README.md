@@ -28,9 +28,9 @@ If you want to teach something, test an idea in public, or explore a topic with 
 
 A good workshop has:
 
-* Real back-and-forth, not just lectures 
+* Real back-and-forth, not just lectures
 
-* Shared exploration 
+* Shared exploration
 
 * Useful outcomes such as skills, artifacts, or clear next steps
 
@@ -38,11 +38,11 @@ A good workshop has:
 
 ### Why facilitate
 
-* Share practical knowledge and unblock others 
+* Share practical knowledge and unblock others
 
-* Improve your teaching and facilitation 
+* Improve your teaching and facilitation
 
-* Meet collaborators. Facilitators are paid in Zcash
+* Meet collaborators. Facilitators receive a Zcash payment
 
 ---
 
@@ -51,31 +51,29 @@ A good workshop has:
 We’re intentionally broad. Bring your craft.
 Almost anything useful fits.
 
-* Technical: tooling, privacy workflows, node ops, dev onboarding, infrastructure, security basics 
+* Technical: tooling, privacy workflows, node ops, dev onboarding, infrastructure, security basics
 
-* Media and production: recording, editing, livestreaming, captions, archiving, documentation workflows 
+* Media and production: recording, editing, livestreaming, captions, archiving, documentation workflows
 
-* Community skills: facilitation, governance patterns, communication, onboarding, storytelling 
+* Community skills: facilitation, governance patterns, communication, onboarding, storytelling
 
 * Creative and experimental: demos, build-with-me sessions, teardown sessions, clinic-style troubleshooting
-
-If it helps a community do something real, it probably fits.
 
 ---
 
 ### How it works
 
-1. You propose an idea describing what you will teach or explore and what attendees will walk away with
+1. You propose an idea. Explain what you will teach or explore and what people will walk away with
 
    Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
-2. We shape it together. We tighten the scope, clarify outcomes, and design the session for participation
+2. We review the idea and shape it together. We tighten the scope, clarify outcomes, and design the session for participation
 
 3. We schedule and promote the session so people can show up
 
 4. We run a quick test session to check audio, video, and screen sharing
 
-5. Host it live where your people already are. Participation matters: questions, exercises, and discussion
+5. You host it live where your people already are, such as a call, livestream, or community space. Participation matters: questions, exercises, and discussion
 
 6. We livestream or record it so the knowledge stays useful after the session
 
@@ -87,19 +85,19 @@ When capacity allows, we can also support restreaming or simultaneous translatio
 
 ### Past workshops (examples)
 
-Browse the archive → [/workshops/past/](/workshops/past/)
+Browse the archive → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
 Common themes:
 
-* Editing clinics: open-source tools, clip workflows 
+* Editing clinics: open-source tools, clip workflows
 
-* Remote production: livestreaming, restreaming, privacy-first calls, broadcast setups 
+* Remote production: livestreaming, restreaming, privacy-first calls, broadcast setups
 
-* Accessibility: live translation, real-time transcription, speech-to-text 
+* Accessibility: live translation, real-time transcription, speech-to-text
 
-* Community broadcasting: amplifying events without centralizing control 
+* Community broadcasting: amplifying events without centralizing control
 
-* Recording Station practice: field workflow, recaps, lessons learned 
+* Recording Station practice: field workflow, recaps, lessons learned
 
 * Research and archiving: "hacker-librarian" methods and durable publishing
 
@@ -107,15 +105,15 @@ Common themes:
 
 ### What to include in your proposal
 
-* Topic and learning outcomes 
+* Topic and learning outcomes
 
-* Format such as single session or series, demo, guided exercise, teardown, clinic, or discussion 
+* Format such as single session or series, demo, guided exercise, teardown, clinic, or discussion
 
-* Date window and duration 
+* Date window and duration
 
-* Language 
+* Language
 
-* Materials or links such as repositories, docs, slides, or examples 
+* Materials or links such as repositories, docs, slides, or examples
 
 * Promotion: share the workshop once with your network
 
@@ -125,11 +123,11 @@ Common themes:
 
 Zk Av Club exists to support people doing real work.
 
-* We collaborate openly and give clear credit 
+* We collaborate openly and give clear credit
 
-* We aim for durable public knowledge through recordings and documentation 
+* We aim for durable public knowledge through recordings and documentation
 
-* We treat workshops as community infrastructure, not content farming
+* We treat workshops as community infrastruc
 
 ---
 
