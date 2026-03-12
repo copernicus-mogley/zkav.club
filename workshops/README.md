@@ -63,9 +63,9 @@ When capacity allows, we may help with recording, restreaming, or simultaneous t
 
 ---
 
-### Past workshops (examples)
+### Past workshops
 
-Browse the archive → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
+[Browse examples](/workshops/past/)
 
 Common themes:
 
@@ -105,8 +105,8 @@ Zk Av Club supports people doing real work. We collaborate openly, give clear cr
 
 Have an idea, even a rough one. Send it in and we will help shape it.
 
-Apply to facilitate → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+Host a workshop → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
-Suggest a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+Request a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
 — Zk Av Club
