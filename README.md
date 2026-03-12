@@ -82,7 +82,7 @@ Zk Av Club runs on small networks of people who help recordings survive past the
 
 Right now we’re looking for two coordinators to help run the archive.
 
-#### Archivist — currently recruiting
+#### The Archivist — currently recruiting
 
 Preserve recordings with durable metadata so they remain usable years later.
 
@@ -90,7 +90,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 → [View the Archivist role](/opportunities/archivist/)
 
-#### Storyteller — currently recruiting
+#### The Storyteller — currently recruiting
 
 Interpret recordings with titles, context, and descriptions so they remain understandable years later.
 
