@@ -109,4 +109,4 @@ Host a workshop → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
 Request a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
-— Zk Av Club
+[Back to zkav.club](/)
