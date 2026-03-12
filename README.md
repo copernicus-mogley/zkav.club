@@ -1,12 +1,10 @@
 ## Zero-knowledge Audiovisual Club
 
-We help open-source and decentralized tech communities tell their own stories without giving up privacy, and we return the results to a public archive the community can build on.
+We work with open-source and decentralized tech communities document themselves without giving up privacy.
 
-People, stories, tools.
+People. Stories. Tools.
 
-We run Workshops, publish practical AV docs, and support meetups, hackathons, conferences, and camps so communities can keep their own record on their own terms.
-
-Recording Station is volunteer-run. The rest is supported through paid work, grants, sponsors, and ecosystem funding.
+Through workshops, event recording, and practical AV documentation, communities keep their own record and return it to a shared archive others can build on. 
 
 ### Navigation
 
