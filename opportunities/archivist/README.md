@@ -4,11 +4,9 @@
 
 Preserve recordings with durable metadata so they remain usable years later.
 
-*Part-time coordinator role · ~10 hours/week · mostly async*
+*Part-time coordinator role · **~10 hours/week** · mostly async*
 
 You’re the person who makes sure the source survives.
-
-**Time**: ~10 hours/week
 
 **What you do**
 
