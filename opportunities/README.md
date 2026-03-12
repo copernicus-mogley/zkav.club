@@ -1,4 +1,4 @@
-# Opportunities
+## Opportunities
 
 Zk Av Club runs on small networks of people who help recordings survive and remain usable long after the event.
 
@@ -42,7 +42,7 @@ Volunteering for the Recording Station is currently invite‑only.
 
 ---
 
-## How participation works
+### How participation works
 
 Most gigs are paid per contribution, while coordinator roles are paid monthly.
 
