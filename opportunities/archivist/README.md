@@ -6,6 +6,8 @@ Preserve recorded conversations as durable archive items so they remain understa
 
 Archivists ultimately work for people who will discover these recordings years from now.
 
+Good archives prioritize provenance, context, and future discoverability.
+
 This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the Zk Av Club archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
 
 **What you do**
