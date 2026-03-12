@@ -1,7 +1,5 @@
 ## Zk Av Club Recording Station
 
-Helping communities document themselves at events and build an open, living archive for the people who were actually there.
-
 An ad-hoc recording lab that drops into events. Step in, record, and play.
 
 You bring the conversation. We handle the mics, framing, and levels.
