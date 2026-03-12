@@ -38,7 +38,7 @@ The content belongs to the creators in it. Nothing goes out without your OK.
 
 After approval, the original recording is preserved in the public archive. 
 
-→ [Read how it works](/recording-station/) (recording flow, licensing, and consent).
+→ [Read how it works](/recording-station/) (recording flow, licensing, and consent)
 
 ### Workshops
 
@@ -58,7 +58,7 @@ We help communities build media homes that last.
 
 If you want your content to outlive the platform mood swings, start here.
 
-→ [Explore Community Publishing Infrastructure](/publishing-infrastructure).
+→ [Explore Community Publishing Infrastructure](/publishing-infrastructure)
 
 ### Opportunities
 
