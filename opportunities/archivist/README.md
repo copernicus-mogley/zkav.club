@@ -2,8 +2,6 @@
 
 ← [Back to Opportunities](/opportunities/)
 
-Preserve recorded conversations as durable archive items so they remain understandable and usable years later.
-
 Archivists ultimately work for people who will discover these recordings years from now.
 
 Good archives prioritize provenance, context, and future discoverability.
