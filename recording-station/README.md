@@ -1,20 +1,26 @@
 # Zero-knowledge Audiovisual Club Recording Station
 
-Helping communities document themselves to build an open, living archive for and by the people involved.
+Helping communities document themselves and build an open, living archive for the people who were actually there.
 
 An ad-hoc media lab that drops into events. Step in, record, and play.
 
-Nothing goes out without your OK. After that, we publish the originals to Internet Archive under CC BY-SA (share + remix with attribution).
+You bring the conversation. We handle the mics, framing, and levels.
+
+The content belongs to the creators in it.
+
+Nothing goes out without your OK.
+
+After approval, the original recording is preserved in the public archive. After that, we publish the originals to Internet Archive under CC BY-SA (share + remix with attribution).
 
 Want a feel for the vibe? Here are edited highlights from Berlin Blockchain Week 2025: [Recording Station sessions](https://youtube.com/playlist?list=PL9eB_cR4oMehZCgFJqCIVPb253lVWnr8d). (Archive source drops coming soon.)
 
 ## What this is
 
-Most event coverage is top-down. Zk Av Club Recording Station is the opposite: a place at the event where the people in the room can document themselves, on their own terms.
+Most event coverage is top-down. Zk Av Club Recording Station is the opposite: a place at the event where the people in the room document themselves, on their own terms.
 
 It can be a deep-dive conversation, a quick reflection, a hallway riff, a group recap, or something weird. We’re here for all of it.
 
-Once you approve the recording, we handle the upload to Internet Archive.
+Once you approve the recording, we handle the upload to Internet Archive. The archive entry includes credits and context so the conversation remains usable years later.
 
 ## Why we do it
 
