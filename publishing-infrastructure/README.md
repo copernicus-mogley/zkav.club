@@ -1,4 +1,4 @@
-## Community Media Infrastructure
+## Community Publishing Infrastructure
 
 ### Long-term publishing for decentralized communities
 
