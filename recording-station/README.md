@@ -1,74 +1,76 @@
-# Zero-knowledge Audiovisual Club Recording Station
+## Zk Av Club Recording Station
 
-Helping communities document themselves and build an open, living archive for the people who were actually there.
+Helping communities document themselves at events and build an open, living archive for the people who were actually there.
 
-An ad-hoc media lab that drops into events. Step in, record, and play.
+An ad-hoc recording lab that drops into events. Step in, record, and play.
 
 You bring the conversation. We handle the mics, framing, and levels.
 
-The content belongs to the creators in it.
+The content belongs to the creators in it. Nothing goes out without your OK.
 
-Nothing goes out without your OK.
-
-After approval, the original recording is preserved in the public archive. After that, we publish the originals to Internet Archive under CC BY-SA (share + remix with attribution).
+After approval, the original recording is preserved in the open archive of community recordings.
 
 Want a feel for the vibe? Here are edited highlights from Berlin Blockchain Week 2025: [Recording Station sessions](https://youtube.com/playlist?list=PL9eB_cR4oMehZCgFJqCIVPb253lVWnr8d). (Archive source drops coming soon.)
 
-## What this is
+The originals are published to Internet Archive under CC BY-SA (share + remix with attribution).
 
-Most event coverage is top-down. Zk Av Club Recording Station is the opposite: a place at the event where the people in the room document themselves, on their own terms.
+### How it works
 
-It can be a deep-dive conversation, a quick reflection, a hallway riff, a group recap, or something weird. We’re here for all of it.
+1. **Step in**: Grab a slot on-site.
 
-Once you approve the recording, we handle the upload to Internet Archive. The archive entry includes credits and context so the conversation remains usable years later.
+2. **Record**: We handle mics, framing, and levels. If you want help hosting or prompting the conversation, we can do that too.
 
-## Why we do it
+3. **Review**: Watch or listen back and approve.
 
-* **Self-representation:** People choose to speak for themselves, not through a selection filter.
+4. **Publish**: The recording is added to the public archive.
 
-* **Connection:** A fun space to meet, collaborate, and riff.
+### Formats to try
 
-* **Memory:** Insightful conversations become community memory—not lost in the hallway.
+Any-style conversations • Short-form interviews • Panels
 
-## What’s on the table
+Recaps & event reactions • Personal video journals • Experimental pieces
+
+### Recording community memory
+
+Most event coverage is top-down. Recording Station is the opposite: a place where the people in the room document themselves, on their own terms.
+
+It might be a deep-dive conversation, a quick reflection, a hallway riff, a group recap, or something weird.
+
+Once you approve it, we add it to the open archive of community recordings with credits and context so the conversation stays usable years later.
+
+### What’s on the table
 
 🎥 **Gear**
 
-HD cams, lights, handheld & lav mics, portable mixer/recorder, and field kits for hallway interviews.
+HD cameras, lights, handheld and lav mics, portable mixer/recorder, and field kits for hallway interviews.
 
 👥 **Crew**
 
-We support setup and recording, and can help host if you want. Low-pressure, inclusive vibe.
+We help with setup and recording, and can host if you want. The vibe is low-pressure and inclusive.
 
 🕓 **Sessions**
 
 Walk in and sign up on-site: solo, pairs, roundtables, or live panels.
 
-## Formats to spark inspiration
+### Why we do it
 
-Any-style conversations • Short-form interviews • Panels • Recaps & event reactions • Personal video journals • Experimental/creative pieces
+* **Self-representation:** People choose to speak for themselves, not through a selection filter.
 
-## Distribution & Licensing
+* **Connection:** A fun space to meet, collaborate, and riff.
 
-* Consent and credits: clear approvals and attribution at every step. (If sensitive content needs alternatives, we’ll agree on it in advance.)
+* **Memory:** Insightful conversations become community memory, preserved in the open archive instead of disappearing into the hallway.
 
-* Then open the source: after consent, original masters (audio/video) are released to Internet Archive under CC BY-SA.
+### Publishing & licensing
+
+* Consent and credits come first. Clear approvals and attribution at every step. (If sensitive content needs alternatives, we’ll agree on it in advance.)
+
+* After that, the original recordings are released to Internet Archive under CC BY-SA.
 
 * [Licensing + consent details](https://zkav.club/recording-station/licensing)
 
-## How it flows
+### Get involved
 
-1. **Step in / sign up:** Walk up and grab a slot on-site.
-
-2. **Record:** We handle mics, framing, and levels. Optional host or prompts if you want them.
-
-3. **You review:** Watch/listen back and approve.
-
-4. **We publish the source:** Originals go to Internet Archive under CC BY-SA.
-
-## Get involved
-
-* Step up to the mic with your thoughts, work, and wild ideas.
+* Step up to the mic with your thoughts, your work, or your wild ideas.
 
 * Want Recording Station at your event? [Drop an event lead](https://tally.so/r/VLJ22E).
 
@@ -76,7 +78,7 @@ Any-style conversations • Short-form interviews • Panels • Recaps & event 
 
 * Want this at more events? Donate, fund a project, or sponsor an activation. [Support Zk Av Club](/#support-zk-av-club).
 
-## Join the club
+### Join the club
 
 Tell a friend. Bring a friend.
 
