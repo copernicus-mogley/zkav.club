@@ -1,13 +1,12 @@
-# Community Media Infrastructure + Support
+## Community Media Infrastructure + Support
 
-## Long-term publishing for decentralized communities
+### Long-term publishing for decentralized communities
 
 Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way that aligns with their needs and values.
 
+### What we provide
 
-## What we provide
-
-### 1) Publishing systems
+#### 1) Publishing systems
 
 We help communities stand up and operate publishing destinations that people can actually depend on:
 
@@ -15,16 +14,22 @@ We help communities stand up and operate publishing destinations that people can
 * Repeatable publishing workflows
 * Content organization for discovery
 
-### 2) Content stewardship
+#### 2) Content stewardship
 
-Publishing is the start. We also support the ongoing work that keeps media usable:
+Publishing is the start. We also support the ongoing work that keeps media usable and responsibly managed:
 
 * Indexing and metadata
 * Rights + consent hygiene
+* Moderation support
+* Takedown and reporting workflows
+* Roles and permissions
 * Versioning + updates
 
+A lot of this work is quiet infrastructure: permissions, policies, and repeatable workflows that keep a media home healthy over time. Some of it is straightforward operations. Some of it is experimentation in the wild, such as peer‑to‑peer distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
 
-## Why decentralized media?
+In practice this means communities receive the stack, the workflow, and the runbook needed to operate their publishing home with confidence.
+
+### Why decentralized media?
 
 Community media is easiest to lose when it depends on a single platform’s incentives.
 
@@ -38,9 +43,9 @@ PeerTube is a strong fit for many communities, but not the only one. Our job is 
 
 ---
 
-## Current implementation
+### Current implementation
 
-### Decentralized media for Zcash
+#### Decentralized media for Zcash
 
 PeerTube for Zcash is our first public implementation under this umbrella, but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
 
@@ -50,7 +55,7 @@ If you’re looking for the Zcash PeerTube decision, rollout plan, and how publi
 
 ---
 
-## What you can expect from Zk Av Club
+### What you can expect from Zk Av Club
 
 We strive for:
 
@@ -61,7 +66,7 @@ We strive for:
 
 ---
 
-## Roadmap
+### Roadmap
 
 Zcash is the starting point. Over time, this project will expand to include:
 
