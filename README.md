@@ -38,7 +38,7 @@ The content belongs to the creators in it. Nothing goes out without your OK.
 
 After approval, the original recording is preserved in the public archive. 
 
-→ [Read how it works](/recording-station/) (recording flow, licensing, and consent)
+[Read how it works](/recording-station/) (recording flow, licensing, and consent)
 
 ### Workshops
 
@@ -46,9 +46,9 @@ Zk Av Club Workshops are sessions where people learn by doing, together.
 
 Bring questions. Bring half-finished ideas — like editing clips with open-source tools or running a privacy-first livestream. 
 
-→ [Host a workshop](https://tally.so/r/A7B0MD)
+[Host a workshop](https://tally.so/r/A7B0MD)
 
-→ [Request a topic](https://tally.so/r/A7B0MD)
+[Request a topic](https://tally.so/r/A7B0MD)
 
 ### Publishing Infrastructure
 
@@ -58,7 +58,7 @@ We help communities build media homes that last.
 
 If you want your content to outlive the platform mood swings, start here.
 
-→ [Explore Community Publishing Infrastructure](/publishing-infrastructure)
+[Explore Community Publishing Infrastructure](/publishing-infrastructure)
 
 ### Opportunities
 
@@ -66,7 +66,7 @@ Some moments are quiet. Then the wave hits and the work begins.
 
 Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more. 
 
-→ [Explore all opportunities](/opportunities/)
+[Explore all opportunities](/opportunities/)
 
 Right now we’re looking for two coordinators to help run the archive.
 
@@ -76,7 +76,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *For people who enjoy bringing order to messy records.*
 
-→ [View the Archivist role](/opportunities/archivist/)
+[View the Archivist role](/opportunities/archivist/)
 
 #### The Storyteller — currently recruiting
 
@@ -84,7 +84,7 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 *For people who like listening closely and helping others find the thread.*
 
-→ [View the Storyteller role](/opportunities/storyteller/)
+[View the Storyteller role](/opportunities/storyteller/)
 
 
 ### Testimonials

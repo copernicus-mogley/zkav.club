@@ -10,7 +10,7 @@ There are several ways to participate in Zk Av Club.
 
 Preserve recorded conversations as durable archive items with clear metadata.
 
-→ [View the Archivist role](/opportunities/archivist/)
+[View the Archivist role](/opportunities/archivist/)
 
 ---
 
@@ -18,7 +18,7 @@ Preserve recorded conversations as durable archive items with clear metadata.
 
 Interpret recorded conversations with titles, context, and descriptions.
 
-→ [View the Storyteller role](/opportunities/storyteller/)
+[View the Storyteller role](/opportunities/storyteller/)
 
 ---
 
@@ -28,7 +28,7 @@ Join a skill network for workshops, transcription, event production, post‑prod
 
 Work appears around events and funding. When something fits your skills, we’ll reach out with the scope and pay.
 
-→ [Explore gigs](/opportunities/gigs/)
+[Explore gigs](/opportunities/gigs/)
 
 ---
 
@@ -38,7 +38,7 @@ Work appears around events and funding. When something fits your skills, we’ll
 
 Volunteering for the Recording Station is currently invite‑only.
 
-→ [Learn about Recording Station](/recording-station/)
+[Learn about Recording Station](/recording-station/)
 
 ---
 
