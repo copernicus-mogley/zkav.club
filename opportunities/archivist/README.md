@@ -1,4 +1,4 @@
-## The Archivist
+# The Archivist
 
 ← [Back to Opportunities](/opportunities/)
 
@@ -6,13 +6,19 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *Part-time coordinator role · ~10 hours/week · mostly async*
 
-You’re the person who makes sure the source survives.
+You’re the person who turns recorded conversations into durable archive items that remain usable years later.
+
+Archivists ultimately work for people who will discover these recordings years from now.
+
+This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear.
+
+The Archivist helps ensure the Zk Av Club archive remains consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
 
 **What you do**
 
-* Turn a pile of files into a real archive item: source, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.
+* Turn messy recording folders into real archive items: source files, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.
 
-* Decide what details actually matter for each item type: keep templates sane, evolve the schema as the archive grows.
+* Decide what details actually matter for each item type: keep templates simple and evolve the metadata schema as the archive grows.
 
 * Work with other coordinators to pull the pieces together (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
 
@@ -22,7 +28,7 @@ You’re the person who makes sure the source survives.
 
 * Keep simple inventories so nothing disappears: what exists, where it lives, what’s missing, what needs follow-up.
 
-Success = someone finds it two years later and can actually use it.
+Success means someone finds the recording years later and can immediately understand and use it.
 
 **You’re a fit if you**
 
@@ -32,7 +38,7 @@ Success = someone finds it two years later and can actually use it.
 
 * You can make judgment calls and improve templates over time.
 
-* You write clearly and treat consent + credits as real obligations.
+* You write clearly and treat credits, consent, and context as real obligations.
 
 **Tools we like (not required)**
 
@@ -42,18 +48,10 @@ Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, ba
 
 **Interested in this role?**
 
-If this sounds like your kind of work, reach out.
+Applications start with a short form. If there’s a potential fit, we’ll follow up with a small trial task so we can see how you approach real archive material.
 
-**Apply / raise your hand**
+The application takes about 10–15 minutes.
 
-To apply, DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
+If this sounds like your kind of work, we’d love to hear from you.
 
-* which role you want (Archivist)
-
-* your timezone + availability
-
-* confirm you’re good with mostly async work and monthly pay through the end of 2026 (with possible extension)
-
-* links to past work (or a short description)
-
-* what kinds of communities/events you’re into
+→ **[Apply for the Archivist role](https://tally.so/r/obBa8M)**
