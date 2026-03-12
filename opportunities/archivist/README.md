@@ -2,17 +2,11 @@
 
 ← [Back to Opportunities](/opportunities/)
 
-Preserve recordings with durable metadata so they remain usable years later.
-
-*Part-time coordinator role · ~10 hours/week · mostly async*
-
-You’re the person who turns recorded conversations into durable archive items that remain usable years later.
+Preserve recorded conversations as durable archive items so they remain understandable and usable years later.
 
 Archivists ultimately work for people who will discover these recordings years from now.
 
-This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear.
-
-The Archivist helps ensure the Zk Av Club archive remains consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
+This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the Zk Av Club archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
 
 **What you do**
 
@@ -28,7 +22,7 @@ The Archivist helps ensure the Zk Av Club archive remains consistent, searchable
 
 * Keep simple inventories so nothing disappears: what exists, where it lives, what’s missing, what needs follow-up.
 
-Success means someone finds the recording years later and can immediately understand and use it.
+Success means someone discovers the recording years later and can immediately understand what it is and use it.
 
 **You’re a fit if you**
 
@@ -42,7 +36,7 @@ Success means someone finds the recording years later and can immediately unders
 
 **Tools we like (not required)**
 
-Text-first workflows (docs/markdown/whatever the project uses), spreadsheets, basic editing literacy, simple publishing/index workflows, and comfort working from transcripts.
+Text-first workflows (docs/markdown), spreadsheets, simple publishing/index workflows, and comfort working from transcripts.
 
 ---
 
