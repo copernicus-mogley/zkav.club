@@ -54,7 +54,9 @@ Bring questions. Bring half-finished ideas — like editing clips with open-sour
 
 Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked.
 
-Decentralized publishing should feel normal, not like running an experiment. 
+We help communities build media homes that last.
+
+If you want your content to outlive the platform mood swings, start here.
 
 → [Explore Community Publishing Infrastructure](/publishing-infrastructure).
 
