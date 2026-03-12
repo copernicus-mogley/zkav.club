@@ -8,7 +8,7 @@ There are several ways to participate in Zk Av Club.
 
 ### Archivist
 
-Preserve recordings with durable metadata so they remain usable years later.
+Preserve recorded conversations as durable archive items with clear metadata.
 
 → [View the Archivist role](/opportunities/archivist/)
 
@@ -16,7 +16,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 ### Storyteller
 
-Interpret recordings with titles, context, and descriptions so they remain understandable years later.
+Interpret recorded conversations with titles, context, and descriptions.
 
 → [View the Storyteller role](/opportunities/storyteller/)
 
