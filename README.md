@@ -42,17 +42,11 @@ After approval, the original recording is preserved in the public archive.
 
 ### Workshops
 
-Zk Av Club Workshops are conversational, hands-on sessions where people learn by doing, together.
+Zk Av Club Workshops are sessions where people learn by doing, together.
 
-Bring questions. Bring half-finished ideas.
+Bring questions. Bring half-finished ideas — like editing clips with open-source tools or running a privacy-first livestream. 
 
-They’re intentionally broad: they can be technical or non-technical, beginner-friendly or advanced, and in any language, with a bias toward FOSS, privacy, and decentralized (p2p) tech. If it helps someone do something real, it probably fits.
-
-Formats range from demos and guided exercises to teardown sessions, clinic-style troubleshooting, and “build with me” experiments. The goal isn’t a lecture to a quiet room, it’s a session people can take part in.
-
-Facilitators are paid in Zcash, and workshops are recorded and published so the knowledge keeps working after the live moment. Recording is required for facilitator payment; if a session can’t be recorded, it doesn’t run as a Zk Av Club Workshop.
-
-[Learn about the program and browse past sessions](/workshops/).
+→ [Host a workshop](/workshops/)
 
 ### Publishing Infrastructure
 
@@ -70,7 +64,7 @@ A lot of this is quiet work (permissions, policies, workflows). Some of it is so
 
 Zcash PeerTube is our first public implementation, but it’s just one example.
 
-[Explore Community Publishing Infrastructure](/publishing-infrastructure).
+→ [Explore Community Publishing Infrastructure](/publishing-infrastructure).
 
 ### Opportunities
 
