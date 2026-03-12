@@ -2,32 +2,37 @@
 
 ### Long-term publishing for decentralized communities
 
-Zk Av Club runs community media infrastructure and helps decentralized technology communities publish recordings in ways that match their needs and values.
+Zk Av Club helps decentralized technology communities run publishing homes for their media.
 
-### What we provide
+Places where recordings live, stay organized, and remain accessible long after events end.
 
-#### 1) Publishing systems
+### What makes a publishing home work
 
-We help communities set up and run publishing homes people can actually depend on:
+#### 1) Publishing infrastructure
 
-* Instance or channel setup and administration
+We help communities set up publishing homes people can depend on:
+
+* Instance and channel setup
+
 * Repeatable publishing workflows
-* Organization that makes content easier to find
+
+* Content organization for discovery
 
 #### 2) Content stewardship
 
-Publishing is only the start. We also support the ongoing work that keeps media usable and responsibly managed:
+Publishing is only the beginning. Stewardship keeps media usable over time:
 
-* Indexing and metadata
+* Metadata and indexing
+
 * Rights and consent hygiene
-* Moderation support
-* Takedown and reporting workflows
-* Roles and permissions
+
+* Moderation and takedown workflows
+
 * Versioning and updates
 
-Much of this work is quiet infrastructure: permissions, policies, and repeatable workflows that keep a media home healthy over time. Some of it is straightforward operations. Some of it involves experiments in the wild, such as peer‑to‑peer distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
+Much of this work is quiet infrastructure: permissions, policies, and repeatable workflows that keep a media home healthy over time. Some of it is straightforward operations. Some of it involves testing emerging distribution approaches, such as seeding, mirroring, or other peer‑to‑peer techniques.
 
-In practice, communities receive the stack, the workflow, and the runbook needed to operate their publishing home with confidence.
+---
 
 ### Why decentralized media?
 
@@ -36,10 +41,12 @@ Community media is easiest to lose when it depends on a single platform’s ince
 We focus on approaches that support:
 
 * Community control
+
 * Resilient distribution
+
 * Long‑term stewardship
 
-PeerTube is a strong fit for many communities, but it is not the only option. Our job is to help each community choose a path that fits their values and constraints, and then make it work.
+PeerTube is a strong fit for many communities, but it is not the only option. Our job is to help each community choose a path that fits their values and constraints, and then help them get it running.
 
 ---
 
@@ -47,7 +54,7 @@ PeerTube is a strong fit for many communities, but it is not the only option. Ou
 
 #### Decentralized media for Zcash
 
-PeerTube for Zcash is our first public implementation in this area, but it is only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
+PeerTube for Zcash is our first public implementation, but it is only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
 
 If you are looking for the Zcash PeerTube decision, rollout plan, and how publishing will work, start here:
 
@@ -59,10 +66,13 @@ If you are looking for the Zcash PeerTube decision, rollout plan, and how publis
 
 We aim for:
 
-* Clear standards for labeling, organization, and documentation
+* Clear standards for labeling and organization
+
 * Reliable upload and handoff workflows
-* A steady path toward better accessibility
-* Transparent scope: what we do, what we do not do, and how requests are handled
+
+* A steady path toward better accessibility (captions, transcripts, and related tools)
+
+* Clear scope for requests and responsibilities
 
 ---
 
@@ -70,11 +80,14 @@ We aim for:
 
 Zcash is the starting point. Over time, this project will expand to include:
 
-* Additional community media implementations beyond PeerTube
+* Additional community media implementations
+
 * Publishing playbooks and templates
-* Indexing and metadata guidelines
-* Support for event recording pipelines
+
+* Metadata and indexing guidelines
+
+* Publishing pipelines for event recordings
 
 ---
 
-**Community media needs infrastructure.** We are here to help build it.
+**Community media needs homes that last.** We are here to help build them.
