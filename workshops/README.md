@@ -1,10 +1,10 @@
-# Host a Zk Av Club Workshop
+## Host a Zk Av Club Workshop
 
 Zk Av Club is a community for people building useful things in open networks.
 
 We run conversations, recordings, and workshops that help knowledge circulate.
 
-### Workshops
+#### Workshops
 
 Zk Av Club Workshops are sessions where people learn by doing, together.
 
@@ -21,17 +21,17 @@ Bring questions. Bring half-finished ideas.
 * [Past workshops](#past-workshops-examples)
 * [Apply](#apply-to-facilitate-a-workshop)
 
-## What workshops are
+### What workshops are
 
 A good workshop includes real back-and-forth, shared exploration, and useful outcomes such as skills, artifacts, or clear next steps.
 
 Workshops can be technical or non-technical, beginner-friendly or advanced, and in any language.
-
-## Why facilitate
+#
+### Why facilitate
 
 Facilitating a workshop is a way to share practical knowledge, improve your teaching, and meet collaborators. Facilitators receive a Zcash payment.
 
-## What kinds of workshops fit
+### What kinds of workshops fit
 
 We’re intentionally broad. Bring your craft. Almost anything useful fits.
 
@@ -41,7 +41,7 @@ If it helps people do something real, it probably fits.
 
 ---
 
-## How it works
+### How it works
 
 1. You propose an idea. Explain what you will teach or explore and what people will walk away with.
 
@@ -63,7 +63,7 @@ When capacity allows, we may help with recording, restreaming, or simultaneous t
 
 ---
 
-## Past workshops (examples)
+### Past workshops (examples)
 
 Browse the archive → [https://www.zkav.club/workshops/past/](https://www.zkav.club/workshops/past/)
 
@@ -79,7 +79,7 @@ Common themes:
 
 ---
 
-## What to include in your proposal
+### What to include in your proposal
 
 * Topic and learning outcomes
 
@@ -95,13 +95,13 @@ Common themes:
 
 ---
 
-## How we collaborate
+### How we collaborate
 
 Zk Av Club supports people doing real work. We collaborate openly, give clear credit, and focus on durable public knowledge through recordings and documentation. Workshops are treated as community infrastructure, not content farming.
 
 ---
 
-## Apply to facilitate a workshop
+### Apply to facilitate a workshop
 
 Have an idea, even a rough one. Send it in and we will help shape it.
 
