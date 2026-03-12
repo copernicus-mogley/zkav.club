@@ -2,32 +2,32 @@
 
 ### Long-term publishing for decentralized communities
 
-Zk Av Club runs community media infrastructure and provides support services that help decentralized technology communities publish recordings in a way that aligns with their needs and values.
+Zk Av Club runs community media infrastructure and helps decentralized technology communities publish recordings in ways that match their needs and values.
 
 ### What we provide
 
 #### 1) Publishing systems
 
-We help communities stand up and operate publishing destinations that people can actually depend on:
+We help communities set up and run publishing homes people can actually depend on:
 
-* Instance/channel setup and administration
+* Instance or channel setup and administration
 * Repeatable publishing workflows
-* Content organization for discovery
+* Organization that makes content easier to find
 
 #### 2) Content stewardship
 
-Publishing is the start. We also support the ongoing work that keeps media usable and responsibly managed:
+Publishing is only the start. We also support the ongoing work that keeps media usable and responsibly managed:
 
 * Indexing and metadata
-* Rights + consent hygiene
+* Rights and consent hygiene
 * Moderation support
 * Takedown and reporting workflows
 * Roles and permissions
-* Versioning + updates
+* Versioning and updates
 
-A lot of this work is quiet infrastructure: permissions, policies, and repeatable workflows that keep a media home healthy over time. Some of it is straightforward operations. Some of it is experimentation in the wild, such as peer‑to‑peer distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
+Much of this work is quiet infrastructure: permissions, policies, and repeatable workflows that keep a media home healthy over time. Some of it is straightforward operations. Some of it involves experiments in the wild, such as peer‑to‑peer distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
 
-In practice this means communities receive the stack, the workflow, and the runbook needed to operate their publishing home with confidence.
+In practice, communities receive the stack, the workflow, and the runbook needed to operate their publishing home with confidence.
 
 ### Why decentralized media?
 
@@ -37,9 +37,9 @@ We focus on approaches that support:
 
 * Community control
 * Resilient distribution
-* Long-term stewardship
+* Long‑term stewardship
 
-PeerTube is a strong fit for many communities, but not the only one. Our job is to help each community choose a path that matches their values and constraints — and then make it work.
+PeerTube is a strong fit for many communities, but it is not the only option. Our job is to help each community choose a path that fits their values and constraints, and then make it work.
 
 ---
 
@@ -47,9 +47,9 @@ PeerTube is a strong fit for many communities, but not the only one. Our job is 
 
 #### Decentralized media for Zcash
 
-PeerTube for Zcash is our first public implementation under this umbrella, but it’s only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
+PeerTube for Zcash is our first public implementation in this area, but it is only one example. We expect to test, iterate, and support additional decentralized media options as we work with more communities.
 
-If you’re looking for the Zcash PeerTube decision, rollout plan, and how publishing will work, start here:
+If you are looking for the Zcash PeerTube decision, rollout plan, and how publishing will work, start here:
 
 [Zcash PeerTube](/publishing-infrastructure/zcash)
 
@@ -57,12 +57,12 @@ If you’re looking for the Zcash PeerTube decision, rollout plan, and how publi
 
 ### What you can expect from Zk Av Club
 
-We strive for:
+We aim for:
 
 * Clear standards for labeling, organization, and documentation
-* Reliable upload + handoff workflows
+* Reliable upload and handoff workflows
 * A steady path toward better accessibility
-* Transparent scope: what we do, what we don’t, and how requests get handled
+* Transparent scope: what we do, what we do not do, and how requests are handled
 
 ---
 
@@ -70,11 +70,11 @@ We strive for:
 
 Zcash is the starting point. Over time, this project will expand to include:
 
-* Additional community media implementations (beyond PeerTube)
+* Additional community media implementations beyond PeerTube
 * Publishing playbooks and templates
-* Indexing + metadata guidelines
-* Support offerings for event recording pipelines
+* Indexing and metadata guidelines
+* Support for event recording pipelines
 
 ---
 
-**Community media needs infrastructure.** We’re here to help build it.
+**Community media needs infrastructure.** We are here to help build it.

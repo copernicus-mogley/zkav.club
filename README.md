@@ -52,19 +52,13 @@ Bring questions. Bring half-finished ideas — like editing clips with open-sour
 
 ### Publishing Infrastructure
 
-Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked. If you want your archive to outlive the platform mood swings, start here.
+Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked. 
 
-We help communities build media homes they can depend on:
+We help communities build media homes they can depend on.
 
-* Publishing systems: community-controlled media (Fediverse and beyond), setup/admin, repeatable workflows, and organization for discovery.
+Decentralized publishing should feel normal, not like running a research project. 
 
-* Stewardship and governance: consent defaults, moderation support, takedown/reporting workflows, roles/permissions, and versioning/updates.
-
-We’re trying to make decentralized publishing feel nice. What you get: the stack, the workflow, and the runbook.
-
-A lot of this is quiet work (permissions, policies, workflows). Some of it is solid ops. Some of it is experiments in the wild: p2p distribution (seeding, mirroring, relays), new sharing protocols, and keeping what actually works.
-
-Zcash PeerTube is our first public implementation, but it’s just one example.
+If you want your content to outlive the platform mood swings, start here.
 
 → [Explore Community Publishing Infrastructure](/publishing-infrastructure).
 
