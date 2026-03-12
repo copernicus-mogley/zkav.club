@@ -4,7 +4,7 @@
 
 Interpret recordings with titles, context, and descriptions so they remain understandable years later.
 
-*Part-time coordinator role · **~8 hours/week** · mostly async*
+*Part-time coordinator role · ~8 hours/week · mostly async*
 
 You’re the person who helps the archive speak clearly.
 
