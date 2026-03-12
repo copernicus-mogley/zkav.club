@@ -30,17 +30,15 @@ Recording Station is volunteer-run. The rest is supported through paid work, gra
 
 ### Recording Station
 
-Zk Av Club Recording Station is a simple setup we drop in at events so people can record solid audio/video without bringing gear or a production team.
+Zk Av Club Recording Station is a simple setup we drop into events so people can record solid audio and video without bringing gear or a production team.
 
-You bring the conversation. We handle the mics, framing, and levels. We keep it chill, even when the room isn’t.
+You bring the conversation. We handle the mics, framing, and levels.
 
-The content belongs to the creator(s) in it. Our job is to record it with care and steward the source safely into the public archive, with the context and credits that make it usable later, plus a respectful consent trail. Nothing goes out without your OK.
+The content belongs to the creators in it. Nothing goes out without your OK.
 
-Then the source goes up: multi-angle camera originals and uncompressed audio. After guest approval, the originals are released under CC BY-SA. The archive entry keeps the credits and context intact, ready for others to remix, reference, and build on.
+After approval, the original recording is preserved in the public archive. 
 
-What comes out of it is a shared public good: an open, community-made archive that future creators, filmmakers, and historians can actually use.
-
-[Read the details](/recording-station/) (how it works, licensing + consent).
+→ [Read how it works](/recording-station/) (recording flow, licensing, and consent).
 
 ### Workshops
 
@@ -90,7 +88,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *For people who enjoy bringing order to messy records.*
 
-→ [View the Archivist role](/opportunities/#the-archivist)
+→ [View the Archivist role](/opportunities/archivist/)
 
 #### Storyteller — currently recruiting
 
@@ -98,7 +96,7 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 *For people who like listening closely and helping others find the thread.*
 
-→ [View the Storyteller role](/opportunities/#the-storyteller)
+→ [View the Storyteller role](/opportunities/storyteller/)
 
 
 ### Testimonials
