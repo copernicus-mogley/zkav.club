@@ -21,7 +21,7 @@ Choose a path.
 * [Partner Communities](#partner-communities)
 * [Additional Reading](#additional-reading)
 * [Support](#support-zk-av-club)
-* [Thanks](#thanks)
+* [Thanks!](#thanks)
 
 ### Recording Station
 
@@ -253,9 +253,19 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 
 ### Thanks
 
-[Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
+Zk Av Club runs because many people contribute time, knowledge, space, and trust.
+
+Special thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026.
+
+Read the [proposal and discussion thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
+
+Thanks also to the event organizers, workshop facilitators, archivists, storytellers, and community members who make the recordings possible.
+
+Zk Av Club is built almost entirely on free and open-source tools and public infrastructure. Thanks to the developers and maintainers who make that possible.
 
 ---
+
+Built in the open.
 
 Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
 
