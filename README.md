@@ -251,7 +251,7 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 
 ---
 
-### Thanks
+### Thanks!
 
 Zk Av Club runs because many people contribute time, knowledge, space, and trust.
 
@@ -267,6 +267,6 @@ Zk Av Club is built almost entirely on free and open-source tools and public inf
 
 Built in the open.
 
-Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
+Source lives on GitHub · [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
 
 [Back to top ↑](#zero-knowledge-audiovisual-club)
