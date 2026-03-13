@@ -48,6 +48,8 @@ If you want your content to outlive the platform mood swings, start here.
 
 [Explore Community Publishing Infrastructure](/publishing-infrastructure)
 
+---
+
 ### Opportunities
 
 Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
@@ -74,6 +76,8 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 ### Testimonials
 
+What people we’ve worked with say about the club.
+
 > Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like Zk Av Club!
 >
 > — Alex Bornstein, COO, [Zcash Foundation](https://zfnd.org)
@@ -82,13 +86,24 @@ Interpret recordings with titles, context, and descriptions so they remain under
 >
 > — Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins), [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork))
 
-> I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant, but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered Adjy Leak, and in conjunction, Zk Av Club. Through the club, I experienced not only my first time connecting with *many* like-minded folks through live streaming, but also a vast archive of knowledge I didn't even know existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
->
-> — [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)
-
 > Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like DWeb, and has helped make connections with other local communities around the globe, such as Zcash Brazil. They've run self-contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included.
 >
 > — [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)
+
+> have you ever been to cozy virtual meeting space full of people who don't expect you to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for.
+>
+> the club is also big on experimenting. each member can use their new knowledge to start creating something they want or join forces with others to collaborate. best part is when you find a chance to be part of some on-location events or workshops with other club members.
+>
+> join it and find out if its something for you.
+>
+> — [@zerodartz](https://x.com/zerodartz)
+
+<details>
+<summary>More testimonials</summary>
+
+> I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant, but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered Adjy Leak, and in conjunction, Zk Av Club. Through the club, I experienced not only my first time connecting with *many* like-minded folks through live streaming, but also a vast archive of knowledge I didn't even know existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
+>
+> — [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)
 
 > Over the years, Zk Av Club has emerged as a vibrant, transformative force in the Zcash community. It has grown organically into a global collective of content creators and media producers who combine creativity with innovative media production technologies and techniques.
 >
@@ -99,14 +114,6 @@ Interpret recordings with titles, context, and descriptions so they remain under
 > Zk Av Club is a place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands-on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
 >
 > — [@zksquirrel](https://x.com/zksquirrel), [ZecHub](https://zechub.wiki/)
-
-> have you ever been to cozy virtual meeting space full of people who don't expect you to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for.
->
-> the club is also big on experimenting. each member can use their new knowledge to start creating something they want or join forces with others to collaborate. best part is when you find a chance to be part of some on-location events or workshops with other club members.
->
-> join it and find out if its something for you.
->
-> — [@zerodartz](https://x.com/zerodartz)
 
 > Zk Av Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual. As a member of the team I can say that every day is an opportunity to learn, grow and contribute from my knowledge as well. Long live the club!
 >
@@ -133,6 +140,10 @@ Interpret recordings with titles, context, and descriptions so they remain under
 > Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community!
 >
 > — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director
+
+</details>
+
+---
 
 ### Join the Club
 
