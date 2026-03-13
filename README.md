@@ -21,6 +21,7 @@ Choose a path.
 * [Partner Communities](#partner-communities)
 * [Additional Reading](#additional-reading)
 * [Support](#support-zk-av-club)
+* [Thanks](#thanks)
 
 ### Recording Station
 
@@ -248,9 +249,9 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 
 ---
 
-### Thank You
+### Thanks
 
-[Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
+[Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
 
 ---
 
