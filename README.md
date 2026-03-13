@@ -4,7 +4,7 @@ We work with open-source and decentralized tech communities to document themselv
 
 Through workshops, event recording, and practical AV documentation, communities keep their own record and return it to a shared archive others can build on.
 
-People. Stories. Tools. 
+People. Stories. Tools.
 
 ### Navigation
 
@@ -24,7 +24,7 @@ Zk Av Club Recording Station is a simple setup we drop into events so people can
 
 You bring the conversation. We handle the mics, framing, and levels.
 
-The content belongs to the creators in it. After approval, the original recording is preserved in the public archive. 
+The content belongs to the creators in it. After approval, the original recording is preserved in the public archive.
 
 [Read how it works](/recording-station/) (recording flow, licensing, and consent)
 
@@ -32,7 +32,7 @@ The content belongs to the creators in it. After approval, the original recordin
 
 Zk Av Club Workshops are sessions where people learn by doing, together.
 
-Bring questions. Bring half-finished ideas — like editing clips with open-source tools or running a privacy-first livestream. 
+Bring questions. Bring half-finished ideas — like editing clips with open-source tools or running a privacy-first livestream.
 
 ➝ [Host a workshop](/workshops/)
 
@@ -52,7 +52,7 @@ If you want your content to outlive the platform mood swings, start here.
 
 Some moments are quiet. Then the wave hits and the work begins.
 
-Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more. 
+Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
 
 [Explore all opportunities](/opportunities/)
 
@@ -64,7 +64,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *For people who enjoy bringing order to messy records.*
 
-➝ [View the Archivist role](/opportunities/archivist/)
+➝ [Become an Archivist](/opportunities/archivist/)
 
 #### The Storyteller — currently recruiting
 
@@ -72,8 +72,7 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 *For people who like listening closely and helping others find the thread.*
 
-➝ [View the Storyteller role](/opportunities/storyteller/)
-
+➝ [Become a Storyteller](/opportunities/storyteller/)
 
 ### Testimonials
 
@@ -99,7 +98,7 @@ Interpret recordings with titles, context, and descriptions so they remain under
 >
 > — Jack Gavigan, [Zcash Foundation](https://zfnd.org)
 
-> Zk Av Club is place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
+> Zk Av Club is a place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands-on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
 >
 > — [@zksquirrel](https://x.com/zksquirrel), [ZecHub](https://zechub.wiki/)
 
