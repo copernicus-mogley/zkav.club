@@ -36,7 +36,7 @@ Zk Av Club Workshops are sessions where people learn by doing, together.
 
 Bring questions. Bring half-finished ideas — like editing clips with open-source tools or running a privacy-first livestream. 
 
-[Host a workshop](https://tally.so/r/A7B0MD)
+[Host a workshop](/workshops/)
 
 [Request a topic](https://tally.so/r/A7B0MD)
 
