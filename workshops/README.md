@@ -1,11 +1,5 @@
 ## Host a Zk Av Club Workshop
 
-Zk Av Club is a community for people building useful things in open networks.
-
-We run conversations, recordings, and workshops that help knowledge circulate.
-
-#### Workshops
-
 Workshops are conversations, not presentations, where we learn by doing, together.
 
 Bring questions. Bring half-finished ideas.
@@ -41,9 +35,7 @@ If it helps people do something real, it probably fits.
 
 ### How it works
 
-1. You propose an idea. Explain what you will teach or explore and what people will walk away with.
-
-   Proposal form → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+1. [Propose an idea](https://tally.so/r/A7B0MD). Explain what you will teach or explore and what people will walk away with.
 
 2. We review the idea and shape it together. We tighten the scope, clarify outcomes, and design the session for participation.
 
@@ -63,7 +55,7 @@ When capacity allows, we may help with recording, restreaming, or simultaneous t
 
 ### Past workshops
 
-[Browse examples](/workshops/past/)
+[Browse examples](https://www.zkav.club/workshops/past/)
 
 Common themes:
 
@@ -103,8 +95,8 @@ Zk Av Club supports people doing real work. We collaborate openly, give clear cr
 
 Have an idea, even a rough one. Send it in and we will help shape it.
 
-Host a workshop → [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+Apply to facilitate ➝ [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
 
-Request a topic → [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+Request a topic ➝ [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
 
-[Back to zkav.club](/)
+[Back to zkav.club](/) · or [Join the Club](/#join-the-club)

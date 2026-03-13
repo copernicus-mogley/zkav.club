@@ -82,4 +82,4 @@ Tell a friend. Bring a friend.
 
 Follow us and reach out on [𝕏](https://x.com/ZkAv_Club) or [Bluesky](https://zkavclub.bsky.social).
 
-[Back to zkav.club](/)
+[Back to zkav.club](/) · or [Join the Club](/#join-the-club)
