@@ -68,6 +68,8 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 ➝ [Become a Storyteller](/opportunities/storyteller/)
 
+---
+
 ### Publishing Infrastructure
 
 Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked.
