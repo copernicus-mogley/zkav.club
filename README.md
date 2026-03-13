@@ -50,13 +50,11 @@ If you want your content to outlive the platform mood swings, start here.
 
 ### Opportunities
 
-Some moments are quiet. Then the wave hits and the work begins.
-
 Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
 
-[Explore all opportunities](/opportunities/)
+Right now we’re recruiting two coordinators to help run the archive.
 
-Right now we’re looking for two coordinators to help run the archive.
+[Explore all opportunities](/opportunities/)
 
 #### The Archivist — currently recruiting
 
