@@ -255,6 +255,6 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 
 ---
 
-Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/): [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
+Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
 
-[Back to top](#zero-knowledge-audiovisual-club)
+[Back to top ↑](#zero-knowledge-audiovisual-club)
