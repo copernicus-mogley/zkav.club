@@ -56,7 +56,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *For people who enjoy bringing order to messy records.*
 
-**➝ [Become an Archivist](/opportunities/archivist/)**
+➝ [Become an Archivist](/opportunities/archivist/)
 
 #### The Storyteller — currently recruiting
 
@@ -64,7 +64,7 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 *For people who like listening closely and helping others find the thread.*
 
-**➝ [Become a Storyteller](/opportunities/storyteller/)**
+➝ [Become a Storyteller](/opportunities/storyteller/)
 
 ### Publishing Infrastructure
 
