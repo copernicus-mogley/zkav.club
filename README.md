@@ -48,8 +48,6 @@ If you want your content to outlive the platform mood swings, start here.
 
 [Explore Community Publishing Infrastructure](/publishing-infrastructure)
 
----
-
 ### Opportunities
 
 Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
@@ -142,8 +140,6 @@ What people we’ve worked with say about the club.
 > — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director
 
 </details>
-
----
 
 ### Join the Club
 
