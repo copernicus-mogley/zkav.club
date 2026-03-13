@@ -12,10 +12,10 @@ People. Stories. Tools.
 
 Choose your path.
 
-* [Recording Station](#recording-station)
-* [Workshops](#workshops)
-* [Opportunities](#opportunities)
-* [Publishing Infrastructure](#publishing-infrastructure)
+* [Recording Station](/recording-station/)
+* [Workshops](/workshops/)
+* [Opportunities](/opportunities/)
+* [Publishing Infrastructure](/publishing-infrastructure/)
 * [Testimonials](#testimonials)
 * [Join the Club](#join-the-club)
 * [Partner Communities](#partner-communities)
