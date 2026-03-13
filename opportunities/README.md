@@ -36,9 +36,9 @@ Work appears around events and funding. When something fits your skills, we’ll
 
 ### Volunteer
 
-[Recording Station](/recording-station/) is the portable setup Zk Av Club brings to events to record conversations and workshops.
+Zk Av Club Recording Station is the portable setup Zk Av Club brings to events to record conversations and workshops.
 
-Volunteering for the Recording Station is currently invite‑only.
+Volunteering is currently invite‑only.
 
 [Learn about Recording Station](/recording-station/)
 
