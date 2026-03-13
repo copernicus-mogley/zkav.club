@@ -95,8 +95,8 @@ Zk Av Club supports people doing real work. We collaborate openly, give clear cr
 
 Have an idea, even a rough one. Send it in and we will help shape it.
 
-Apply to facilitate ➝ [https://tally.so/r/A7B0MD](https://tally.so/r/A7B0MD)
+➝ [Apply to facilitate](https://tally.so/r/A7B0MD)
 
-Request a topic ➝ [https://tally.so/r/68Na15](https://tally.so/r/68Na15)
+➝ [Request a topic](https://tally.so/r/68Na15)
 
 [Back to zkav.club](/) · or [Join the Club](/#join-the-club)
