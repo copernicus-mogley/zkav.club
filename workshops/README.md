@@ -55,7 +55,7 @@ When capacity allows, we may help with recording, restreaming, or simultaneous t
 
 ### Past workshops
 
-[Browse examples](https://www.zkav.club/workshops/past/)
+[Browse examples](/workshops/past/)
 
 Common themes:
 
