@@ -177,6 +177,8 @@ To reach us, use the links in [Join the Club](#join-the-club) (X, Bluesky, or th
 
 Add your community (PR welcome). — [create a PR](https://github.com/copernicus-mogley/zkav.club/)
 
+--- 
+
 ### Additional Reading
 
 * [Free & Open-Source Media: Stewarding a Community-Owned Archive](https://troublefront.com/blog/free-open-source-media-stewarding-a-community-owned-archive/) (2026 Feb 27): On maintenance, reuse, and what it actually means to create open media.
