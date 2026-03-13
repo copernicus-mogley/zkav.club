@@ -9,21 +9,13 @@ People. Stories. Tools.
 ### Navigation
 
 * [Recording Station](#recording-station)
-
 * [Workshops](#workshops)
-
 * [Publishing Infrastructure](#publishing-infrastructure)
-
 * [Opportunities](#opportunities)
-
 * [Testimonials](#testimonials)
-
 * [Join the Club](#join-the-club)
-
 * [Partner Communities](#partner-communities)
-
 * [Additional Reading](#additional-reading)
-
 * [Support](#support-zk-av-club)
 
 ### Recording Station
