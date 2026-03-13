@@ -6,12 +6,14 @@ Through workshops, event recording, and practical AV documentation, communities 
 
 People. Stories. Tools.
 
-### Navigation
+### Start here
+
+Choose the part of the club you want to explore.
 
 * [Recording Station](#recording-station)
 * [Workshops](#workshops)
-* [Publishing Infrastructure](#publishing-infrastructure)
 * [Opportunities](#opportunities)
+* [Publishing Infrastructure](#publishing-infrastructure)
 * [Testimonials](#testimonials)
 * [Join the Club](#join-the-club)
 * [Partner Communities](#partner-communities)
@@ -98,6 +100,9 @@ What people we’ve worked with say about the club.
 >
 > — [@zerodartz](https://x.com/zerodartz)
 
+<details markdown="1">
+<summary>More testimonials</summary>
+
 > I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant, but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered Adjy Leak, and in conjunction, Zk Av Club. Through the club, I experienced not only my first time connecting with *many* like-minded folks through live streaming, but also a vast archive of knowledge I didn't even know existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
 >
 > — [dismad](https://x.com/dismad8), [ZecHub](https://zechub.wiki/)
@@ -137,6 +142,8 @@ What people we’ve worked with say about the club.
 > Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community!
 >
 > — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director
+
+</details>
 
 ---
 
