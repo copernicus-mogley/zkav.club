@@ -26,7 +26,7 @@ Bring questions. Bring half-finished ideas.
 A good workshop includes real back-and-forth, shared exploration, and useful outcomes such as skills, artifacts, or clear next steps.
 
 Workshops can be technical or non-technical, beginner-friendly or advanced, and in any language.
-#
+
 ### Why facilitate
 
 Facilitating a workshop is a way to share practical knowledge, improve your teaching, and meet collaborators. Facilitators receive a Zcash payment.
