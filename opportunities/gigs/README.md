@@ -1,6 +1,6 @@
 ## Gigs
 
-← [Back to Opportunities](/opportunities/)
+⟵ [Back to Opportunities](/opportunities/)
 
 Zk Av Club keeps small skill networks for people who help turn recordings into usable media and archive material.
 

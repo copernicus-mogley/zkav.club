@@ -1,6 +1,6 @@
 ## The Archivist
 
-← [Back to Opportunities](/opportunities/)
+⟵ [Back to Opportunities](/opportunities/)
 
 Archivists ultimately work for people who will discover these recordings years from now.
 
@@ -48,4 +48,4 @@ The application takes about 10–15 minutes.
 
 If this sounds like your kind of work, we’d love to hear from you.
 
-→ **[Apply for the Archivist role](https://tally.so/r/obBa8M)**
+➝ **[Apply for the Archivist role](https://tally.so/r/obBa8M)**
