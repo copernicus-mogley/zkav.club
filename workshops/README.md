@@ -6,9 +6,7 @@ We run conversations, recordings, and workshops that help knowledge circulate.
 
 #### Workshops
 
-Zk Av Club Workshops are sessions where people learn by doing, together.
-
-> Workshops are conversations, not presentations.
+Workshops are conversations, not presentations, where we learn by doing, together.
 
 Bring questions. Bring half-finished ideas.
 
