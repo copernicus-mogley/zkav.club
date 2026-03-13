@@ -34,9 +34,9 @@ Zk Av Club Workshops are sessions where people learn by doing, together.
 
 Bring questions. Bring half-finished ideas — like editing clips with open-source tools or running a privacy-first livestream. 
 
-[Host a workshop](/workshops/)
+➝ [Host a workshop](/workshops/)
 
-[Request a topic](https://tally.so/r/A7B0MD)
+➝ [Request a workshop](https://tally.so/r/A7B0MD)
 
 ### Publishing Infrastructure
 
@@ -64,7 +64,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *For people who enjoy bringing order to messy records.*
 
-[View the Archivist role](/opportunities/archivist/)
+➝ [View the Archivist role](/opportunities/archivist/)
 
 #### The Storyteller — currently recruiting
 
@@ -72,7 +72,7 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 *For people who like listening closely and helping others find the thread.*
 
-[View the Storyteller role](/opportunities/storyteller/)
+➝ [View the Storyteller role](/opportunities/storyteller/)
 
 
 ### Testimonials
