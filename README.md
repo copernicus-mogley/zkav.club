@@ -161,6 +161,8 @@ Bring a question, a lead, or even something you’re not sure is ready yet.
 
 * **Reach us:** DM us on X or Bluesky. Tell us what you’re trying to do, and we’ll point you to the right next step.
 
+* **Support or collaboration:** If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links above.
+
 ### Partner Communities
 
 We collaborate with peer communities around the world.
@@ -187,23 +189,17 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 * About the founder: [Ryan Taylor](https://troublefront.com/blog/endtroducing/) (aka [Adjy Leak](https://youtube.com/adjyleak)).
 
+---
+
 ### Support Zk Av Club
 
-If you want more workshops, more recordings, and a stronger public archive that isn’t controlled by big platforms, here’s how to back us.
-
-Big thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
-
-If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links in [Join the Club](#join-the-club).
-
-Support it, or hire us. Either way helps.
-
-If you’d like to pitch in, pick a chain you already use and copy/paste an address below.
+If you want more free and open-source media that isn’t controlled by big platforms, here’s how to back us.
 
 We work across ecosystems (Zcash, Ethereum, Polkadot, Filecoin). No donor tracking.
 
----
+If you’d like to pitch in, pick a chain you already use and copy an address below.
 
-**Most used**
+**Most used:**
 
 [**Zcash**](https://z.cash) (shielded preferred)
 
@@ -229,9 +225,7 @@ u1dexkdd40ulkhthmuxv4tlnrzyxfd7zt2gh27myamg09tzjgurf9mqvgtlfe8vxg7ghjrsucu4ghm5k
 bc1qdrynrr63c3x8vw7809yjeujg7waq09z9e9m7pv
 ```
 
----
-
-**More options**
+**More options:**
 
 [**Polkadot**](https://polkadot.com/)
 
@@ -253,6 +247,12 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 
 ---
 
-Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
+### Thank You
+
+[Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026! Read the [proposal and thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
+
+---
+
+Source lives on GitHub: [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/): [suggest an edit / open a PR](https://github.com/copernicus-mogley/zkav.club/)
 
 [Back to top](#zero-knowledge-audiovisual-club)
