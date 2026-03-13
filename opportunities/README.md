@@ -4,6 +4,8 @@ Zk Av Club runs on small networks of people who help recordings survive and rema
 
 There are several ways to participate in Zk Av Club.
 
+---
+
 ### Coordinator roles
 
 *These roles are paid monthly.*
@@ -20,6 +22,8 @@ Interpret recorded conversations with titles, context, and descriptions.
 
 ➝ [Become a Storyteller](/opportunities/storyteller/)
 
+---
+
 ### Paid gigs
 
 Join a skill network for workshops, transcription, event production, post‑production, and more. 
@@ -27,6 +31,8 @@ Join a skill network for workshops, transcription, event production, post‑prod
 Work appears around events and funding. When something fits your skills, we’ll reach out with the scope and pay.
 
 [Explore gigs](/opportunities/gigs/)
+
+---
 
 ### Volunteer
 
