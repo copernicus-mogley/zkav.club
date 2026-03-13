@@ -89,7 +89,7 @@ Bring a question, a lead, or something you’re not sure is ready yet.
 
 * Run or host a workshop: [Start here](/workshops/)
 
-* Help after the event: see [Opportunities](#opportunities)
+* Help after the event: see [Opportunities](/opportunities/)
 
 * Suggest an activation:
   [Drop us a line](https://tally.so/r/VLJ22E)
