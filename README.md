@@ -88,11 +88,7 @@ What people we’ve worked with say about the club.
 >
 > — [Andrew Miller](https://x.com/socrates1024), [Zcash Foundation](https://zfnd.org)
 
-> have you ever been to cozy virtual meeting space full of people who don't expect you to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe. you might learn there are so many awesome useful open source free tools you never even knew to look for.
->
-> the club is also big on experimenting. each member can use their new knowledge to start creating something they want or join forces with others to collaborate. best part is when you find a chance to be part of some on-location events or workshops with other club members.
->
-> join it and find out if its something for you.
+> have you ever been to cozy virtual meeting space full of people who don't expect you to know it all? this is what Zk Av Club is. join with zero knowledge about video or any kind of media/arts and start learning bit by bit - its a vibe.
 >
 > — [@zerodartz](https://x.com/zerodartz)
 
@@ -109,35 +105,29 @@ What people we’ve worked with say about the club.
 >
 > — Jack Gavigan, [Zcash Foundation](https://zfnd.org)
 
-> Zk Av Club is a place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands-on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub. So if you're intending to or currently building a project, hop into the Discord and see what's cooking!
+> Zk Av Club is a place where you can share and learn just about anything! Its Event Calendar is filled with a variety of in-person and virtual meetups ranging from Crypto and Hacker Conferences to Music Production and Brand Design, there's something for everyone to have fun with. Zk Av also provides video and audio editing support, some of the best AI image generation prompts you will ever come across, hands-on workshops with new, obscure P2P software - all just a glimpse into what happens over at the club! It has been hugely beneficial to our work over at ZecHub.
 >
 > — [@zksquirrel](https://x.com/zksquirrel), [ZecHub](https://zechub.wiki/)
 
-> Zk Av Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual. As a member of the team I can say that every day is an opportunity to learn, grow and contribute from my knowledge as well. Long live the club!
+> Zk Av Club is a source of inspiration for me and for everyone who comes. Seeing the work they do behind the scenes and then the staging in each event or streaming, is definitely a motivation to learn more about everything audiovisual.
 >
 > — [@SoyAuraBrito](https://x.com/SoyAuraBrito)
 
 > The AV Club has been a space for me to connect with technology, open source and content generation geeks like me.
 >
-> I like being part of the team because there is freedom of creativity, opinion and action. Although we all work for the same purpose (teaching and spreading privacy and free technologies), we can all have our style with freedom.
->
-> I hope more people join the Club and enjoy the experience!
->
-> — [Roosevelt Gordones](https://x.com/gordonesTV) - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
+> — [Roosevelt Gordones](https://x.com/gordonesTV)
 
-> I worked with Zk AV Club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come.
+> I worked with Zk AV Club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive.
 >
 > — [@therealyingtong](https://github.com/therealyingtong)
 
-> Ryan is a pro. His production work is top shelf as evidenced by his work on Zcons through the years, and his commitment to providing engaging and informative content. With Zk Av Club he continues his dedication and professionalism while also widening the tent to welcome and include new voices from all around the world and across industries. His professionalism, empathy and deep interest in the topics and people he’s engaged with shines above all.
+> Ryan is a pro. His production work is top shelf as evidenced by his work on Zcons through the years.
 >
 > — [Josh Swihart](https://x.com/jswihart), CEO, [Electric Coin Company](https://electriccoin.co)
 
-> Zk Av Club is a remarkable initiative born from the passion of Zcash community members worldwide. It has created an inclusive environment where individuals can learn from one another and explore audiovisual tools aimed at enhancing Zcash awareness. I am continually impressed by the members' unwavering support for each other, regardless of their experience level—whether newcomers or seasoned AV experts. The diversity of backgrounds and languages is celebrated, fostering a rich communal spirit.
+> Zk Av Club is a remarkable initiative born from the passion of Zcash community members worldwide.
 >
-> Beyond being an incubator for creativity, ZK AV has evolved into a highly effective organization. They leverage their expertise in audiovisual production, zero-knowledge technologies, and blockchain to elevate events to new heights. Their commitment to collaboration and innovation truly sets them apart in the community!
->
-> — Danika Delano, [Zcash Foundation](https://zfnd.org) Operations Director
+> — Danika Delano, [Zcash Foundation](https://zfnd.org)
 
 </details>
 
