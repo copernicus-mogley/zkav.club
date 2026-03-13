@@ -259,7 +259,7 @@ Special thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) fo
 
 Read the [proposal and discussion thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
 
-Thanks also to the event organizers, workshop facilitators, archivists, storytellers, and community members who make the recordings possible.
+Thanks also to the event organizers, facilitators, creators, and community members who make the recordings possible.
 
 Zk Av Club is built almost entirely on free and open-source tools and public infrastructure. Thanks to the developers and maintainers who make that possible.
 
