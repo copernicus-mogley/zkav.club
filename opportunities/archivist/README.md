@@ -8,6 +8,8 @@ Good archives prioritize provenance, context, and future discoverability.
 
 This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the Zk Av Club archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
 
+*Applications must be submitted before **1 April 2026**.*
+
 **What you do**
 
 * Turn messy recording folders into real archive items: source files, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.

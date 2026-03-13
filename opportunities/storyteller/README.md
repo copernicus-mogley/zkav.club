@@ -8,6 +8,8 @@ Good archive writing prioritizes clarity, context, and future discoverability.
 
 This role is a good fit for people who enjoy listening closely, finding the thread, and helping important ideas remain understandable over time. The Storyteller helps keep the Zk Av Club archive readable, searchable, and useful across public indexes, archive pages, and metadata records.
 
+*Applications must be submitted before **1 April 2026**.*
+
 **What you do**
 
 * Coordinate the network of scribes so transcripts are accurate, readable, and delivered on time.
