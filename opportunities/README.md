@@ -6,19 +6,17 @@ There are several ways to participate in Zk Av Club.
 
 ---
 
-### Coordinator roles — currently recruiting
-
-Right now we’re recruiting two coordinators to run the archive. 
+### Coordinator roles
 
 *Coordinator roles are paid monthly.*
 
-#### The Archivist
+#### The Archivist — currently recruiting
 
 Preserve recorded conversations as durable archive items with clear metadata. 
 
 [View the Archivist role](/opportunities/archivist/)
 
-#### The Storyteller
+#### The Storyteller — currently recruiting
 
 Interpret recorded conversations with titles, context, and descriptions.
 
@@ -29,8 +27,6 @@ Interpret recorded conversations with titles, context, and descriptions.
 ### Paid gigs
 
 Join a skill network for workshops, transcription, event production, post‑production, and more. 
-
-*These gigs are paid per contribution.*
 
 Work appears around events and funding. When something fits your skills, we’ll reach out with the scope and pay.
 
