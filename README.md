@@ -41,7 +41,7 @@ Bring questions. Bring half-finished ideas — like editing clips with open-sour
 
 ➝ [Host a workshop](/workshops/)
 
-➝ [Request a workshop](https://tally.so/r/A7B0MD)
+➝ [Request a workshop](https://tally.so/r/68Na15)
 
 ### Publishing Infrastructure
 
