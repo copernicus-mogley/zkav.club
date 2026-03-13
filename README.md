@@ -40,16 +40,6 @@ Bring questions. Bring half-finished ideas — like editing clips with open-sour
 
 ➝ [Request a workshop](https://tally.so/r/A7B0MD)
 
-### Publishing Infrastructure
-
-Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked.
-
-We help communities build media homes that last.
-
-If you want your content to outlive the platform mood swings, start here.
-
-[Explore Community Publishing Infrastructure](/publishing-infrastructure)
-
 ---
 
 ### Opportunities
@@ -66,7 +56,7 @@ Preserve recordings with durable metadata so they remain usable years later.
 
 *For people who enjoy bringing order to messy records.*
 
-➝ [Become an Archivist](/opportunities/archivist/)
+**➝ [Become an Archivist](/opportunities/archivist/)**
 
 #### The Storyteller — currently recruiting
 
@@ -74,7 +64,19 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 *For people who like listening closely and helping others find the thread.*
 
-➝ [Become a Storyteller](/opportunities/storyteller/)
+**➝ [Become a Storyteller](/opportunities/storyteller/)**
+
+### Publishing Infrastructure
+
+Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked.
+
+We help communities build media homes that last.
+
+If you want your content to outlive the platform mood swings, start here.
+
+[Explore Community Publishing Infrastructure](/publishing-infrastructure)
+
+---
 
 ### Testimonials
 
