@@ -90,7 +90,7 @@ What people we’ve worked with say about the club.
 
 > For years, Ryan Taylor and Zk Av Club have provided exceptional live streaming for Bitcoin and cryptocurrency events, ensuring global reach and high-quality broadcasts. Their dedication is unmatched.
 >
-> — Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins) · [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork))
+> — Thomas Hunt · [Mad Bitcoins](https://x.com/MadBitcoins) · [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork)
 
 > Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included.
 >
