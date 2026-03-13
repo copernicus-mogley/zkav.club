@@ -8,7 +8,7 @@ There are several ways to participate in Zk Av Club.
 
 ### Coordinator roles
 
-*Coordinator roles are paid monthly.*
+*These roles are paid monthly.*
 
 #### The Archivist — currently recruiting
 
