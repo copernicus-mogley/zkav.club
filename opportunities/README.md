@@ -14,13 +14,13 @@ There are several ways to participate in Zk Av Club.
 
 Preserve recorded conversations as durable archive items with clear metadata. 
 
-[View the Archivist role](/opportunities/archivist/)
+➝ [Become an Archivist](/opportunities/archivist/)
 
 #### The Storyteller — currently recruiting
 
 Interpret recorded conversations with titles, context, and descriptions.
 
-[View the Storyteller role](/opportunities/storyteller/)
+➝ [Become a Storyteller](/opportunities/storyteller/)
 
 ---
 
