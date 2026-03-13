@@ -10,14 +10,14 @@ People. Stories. Tools.
 
 ### Start here
 
-Choose your path.
+Choose a path.
 
 * [Recording Station](/recording-station/)
 * [Workshops](/workshops/)
 * [Opportunities](/opportunities/)
 * [Publishing Infrastructure](/publishing-infrastructure/)
-* [Testimonials](#testimonials)
 * [Join the Club](#join-the-club)
+* [Testimonials](#testimonials)
 * [Partner Communities](#partner-communities)
 * [Additional Reading](#additional-reading)
 * [Support](#support-zk-av-club)
@@ -79,6 +79,23 @@ We help communities build media homes that last.
 If you want your content to outlive the platform mood swings, start here.
 
 [Explore Community Publishing Infrastructure](/publishing-infrastructure)
+
+---
+
+### Join the Club
+
+Bring a question, a lead, or something you’re not sure is ready yet.
+
+* Stay in the loop: [X](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), and the [calendar](https://lu.ma/zkav)
+
+* Run or host a workshop: [Start here](/workshops/)
+
+* Help after the event: see [Opportunities](#opportunities)
+
+* Suggest an activation:
+  [Drop us a line](https://tally.so/r/VLJ22E)
+
+* Direct message: X or Bluesky works fine. Tell us what you're trying to do, and we'll point you to the right next step.
 
 ---
 
@@ -148,22 +165,6 @@ What people we’ve worked with say about the club.
 </details>
 
 ---
-
-### Join the Club
-
-Bring a question, a lead, or even something you’re not sure is ready yet.
-
-* **Stay in the loop:** [X](https://x.com/ZkAv_Club), [Bluesky](https://bsky.app/profile/zkavclub.bsky.social), and the [calendar](https://lu.ma/zkav).
-
-* **Suggest an activation:** [Drop us a line here](https://tally.so/r/VLJ22E).
-
-* **Run a workshop:** [Start here](/workshops/).
-
-* **Help after the event:** check [Opportunities](#opportunities).
-
-* **Reach us:** DM us on X or Bluesky. Tell us what you’re trying to do, and we’ll point you to the right next step.
-
-* **Support or collaboration:** If your community wants to support the work, or wants direct help with recording workflows, AV training, publishing infrastructure, or long-term archiving and metadata, reach out via the links above.
 
 ### Partner Communities
 
