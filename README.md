@@ -10,7 +10,7 @@ People. Stories. Tools.
 
 ### Start here
 
-Choose the part of the club you want to explore.
+Choose your path.
 
 * [Recording Station](#recording-station)
 * [Workshops](#workshops)
@@ -84,7 +84,7 @@ If you want your content to outlive the platform mood swings, start here.
 
 What people we’ve worked with say about the club.
 
-> Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know. The Zcash Foundation was an early champion for the Club and we remain invested in their present and their bright future. The world needs more impactful and community-led projects like Zk Av Club!
+> Zk Av Club is a throwback to the grassroots ethos of the early days of the crypto revolution. Uncompromising in their community-first approach to audio/visual education and support, Zk Av Club gives a voice to the individuals behind the camera, in the booth, working before, during and after the event to share the news and progress the world needs to know.
 >
 > — Alex Bornstein · [Zcash Foundation](https://zfnd.org)
 
@@ -92,7 +92,7 @@ What people we’ve worked with say about the club.
 >
 > — Thomas Hunt ([Mad Bitcoins](https://x.com/MadBitcoins) · [World Crypto Network](https://www.youtube.com/@Worldcryptonetwork))
 
-> Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. They have been a reliable fixture of the Zcash community as well as adjacent ones like DWeb, and has helped make connections with other local communities around the globe, such as Zcash Brazil. They've run self-contained livestream and recording for Zcash conferences, as well as hosting chill hybrid and remote hangouts. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included.
+> Ryan and Zk Av Club are great, not just a streaming and media team but also deep community leadership and advocacy. My favorite is seeing Ryan bring AV training sessions to newly formed local groups with minimal equipment, empowering them to improve their own global media abilities and stay included.
 >
 > — [Andrew Miller](https://x.com/socrates1024) · [Zcash Foundation](https://zfnd.org)
 
@@ -127,7 +127,7 @@ What people we’ve worked with say about the club.
 >
 > I hope more people join the Club and enjoy the experience!
 >
-> — [Roosevelt Gordones](https://x.com/gordonesTV) · [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
+> — [Roosevelt Gordones](https://x.com/gordonesTV) · [gordonesTV](https://gordonestv.com/)
 
 > I worked with Zk AV Club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come.
 >
