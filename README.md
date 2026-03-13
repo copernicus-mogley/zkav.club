@@ -2,7 +2,9 @@
 
 We work with open-source and decentralized tech communities to document themselves without giving up privacy.
 
-Through workshops, event recording, and practical AV documentation, communities keep their own record and return it to a shared archive others can build on.
+Through workshops, event recording, and practical AV documentation, communities keep their own record.
+
+The recordings return to a shared archive others can build on.
 
 People. Stories. Tools.
 
@@ -44,9 +46,9 @@ Bring questions. Bring half-finished ideas — like editing clips with open-sour
 
 ### Opportunities
 
-Zk Av Club runs on small networks of people who help recordings survive past the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
+Zk Av Club runs on small networks of people who help recordings survive beyond the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
 
-Right now we’re recruiting two coordinators to help run the archive.
+Right now we’re recruiting two coordinators to run the archive.
 
 [Explore all opportunities](/opportunities/)
 
@@ -105,7 +107,7 @@ What people we’ve worked with say about the club.
 <details markdown="1">
 <summary>More testimonials</summary>
 
-<br>
+ 
 
 > I've always been fascinated with how folks find things because it illustrates a unique mapping. On its face, this might seem insignificant, but if you study these mappings on a deeper level, you realize something special; a shielded truth. On my journey discovering Zcash, I randomly discovered Adjy Leak, and in conjunction, Zk Av Club. Through the club, I experienced not only my first time connecting with *many* like-minded folks through live streaming, but also a vast archive of knowledge I didn't even know existed! If you like adventure, computer science, and community, I couldn't recommend a better environment to start your journey.
 >
@@ -125,7 +127,7 @@ What people we’ve worked with say about the club.
 >
 > I hope more people join the Club and enjoy the experience!
 >
-> — [Roosevelt Gordones](https://x.com/gordonesTV) - [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
+> — [Roosevelt Gordones](https://x.com/gordonesTV) · [gordonesTV](https://gordonestv.com/) - Content Creator and Technology Educator
 
 > I worked with Zk AV Club in Berlin to produce my talk for ZConV. They ran the entire virtual event with a lean team, and made it very engaging and interactive. I appreciate their deep knowledge of the privacy space and their contributions to events in the community, and hope to work with them on many projects to come.
 >
