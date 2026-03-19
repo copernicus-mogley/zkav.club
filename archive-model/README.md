@@ -10,25 +10,13 @@ This page outlines how we structure, maintain, and grow a shared audiovisual arc
 
 The archive is maintained through a clear separation of responsibilities:
 
-* **Structural truth (Archivist)**: What things are called and how they are organized. This includes file names, IDs, and canonical forms.
+* **Structural truth ([Archivist](/archive-model/archivist/))**
+  What things are called and how they are organized. This includes file names, IDs, canonical forms, and the overall structure of the archive. The Archivist stewards metadata integrity and ensures the archive remains consistent and usable over time.
 
-* **Semantic truth (Storyteller)**: What things mean. This includes topics, concepts, and how recordings are understood and connected.
+* **Semantic truth (Storyteller)**
+  What things mean. This includes topics, concepts, and how recordings are understood and connected. The Storyteller adds context, narrative, and discoverability so recordings can be explored and learned from.
 
 This separation ensures the archive remains both coherent and flexible as it grows.
-
----
-
-### Roles
-
-#### Archivist
-
-* Commitment: ~10 hrs/week
-* Responsibility: Stewardship of archive structure, metadata integrity, and long-term usability
-
-#### Storyteller
-
-* Commitment: ~8 hrs/week
-* Responsibility: Narrative layer, discoverability, and contextualization of recordings
 
 ---
 
@@ -48,7 +36,7 @@ The Archivist and Storyteller operate as autonomous, non-blocking coordinator ro
 
 #### Storyteller (Interpretation Layer)
 
-Working independently on available recordings:
+Working independently on available recordings.
 
 * Titles
 * Descriptions
@@ -135,4 +123,4 @@ The goal is simple: recordings that remain useful long after they are created.
 
 We’re always looking for people who care about documentation, storytelling, and building shared knowledge.
 
-→ See [Opportunities](/opportunities/)
+→ [See Opportunities](/opportunities/)
