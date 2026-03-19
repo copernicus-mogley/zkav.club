@@ -127,7 +127,7 @@ Over time, this approach produces:
 * A navigable knowledge base (not just videos)
 * A growing map of ideas across the FOSS and decentralized tech ecosystems
 
-The goal is simple: recordings that remain useful long after they are captured.
+The goal is simple: recordings that remain useful long after they are created.
 
 ---
 
