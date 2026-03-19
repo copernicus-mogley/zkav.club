@@ -1,10 +1,10 @@
-# Archivist Operating Model
+## The Archivists' Practice
 
 This page complements the [Archive Model](/archive-model/). It shows how Archivists turn recordings into structured, reusable archive items in practice.
 
 ---
 
-## What the Archivist Does
+### What the Archivist Does
 
 The Archivist works with recordings from events, workshops, and community sessions.
 
@@ -18,7 +18,7 @@ The role combines careful execution with independent judgment. Archivists regula
 
 ---
 
-## How Work Happens
+### How Work Happens
 
 Work is primarily async.
 
@@ -33,7 +33,7 @@ Archivists also:
 
 ---
 
-## How the Archive is Structured
+### How the Archive is Structured
 
 The archive has two layers:
 
@@ -49,7 +49,7 @@ The system is simple, portable, and evolves over time.
 
 ---
 
-## What a Completed Archive Item Includes
+### What a Completed Archive Item Includes
 
 Each recording becomes an archive item with:
 
@@ -71,7 +71,7 @@ Additional layers (summaries, timestamps, thematic grouping) can be added later.
 
 ---
 
-## Workflow
+### Workflow
 
 For each recording, the Archivist:
 
@@ -85,7 +85,7 @@ This creates a reliable foundation for the archive.
 
 ---
 
-## Working Alongside the Storyteller
+### Working Alongside the Storyteller
 
 The Archivist and Storyteller operate in parallel:
 
@@ -96,7 +96,7 @@ Both work on the same archive. The Archivist ensures each recording is structure
 
 ---
 
-## Tools and Approach
+### Tools and Approach
 
 The system uses simple tools:
 
@@ -114,7 +114,7 @@ The goal is a system that is:
 
 ---
 
-## Principles
+### Principles
 
 * Keep it simple and structured
 * Prioritize consistency over complexity
@@ -124,7 +124,7 @@ The goal is a system that is:
 
 ---
 
-## Why This Matters
+### Why This Matters
 
 Without structure, recordings are hard to use.
 
