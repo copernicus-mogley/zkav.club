@@ -1,6 +1,6 @@
 ## Archivist Practice FAQ
 
-This FAQ answers common questions about the Archivist role at Zk AV Club. It complements the [Archivist Practice](/archive-model/archivist-practice/) page and clarifies how the role works day-to-day.
+This FAQ answers common questions about the Archivist role at Zk AV Club. It complements the [Archivist Practice](/archive-model/archivist/) page and clarifies how the role works day-to-day.
 
 ---
 
