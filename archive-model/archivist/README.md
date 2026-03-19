@@ -9,6 +9,7 @@ This page complements the [Archive Model](/archive-model/). It shows how Archivi
 The Archivist works with recordings from events, workshops, and community sessions.
 
 They:
+
 * organize and structure files
 * assign stable identifiers
 * create consistent metadata
@@ -23,10 +24,12 @@ The role combines careful execution with independent judgment. Archivists regula
 Work is primarily async.
 
 Tasks come from:
+
 * a shared task list
 * coordination with organizers and contributors
 
 Archivists also:
+
 * identify gaps
 * improve structure and consistency
 * document better approaches as they emerge
@@ -37,7 +40,7 @@ Archivists also:
 
 The archive has two layers:
 
-* **Storage** — raw recordings and files 
+* **Storage** — raw recordings and files
 
 * **Metadata** — structured information about those recordings
 
@@ -62,7 +65,7 @@ Each recording becomes an archive item with:
   * date
   * description
   * topics
-  * relevant links 
+  * relevant links
 * an entry in the archive inventory
 
 A completed item is retrievable, understandable, and ready to use.
@@ -131,3 +134,11 @@ Without structure, recordings are hard to use.
 With structure, they become part of a shared, growing body of knowledge.
 
 The Archivist makes that possible.
+
+---
+
+### Where to Next
+
+* Read the [Archive Model](/archive-model/) for the full system
+* Explore the Storyteller role (coming soon)
+* See current [opportunities](/opportunities/) and how to get involved
