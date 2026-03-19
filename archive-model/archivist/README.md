@@ -2,6 +2,8 @@
 
 This page complements the [Archive Model](/archive-model/). It shows how Archivists turn recordings into structured, reusable archive items in practice.
 
+For common questions about how the role works day-to-day, see the [Archivist Practice FAQ](/archive-model/archivist/faq/).
+
 ---
 
 ### What the Archivist Does
@@ -59,6 +61,7 @@ Each recording becomes an archive item with:
 * organized, consistently named files
 * a stable identifier
 * a YAML metadata file with:
+
   * subject
   * speakers
   * event
@@ -140,5 +143,6 @@ The Archivist makes that possible.
 ### Where to Next
 
 * Read the [Archive Model](/archive-model/) for the full system
+* Explore the [Archivist Practice FAQ](/archive-model/archivist/faq/)
 * Explore the Storyteller role (coming soon)
 * See current [opportunities](/opportunities/) and how to get involved
