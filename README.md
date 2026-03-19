@@ -15,6 +15,7 @@ Choose a path.
 * [Recording Station](/recording-station/)
 * [Workshops](/workshops/)
 * [Publishing Infrastructure](/publishing-infrastructure/)
+* [Archive Model](/archive-model/)
 * [Opportunities](/opportunities/)
 * [Join the Club](#join-the-club)
 * [Testimonials](#testimonials)
