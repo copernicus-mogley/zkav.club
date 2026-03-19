@@ -60,7 +60,7 @@ Each recording becomes an archive item with:
 
 * organized, consistently named files
 * a stable identifier
-* a YAML metadata file with:
+* a YAML metadata file with (for example):
   * subject
   * speakers
   * event
