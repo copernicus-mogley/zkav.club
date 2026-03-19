@@ -1,4 +1,4 @@
-## The Archivists' Practice
+## Archivist Practice
 
 This page complements the [Archive Model](/archive-model/). It shows how Archivists turn recordings into structured, reusable archive items in practice.
 
