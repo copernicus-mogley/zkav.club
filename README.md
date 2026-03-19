@@ -56,8 +56,6 @@ Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked
 
 We help communities build media homes that last.
 
-If you want your content to outlive the platform mood swings, start here.
-
 [Explore Community Publishing Infrastructure](/publishing-infrastructure)
 
 ---
