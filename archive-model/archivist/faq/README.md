@@ -157,6 +157,6 @@ Yes.
 
 This role sits at the foundation of the archive.
 
-You’re not just organizing files — you’re shaping how the archive works over time.
+You’re not just organizing files, you’re shaping how the archive works over time.
 
 If you’re comfortable working with ambiguity and care about structure, this role will likely feel like a good fit.
