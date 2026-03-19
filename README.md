@@ -44,6 +44,12 @@ Bring questions. Bring half-finished ideas — like editing clips with open-sour
 
 ➝ [Request a workshop](https://tally.so/r/68Na15)
 
+### Archive Model
+
+Recordings return to a shared archive, but they need structure to stay useful. Through metadata, context, and storytelling, they become something people can navigate, discover, and build on. 
+
+➝ [See how it works](/archive-model/)
+
 ### Publishing Infrastructure
 
 Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked.
