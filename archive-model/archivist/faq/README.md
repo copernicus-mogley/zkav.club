@@ -28,13 +28,13 @@ Ask early. You’ll have a clear point of contact. Don’t sit on uncertainty.
 
 **How many people will I need to communicate with?**
 
-Usually one primary contact. The role is designed to keep communication lightweight.
+You’ll have a primary point of contact (Lead Organizer), but may also coordinate with the Storyteller, Post-production Coordinator, and people who participated in recordings; communication is kept lightweight and mostly async.
 
 ---
 
 ### Scope & Responsibilities
 
-**Is there already a defined archiving process?**
+**Is there already a defined [archiving process](/archive-model/)?**
 
 Yes, but it’s evolving. You’ll apply the current system and help improve it.
 
