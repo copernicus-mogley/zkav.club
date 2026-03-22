@@ -20,9 +20,9 @@ This separation ensures the archive remains both coherent and flexible as it gro
 
 This plays out in two layers.
 
-[The Archivist](/archive-model/archivist/) ensures recordings are structured, consistent, and usable over time. This includes organizing files, maintaining metadata, and keeping the archive coherent as it grows.
+[The Archivist](/opportunities/archivist/) ensures recordings are structured, consistent, and usable over time. This includes organizing files, maintaining metadata, and keeping the archive coherent as it grows.
 
-The Storyteller adds context and meaning to recordings. This includes shaping titles, highlighting key ideas, and connecting recordings so they can be explored and understood.
+[The Storyteller](/opportunities/storyteller/) adds context and meaning to recordings. This includes shaping titles, highlighting key ideas, and connecting recordings so they can be explored and understood.
 
 These roles operate independently, but build on the same shared archive.
 
