@@ -8,9 +8,9 @@ This page outlines how we structure, maintain, and grow a shared audiovisual arc
 
 The archive is maintained through a clear separation of responsibilities:
 
-* Structural truth — What things are called and how they are organized. This includes file names, IDs, canonical forms, and the overall structure of the archive. The Archivist stewards metadata integrity and ensures the archive remains consistent and usable over time.
+* Structural truth: What things are called and how they are organized. This includes file names, IDs, canonical forms, and the overall structure of the archive. The Archivist stewards metadata integrity and ensures the archive remains consistent and usable over time.
 
-* Semantic truth — What things mean. This includes topics, concepts, and how recordings are understood and connected. The Storyteller adds context, narrative, and discoverability so recordings can be explored and learned from.
+* Semantic truth: What things mean. This includes topics, concepts, and how recordings are understood and connected. The Storyteller adds context, narrative, and discoverability so recordings can be explored and learned from.
 
 This separation ensures the archive remains both coherent and flexible as it grows.
 
