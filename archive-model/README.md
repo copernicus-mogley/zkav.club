@@ -2,8 +2,6 @@
 
 We work with communities to document themselves and keep their own record.
 
-Most recordings are published and then lost in time. The archive exists to keep them usable.
-
 This page outlines how we structure, maintain, and grow a shared audiovisual archive that remains useful, searchable, and owned by the people who create it.
 
 ### Two Types of Truth
