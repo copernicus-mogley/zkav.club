@@ -12,31 +12,37 @@ The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/re
 
 They:
 
-* organize and maintain files
-* assign stable identifiers
-* create consistent metadata
+* organize and maintain files 
+
+* assign stable identifiers 
+
+* create consistent metadata 
+
 * ensure recordings are easy to find and reuse over time
 
-The role requires both careful execution and independent judgment. Archivists regularly work with incomplete inputs and bring clarity and structure to them.
+The role requires both careful execution and independent judgment. Archivists regularly work with incomplete inputs and bring clarity and structure to them. 
 
-### How the Archive is Structured
+**For each recording, the Archivist:**
 
-The archive has two layers:
+1. assigns a stable ID
 
-* **Storage** — raw recordings and files
-* **Metadata** — structured information about those recordings
+2. organizes and renames files
 
-Files are stored in shared storage, organized by event or project.
+3. creates a YAML metadata file
 
-Metadata is stored as YAML in a repository. Each YAML file references the corresponding files in storage, linking structure to content.
+4. applies consistent naming and vocabulary
 
-The system uses simple tools (shared storage, YAML metadata, and a task list) and is designed to remain portable and easy to maintain.
+5. ensures the item is complete and usable
+
+This creates a reliable foundation for the archive.
+
 
 ### Working Alongside the Storyteller
 
 The Archivist and Storyteller operate in parallel:
 
-* Archivist → structure and consistency
+* Archivist → structure and consistency 
+
 * Storyteller → narrative and discoverability
 
 Both work on the same archive, in parallel.

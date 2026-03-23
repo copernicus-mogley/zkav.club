@@ -26,7 +26,21 @@ These roles operate independently, but build on the same shared archive.
 
 Success means someone discovers the recording years later and can immediately understand what it is and use it.
 
-**Tools we like**
+### How the Archive is Structured
+
+The archive has two layers:
+
+* **Storage** — raw recordings and files 
+
+* **Metadata** — structured information about those recordings
+
+Files are stored in shared storage, organized by event or project.
+
+Metadata is stored as YAML in a repository. Each YAML file references the corresponding files in storage, linking structure to content.
+
+The system uses simple tools (shared storage, YAML metadata, and a task list) and is designed to remain portable and easy to maintain.
+
+### Tools We Like
 
 Text-first workflows, spreadsheets, and simple publishing/index approaches.
 
