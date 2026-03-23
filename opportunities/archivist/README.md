@@ -4,9 +4,9 @@
 
 The Archivist turns raw recordings into structured, usable archive items.
 
-This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like [Internet Archive](https://archive.org/) and our public metadata repository.
+This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. 
 
-Want to see how this actually works? Read the [Archivist role in the Archive Model](/archive-model/archivist/)
+Want to see how this actually works in practice? Read the [Archivist role in the Archive Model](/archive-model/archivist/)
 
 *Applications must be submitted before **1 April 2026**.*
 
@@ -20,8 +20,6 @@ Want to see how this actually works? Read the [Archivist role in the Archive Mod
 
 * Maintain metadata and publish items to the public archive.
 
-Success means someone discovers the recording years later and can immediately understand what it is and use it.
-
 **You’re a fit if you**
 
 * You like detail-heavy care work: organizing, labeling, checking, and following up.
@@ -31,10 +29,6 @@ Success means someone discovers the recording years later and can immediately un
 * You make good judgment calls and improve systems over time.
 
 * You write clearly and treat credits, consent, and context as real obligations.
-
-**Tools we like (not required)**
-
-Text-first workflows, spreadsheets, and simple publishing/index approaches.
 
 ---
 
