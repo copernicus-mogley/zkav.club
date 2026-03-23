@@ -223,7 +223,8 @@ Use this format:
 * `topic` = short topic slug for the recording (lowercase, no spaces)
 * `source` = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
 * `originalfilename` remains to help track the file back to the source if necessary.
-* Keep components short and filesystem-safe (avoid special characters).
+
+Keep components short and filesystem-safe (avoid special characters).
 
 Examples:
 
