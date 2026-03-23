@@ -2,7 +2,7 @@
 
 **Archivist wanted.** If you’re someone who likes organizing data and ensuring important work doesn’t get lost, this role is for you.
 
-Applications are open now → [View opportunities and apply](/opportunities/)
+→ [Read the details and apply](/opportunities/archivist/)
 
 ---
 
