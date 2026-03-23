@@ -30,9 +30,9 @@ Success means someone discovers the recording years later and can immediately un
 
 The archive has two layers:
 
-* **Storage** — raw recordings and files 
+* Storage — raw recordings and files 
 
-* **Metadata** — structured information about those recordings
+* Metadata — structured information about those recordings
 
 Files are stored in shared storage, organized by event or project.
 
