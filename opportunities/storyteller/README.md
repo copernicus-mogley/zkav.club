@@ -48,4 +48,4 @@ The application takes about 10–15 minutes.
 
 If this sounds like your kind of work, we’d love to hear from you.
 
-➝ **[Apply for the Storyteller role](https://tally.so/r/VLllOy)**
+➝ [Apply for the Storyteller role](https://tally.so/r/VLllOy)
