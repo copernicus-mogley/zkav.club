@@ -6,10 +6,6 @@
 
 ---
 
-This page complements the [Archive Model](/archive-model/).
-
-For common questions about how the role works day-to-day, see the [Archivist Practice FAQ](/archive-model/archivist/faq/).
-
 ### What the Archivist Does
 
 The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like [Internet Archive](https://archive.org/) and our public metadata repository.
