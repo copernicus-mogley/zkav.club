@@ -1,8 +1,14 @@
 ## Archivist Practice
 
-This page complements the [Archive Model](/archive-model/).
+⟶ **Archivists wanted.** We’re actively bringing on people to help build and maintain the archive.
 
-Archivists ultimately work for people who will discover these recordings years from now.
+If you’re someone who likes organizing messy information, making careful judgment calls, and ensuring important work doesn’t get lost, this role is for you.
+
+Applications are open now → [View opportunities and apply](/opportunities/)
+
+---
+
+This page complements the [Archive Model](/archive-model/).
 
 For common questions about how the role works day-to-day, see the [Archivist Practice FAQ](/archive-model/archivist/faq/).
 
@@ -12,12 +18,12 @@ The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/re
 
 They:
 
-* organize and maintain files 
-* assign stable identifiers 
-* create consistent metadata 
+* organize and maintain files
+* assign stable identifiers
+* create consistent metadata
 * ensure recordings are easy to find and reuse over time
 
-The role requires both careful execution and independent judgment. Archivists regularly work with incomplete inputs and bring clarity and structure to them. 
+The role requires both careful execution and independent judgment. Archivists regularly work with incomplete inputs and bring clarity and structure to them.
 
 **For each recording, the Archivist:**
 
@@ -29,12 +35,11 @@ The role requires both careful execution and independent judgment. Archivists re
 
 This creates a reliable foundation for the archive.
 
-
 ### Working Alongside the Storyteller
 
 The Archivist and Storyteller operate in parallel:
 
-* Archivist → structure and consistency 
+* Archivist → structure and consistency
 * Storyteller → narrative and discoverability
 
 Both work on the same archive, in parallel.

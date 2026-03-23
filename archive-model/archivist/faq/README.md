@@ -1,5 +1,7 @@
 ## Archivist Practice FAQ
 
+Archivists ultimately work for people who will discover these recordings years from now.
+
 This FAQ answers common questions about the Archivist role at Zk AV Club. It complements the [Archivist Practice](/archive-model/archivist/) page and clarifies how the role works day-to-day.
 
 ---
