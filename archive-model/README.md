@@ -22,7 +22,13 @@ This plays out in two layers.
 
 [The Storyteller](/opportunities/storyteller/) adds context and meaning to recordings. This includes shaping titles, highlighting key ideas, and connecting recordings so they can be explored and understood.
 
-These roles operate independently, but build on the same shared archive.
+These roles operate independently, but build on the same shared archive. 
+
+Success means someone discovers the recording years later and can immediately understand what it is and use it.
+
+**Tools we like**
+
+Text-first workflows, spreadsheets, and simple publishing/index approaches.
 
 ### Outcome
 

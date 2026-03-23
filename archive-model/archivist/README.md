@@ -1,12 +1,14 @@
 ## Archivist Practice
 
-This page complements the [Archive Model](/archive-model/). It shows how Archivists turn recordings into structured, reusable archive items in practice.
+This page complements the [Archive Model](/archive-model/).
+
+Archivists ultimately work for people who will discover these recordings years from now.
 
 For common questions about how the role works day-to-day, see the [Archivist Practice FAQ](/archive-model/archivist/faq/).
 
 ### What the Archivist Does
 
-Archivists ultimately work for people who will discover these recordings years from now.
+The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like [Internet Archive](https://archive.org/) and our public metadata repository.
 
 They:
 
