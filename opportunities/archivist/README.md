@@ -2,25 +2,23 @@
 
 ⟵ [Back to Opportunities](/opportunities/)
 
-Archivists ultimately work for people who will discover these recordings years from now.
+The Archivist turns raw recordings into structured, usable archive items.
 
-This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
+This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like [Internet Archive](https://archive.org/) and our public metadata repository.
+
+Want to see how this actually works? Read the [Archivist role in the Archive Model](/archive-model/archivist/)
 
 *Applications must be submitted before **1 April 2026**.*
 
 **What you do**
 
-* Turn messy recording folders into real archive items.
+* Turn messy recording folders into complete, usable archive items.
 
-* Keep simple inventories so nothing disappears.
+* Track and organize recordings so nothing gets lost.
 
-* Decide what details actually matter for each item. 
+* Decide what details matter and structure them clearly.
 
-* Work with Zk Av Club organizer and coordinators to pull the pieces together.
-
-* Keep the metadata file up to date as the item evolves.
-
-* Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. 
+* Maintain metadata and publish items to the public archive.
 
 Success means someone discovers the recording years later and can immediately understand what it is and use it.
 
@@ -28,9 +26,9 @@ Success means someone discovers the recording years later and can immediately un
 
 * You like detail-heavy care work: organizing, labeling, checking, and following up.
 
-* You can triage and keep a queue moving.
+* You can triage work and keep a queue moving.
 
-* You can make judgment calls and improve templates over time.
+* You make good judgment calls and improve systems over time.
 
 * You write clearly and treat credits, consent, and context as real obligations.
 

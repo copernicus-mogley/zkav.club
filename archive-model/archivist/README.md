@@ -6,7 +6,7 @@ For common questions about how the role works day-to-day, see the [Archivist Pra
 
 ### What the Archivist Does
 
-The Archivist works with recordings from events, workshops, and community sessions.
+Archivists ultimately work for people who will discover these recordings years from now.
 
 They:
 
@@ -14,8 +14,6 @@ They:
 * assign stable identifiers
 * create consistent metadata
 * ensure recordings are easy to find and reuse over time
-
-Work is primarily async, coordinated through a shared task list with occasional input from organizers and contributors.
 
 The role requires both careful execution and independent judgment. Archivists regularly work with incomplete inputs and bring clarity and structure to them.
 
