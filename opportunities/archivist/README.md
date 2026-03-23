@@ -4,25 +4,23 @@
 
 Archivists ultimately work for people who will discover these recordings years from now.
 
-Good archives prioritize provenance, context, and future discoverability.
-
-This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the Zk Av Club archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
+This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.
 
 *Applications must be submitted before **1 April 2026**.*
 
 **What you do**
 
-* Turn messy recording folders into real archive items: source files, credits, consent notes (who approved what, and any boundaries), context, and a clean handoff.
+* Turn messy recording folders into real archive items.
 
-* Decide what details actually matter for each item type: keep templates simple and evolve the metadata schema as the archive grows.
+* Keep simple inventories so nothing disappears.
 
-* Work with other coordinators to pull the pieces together (audio/video from the post-production coordinator, text from the Storyteller, and any missing pieces).
+* Decide what details actually matter for each item. 
 
-* Keep the "source of truth" file up to date as the item evolves (links, versions, consent status, credits, notes).
+* Work with Zk Av Club organizer and coordinators to pull the pieces together.
 
-* Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. (See [Recording Station licensing + consent](/recording-station/licensing/).)
+* Keep the metadata file up to date as the item evolves.
 
-* Keep simple inventories so nothing disappears: what exists, where it lives, what’s missing, what needs follow-up.
+* Publish original files to the public archive ([Internet Archive](https://archive.org/) today, or whatever host makes sense as the archive evolves), with the details needed to make them usable later. 
 
 Success means someone discovers the recording years later and can immediately understand what it is and use it.
 
@@ -30,7 +28,7 @@ Success means someone discovers the recording years later and can immediately un
 
 * You like detail-heavy care work: organizing, labeling, checking, and following up.
 
-* You can triage and keep a queue moving (even with messy inputs).
+* You can triage and keep a queue moving.
 
 * You can make judgment calls and improve templates over time.
 
@@ -38,7 +36,7 @@ Success means someone discovers the recording years later and can immediately un
 
 **Tools we like (not required)**
 
-Text-first workflows (docs/markdown), spreadsheets, simple publishing/index workflows, and comfort working from transcripts.
+Text-first workflows, spreadsheets, and simple publishing/index approaches.
 
 ---
 

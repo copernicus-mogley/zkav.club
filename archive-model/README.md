@@ -1,6 +1,6 @@
 ## Archive Model
 
-We work with communities to document themselves and keep their own record.
+Good archives prioritize provenance, context, and future discoverability.
 
 This page outlines how we structure, maintain, and grow a shared audiovisual archive that remains useful, searchable, and owned by the people who create it.
 
