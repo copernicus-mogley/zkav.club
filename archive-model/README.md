@@ -36,9 +36,25 @@ The archive has two layers:
 
 Files are stored in shared storage, organized by event or project.
 
-Metadata is stored as YAML in a repository. Each YAML file references the corresponding files in storage, linking structure to content.
+Metadata is stored as file in a repository. Each metadata file references the corresponding files in storage, linking structure to content.
 
 The system uses simple tools (shared storage, YAML metadata, and a task list) and is designed to remain portable and easy to maintain.
+
+### File naming + metadata
+
+Whenever possible, we adhere to this format:
+
+`YYYYMMDD_ID_EventShortName_OwnerPublic_Source_OriginalFilename` 
+
+* `OwnerPublic` = the chosen owner’s public name/handle/pseudonym (never dox).
+* `Source` = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
+* `OriginalFilename` remains to help track the file back to the source if necessary.
+* Keep components short and filesystem-safe (avoid special characters).
+
+Examples:
+
+* `20251004_10_DarkPrague_harryhalpin_handicam_C0014.MP4` 
+* `20251121_05_Devconnect_ProofOfVibes_rodecaster1_Recording90.wav`
 
 ### Tools We Like
 
