@@ -46,7 +46,6 @@ Whenever possible, we adhere to this format:
 
 `YYYYMMDD_##_event_topic_source_originalfilename` 
 
-
 * `zkav` = fixed prefix for all Zk Av Club archive items
 * `YYYYMMDD` = recording date (ISO format, no dashes)
 * `##` = recording index for that day (zero-padded: 01, 02, 03…)
