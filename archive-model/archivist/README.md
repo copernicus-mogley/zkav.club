@@ -27,7 +27,9 @@ The role requires both careful execution and independent judgment. Archivists re
 4. applies consistent naming and vocabulary
 5. ensures the item is complete and usable
 
-This creates a reliable foundation for the archive.
+Without structure, recordings are hard to use.
+
+With structure, they become part of a shared, growing body of knowledge.
 
 ### Working Alongside the Storyteller
 
@@ -38,13 +40,27 @@ The Archivist and Storyteller operate in parallel:
 
 Both work on the same archive, in parallel.
 
-### Why This Matters
+### File naming + metadata
 
-Without structure, recordings are hard to use.
+Whenever possible, we adhere to this format:
 
-With structure, they become part of a shared, growing body of knowledge.
+`YYYYMMDD_##_event_topic_source_originalfilename` 
 
-The Archivist makes that possible.
+
+* `zkav` = fixed prefix for all Zk Av Club archive items
+* `YYYYMMDD` = recording date (ISO format, no dashes)
+* `##` = recording index for that day (zero-padded: 01, 02, 03…)
+* `event` = event slug (lowercase, no spaces)
+* `topic` = short topic slug for the recording (lowercase, no spaces)
+* `source` = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
+* `originalfilename` remains to help track the file back to the source if necessary.
+
+Keep components short and filesystem-safe (avoid special characters).
+
+Examples:
+
+* `zkav_20251004_10_darkprague_harryhalpin_handicam_C0014.MP4` 
+* `zkav_20251121_05_devconnect_proofofvibes_rodecaster1_Recording90.wav`
 
 ### Where to Next
 

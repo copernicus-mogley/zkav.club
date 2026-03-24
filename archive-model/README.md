@@ -40,28 +40,6 @@ Metadata is stored as file in a repository. Each metadata file references the co
 
 The system uses simple tools (shared storage, YAML metadata, and a task list) and is designed to remain portable and easy to maintain.
 
-### File naming + metadata
-
-Whenever possible, we adhere to this format:
-
-`YYYYMMDD_##_event_topic_source_originalfilename` 
-
-
-* `zkav` = fixed prefix for all Zk Av Club archive items
-* `YYYYMMDD` = recording date (ISO format, no dashes)
-* `##` = recording index for that day (zero-padded: 01, 02, 03…)
-* `event` = event slug (lowercase, no spaces)
-* `topic` = short topic slug for the recording (lowercase, no spaces)
-* `source` = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).
-* `originalfilename` remains to help track the file back to the source if necessary.
-
-Keep components short and filesystem-safe (avoid special characters).
-
-Examples:
-
-* `zkav_20251004_10_darkprague_harryhalpin_handicam_C0014.MP4` 
-* `zkav_20251121_05_devconnect_proofofvibes_rodecaster1_Recording90.wav`
-
 ### Tools We Like
 
 Text-first workflows, spreadsheets, and simple publishing/index approaches.
