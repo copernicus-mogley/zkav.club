@@ -4,8 +4,6 @@ We work with open-source and decentralized tech communities to document themselv
 
 Through workshops, event recording, and practical AV documentation, communities keep their own record.
 
-The recordings return to a shared archive others can build on.
-
 People. Stories. Tools.
 
 ### Start here
