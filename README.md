@@ -178,6 +178,8 @@ Add your community (PR welcome). — [create a PR](https://github.com/copernicus
 
 ### Additional Reading
 
+* [And, the archive emerges from practice.](https://troublefront.com/blog/and-the-archive-emerges-from-practice-495d2643/) (2026 Mar 21): What an archive becomes is defined by how material is created and handled over time.
+
 * [Free & Open-Source Media: Stewarding a Community-Owned Archive](https://troublefront.com/blog/free-open-source-media-stewarding-a-community-owned-archive/) (2026 Feb 27): On maintenance, reuse, and what it actually means to create open media.
 
 * [Zk Av Club is not an online community.](https://troublefront.com/blog/zk-av-club-is-not-an-online-community/) (2025 Sept 26): What “community” means here, and why we don’t try to be a permanent online hangout.
