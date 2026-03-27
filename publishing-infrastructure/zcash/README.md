@@ -1,7 +1,6 @@
 # PeerTube for Zcash: Decision + Implementation Plan
 
-**Executive summary (for publication):**
-Zcash needs its own video infrastructure because the current default requires users to trade privacy for access.
+**Executive summary (for publication):** Zcash needs its own video infrastructure because the current default requires users to trade privacy for access.
 
 Zk Av Club is actively deploying `watchz.cash`, a community-run PeerTube instance for the Zcash ecosystem where viewing and publishing do not depend on surveillance platforms.
 
@@ -126,7 +125,7 @@ MVP baseline:
 * Approval-first publishing
 * Curated federation posture
 
-For more details read the full [moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
+For details read the full [moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
 
 ---
 
@@ -282,10 +281,10 @@ This page is a living document and will be updated as the project progresses.
 
 Key updates will include:
 
-* Changes to deployment status and milestones 
-  * [Monthly Reports and Sustainability Notes](/publishing-infrastructure/zcash/reports)) 
+* Changes to deployment status and milestones
+  * [Monthly Reports and Sustainability Notes](/publishing-infrastructure/zcash/reports)
 * Infrastructure or architecture adjustments (reflected in this page)
-* Updates to moderation, publishing, or access policies: 
+* Updates to moderation, publishing, or access policies:
   * [Moderation Policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
   * [Publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
 * Observations from alpha usage (performance, costs, workflows)
