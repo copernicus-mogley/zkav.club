@@ -2,7 +2,7 @@
 
 We work with open-source and decentralized tech communities to document themselves without giving up privacy.
 
-Through workshops, event recording, and practical AV documentation, communities build and maintain their own archives.
+Through workshops, event recording, and practical AV documentation, communities create and maintain their own archives.
 
 People. Stories. Tools.
 
