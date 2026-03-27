@@ -82,8 +82,6 @@ Interpret recordings with titles, context, and descriptions so they remain under
 
 ➝ [Become a Storyteller](/opportunities/storyteller/)
 
----
-
 ### Join the Club
 
 Bring a question, a lead, or something you’re not sure is ready yet.
