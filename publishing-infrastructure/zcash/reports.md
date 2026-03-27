@@ -187,7 +187,7 @@ Before the instance is live, reports track project progress rather than runtime 
 
 ### Project status (pre-launch)
 
-* Current system state: /publishing-infrastructure/zcash/
+* [Current system state](/publishing-infrastructure/zcash/)
 * Summary: Began infrastructure build for `watchz.cash` and moved the project from planning into active deployment.
 
 ### Highlights
