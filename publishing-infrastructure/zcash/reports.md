@@ -58,7 +58,7 @@ Before the instance is live, reports track project progress rather than runtime 
 
 ### Project status (pre-launch)
 
-* Current system state: /publishing-infrastructure/zcash/
+* [Current system state](/publishing-infrastructure/zcash/)
 * Summary: Published the project hub (Milestone 1)
 
 ### Highlights
@@ -122,7 +122,7 @@ Before the instance is live, reports track project progress rather than runtime 
 
 ### Project status (pre-launch)
 
-* Current system state: /publishing-infrastructure/zcash/
+* [Current system state](/publishing-infrastructure/zcash/)
 * Summary: Built operational documentation and tracker
 
 ### Highlights
