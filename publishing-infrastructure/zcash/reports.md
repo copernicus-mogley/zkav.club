@@ -1,23 +1,23 @@
-# Monthly Reports and Sustainability Notes (rolling page) — v0.1
+## Monthly Reports and Sustainability Notes
 
-## Purpose
+### Purpose
 
 This page is the rolling monthly record for operating the Zcash PeerTube instance: what we shipped, what broke (if anything), what it cost, what took time, and what we’re doing next.
 
-Project hub (plan + tracker): [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
+Related pages:
 
-How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
+* [How we publish](https://zkav.club/publishing-infrastructure/zcash/publishing)
+* [Moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
+* [Project hub](https://zkav.club/publishing-infrastructure/zcash/)
 
-Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
-
-## How this page works
+### How this page works
 
 * This is **one rolling page** (not one page per month).
 * Each month has its own section (e.g., `## 2026-01`).
 * Update the current month as work happens. At month end, add a short summary and start the next month.
 * Update this page at least once per month (and optionally weekly while pre-launch work is active).
 
-## Pre-launch reporting (before the instance is live)
+### Pre-launch reporting (before the instance is live)
 
 Until the instance is deployed, monthly reports still exist—but they report **project progress**, not runtime operations.
 
@@ -28,7 +28,7 @@ Rule of thumb:
 
 Source of truth for status is the [Phase 5 tracker](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3) on the hub page; the monthly report captures *what changed this month and why*.
 
-## Table of contents
+### Table of contents
 
 * [2026-01](#2026-01)
 * [2026-02](#2026-02)
@@ -38,11 +38,11 @@ Note: We keep one “next month” section pre-created to reduce friction. Older
 
 ---
 
-## Reporting units
+### Reporting units
 
 All costs are reported in USD.
 
-## 2026-01
+### 2026-01
 
 **Project status (pre-launch)**
 
@@ -112,7 +112,7 @@ All costs are reported in USD.
 
 ---
 
-## 2026-02
+### 2026-02
 
 **Project status (pre-launch)**
 
@@ -190,14 +190,14 @@ All costs are reported in USD.
 
 ---
 
-## 2026-03
+### 2026-03
 
 **Project status (pre-launch)**
 
 * Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3)
 * Summary:
 
-## **Highlights**
+### Highlights
 
 **Milestone progress (pre-launch)**
 
@@ -239,6 +239,6 @@ All costs are reported in USD.
 
 * GB/month: N/A (pre-launch)
 
-## **Risks / watch items**
+### Risks / watch items
 
-## **Next month focus**
+### Next month focus

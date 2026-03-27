@@ -1,22 +1,22 @@
-# How We Publish (Public) — v0.1
+## How We Publish
 
-## What this is
+### What this is
 
 This page explains how videos are prepared, uploaded, reviewed, and published on the Zcash PeerTube instance.
 
-Project hub: [https://zkav.club/publishing-infrastructure/zcash/](https://zkav.club/publishing-infrastructure/zcash/)
+Related pages:
 
-Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
+* [Moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
+* [Monthly reports](https://zkav.club/publishing-infrastructure/zcash/reports)
+* [Project hub](https://zkav.club/publishing-infrastructure/zcash/)
 
-Monthly reports: [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
-
-## Who publishes here (MVP)
+### Who publishes here (MVP)
 
 * Accounts are invite-only.
 * Uploads are limited to a trusted uploader list (people the channel owner and admins have approved to upload).
 * Channel owners coordinate what gets published in their channels.
 
-## Channels and ownership (MVP)
+### Channels and ownership (MVP)
 
 * **Zcash Foundation — Zcon (historic + new):** channel owner is [Zcash Foundation](https://zfnd.org/).
 
@@ -27,7 +27,7 @@ Monthly reports: [https://zkav.club/publishing-infrastructure/zcash/reports](htt
   * This channel holds ZecHub programming during MVP (and other approved ecosystem content unless/until additional channels are created late MVP).
   * “Other approved ecosystem content” is approved to publish by the ZecHub channel owner; admins can block/unlist content for policy or safety reasons.
 
-## Request to publish (how videos get in line)
+### Request to publish (how videos get in line)
 
 “Request to publish” just means: someone tells us *which video should be posted, where it should live, and what it’s called*.
 
@@ -47,7 +47,7 @@ If you’re wondering why this exists at all: it prevents videos from being uplo
 
 Right now, publish requests are coordinated directly between the channel owner and Zk Av Club admins (a shared request form/link may be added later).
 
-## Upload
+### Upload
 
 The uploader:
 
@@ -56,7 +56,7 @@ The uploader:
 * Lets PeerTube create the viewing versions (transcoding)
 * Fills in the required info (see below)
 
-## Metadata minimums (required)
+### Metadata minimums (required)
 
 Required fields (with quick examples):
 
@@ -73,14 +73,14 @@ Required fields (with quick examples):
 
 License note (MVP): the channel owner decides the license. If the license is unclear, keep the video unlisted until the channel owner confirms.
 
-## Naming conventions (recommended)
+### Naming conventions (recommended)
 
 Use consistent titles so videos are easy to find:
 
 * Talks: `Event: Talk title — Speaker`
 * Updates: `Zcash Ecosystem Update — Week of YYYY-MM-DD`
 
-## Review (MVP)
+### Review (MVP)
 
 Before anything goes public, a moderator/admin does a quick check:
 
@@ -99,7 +99,7 @@ Approval checklist (quick):
 * Captions status is noted (attached or “coming soon / not available yet”)
 * No third‑party video embeds (YouTube/Vimeo) are added to the description (link out instead)
 
-## Publish
+### Publish
 
 After approval:
 
@@ -107,17 +107,17 @@ After approval:
 * Add to any relevant playlists/collections
 * Confirm playback on web + mobile
 
-## Privacy + embeds
+### Privacy + embeds
 
 * We avoid embedding third‑party video players (YouTube/Vimeo) on instance pages by default. Link out instead.
 * PeerTube-hosted videos may be embedded on other websites, forums, or chats.
 
-## After publishing
+### After publishing
 
 * We add the link to the rolling monthly report
 * We note any follow-ups (captions, small fixes, corrections, takedown requests)
 
-## Changes and corrections
+### Changes and corrections
 
 If a published video needs updates, here’s how we handle it:
 
@@ -137,6 +137,6 @@ If a published video needs updates, here’s how we handle it:
    * Requires coordination between the channel owner and admins
    * When possible, we note what changed and why (without exposing personal information)
 
-## Change log
+### Change log
 
 * 2026-02-11: Published/updated v0.1 with plain-language workflow, approval checklist, metadata examples, and privacy/embeds guidance.
