@@ -6,6 +6,8 @@ This PeerTube instance exists to provide a privacy-respecting, community-run hom
 
 **Status:** Applies to the MVP (invite-only alpha, April 2026)
 
+**Last updated:** 2026-03-27
+
 Related pages:
 
 * [How we publish](/publishing-infrastructure/zcash/publishing)

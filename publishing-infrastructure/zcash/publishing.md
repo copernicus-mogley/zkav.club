@@ -1,142 +1,184 @@
-## How We Publish
+## How we publish
 
-### What this is
+### Purpose
 
-This page explains how videos are prepared, uploaded, reviewed, and published on the Zcash PeerTube instance.
+This page describes how videos move from selection to publication on `watchz.cash` during MVP.
+
+**Status:** Applies to the MVP (invite-only alpha, April 2026)
+
+**Last updated:** 2026-03-27
 
 Related pages:
 
-* [Moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
-* [Monthly reports](https://zkav.club/publishing-infrastructure/zcash/reports)
-* [Project hub](https://zkav.club/publishing-infrastructure/zcash/)
+* [Moderation policy](/publishing-infrastructure/zcash/moderation)
+* [Monthly reports](/publishing-infrastructure/zcash/reports)
+* [Project hub](/publishing-infrastructure/zcash/)
+
+---
 
 ### Who publishes here (MVP)
 
-* Accounts are invite-only.
-* Uploads are limited to a trusted uploader list (people the channel owner and admins have approved to upload).
-* Channel owners coordinate what gets published in their channels.
+* Accounts are invite-only
+* Uploads are limited to a trusted uploader list
+* Channel owners determine what is published in their channels
+
+---
 
 ### Channels and ownership (MVP)
 
-* **Zcash Foundation — Zcon (historic + new):** channel owner is [Zcash Foundation](https://zfnd.org/).
+Initial channels during MVP:
 
-  * During MVP, Zk Av Club admins upload and manage metadata for historic Zcon videos in coordination with Zcash Foundation.
+* Zcash Foundation — Zcon (historic + new)
 
-* **ZecHub:** channel owner is [ZecHub](https://zechub.wiki/).
+  * Channel owner: Zcash Foundation
+  * During MVP, Zk Av Club admins upload and manage metadata for historic Zcon videos in coordination with the Zcash Foundation
 
-  * This channel holds ZecHub programming during MVP (and other approved ecosystem content unless/until additional channels are created late MVP).
-  * “Other approved ecosystem content” is approved to publish by the ZecHub channel owner; admins can block/unlist content for policy or safety reasons.
+* ZecHub
 
-### Request to publish (how videos get in line)
+  * Channel owner: ZecHub
+  * This channel holds ZecHub programming during early MVP (and other approved ecosystem content unless or until additional channels are created)
 
-“Request to publish” just means: someone tells us *which video should be posted, where it should live, and what it’s called*.
+Additional channels may be added during MVP as channel owners and trusted uploaders are identified.
 
-A publish request can come from:
+Channel owners approve what is published. Admins may block or unlist content for policy or safety reasons.
 
-* The channel owner (e.g., “Please publish this batch of Zcon videos”)
-* A trusted uploader (someone the channel owner and admins have approved to upload to that channel)
+---
 
-A publish request should include (plain-language minimums):
+### Publishing workflow (MVP)
 
-* Which channel it should go on (Zcash Foundation—Zcon, or ZecHub)
-* What the video should be titled
-* The date and event (if there is one)
-* Anything sensitive we should know up front (for example: someone asked not to be shown, a section should be cut, or consent is unclear)
+#### 1. Content selection
 
-If you’re wondering why this exists at all: it prevents videos from being uploaded “randomly” without context, and it helps channel owners stay in control of what appears on their channel.
+A video is selected by a channel owner or admin.
 
-Right now, publish requests are coordinated directly between the channel owner and Zk Av Club admins (a shared request form/link may be added later).
+#### 2. Request to publish
 
-### Upload
+A request to publish defines:
+
+* which channel the video belongs to
+* what the video is called
+* key context (event, date, participants)
+* any known sensitivities (consent, edits, restrictions)
+
+Requests come from channel owners or trusted uploaders and are coordinated directly during MVP.
+
+#### 3. Upload
 
 The uploader:
 
-* Uploads the video to the correct channel
-* Sets it to **unlisted** (so it’s not public yet)
-* Lets PeerTube create the viewing versions (transcoding)
-* Fills in the required info (see below)
+* uploads the video to the correct channel
+* sets visibility to unlisted
+* allows transcoding to complete
+* fills in required metadata
 
-### Metadata minimums (required)
+#### 4. Metadata completion
 
-Required fields (with quick examples):
+All required fields must be completed before review.
 
-| Field                | What to include                            | Example (Zcon talk)                      | Example (ecosystem update)                    |
-| -------------------- | ------------------------------------------ | ---------------------------------------- | --------------------------------------------- |
-| Title                | Clear, specific title                      | “Zcon: Shielded Wallet UX — Talk by ___” | “Zcash Ecosystem Update — Week of 2026-02-xx” |
-| Date/event           | Date + event name (if any)                 | “2025-xx-xx — Zcon”                      | “2026-02-xx — ZecHub”                         |
-| Speaker/participants | Names/handles if applicable                | “Speaker: ___”                           | “Hosts: ___”                                  |
-| Description          | 2–5 sentences + key links                  | “Overview + agenda + slides link”        | “What changed this week + links”              |
-| Tags                 | 3–8 useful tags                            | “zcon, talk, wallets, usability”         | “update, ecosystem, dev, community”           |
-| Language             | Primary language                           | “en”                                     | “en”                                          |
-| License              | How it may be reused                       | “CC BY 4.0” (example)                    | “CC BY 4.0” (example)                         |
-| Captions/subtitles   | Attach if available; otherwise note status | “Captions: coming soon”                  | “Captions: not available yet”                 |
+#### 5. Review
 
-License note (MVP): the channel owner decides the license. If the license is unclear, keep the video unlisted until the channel owner confirms.
+A moderator or admin checks:
 
-### Naming conventions (recommended)
+* policy compliance
+* correct channel placement
+* basic audio/video usability
+* metadata completeness
 
-Use consistent titles so videos are easy to find:
+#### 6. Publish
+
+Once approved:
+
+* visibility is set to public
+* video is added to relevant collections
+* playback is verified
+
+---
+
+### Metadata baseline (required)
+
+All published videos must include, at minimum:
+
+* Clear, specific title
+* Date and event (if applicable)
+* Speaker or participants
+* Description with context and links
+* 3–8 relevant tags
+* Language
+* License
+* Caption status (attached or noted)
+
+Metadata quality is required for publication.
+
+---
 
 * Talks: `Event: Talk title — Speaker`
 * Updates: `Zcash Ecosystem Update — Week of YYYY-MM-DD`
 
-### Review (MVP)
+---
 
-Before anything goes public, a moderator/admin does a quick check:
+### Visibility rules
 
-* Is it allowed under the moderation policy?
-* Is it on the right channel?
-* Is the audio/video basically usable?
-* Does it have the required info filled in (title, date/event, description, etc.)?
+* Uploads are unlisted by default
+* Only approved videos are made public
+* Public videos must meet metadata and policy requirements
 
-Approval checklist (quick):
+---
 
-* Visibility is **unlisted** until approved
-* Title is clear + matches the content
-* Date/event is filled in
-* Description has context + at least one helpful link (if available)
-* Tags + language + license are set
-* Captions status is noted (attached or “coming soon / not available yet”)
-* No third‑party video embeds (YouTube/Vimeo) are added to the description (link out instead)
+Publishing focuses on Zcash ecosystem content, including:
 
-### Publish
+* Events and talks
+* Educational material
+* Interviews and updates
 
-After approval:
+Content outside this scope is not published.
 
-* Set visibility to **public**
-* Add to any relevant playlists/collections
-* Confirm playback on web + mobile
+---
 
-### Privacy + embeds
+### Privacy and embeds
 
-* We avoid embedding third‑party video players (YouTube/Vimeo) on instance pages by default. Link out instead.
-* PeerTube-hosted videos may be embedded on other websites, forums, or chats.
+* Third-party video embeds (YouTube/Vimeo) are not used on instance pages; link out instead
+* PeerTube-hosted videos may be embedded elsewhere
+
+---
 
 ### After publishing
 
-* We add the link to the rolling monthly report
-* We note any follow-ups (captions, small fixes, corrections, takedown requests)
+* Videos are added to monthly reports
+* Follow-ups are tracked as needed (captions, corrections, updates)
+
+---
 
 ### Changes and corrections
 
-If a published video needs updates, here’s how we handle it:
+#### Small fixes
 
-1. **Small fixes (metadata-only)**
+* Metadata updates (title, tags, description)
+* Applied directly
 
-   * Examples: title tweaks, tag fixes, description links, playlist placement
-   * Usually done immediately
+#### Visibility changes
 
-2. **Visibility changes (unlist / relist)**
+* Unlist/relist for review or corrections
+* Coordinated with channel owner
 
-   * Used when something needs review, corrections, or time-sensitive handling
-   * Coordinate with the channel owner; moderators/admins may unlist for policy or safety reasons
+#### Major changes
 
-3. **Major changes (replace or remove)**
+* Content edits, removals, or rights issues
+* Require coordination between channel owner and admins
 
-   * Used for substantive edits (content removals, sensitive material, rights/consent issues)
-   * Requires coordination between the channel owner and admins
-   * When possible, we note what changed and why (without exposing personal information)
+---
 
-### Change log
+* Not open upload
+* Not real-time publishing
+* Not a dumping ground for raw recordings
 
-* 2026-02-11: Published/updated v0.1 with plain-language workflow, approval checklist, metadata examples, and privacy/embeds guidance.
+---
+
+## Notes
+
+This page is a living document and will be updated as the project progresses.
+
+This workflow will evolve as the system grows and real usage informs improvements.
+
+Updates will be reflected in:
+
+* [Project hub](/publishing-infrastructure/zcash/)
+* [Monthly reports](/publishing-infrastructure/zcash/reports)
