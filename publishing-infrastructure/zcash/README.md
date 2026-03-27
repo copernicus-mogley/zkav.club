@@ -1,4 +1,4 @@
-# PeerTube for Zcash: Decision + Implementation Plan
+## PeerTube for Zcash: Decision + Implementation Plan
 
 **Executive summary (for publication):** Zcash needs its own video infrastructure because the current default requires users to trade privacy for access.
 
@@ -20,7 +20,7 @@ Infrastructure execution began March 2026.
 
 ---
 
-## Current status (quick view)
+### Current status (quick view)
 
 The project is in an active deployment phase, with infrastructure already underway.
 
@@ -40,7 +40,7 @@ The project is in an active deployment phase, with infrastructure already underw
 
 ---
 
-## 0) Context and deliverable
+### 0) Context and deliverable
 
 This page is the canonical public tracker for deploying and operating a Zcash-focused PeerTube instance.
 
@@ -52,9 +52,9 @@ Current focus is MVP execution.
 
 ---
 
-## 1) Goals, scope, and non-goals
+### 1) Goals, scope, and non-goals
 
-### Goals
+#### Goals
 
 1. Provide a stable video home for the Zcash ecosystem
 2. Offer a privacy-respecting alternative to centralized platforms
@@ -62,7 +62,7 @@ Current focus is MVP execution.
 4. Define clear moderation and governance
 5. Build a sustainable operating model
 
-### Scope (MVP)
+#### Scope (MVP)
 
 * One PeerTube instance (`watchz.cash`)
 * Trusted uploader model
@@ -70,7 +70,7 @@ Current focus is MVP execution.
 * Backup and monitoring baseline
 * Initial curated content set
 
-### Non-goals
+#### Non-goals
 
 * Public open registration
 * Large-scale content migration
@@ -78,16 +78,16 @@ Current focus is MVP execution.
 
 ---
 
-## 2) Key decisions (MVP)
+### 2) Key decisions (MVP)
 
-### Hosting
+#### Hosting
 
 * Provider: Njalla
 * VPS tier: highest available (accepted constraint)
 * OS: Debian 12
 * Filesystem: ZFS
 
-### Storage
+#### Storage
 
 * Object storage: Wasabi (S3-compatible)
 * Local: application + database + cache
@@ -95,15 +95,15 @@ Current focus is MVP execution.
 
 Wasabi setup is complete and ready for integration.
 
-### Deployment
+#### Deployment
 
 * Method: Docker Compose
 
-### Federation
+#### Federation
 
 * Curated allow/block model
 
-### Access model
+#### Access model
 
 * Invite-only accounts
 * Trusted uploaders
@@ -111,13 +111,13 @@ Wasabi setup is complete and ready for integration.
 
 ---
 
-## 3) Requirements and assumptions
+### 3) Requirements and assumptions
 
 Usage assumptions will be validated through real usage during alpha rather than projected in advance, allowing infrastructure and cost decisions to be based on observed behavior rather than estimates.
 
 ---
 
-## 4) Moderation policy (summary)
+### 4) Moderation policy (summary)
 
 MVP baseline:
 
@@ -129,18 +129,18 @@ For details read the full [moderation policy](https://zkav.club/publishing-infra
 
 ---
 
-## 5) Deployment plan (execution overview)
+### 5) Deployment plan (execution overview)
 
 The following phases outline the execution path at a high level; detailed internal runbooks are maintained separately.
 
-### Phase 1 — Infrastructure (completed)
+#### Phase 1 — Infrastructure (completed)
 
 * Server provisioned and secured
 * Base system hardened and accessible
 
 ---
 
-### Phase 2 — Core services (in progress)
+#### Phase 2 — Core services (in progress)
 
 **Goal:** Establish a stable system foundation
 
@@ -156,7 +156,7 @@ The following phases outline the execution path at a high level; detailed intern
 
 ---
 
-### Phase 3 — PeerTube deployment
+#### Phase 3 — PeerTube deployment
 
 **Goal:** Bring the application online
 
@@ -173,7 +173,7 @@ The following phases outline the execution path at a high level; detailed intern
 
 ---
 
-### Phase 4 — Storage integration
+#### Phase 4 — Storage integration
 
 **Goal:** Move media handling to object storage
 
@@ -189,7 +189,7 @@ The following phases outline the execution path at a high level; detailed intern
 
 ---
 
-### Phase 5 — Validation
+#### Phase 5 — Validation
 
 **Goal:** Confirm system reliability
 
@@ -204,7 +204,7 @@ The following phases outline the execution path at a high level; detailed intern
 
 ---
 
-### Phase 6 — Invite-only alpha preparation
+#### Phase 6 — Invite-only alpha preparation
 
 **Goal:** Prepare for controlled usage
 
@@ -214,25 +214,25 @@ The following phases outline the execution path at a high level; detailed intern
 
 ---
 
-## 6) MVP milestone (April 30, 2026)
+### 6) MVP milestone (April 30, 2026)
 
 By April 30, `watchz.cash` will be in invite-only alpha with:
 
-### Technical foundation
+#### Technical foundation
 
 * Working domain and HTTPS
 * PeerTube deployed
 * Database and cache operational
 * Backups and monitoring active
 
-### Product foundation
+#### Product foundation
 
 * Restricted registration
 * Upload limits defined
 * Moderation workflow in place
 * Basic policy pages published
 
-### Content foundation
+#### Content foundation
 
 * 3 Zcash channels
 * 10–20 initial videos
@@ -240,34 +240,34 @@ By April 30, `watchz.cash` will be in invite-only alpha with:
 
 ---
 
-## 7) Timeline
+### 7) Timeline
 
-### March
+#### March
 
 * Infrastructure setup (completed)
 * Core services in progress
 
-### April
+#### April
 
 * Complete deployment
 * Validate system
 * Prepare content and policy baseline
 
-### April 30
+#### April 30
 
 * Invite-only alpha milestone
 
 ---
 
-## 8) Sustainability notes
+### 8) Sustainability notes
 
-### Cost drivers
+#### Cost drivers
 
 * Storage
 * Bandwidth
 * Transcoding compute
 
-### Approach
+#### Approach
 
 * Start with constrained scope
 * Measure real usage
@@ -275,7 +275,7 @@ By April 30, `watchz.cash` will be in invite-only alpha with:
 
 ---
 
-## 9) Notes and updates
+### 9) Notes and updates
 
 This page is a living document and will be updated as the project progresses.
 
