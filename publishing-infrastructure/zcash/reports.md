@@ -2,243 +2,269 @@
 
 ### Purpose
 
-This page is the rolling monthly record for operating the Zcash PeerTube instance: what we shipped, what broke (if anything), what it cost, what took time, and what we’re doing next.
+This page is the rolling operational record for the Zcash PeerTube instance: what changed, what was shipped, what broke (if anything), what it cost, and what comes next.
+
+**Status:** Applies to MVP (invite-only alpha, April 2026)
+
+**Last updated:** 2026-03-27
 
 Related pages:
 
-* [How we publish](https://zkav.club/publishing-infrastructure/zcash/publishing)
-* [Moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
-* [Project hub](https://zkav.club/publishing-infrastructure/zcash/)
+* [How we publish](/publishing-infrastructure/zcash/publishing)
+* [Moderation policy](/publishing-infrastructure/zcash/moderation)
+* [Project hub](/publishing-infrastructure/zcash/)
+
+---
 
 ### How this page works
 
-* This is **one rolling page** (not one page per month).
-* Each month has its own section (e.g., `## 2026-01`).
-* Update the current month as work happens. At month end, add a short summary and start the next month.
-* Update this page at least once per month (and optionally weekly while pre-launch work is active).
+* This is one rolling page (not one page per month)
+* Each month has its own section (for example: `## 2026-03`)
+* Update the current month as work happens
+* At month end, add a short summary and start the next month
+* Update at least once per month (weekly updates recommended during active build)
 
-### Pre-launch reporting (before the instance is live)
+---
 
-Until the instance is deployed, monthly reports still exist—but they report **project progress**, not runtime operations.
+### What gets reported
 
-Rule of thumb:
+If it moved the project forward, it belongs here:
 
-* If it moved the project toward “instance live,” it belongs in the report (decisions, procurement, setup progress, tests, blockers).
-* Runtime metrics that don’t exist yet should be marked **N/A (pre-launch)**.
+* Infrastructure progress (provisioning, deployment, configuration)
+* Workflow and policy changes
+* Testing and validation
+* Issues, blockers, and decisions
 
-Source of truth for status is the [Phase 5 tracker](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3) on the hub page; the monthly report captures *what changed this month and why*.
+The source of truth for current system state is the [Project hub](/publishing-infrastructure/zcash/). This page records what changed and why.
 
-### Table of contents
+---
 
-* [2026-01](#2026-01)
-* [2026-02](#2026-02)
-* [2026-03](#2026-03)
+### Pre-launch reporting
 
-Note: We keep one “next month” section pre-created to reduce friction. Older months remain as the record.
+Before the instance is live, reports track project progress rather than runtime operations.
+
+* Metrics that do not exist yet are marked: N/A (pre-launch)
+* Focus is on decisions, setup progress, and readiness
 
 ---
 
 ### Reporting units
 
-All costs are reported in USD.
-
-### 2026-01
-
-**Project status (pre-launch)**
-
-* Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3)
-* Summary: Published Milestone 1 plan as the canonical project hub page.
-
-**Highlights**
-
-* Published the PeerTube for Zcash Decision + Implementation Plan (Milestone 1).
-* Established MVP posture: invite-only accounts, trusted uploader model, approval-first publishing.
-
-**Milestone progress (pre-launch)**
-
-* Decisions made:
-
-  * Confirmed PeerTube as the deployment target for Zcash ecosystem video.
-  * Defined curated federation posture and moderation baseline.
-  * Defined initial channel ownership model (MVP: Zcash ecosystem groups; expansion planned later).
-* Infra/provisioning progress: Not started (pre-launch).
-* Workflow/policy progress: Plan published (Milestone 1).
-* Testing completed: N/A (pre-launch).
-* Blockers / risks:
-
-  * Content + usage assumptions not yet published; sizing will be revisited once assumptions exist.
-
-**New uploads (count + links)**
-
-* N/A (pre-launch)
-
-**Ops notes**
-
-* Availability/uptime incidents: N/A (pre-launch)
-* Backups status (last successful restore test date): N/A (pre-launch)
-* Updates applied (PeerTube version, OS updates): N/A (pre-launch)
-
-**Moderation notes**
-
-* Reports received: N/A (pre-launch)
-* Actions taken: N/A (pre-launch)
-* Federation changes (date + action + reason): N/A (pre-launch)
-
-**Costs**
-
-* Hosting: $0 (pre-launch)
-* Storage: $0 (pre-launch)
-* Bandwidth: $0 (pre-launch)
-* Other: $0 (pre-launch)
-
-**Admin time**
-
-* Hours (estimate): ~8 hours (full day: PeerTube research + instance/federation/moderation design + drafting/publishing Milestone 1)
-* Main time sinks: PeerTube research (instances/federation/config), drafting the plan, and publishing the hub page
-
-**Storage growth**
-
-* GB/month: N/A (pre-launch)
-
-**Risks / watch items**
-
-* Ensure pre-launch assumptions and provisioning decisions land early in February.
-
-**Next month focus**
-
-* Publish content + usage assumptions.
-* Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
-* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
+* Costs are reported in USD
 
 ---
 
-### 2026-02
+## 2026-01
 
-**Project status (pre-launch)**
+### Project status (pre-launch)
 
-* Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/infrastructure/zcash/#mvp-tracking-milestone-3)
-* Summary: Turned the hub page into a living project tracker and published companion documentation (moderation, publishing, rolling reports) to support MVP operations.
-
-**Highlights**
-
-* Published companion docs:
-
-  * Moderation policy: [https://zkav.club/publishing-infrastructure/zcash/moderation](https://zkav.club/publishing-infrastructure/zcash/moderation)
-  * How we publish: [https://zkav.club/publishing-infrastructure/zcash/publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
-  * Monthly reports (this page): [https://zkav.club/publishing-infrastructure/zcash/reports](https://zkav.club/publishing-infrastructure/zcash/reports)
-* Refactored the hub page for readability (quick view + jump links) and upgraded Phase 5 into an operational tracker (cadence and refreshed targets).
-* Clarified privacy posture throughout (why PeerTube, no third-party embeds on instance pages, and privacy notes in moderation/report handling).
-
-**Milestone progress (pre-launch)**
-
-* Decisions made:
-
-  * Default publishing visibility: unlisted until approved, then public.
-  * Reports are maintained as one rolling page (not one page per month).
-  * Embed policy (MVP): no third-party video embeds on instance pages by default; PeerTube-hosted videos may be embedded elsewhere.
-* Infra/provisioning progress: Not started (pre-launch).
-* Workflow/policy progress:
-
-  * Moderation policy published and corrected after a minor formatting issue on the live page.
-  * Publishing workflow rewritten in plain language; added metadata examples, approval checklist, and corrections tiers.
-* Testing completed: N/A (pre-launch).
-* Blockers / risks:
-
-  * Content + usage assumptions still pending (target publish date on hub: 2026-02-28).
-
-**New uploads (count + links)**
-
-* N/A (pre-launch)
-
-**Ops notes**
-
-* Availability/uptime incidents: N/A (pre-launch)
-* Backups status (last successful restore test date): N/A (pre-launch)
-* Updates applied (PeerTube version, OS updates): N/A (pre-launch)
-
-**Moderation notes**
-
-* Reports received: N/A (pre-launch)
-* Actions taken: N/A (pre-launch)
-* Federation changes (date + action + reason): N/A (pre-launch)
-
-**Costs**
-
-* Hosting: $0 (pre-launch)
-* Storage: $0 (pre-launch)
-* Bandwidth: $0 (pre-launch)
-* Other: $0 (pre-launch)
-
-**Admin time**
-
-* Hours (estimate): ~8 hours (one full day: hub page revisions + companion docs + tracker/report structure)
-* Main time sinks: hub page revisions, companion doc drafting, coordination meetings, and tracker/report structure
-
-**Storage growth**
-
-* GB/month: N/A (pre-launch)
-
-**Risks / watch items**
-
-* If assumptions slip past 2026-02-28, provisioning and sizing decisions may slip.
-
-**Next month focus**
-
-* Publish content + usage assumptions.
-* Start provisioning (domain/DNS, VPS, TLS, SMTP) and begin install.
-* Begin pilot workflow with 5–10 test uploads (unlisted) once the instance is live.
-
----
-
-### 2026-03
-
-**Project status (pre-launch)**
-
-* Phase 5 tracker link: [https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3](https://zkav.club/publishing-infrastructure/zcash/#mvp-tracking-milestone-3)
-* Summary:
+* Current system state: /publishing-infrastructure/zcash/
+* Summary: Published the project hub (Milestone 1)
 
 ### Highlights
 
-**Milestone progress (pre-launch)**
+* Published PeerTube for Zcash Decision + Implementation Plan
+* Defined MVP model: invite-only, trusted uploaders, approval-first publishing
+
+### Milestone progress
 
 * Decisions made:
-* Infra/provisioning progress:
-* Workflow/policy progress:
-* Testing completed:
-* Blockers / risks:
+  * Confirmed PeerTube as deployment target
+  * Defined moderation baseline and curated federation
+  * Defined initial channel ownership model
+* Infrastructure: Not started
+* Workflow/policy: Plan published
+* Testing: N/A (pre-launch)
+* Blockers:
+  * Content and usage assumptions not yet defined
 
-**New uploads (count + links)**
+### Operations
+
+* Uploads: N/A (pre-launch)
+* Uptime/incidents: N/A (pre-launch)
+* Backups: N/A (pre-launch)
+* Updates: N/A (pre-launch)
+
+### Moderation
+
+* Reports: N/A (pre-launch)
+* Actions: N/A (pre-launch)
+* Federation changes: N/A (pre-launch)
+
+### Costs
+
+* Hosting: $0
+* Storage: $0
+* Bandwidth: $0
+* Other: $0
+
+### Admin time
+
+* ~8 hours (research, design, documentation)
+
+### Storage
 
 * N/A (pre-launch)
 
-**Ops notes**
+### Risks
 
-* Availability/uptime incidents: N/A (pre-launch)
-* Backups status (last successful restore test date): N/A (pre-launch)
-* Updates applied (PeerTube version, OS updates): N/A (pre-launch)
+* Delayed assumptions may delay provisioning
 
-**Moderation notes**
+### Next focus
 
-* Reports received: N/A (pre-launch)
-* Actions taken: N/A (pre-launch)
-* Federation changes (date + action + reason): N/A (pre-launch)
+* Publish usage assumptions
+* Begin provisioning
+* Prepare pilot uploads
 
-**Costs**
+---
 
-* Hosting:
-* Storage:
-* Bandwidth:
-* Other:
+## 2026-02
 
-**Admin time**
+### Project status (pre-launch)
 
-* Hours (estimate):
-* Main time sinks:
+* Current system state: /publishing-infrastructure/zcash/
+* Summary: Built operational documentation and tracker
 
-**Storage growth**
+### Highlights
 
-* GB/month: N/A (pre-launch)
+* Published moderation policy, publishing workflow, and reports page
+* Refactored hub into operational tracker
+* Clarified privacy posture and embed policy
 
-### Risks / watch items
+### Milestone progress
 
-### Next month focus
+* Decisions made:
+  * Approval-first publishing
+  * Rolling reports model
+  * No third-party embeds on instance pages
+* Infrastructure: Not started
+* Workflow/policy: Completed and published
+* Testing: N/A (pre-launch)
+* Blockers:
+  * Usage assumptions pending
+
+### Operations
+
+* Uploads: N/A (pre-launch)
+* Uptime/incidents: N/A (pre-launch)
+* Backups: N/A (pre-launch)
+* Updates: N/A (pre-launch)
+
+### Moderation
+
+* Reports: N/A (pre-launch)
+* Actions: N/A (pre-launch)
+* Federation changes: N/A (pre-launch)
+
+### Costs
+
+* Hosting: $0
+* Storage: $0
+* Bandwidth: $0
+* Other: $0
+
+### Admin time
+
+* ~8 hours (documentation, coordination, structure)
+
+### Storage
+
+* N/A (pre-launch)
+
+### Risks
+
+* Delay in assumptions may delay provisioning
+
+### Next focus
+
+* Publish usage assumptions
+* Begin provisioning and install
+* Start pilot uploads once live
+
+---
+
+## 2026-03
+
+### Project status (pre-launch)
+
+* Current system state: /publishing-infrastructure/zcash/
+* Summary: Began infrastructure build for `watchz.cash` and moved the project from planning into active deployment.
+
+### Highlights
+
+* Provisioned VPS (Njalla) and completed initial server hardening
+* Set up object storage (Wasabi) for media
+* Aligned hub, moderation, and publishing pages into a consistent system
+* Defined and began executing the deployment plan toward invite-only alpha
+
+### Milestone progress
+
+* Decisions made:
+  * Storage architecture: local app + DB/cache, media on S3-compatible storage (Wasabi)
+  * Deployment path: Docker Compose on single VPS (MVP)
+* Infrastructure:
+  * VPS provisioned and secured (firewall, SSH hardening)
+  * Wasabi bucket configured and ready
+  * Core services setup started (ZFS, Postgres, Redis, reverse proxy in progress)
+* Workflow/policy:
+  * Publishing workflow finalized for MVP (invite-only, trusted uploaders, approval-first)
+  * Moderation policy aligned with hub and publishing pages
+* Testing:
+  * No end-to-end tests yet (awaiting PeerTube install)
+* Blockers:
+  * None blocking; remaining work is execution (core services → PeerTube install)
+
+### Operations
+
+* Uploads: N/A (pre-launch)
+* Uptime/incidents: N/A (pre-launch)
+* Backups: Not yet configured
+* Updates: Base system updates applied during server setup
+
+### Moderation
+
+* Reports: N/A (pre-launch)
+* Actions: N/A (pre-launch)
+* Federation changes: N/A (pre-launch)
+
+### Costs
+
+* Hosting: VPS active (monthly cost incurred)
+* Storage: Wasabi active (minimal usage)
+* Bandwidth: negligible (pre-launch)
+* Other: $0
+
+### Admin time
+
+* ~12–16 hours (provisioning, storage setup, system alignment, documentation)
+* Main time sinks: server setup and hardening, storage configuration, cross-page documentation alignment
+
+### Storage
+
+* N/A (pre-launch; no media uploaded yet)
+
+### Risks
+
+* Configuration errors during initial service setup (DB, proxy, storage integration)
+* First end-to-end upload/transcode may reveal performance or config issues
+
+### Next focus
+
+* Complete core services (ZFS, Postgres, Redis, proxy)
+* Install and configure PeerTube
+* Connect Wasabi and validate upload → storage → playback flow
+* Run first test uploads and validate workflow
+
+---
+
+## Notes
+
+This page is a living document and will be updated as the project progresses.
+
+Updates reflect changes in infrastructure, workflow, moderation, and costs.
+
+For current system state, see:
+
+* [Project hub](/publishing-infrastructure/zcash/)
+* [How we publish](/publishing-infrastructure/zcash/publishing)
+* [Moderation policy](/publishing-infrastructure/zcash/moderation)
