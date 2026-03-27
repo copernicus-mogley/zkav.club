@@ -2,7 +2,7 @@
 
 ### Purpose
 
-This PeerTube instance exists to provide a privacy-respecting, community-run home for Zcash ecosystem video.
+This PeerTube instance exists to provide a privacy-respecting, community-run home for Zcash ecosystem video on `watchz.cash`.
 
 **Status:** Applies to the MVP (invite-only alpha, April 2026)
 
@@ -35,15 +35,16 @@ Moderation is designed to be predictable, minimal, and aligned with the scope of
 
 ### Account access (MVP)
 
-* Registration is invite-only.
-* Uploading is limited to a trusted uploader list.
+* Registration is invite-only
+* Uploading is limited to a trusted uploader list
+* Viewers do not need an account to watch public videos
 
 ---
 
 ### Publishing workflow and visibility (MVP)
 
-* New uploads are unlisted until approved.
-* A video is "published" when it is public and meets the metadata minimums.
+* New uploads are unlisted until approved (approval-first model)
+* A video is "published" when it is public and meets the metadata minimums
 
 ---
 
@@ -127,6 +128,8 @@ The following categories may be handled with faster or more restrictive actions 
 
 ### Federation policy (MVP)
 
+Federation follows a curated allow/block model aligned with moderation capacity and scope.
+
 * Federation is curated
 * Instances that routinely distribute spam, harassment, or policy-violating content may be blocked or unfollowed
 * Federation decisions are logged for internal accountability
@@ -141,7 +144,7 @@ What “curated” means:
 
 ### Transparency
 
-This policy is part of a broader public documentation set for the project.
+This policy is part of a broader public documentation set for the project and aligns with the project hub and publishing workflow.
 
 We publish:
 
@@ -153,13 +156,13 @@ We publish:
 
 ### Policy changes
 
-This policy will evolve as the instance grows.
+This policy will evolve as the instance grows and as real usage informs moderation needs.
 
 ---
 
 ## Notes
 
-This policy is a living document and may evolve as the instance grows and real usage informs moderation needs.
+This policy is a living document and will be updated as the project progresses.
 
 Updates will be reflected in:
 
