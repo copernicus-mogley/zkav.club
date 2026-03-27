@@ -252,9 +252,7 @@ f1b2cupst4qnxyhcnpvizn4pcbb7id7juearbxsrq
 
 Zk Av Club runs because many people contribute time, knowledge, space, and trust.
 
-Special thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026.
-
-Read the [proposal and discussion thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
+Special thanks to [Zcash Community Grants](https://zcashcommunitygrants.org/) for supporting Zk Av Club in 2026. Read the [proposal and discussion thread](https://forum.zcashcommunity.com/t/zcash-community-media-infrastructure-support-zk-av-club-2026/53913).
 
 Thanks also to the event organizers, facilitators, creators, and community members who make the recordings possible.
 
