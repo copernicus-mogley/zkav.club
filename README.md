@@ -62,25 +62,8 @@ We help communities build media homes that last.
 
 Zk Av Club runs on small networks of people who help recordings survive beyond the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
 
-Right now we’re recruiting two coordinators to run the archive.
-
 [Explore all opportunities](/opportunities/)
 
-#### The Archivist — currently recruiting
-
-Preserve recordings with durable metadata so they remain usable years later.
-
-*For people who enjoy bringing order to messy records.*
-
-➝ [Become an Archivist](/opportunities/archivist/)
-
-#### The Storyteller — currently recruiting
-
-Interpret recordings with titles, context, and descriptions so they remain understandable years later.
-
-*For people who like listening closely and helping others find the thread.*
-
-➝ [Become a Storyteller](/opportunities/storyteller/)
 
 ### Join the Club
 

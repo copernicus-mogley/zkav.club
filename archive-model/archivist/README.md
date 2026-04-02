@@ -1,13 +1,5 @@
 ## Archivist Practice
 
-**Archivist wanted.** If you’re someone who likes organizing data and ensuring important work doesn’t get lost, this role is for you.
-
-→ [Read the details and apply today!](/opportunities/archivist/)
-
----
-
-### What the Archivist Does
-
 The Archivist helps keep the [Zk Av Club Recording Station](https://zkav.club/recording-station) archive consistent, searchable, and usable across platforms like [Internet Archive](https://archive.org/) and our public metadata repository.
 
 They:

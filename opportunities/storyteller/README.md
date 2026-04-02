@@ -2,6 +2,12 @@
 
 ⟵ [Back to Opportunities](/opportunities/)
 
+Applications for The Storyteller are now **CLOSED** and we are moving into the next phase: trials.
+
+Watch your inboxes, applicants. We’ll be in touch. 
+
+---
+
 Storytellers ultimately work for people who will discover these recordings years from now.
 
 Good archive writing prioritizes clarity, context, and future discoverability.
@@ -40,12 +46,10 @@ Clear writing, comfort working from transcripts, and a good sense for what conte
 
 ---
 
-**Interested in this role?**
+### Want to contribute?
 
-Applications start with a short form. If there’s a potential fit, we’ll follow up with a small trial task so we can see how you approach real recordings.
+If any of this resonates with you, there are ways to [get involved](/#join-the-club).
 
-The application takes about 10–15 minutes.
+We’re always looking for people who care about documentation, transcription, translation, audio/video editing, and more.
 
-If this sounds like your kind of work, we’d love to hear from you.
-
-➝ [Apply for the Storyteller role](https://tally.so/r/VLllOy)
+→ [See Opportunities](/opportunities/)

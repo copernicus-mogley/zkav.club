@@ -2,6 +2,12 @@
 
 ⟵ [Back to Opportunities](/opportunities/)
 
+Applications for The Archivist are now **CLOSED** and we are moving into the next phase: trials.
+
+Watch your inboxes, applicants. We’ll be in touch. 
+
+---
+
 The Archivist turns raw recordings into structured, usable archive items.
 
 This role is a good fit for people who enjoy organizing messy information and making sure important things don’t disappear. 
@@ -32,12 +38,10 @@ Want to see how this actually works in practice? Read the [Archivist role in the
 
 ---
 
-**Interested in this role?**
+### Want to contribute?
 
-Applications start with a short form. If there’s a potential fit, we’ll follow up with a small trial task so we can see how you approach real archive material.
+If any of this resonates with you, there are ways to [get involved](/#join-the-club).
 
-The application takes about 10–15 minutes.
+We’re always looking for people who care about documentation, transcription, translation, audio/video editing, and more.
 
-If this sounds like your kind of work, we’d love to hear from you.
-
-➝ [Apply for the Archivist role](https://tally.so/r/obBa8M)
+→ [See Opportunities](/opportunities/)
