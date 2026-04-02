@@ -12,7 +12,7 @@ Don't see what you're looking for? Tell us. When it makes sense, we can match so
 
 --- 
 
-### Workshop Facilitators
+### Workshop Facilitation
 
 Lead a conversational, learn‑by‑doing workshop.
 
