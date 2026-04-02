@@ -20,7 +20,7 @@ Work appears around events and funding. When something fits your skills, we’ll
 
 We keep scopes straightforward: what the work is, what “done” means, and what it pays. If something like credits or context is missing, we fix it.
 
-*Want in on a skill network?* DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
+**Want in on a skill network?** DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
 * which skill(s) you want to help with (Workshops, Transcription, Event production, Post-production)
 
