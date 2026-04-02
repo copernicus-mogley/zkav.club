@@ -10,7 +10,7 @@ Most gigs are paid per contribution when work is available. Work tends to appear
 
 Don't see what you're looking for? Tell us. When it makes sense, we can match some gigs with learning opportunities.
 
-### How to join the gigs network
+### How to join
 
 To join a network, DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
 
