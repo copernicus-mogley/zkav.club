@@ -24,9 +24,11 @@ To join a network, DM us via the [Join the Club links on the homepage](/#join-th
 
 We’ll review what you send and follow up if there’s a potential fit.
 
-Current skill networks include:
+--- 
 
-### Workshops
+### Skills
+
+#### Workshop Facilitators
 
 Lead a conversational, learn‑by‑doing workshop.
 
@@ -42,7 +44,7 @@ You choose the topic and host the session. We can help with format, livestreamin
 
 **Start here:** [apply to facilitate](https://tally.so/r/A7B0MD). Learn about the program: [Zk Av Club Workshops](/workshops/). Browse: [past sessions](/workshops/past/).
 
-### Transcription (scribes)
+#### Transcription (Scribes)
 
 Help turn recorded conversations into accurate, usable transcripts.
 
@@ -56,7 +58,7 @@ Help turn recorded conversations into accurate, usable transcripts.
 
 The network of scribes is coordinated by the Storyteller.
 
-### Event production
+#### Event production 
 
 Help run the technical side of live recording at events.
 
@@ -68,7 +70,7 @@ Help run the technical side of live recording at events.
 
 * **Livestream producer** — run show flow, cues, and coordination
 
-### Post-production
+#### Post-production
 
 Turn raw recordings into finished media ready to publish.
 
@@ -82,7 +84,7 @@ Turn raw recordings into finished media ready to publish.
 
 * Motion graphics (lower thirds, bumpers, simple packages)
 
-### How participation works
+#### How participation works
 
 A few practical notes:
 
