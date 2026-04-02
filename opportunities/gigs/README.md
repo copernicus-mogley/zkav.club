@@ -10,22 +10,6 @@ Most gigs are paid per contribution when work is available. Work tends to appear
 
 Don't see what you're looking for? Tell us. When it makes sense, we can match some gigs with learning opportunities.
 
----
-
-### How to join
-
-To join a network, DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
-
-* which skill(s) you want to help with
-
-* your timezone + typical availability
-
-* links to past work (or a short description)
-
-* any languages you can work in
-
-We’ll review what you send and follow up if there’s a potential fit.
-
 --- 
 
 ### Workshop Facilitators
@@ -89,6 +73,22 @@ Turn raw recordings into finished media ready to publish.
 * Thumbnails for distribution platforms
 
 * Motion graphics (lower thirds, bumpers, simple packages)
+
+---
+
+### How to join
+
+To join a network, DM us via the [Join the Club links on the homepage](/#join-the-club) and include:
+
+* which skill(s) you want to help with
+
+* your timezone + typical availability
+
+* links to past work (or a short description)
+
+* any languages you can work in
+
+We’ll review what you send and follow up if there’s a potential fit.
 
 --- 
 
