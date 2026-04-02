@@ -46,9 +46,9 @@ The network of scribes is coordinated by the Storyteller.
 
 --- 
 
-### Production 
+### Production (Events)
 
-Help run the technical side of live recording at events.
+Help run the technical side of recording and livestreaming.
 
 **Typical roles**
 
@@ -66,9 +66,9 @@ Turn raw recordings into finished media ready to publish.
 
 **Typical work**
 
-* Long‑form edits (talks or conversations)
+* Long‑form edits (presentations or conversations)
 
-* Short clips for social
+* Short clips for social media
 
 * Thumbnails for distribution platforms
 
