@@ -6,9 +6,9 @@ Zk Av Club keeps small skill networks for people who help turn recordings into u
 
 These networks are how we find people when work appears.
 
-Most gigs are paid per contribution when work is available. Work tends to appear around events and depends on funding, so timing can be irregular.
+Most gigs are paid per contribution when work is available. Work tends to appear around events and depends on funding. When something comes up that fits your skills, we’ll reach out with the scope, timeline, and pay.
 
-When something fits your skills, we’ll reach out with the scope, timeline, and pay.
+Don't see what you're looking for? Tell us. When it makes sense, we can match some gigs with learning opportunities.
 
 ### How to join the gigs network
 
@@ -23,8 +23,6 @@ To join a network, DM us via the [Join the Club links on the homepage](/#join-th
 * any languages you can work in
 
 We’ll review what you send and follow up if there’s a potential fit.
-
-See **How participation works** on the Opportunities page for how to join.
 
 Current skill networks include:
 
@@ -83,3 +81,19 @@ Turn raw recordings into finished media ready to publish.
 * Thumbnails for distribution platforms
 
 * Motion graphics (lower thirds, bumpers, simple packages)
+
+### How participation works
+
+A few practical notes:
+
+* Pay + timing: Gigs are paid in Zcash. Work done in a given month is paid at the start of the following month.
+
+* Where the money comes from: We work across communities and ecosystems. Sometimes the event pays, sometimes a grant or sponsor does. Sometimes we’re working with what we’ve got. If you want to support this work directly, see [Support Zk Av Club](/#support-zk-av-club).
+
+* How stuff gets finished: Coordinators and contributors move items from "recorded" to published, with credits, consent notes, and simple "source of truth" files that evolve over time, to keep the archive consistent.
+
+* What we care about: future usefulness over the algorithm; privacy-first by default (consent, boundaries, no weird surprises); and a bias toward free/open-source and decentralized (p2p) tools, with reality when needed. 
+
+---
+
+[Back to zkav.club](/) · or [Join the Club](/#join-the-club)
