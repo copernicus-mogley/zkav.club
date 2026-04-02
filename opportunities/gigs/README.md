@@ -46,7 +46,7 @@ The network of scribes is coordinated by the Storyteller.
 
 --- 
 
-### Event production 
+### Production 
 
 Help run the technical side of live recording at events.
 
