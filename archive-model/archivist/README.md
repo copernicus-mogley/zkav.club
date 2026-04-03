@@ -36,7 +36,7 @@ Both work on the same archive, in parallel.
 
 Whenever possible, we adhere to this format:
 
-`YYYYMMDD_##_event_topic_source_originalfilename` 
+`zkav_YYYYMMDD_##_event_topic_source_originalfilename` 
 
 * `zkav` = fixed prefix for all Zk Av Club archive items
 * `YYYYMMDD` = recording date (ISO format, no dashes)
