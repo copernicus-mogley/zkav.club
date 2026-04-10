@@ -48,14 +48,6 @@ Recordings return to a shared archive, but they need structure to stay useful. T
 
 ➝ [See how it works](/archive-model/)
 
-### Publishing Infrastructure
-
-Platforms change the rules mid-season. Accounts get flagged. Viewers get tracked.
-
-We help communities build media homes that last.
-
-[Explore Community Publishing Infrastructure](/publishing-infrastructure)
-
 ---
 
 ### Opportunities
