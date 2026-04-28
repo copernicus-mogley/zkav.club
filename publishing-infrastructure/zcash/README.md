@@ -1,52 +1,39 @@
 ## PeerTube for Zcash: Decision + Implementation Plan
 
-**Executive summary (for publication):** Zcash needs its own video infrastructure because the current default requires users to trade privacy for access. Zk Av Club is actively deploying `watchz.cash`, a community-run PeerTube instance for the Zcash ecosystem where viewing and publishing do not depend on surveillance platforms.
+**Executive summary (for publication):** Zcash needs its own video infrastructure because the current default requires users to trade privacy for access. Zk Av Club is deploying [watchz.cash](https://watchz.cash), a community-run PeerTube instance for the Zcash ecosystem where viewing and publishing do not depend on surveillance platforms.
 
-This document defines the MVP scope, hosting approach, federation posture, moderation baseline, and sustainability model, and reflects live infrastructure progress and an active build timeline.
+This document defines the MVP scope, hosting approach, federation posture, moderation baseline, and sustainability model, and reflects live infrastructure progress.
 
 **Target:** Invite-only alpha by April 30, 2026.
 
 ---
 
 **Owner:** Zk Av Club (Lead Organizer)
-
-**Status:** Active (deployment in progress)
-
+**Status:** Active (alpha live, April 2026)
 Infrastructure execution began March 2026.
-
-**Last updated:** 2026-03-27
+**Last updated:** 2026-04-28
 
 ---
 
 ### Current status (quick view)
 
-The project is in an active deployment phase, with infrastructure already underway.
+The project has moved from deployment into working alpha.
 
-*Last infrastructure action: server provisioned and hardened (March 2026)*
+*Last infrastructure action: upload + playback validated; backup + restore completed (April 2026)*
 
 * Public docs: Done
-* Architecture decisions: Done
-* Object storage (Wasabi): Complete
+* Architecture decisions: Done (local-first storage)
+* Object storage (Wasabi): Backups only
 * Server provisioning (Njalla VPS): Complete
 * Server hardening: Complete
-* Core services: In progress
-* PeerTube deployment: Not started
-* Backups + monitoring: Not started
+* Core services (Postgres, Redis, Caddy): Complete
+* PeerTube deployment: Complete (working)
+* Backups: Complete (rclone + cron + restore tested)
+* Monitoring: Not started
 * Seed content prep: In progress
+* Alpha onboarding: In progress (test uploaders)
 
-**Next milestone:** Core services → PeerTube install → working instance
-
----
-
-### 0) Context and deliverable
-
-This page is the canonical public tracker for deploying and operating a Zcash-focused PeerTube instance.
-
-This instance is intended for Zcash ecosystem contributors, educators, and community publishers.
-
-Instance URL: `watchz.cash` (in progress)
-
-Current focus is MVP execution.
+**Next milestone:** Operate alpha → upload Zcon and ZecHub videos → validate workflows → refine moderation + scaling
 
 ---
 
@@ -57,22 +44,22 @@ Current focus is MVP execution.
 1. Provide a stable video home for the Zcash ecosystem
 2. Offer a privacy-respecting alternative to centralized platforms
 3. Establish a repeatable publishing workflow
-4. Define clear moderation and governance
+4. Define moderation and governance
 5. Build a sustainable operating model
 
 #### Scope (MVP)
 
-* One PeerTube instance (`watchz.cash`)
+* One PeerTube instance
 * Trusted uploader model
 * Approval-first publishing
-* Backup and monitoring baseline
+* Backup baseline
 * Initial curated content set
 
 #### Non-goals
 
-* Public open registration
-* Large-scale content migration
-* Complex multi-node infrastructure
+* Fully open publishing
+* Large-scale migration
+* Multi-node infrastructure
 
 ---
 
@@ -80,22 +67,20 @@ Current focus is MVP execution.
 
 #### Hosting
 
-* Provider: Njalla
-* VPS tier: highest available (accepted constraint)
-* OS: Debian 12
-* Filesystem: ZFS
+* Njalla VPS (max tier)
+* Debian 12
+* ZFS
 
-#### Storage
+#### Storage (April 2026 update)
 
-* Object storage: Wasabi (S3-compatible)
-* Local: application + database + cache
-* Remote: video assets
+* **Primary:** Local storage (Njalla)
+* **Backup:** Wasabi (rclone)
 
-Wasabi setup is complete and ready for integration.
+Object storage was tested for delivery and abandoned. System is now **local-first** due to complexity and poor fit for ingest-heavy workflows.
 
 #### Deployment
 
-* Method: Docker Compose
+* Docker Compose
 
 #### Federation
 
@@ -103,7 +88,7 @@ Wasabi setup is complete and ready for integration.
 
 #### Access model
 
-* Invite-only accounts
+* Public registration (interaction only)
 * Trusted uploaders
 * Approval-first workflow
 
@@ -111,130 +96,90 @@ Wasabi setup is complete and ready for integration.
 
 ### 3) Requirements and assumptions
 
-Usage assumptions will be validated through real usage during alpha rather than projected in advance, allowing infrastructure and cost decisions to be based on observed behavior rather than estimates.
+Usage assumptions will be validated through alpha usage rather than pre-estimated.
 
 ---
 
 ### 4) Moderation policy (summary)
 
-MVP baseline:
-
 * Admin and moderator roles
 * Approval-first publishing
 * Curated federation posture
 
-For details read the full [moderation policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
+Workflows are being tested during alpha.
 
 ---
 
 ### 5) Deployment plan (execution overview)
 
-The following phases outline the execution path at a high level; detailed internal runbooks are maintained separately.
-
 #### Phase 1 — Infrastructure (completed)
 
 * Server provisioned and secured
-* Base system hardened and accessible
 
 ---
 
-#### Phase 2 — Core services (in progress)
+#### Phase 2 — Core services (completed)
 
-**Goal:** Establish a stable system foundation
-
-* Configure storage (ZFS)
-* Set up database and cache services
-* Configure reverse proxy and network access
-
-**Exit criteria:**
-
-* Storage is mounted and operational
-* Core services are running and reachable
-* Server responds over HTTP/HTTPS
+* ZFS, PostgreSQL, Redis, Caddy configured
 
 ---
 
-#### Phase 3 — PeerTube deployment
+#### Phase 3 — PeerTube deployment (completed)
 
-**Goal:** Bring the application online
+* PeerTube running at watchz.cash
+* Connected to DB + cache
 
-* Deploy PeerTube
-* Connect to database and cache
-* Configure domain and HTTPS
-* Enable email (SMTP)
-
-**Exit criteria:**
-
-* `watchz.cash` is reachable over HTTPS
-* Admin access works
-* Email functionality is verified
+Note: SMTP not yet configured
 
 ---
 
-#### Phase 4 — Storage integration
+#### Phase 4 — Storage integration (revised)
 
-**Goal:** Move media handling to object storage
-
-* Connect PeerTube to Wasabi
-* Validate upload → storage → playback flow
-* Minimize reliance on local storage
-
-**Exit criteria:**
-
-* Media is stored remotely
-* Playback works reliably
-* End-to-end flow is validated
+* Wasabi → backups only
+* Local storage → playback
 
 ---
 
-#### Phase 5 — Validation
+#### Phase 5 — Validation (completed)
 
-**Goal:** Confirm system reliability
-
-* Upload and process test videos
-* Validate playback across environments
-* Test moderation and admin workflows
-
-**Exit criteria:**
-
-* Core workflows function without errors
-* System is usable without manual intervention
+* Upload → transcode → playback working
+* Resumable uploads configured
+* 480p / 720p / 1080p outputs verified
 
 ---
 
-#### Phase 6 — Invite-only alpha preparation
+#### Phase 6 — Invite-only alpha (active)
 
-**Goal:** Prepare for controlled usage
-
-* Configure backups and monitoring
-* Finalize baseline policies
-* Prepare initial content set
+* Backups active (rclone + cron)
+* Restore tested
+* Public accounts (interaction only)
+* Upload restricted
+* Test uploaders onboarded
+* P2P/WebTorrent disabled
 
 ---
 
 ### 6) MVP milestone (April 30, 2026)
 
-By April 30, `watchz.cash` will be in invite-only alpha with:
+watchz.cash is in **invite-only alpha** with:
 
-#### Technical foundation
+**Technical**
 
-* Working domain and HTTPS
-* PeerTube deployed
-* Database and cache operational
-* Backups and monitoring active
+* Domain + HTTPS
+* PeerTube operational
+* DB + cache running
+* Backups active
 
-#### Product foundation
+**Product**
 
-* Restricted registration
-* Upload limits defined
-* Moderation workflow in place
-* Basic policy pages published
+* Restricted uploads
+* Public interaction enabled
+* Moderation baseline (in testing)
 
-#### Content foundation
+**Content**
 
-* 3 Zcash channels
-* 10–20 initial videos
-* Basic taxonomy and structure
+* Channels created
+* Initial uploads in progress
 
 ---
 
@@ -242,18 +187,14 @@ By April 30, `watchz.cash` will be in invite-only alpha with:
 
 #### March
 
-* Infrastructure setup (completed)
-* Core services in progress
+* Infrastructure setup
 
 #### April
 
-* Complete deployment
-* Validate system
-* Prepare content and policy baseline
-
-#### April 30
-
-* Invite-only alpha milestone
+* Deployment completed
+* Storage model revised
+* Validation completed
+* Alpha launched
 
 ---
 
@@ -263,30 +204,32 @@ By April 30, `watchz.cash` will be in invite-only alpha with:
 
 * Storage
 * Bandwidth
-* Transcoding compute
+* Transcoding
 
 #### Approach
 
-* Start with constrained scope
+* Constrained scope
 * Measure real usage
-* Scale based on observed demand
+* Scale based on demand
 
 ---
 
 ### 9) Notes and updates
 
-This page is a living document and will be updated as the project progresses.
+April marks the transition to a working alpha system.
 
-Key updates will include:
+**Key changes:**
 
-* Changes to deployment status and milestones
-  * [Monthly Reports and Sustainability Notes](/publishing-infrastructure/zcash/reports)
-* Infrastructure or architecture adjustments (reflected in this page)
-* Updates to moderation, publishing, or access policies:
-  * [Moderation Policy](https://zkav.club/publishing-infrastructure/zcash/moderation)
-  * [Publishing](https://zkav.club/publishing-infrastructure/zcash/publishing)
-* Observations from alpha usage (performance, costs, workflows)
+* Storage: object → local-first
+* Backups implemented
+* Pipeline validated
+* Alpha usage began
 
-For questions, feedback, or collaboration inquiries, [contact us](/#join-the-club).
+**Next focus:**
 
-Future updates will be reflected in the “Last updated” field at the top of this page.
+* Upload Zcon + ZecHub content
+* Observe performance and costs
+* Refine moderation and workflows
+* Plan scaling strategy
+
+For questions or collaboration: [contact Zk Av Club](https://zkav.club/#join-the-club).
