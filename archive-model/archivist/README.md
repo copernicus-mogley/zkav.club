@@ -32,7 +32,7 @@ The Archivist and Storyteller operate in parallel:
 
 Both work on the same archive, in parallel.
 
-### File naming + metadata
+### File naming and metadata
 
 Whenever possible, we adhere to this format:
 
