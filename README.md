@@ -52,7 +52,7 @@ Recordings return to a shared archive, but they need structure to stay useful. T
 
 ### Opportunities
 
-Zk Av Club runs on small networks of people who help recordings survive beyond the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
+Zk Av Club runs on small networks of people who help recordings survive and spread beyond the event: scribes, editors, workshop facilitators, and more.
 
 [Explore all opportunities](/opportunities/gigs/)
 
