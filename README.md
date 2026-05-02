@@ -14,7 +14,7 @@ Choose a path.
 * [Workshops](/workshops/)
 * [Archive Model](/archive-model/)
 * [Publishing Infrastructure](/publishing-infrastructure/)
-* [Opportunities](/opportunities/)
+* [Opportunities](/opportunities/gigs/)
 * [Join the Club](#join-the-club)
 * [Testimonials](#testimonials)
 * [Partner Communities](#partner-communities)
@@ -54,7 +54,7 @@ Recordings return to a shared archive, but they need structure to stay useful. T
 
 Zk Av Club runs on small networks of people who help recordings survive beyond the event: archivists, storytellers, scribes, editors, workshop facilitators, and more.
 
-[Explore all opportunities](/opportunities/)
+[Explore all opportunities](/opportunities/gigs/)
 
 
 ### Join the Club
