@@ -2,9 +2,7 @@
 
 ⟵ [Back to Opportunities](/opportunities/)
 
-Zk Av Club keeps small skill networks for people who help turn recordings into usable media and archive material.
-
-These networks are how we find people when work appears.
+These skill networks are how we find people when work appears.
 
 Most gigs are paid per contribution when work is available. Work tends to appear around events and depends on funding. When something comes up that fits your skills, we’ll reach out with the scope, timeline, and pay.
 
