@@ -2,22 +2,19 @@
 
 Workshops are conversations, not presentations, where we learn by doing, together.
 
+A good workshop includes real back-and-forth, shared exploration, and useful outcomes such as skills, artifacts, or clear next steps.
+
 Bring questions. Bring half-finished ideas.
 
 **On this page:**
 
-* [Workshops](#what-workshops-are)
+* [Workshops](#host-a-zk-av-club-workshop)
 * [Why facilitate](#why-facilitate)
 * [What fits](#what-kinds-of-workshops-fit)
 * [How it works](#how-it-works)
 * [Past workshops](#past-workshops-examples)
 * [Apply](#apply-to-facilitate-a-workshop)
 
-### What workshops are
-
-A good workshop includes real back-and-forth, shared exploration, and useful outcomes such as skills, artifacts, or clear next steps.
-
-Workshops can be technical or non-technical, beginner-friendly or advanced, and in any language.
 
 ### Why facilitate
 
@@ -25,11 +22,7 @@ Facilitating a workshop is a way to share practical knowledge, improve your teac
 
 ### What kinds of workshops fit
 
-We’re intentionally broad. Bring your craft. Almost anything useful fits.
-
 Workshops can cover many kinds of work: technical topics like tooling or node operation, media production such as recording and livestreaming, community skills like facilitation or governance, or creative experiments and build-with-me sessions.
-
-If it helps people do something real, it probably fits.
 
 ---
 
