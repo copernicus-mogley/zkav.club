@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archivist Practice — Zk Av Club</title>
+  <meta name="description" content="The Archivist helps keep the Zk Av Club Recording Station archive consistent, searchable, and usable across platforms like Internet Archive and our public metadata repository.">
+  <meta name="theme-color" content="#000000">
+  <link rel="icon" href="../../assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img class="logo-mark" src="../../assets/img/logo.svg" alt="" width="38" height="38">
+        <span class="logo-text"><b>Zk Av Club</b><span>Zero-knowledge AV</span></span>
+      </a>
+      <nav class="nav" id="main-nav" aria-label="Main navigation">
+        <a href="../../recording-station/">Recording Station</a>
+        <a href="../../workshops/">Workshops</a>
+        <a href="../../archive-model/" aria-current="page">Archive Model</a>
+        <a href="../../publishing-infrastructure/">Publishing</a>
+        <a href="../../opportunities/">Opportunities</a>
+        <a href="../../index.html#support-zk-av-club">Support</a>
+      </nav>
+      <div class="header-cta"><a class="btn btn--sm" href="../../index.html#join-the-club">Join the club</a></div>
+      <button class="menu-toggle" type="button" aria-label="Toggle menu" aria-expanded="false" aria-controls="main-nav"><span></span></button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="page-hero">
+      <div class="wrap">
+        <p class="eyebrow">Archive Model · Archivist</p>
+        <h1 id="archivist-practice">Archivist Practice</h1>
+        <p class="page-lead">The Archivist helps keep the <a href="https://zkav.club/recording-station">Zk Av Club Recording Station</a> archive consistent, searchable, and usable across platforms like <a href="https://archive.org/">Internet Archive</a> and our public metadata repository.</p>
+      </div>
+    </section>
+
+    <div class="wrap page-body">
+      <article class="prose">
+        <p>They:</p>
+<ul>
+<li>organize and maintain files</li>
+<li>assign stable identifiers</li>
+<li>create consistent metadata</li>
+<li>ensure recordings are easy to find and reuse over time</li>
+</ul>
+<p>The role requires both careful execution and independent judgment. Archivists regularly work with incomplete inputs and bring clarity and structure to them.</p>
+<p><strong>For each recording, the Archivist:</strong></p>
+<ol>
+<li>assigns a stable ID</li>
+<li>organizes and renames files</li>
+<li>creates a YAML metadata file</li>
+<li>applies consistent naming and vocabulary</li>
+<li>ensures the item is complete and usable</li>
+</ol>
+<p>Without structure, recordings are hard to use.</p>
+<p>With structure, they become part of a shared, growing body of knowledge.</p>
+<h2 id="working-alongside-the-storyteller">Working Alongside the Storyteller</h2>
+<p>The Archivist and Storyteller operate in parallel:</p>
+<ul>
+<li>Archivist → structure and consistency</li>
+<li>Storyteller → narrative and discoverability</li>
+</ul>
+<p>Both work on the same archive, in parallel.</p>
+<h2 id="file-naming-and-metadata">File naming and metadata</h2>
+
+<div class="file-format">
+  <div class="file-head"><span>File naming standard</span><span>zkav_YYYYMMDD_##_event_topic_source_originalfilename</span></div>
+  <pre><code>zkav_20251004_10_darkprague_harryhalpin_handicam_C0014.MP4
+zkav_20251121_05_devconnect_proofofvibes_rodecaster1_Recording90.wav</code></pre>
+</div>
+<p>Whenever possible, we adhere to this format:</p>
+<p><code>zkav_YYYYMMDD_##_event_topic_source_originalfilename</code> </p>
+<ul>
+<li><code>zkav</code> = fixed prefix for all Zk Av Club archive items</li>
+<li><code>YYYYMMDD</code> = recording date (ISO format, no dashes)</li>
+<li><code>##</code> = recording index for that day (zero-padded: 01, 02, 03…)</li>
+<li><code>event</code> = event slug (lowercase, no spaces)</li>
+<li><code>topic</code> = short topic slug for the recording (lowercase, no spaces)</li>
+<li><code>source</code> = identifier for the recording device (examples: iphone15, bm4k, handycam, zoomh6).</li>
+<li><code>originalfilename</code> remains to help track the file back to the source if necessary.</li>
+</ul>
+<p>Keep components short and filesystem-safe (avoid special characters).</p>
+<p>Examples:</p>
+<ul>
+<li><code>zkav_20251004_10_darkprague_harryhalpin_handicam_C0014.MP4</code> </li>
+<li><code>zkav_20251121_05_devconnect_proofofvibes_rodecaster1_Recording90.wav</code></li>
+</ul>
+<h2 id="where-to-next">Where to Next</h2>
+<ul>
+<li>Read the <a href="../../archive-model/">Archive Model</a> for the full system</li>
+<li>Explore the <a href="../../archive-model/archivist/faq/">Archivist Practice FAQ</a></li>
+<li>Explore the Storyteller role (coming soon)</li>
+<li>See current <a href="../../opportunities/">opportunities</a> and how to get involved</li>
+</ul>
+
+      </article>
+      <aside class="page-aside" aria-label="On this page">
+        <h2>On this page</h2>
+        <a href="#working-alongside-the-storyteller">Working Alongside the Storyteller</a>
+        <a href="#file-naming-and-metadata">File naming and metadata</a>
+        <a href="#where-to-next">Where to Next</a>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a class="logo" href="../../index.html">
+            <img class="logo-mark" src="../../assets/img/logo.svg" alt="" width="38" height="38">
+            <span class="logo-text"><b>Zk Av Club</b><span>Zero-knowledge AV</span></span>
+          </a>
+          <p>We work with open-source and decentralized tech communities to document themselves without giving up privacy.</p>
+        </div>
+        <div class="footer-col">
+          <p class="footer-heading">Explore</p>
+          <a href="../../recording-station/">Recording Station</a>
+          <a href="../../workshops/">Workshops</a>
+          <a href="../../archive-model/">Archive Model</a>
+          <a href="../../publishing-infrastructure/">Publishing</a>
+          <a href="../../opportunities/">Opportunities</a>
+        </div>
+        <div class="footer-col">
+          <p class="footer-heading">Connect</p>
+          <a href="https://x.com/ZkAv_Club" target="_blank" rel="noopener">X / Twitter</a>
+          <a href="https://bsky.app/profile/zkavclub.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+          <a href="https://lu.ma/zkav" target="_blank" rel="noopener">Calendar</a>
+          <a href="https://www.youtube.com/channel/UC8AiOGf0EptBSdd0Eg0DJDA" target="_blank" rel="noopener">YouTube</a>
+          <a href="https://github.com/copernicus-mogley/zkav.club" target="_blank" rel="noopener">GitHub</a>
+        </div>
+        <div class="footer-col">
+          <p class="footer-heading">Support</p>
+          <a href="../../index.html#support-zk-av-club">Donate</a>
+          <a href="../../index.html#support-zk-av-club">Zcash</a>
+          <a href="../../index.html#support-zk-av-club">Ethereum</a>
+          <a href="../../index.html#support-zk-av-club">Bitcoin</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year>2026</span> Zk Av Club · Built in the open</span>
+        <span class="footer-langs"><a href="../../index.html">EN</a> · <a href="../../ES/">ES</a> · <a href="../../DE/">DE</a></span>
+        <span><a href="https://github.com/copernicus-mogley/zkav.club" target="_blank" rel="noopener">Source on GitHub</a> · <a class="to-top" href="#main">Back to top ↑</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" role="status" aria-live="polite"></div>
+  <script src="../../assets/js/main.js"></script>
+</body>
+</html>

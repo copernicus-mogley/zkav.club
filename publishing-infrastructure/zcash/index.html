@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PeerTube for Zcash: Decision + Implementation Plan — Zk Av Club</title>
+  <meta name="description" content="PeerTube for Zcash: Decision + Implementation Plan">
+  <meta name="theme-color" content="#000000">
+  <link rel="icon" href="../../assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img class="logo-mark" src="../../assets/img/logo.svg" alt="" width="38" height="38">
+        <span class="logo-text"><b>Zk Av Club</b><span>Zero-knowledge AV</span></span>
+      </a>
+      <nav class="nav" id="main-nav" aria-label="Main navigation">
+        <a href="../../recording-station/">Recording Station</a>
+        <a href="../../workshops/">Workshops</a>
+        <a href="../../archive-model/">Archive Model</a>
+        <a href="../../publishing-infrastructure/" aria-current="page">Publishing</a>
+        <a href="../../opportunities/">Opportunities</a>
+        <a href="../../index.html#support-zk-av-club">Support</a>
+      </nav>
+      <div class="header-cta"><a class="btn btn--sm" href="../../index.html#join-the-club">Join the club</a></div>
+      <button class="menu-toggle" type="button" aria-label="Toggle menu" aria-expanded="false" aria-controls="main-nav"><span></span></button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="page-hero page-hero--long">
+      <div class="wrap">
+        <p class="eyebrow">Publishing · PeerTube for Zcash</p>
+        <h1 id="peertube-for-zcash-decision-implementation-plan">PeerTube for Zcash: Decision + Implementation Plan</h1>
+        
+      </div>
+    </section>
+
+    <div class="wrap page-body">
+      <article class="prose">
+        <p><strong>Executive summary (for publication):</strong> Zcash needs its own video infrastructure because the current default requires users to trade privacy for access. Zk Av Club is deploying <a href="https://watchz.cash">watchz.cash</a>, a community-run PeerTube instance for the Zcash ecosystem where viewing and publishing do not depend on surveillance platforms.</p>
+<p>This document defines the MVP scope, hosting approach, federation posture, moderation baseline, and sustainability model, and reflects live infrastructure progress.</p>
+<p><strong>Target:</strong> Invite-only alpha by April 30, 2026.</p>
+<hr>
+<p><strong>Owner:</strong> Zk Av Club (Lead Organizer)
+<strong>Status:</strong> Active (alpha live, April 2026)
+Infrastructure execution began March 2026.
+<strong>Last updated:</strong> 2026-04-28</p>
+<hr>
+<h2 id="current-status-quick-view">Current status (quick view)</h2>
+<p>The project has moved from deployment into working alpha.</p>
+<p><em>Last infrastructure action: upload + playback validated; backup + restore completed (April 2026)</em></p>
+<ul>
+<li>Public docs: Done</li>
+<li>Architecture decisions: Done (local-first storage)</li>
+<li>Object storage (Wasabi): Backups only</li>
+<li>Server provisioning (Njalla VPS): Complete</li>
+<li>Server hardening: Complete</li>
+<li>Core services (Postgres, Redis, Caddy): Complete</li>
+<li>PeerTube deployment: Complete (working)</li>
+<li>Backups: Complete (rclone + cron + restore tested)</li>
+<li>Monitoring: Not started</li>
+<li>Seed content prep: In progress</li>
+<li>Alpha onboarding: In progress (test uploaders)</li>
+</ul>
+<p><strong>Next milestone:</strong> Operate alpha → upload Zcon and ZecHub videos → validate workflows → refine moderation + scaling</p>
+<hr>
+<h2 id="1-goals-scope-and-non-goals">1) Goals, scope, and non-goals</h2>
+<h3 id="goals">Goals</h3>
+<ol>
+<li>Provide a stable video home for the Zcash ecosystem</li>
+<li>Offer a privacy-respecting alternative to centralized platforms</li>
+<li>Establish a repeatable publishing workflow</li>
+<li>Define moderation and governance</li>
+<li>Build a sustainable operating model</li>
+</ol>
+<h3 id="scope-mvp">Scope (MVP)</h3>
+<ul>
+<li>One PeerTube instance</li>
+<li>Trusted uploader model</li>
+<li>Approval-first publishing</li>
+<li>Backup baseline</li>
+<li>Initial curated content set</li>
+</ul>
+<h3 id="non-goals">Non-goals</h3>
+<ul>
+<li>Fully open publishing</li>
+<li>Large-scale migration</li>
+<li>Multi-node infrastructure</li>
+</ul>
+<hr>
+<h2 id="2-key-decisions-mvp">2) Key decisions (MVP)</h2>
+<h3 id="hosting">Hosting</h3>
+<ul>
+<li>Njalla VPS (max tier)</li>
+<li>Debian 12</li>
+<li>ZFS</li>
+</ul>
+<h3 id="storage-april-2026-update">Storage (April 2026 update)</h3>
+<ul>
+<li><strong>Primary:</strong> Local storage (Njalla)</li>
+<li><strong>Backup:</strong> Wasabi (rclone)</li>
+</ul>
+<p>Object storage was tested for delivery and abandoned. System is now <strong>local-first</strong> due to complexity and poor fit for ingest-heavy workflows.</p>
+<h3 id="deployment">Deployment</h3>
+<ul>
+<li>Docker Compose</li>
+</ul>
+<h3 id="federation">Federation</h3>
+<ul>
+<li>Curated allow/block model</li>
+</ul>
+<h3 id="access-model">Access model</h3>
+<ul>
+<li>Public registration (interaction only)</li>
+<li>Trusted uploaders</li>
+<li>Approval-first workflow</li>
+</ul>
+<hr>
+<h2 id="3-requirements-and-assumptions">3) Requirements and assumptions</h2>
+<p>Usage assumptions will be validated through alpha usage rather than pre-estimated.</p>
+<hr>
+<h2 id="4-moderation-policy-summary">4) Moderation policy (summary)</h2>
+<ul>
+<li>Admin and moderator roles</li>
+<li>Approval-first publishing</li>
+<li>Curated federation posture</li>
+</ul>
+<p>Workflows are being tested during alpha.</p>
+<hr>
+<h2 id="5-deployment-plan-execution-overview">5) Deployment plan (execution overview)</h2>
+<h3 id="phase-1-infrastructure-completed">Phase 1 — Infrastructure (completed)</h3>
+<ul>
+<li>Server provisioned and secured</li>
+</ul>
+<hr>
+<h3 id="phase-2-core-services-completed">Phase 2 — Core services (completed)</h3>
+<ul>
+<li>ZFS, PostgreSQL, Redis, Caddy configured</li>
+</ul>
+<hr>
+<h3 id="phase-3-peertube-deployment-completed">Phase 3 — PeerTube deployment (completed)</h3>
+<ul>
+<li>PeerTube running at watchz.cash</li>
+<li>Connected to DB + cache</li>
+</ul>
+<p>Note: SMTP not yet configured</p>
+<hr>
+<h3 id="phase-4-storage-integration-revised">Phase 4 — Storage integration (revised)</h3>
+<ul>
+<li>Wasabi → backups only</li>
+<li>Local storage → playback</li>
+</ul>
+<hr>
+<h3 id="phase-5-validation-completed">Phase 5 — Validation (completed)</h3>
+<ul>
+<li>Upload → transcode → playback working</li>
+<li>Resumable uploads configured</li>
+<li>480p / 720p / 1080p outputs verified</li>
+</ul>
+<hr>
+<h3 id="phase-6-invite-only-alpha-active">Phase 6 — Invite-only alpha (active)</h3>
+<ul>
+<li>Backups active (rclone + cron)</li>
+<li>Restore tested</li>
+<li>Public accounts (interaction only)</li>
+<li>Upload restricted</li>
+<li>Test uploaders onboarded</li>
+<li>P2P/WebTorrent disabled</li>
+</ul>
+<hr>
+<h2 id="6-mvp-milestone-april-30-2026">6) MVP milestone (April 30, 2026)</h2>
+<p>watchz.cash is in <strong>invite-only alpha</strong> with:</p>
+<p><strong>Technical</strong></p>
+<ul>
+<li>Domain + HTTPS</li>
+<li>PeerTube operational</li>
+<li>DB + cache running</li>
+<li>Backups active</li>
+</ul>
+<p><strong>Product</strong></p>
+<ul>
+<li>Restricted uploads</li>
+<li>Public interaction enabled</li>
+<li>Moderation baseline (in testing)</li>
+</ul>
+<p><strong>Content</strong></p>
+<ul>
+<li>Channels created</li>
+<li>Initial uploads in progress</li>
+</ul>
+<hr>
+<h2 id="7-timeline">7) Timeline</h2>
+<h3 id="march">March</h3>
+<ul>
+<li>Infrastructure setup</li>
+</ul>
+<h3 id="april">April</h3>
+<ul>
+<li>Deployment completed</li>
+<li>Storage model revised</li>
+<li>Validation completed</li>
+<li>Alpha launched</li>
+</ul>
+<hr>
+<h2 id="8-sustainability-notes">8) Sustainability notes</h2>
+<h3 id="cost-drivers">Cost drivers</h3>
+<ul>
+<li>Storage</li>
+<li>Bandwidth</li>
+<li>Transcoding</li>
+</ul>
+<h3 id="approach">Approach</h3>
+<ul>
+<li>Constrained scope</li>
+<li>Measure real usage</li>
+<li>Scale based on demand</li>
+</ul>
+<hr>
+<h2 id="9-notes-and-updates">9) Notes and updates</h2>
+<p>April marks the transition to a working alpha system.</p>
+<p><strong>Key changes:</strong></p>
+<ul>
+<li>Storage: object → local-first</li>
+<li>Backups implemented</li>
+<li>Pipeline validated</li>
+<li>Alpha usage began</li>
+</ul>
+<p><strong>Next focus:</strong></p>
+<ul>
+<li>Upload Zcon + ZecHub content</li>
+<li>Observe performance and costs</li>
+<li>Refine moderation and workflows</li>
+<li>Plan scaling strategy</li>
+</ul>
+<p>For questions or collaboration: <a href="../../index.html#join-the-club">contact Zk Av Club</a>.</p>
+
+      </article>
+      <aside class="page-aside" aria-label="On this page">
+        <h2>On this page</h2>
+        <a href="#current-status-quick-view">Current status (quick view)</a>
+        <a href="#1-goals-scope-and-non-goals">1) Goals, scope, and non-goals</a>
+        <a href="#2-key-decisions-mvp">2) Key decisions (MVP)</a>
+        <a href="#3-requirements-and-assumptions">3) Requirements and assumptions</a>
+        <a href="#4-moderation-policy-summary">4) Moderation policy (summary)</a>
+        <a href="#5-deployment-plan-execution-overview">5) Deployment plan (execution overview)</a>
+        <a href="#6-mvp-milestone-april-30-2026">6) MVP milestone (April 30, 2026)</a>
+        <a href="#7-timeline">7) Timeline</a>
+        <a href="#8-sustainability-notes">8) Sustainability notes</a>
+        <a href="#9-notes-and-updates">9) Notes and updates</a>
+        <a href="#goals" class="is-sub">Goals</a>
+        <a href="#scope-mvp" class="is-sub">Scope (MVP)</a>
+        <a href="#non-goals" class="is-sub">Non-goals</a>
+        <a href="#hosting" class="is-sub">Hosting</a>
+        <a href="#storage-april-2026-update" class="is-sub">Storage (April 2026 update)</a>
+        <a href="#deployment" class="is-sub">Deployment</a>
+        <a href="#federation" class="is-sub">Federation</a>
+        <a href="#access-model" class="is-sub">Access model</a>
+        <a href="#phase-1-infrastructure-completed" class="is-sub">Phase 1 — Infrastructure (completed)</a>
+        <a href="#phase-2-core-services-completed" class="is-sub">Phase 2 — Core services (completed)</a>
+        <a href="#phase-3-peertube-deployment-completed" class="is-sub">Phase 3 — PeerTube deployment (completed)</a>
+        <a href="#phase-4-storage-integration-revised" class="is-sub">Phase 4 — Storage integration (revised)</a>
+        <a href="#phase-5-validation-completed" class="is-sub">Phase 5 — Validation (completed)</a>
+        <a href="#phase-6-invite-only-alpha-active" class="is-sub">Phase 6 — Invite-only alpha (active)</a>
+        <a href="#march" class="is-sub">March</a>
+        <a href="#april" class="is-sub">April</a>
+        <a href="#cost-drivers" class="is-sub">Cost drivers</a>
+        <a href="#approach" class="is-sub">Approach</a>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a class="logo" href="../../index.html">
+            <img class="logo-mark" src="../../assets/img/logo.svg" alt="" width="38" height="38">
+            <span class="logo-text"><b>Zk Av Club</b><span>Zero-knowledge AV</span></span>
+          </a>
+          <p>We work with open-source and decentralized tech communities to document themselves without giving up privacy.</p>
+        </div>
+        <div class="footer-col">
+          <p class="footer-heading">Explore</p>
+          <a href="../../recording-station/">Recording Station</a>
+          <a href="../../workshops/">Workshops</a>
+          <a href="../../archive-model/">Archive Model</a>
+          <a href="../../publishing-infrastructure/">Publishing</a>
+          <a href="../../opportunities/">Opportunities</a>
+        </div>
+        <div class="footer-col">
+          <p class="footer-heading">Connect</p>
+          <a href="https://x.com/ZkAv_Club" target="_blank" rel="noopener">X / Twitter</a>
+          <a href="https://bsky.app/profile/zkavclub.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+          <a href="https://lu.ma/zkav" target="_blank" rel="noopener">Calendar</a>
+          <a href="https://www.youtube.com/channel/UC8AiOGf0EptBSdd0Eg0DJDA" target="_blank" rel="noopener">YouTube</a>
+          <a href="https://github.com/copernicus-mogley/zkav.club" target="_blank" rel="noopener">GitHub</a>
+        </div>
+        <div class="footer-col">
+          <p class="footer-heading">Support</p>
+          <a href="../../index.html#support-zk-av-club">Donate</a>
+          <a href="../../index.html#support-zk-av-club">Zcash</a>
+          <a href="../../index.html#support-zk-av-club">Ethereum</a>
+          <a href="../../index.html#support-zk-av-club">Bitcoin</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year>2026</span> Zk Av Club · Built in the open</span>
+        <span class="footer-langs"><a href="../../index.html">EN</a> · <a href="../../ES/">ES</a> · <a href="../../DE/">DE</a></span>
+        <span><a href="https://github.com/copernicus-mogley/zkav.club" target="_blank" rel="noopener">Source on GitHub</a> · <a class="to-top" href="#main">Back to top ↑</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" role="status" aria-live="polite"></div>
+  <script src="../../assets/js/main.js"></script>
+</body>
+</html>
